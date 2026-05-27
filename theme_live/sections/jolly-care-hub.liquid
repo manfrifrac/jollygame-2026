@@ -1,0 +1,179 @@
+{% comment %}
+  Jolly Care Hub - Dashboard tecnica per i membri VIP/Gold
+{% endcomment %}
+
+<style>
+  .jolly-hub-main { padding: 40px 20px; max-width: 1000px; margin: 0 auto; font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; color: #202223; }
+  .jolly-header-card { background: #ffffff; border: 1px solid #dfe3e8; border-radius: 12px; padding: 30px; box-shadow: 0 2px 4px rgba(0,0,0,0.05); margin-bottom: 30px; display: flex; justify-content: space-between; align-items: center; }
+  .jolly-badge { padding: 8px 16px; border-radius: 50px; font-weight: 700; font-size: 14px; text-transform: uppercase; letter-spacing: 0.5px; }
+  .badge-base { background: #f1f2f3; color: #6d7175; }
+  .badge-vip { background: #e4f1fe; color: #006fbb; }
+  .badge-gold { background: #fff5b8; color: #8a6116; border: 1px solid #ffd700; }
+  
+  .jolly-grid { display: grid; grid-template-columns: 1fr 350px; gap: 30px; }
+  @media (max-width: 768px) { .jolly-grid { grid-template-columns: 1fr; } }
+  
+  .jolly-card { background: white; border: 1px solid #dfe3e8; border-radius: 12px; padding: 25px; box-shadow: 0 1px 3px rgba(0,0,0,0.05); }
+  .jolly-card h3 { margin-top: 0; font-size: 18px; margin-bottom: 20px; border-bottom: 1px solid #f1f2f3; padding-bottom: 10px; }
+  
+  .jolly-field { margin-bottom: 20px; }
+  .jolly-field label { display: block; font-size: 14px; font-weight: 600; margin-bottom: 8px; color: #454f5b; }
+  .jolly-input, .jolly-select { width: 100%; padding: 12px; border: 1px solid #babfc3; border-radius: 8px; font-size: 16px; transition: border-color 0.2s; }
+  .jolly-input:focus { border-color: #202223; outline: none; }
+  
+  .jolly-btn-save { background: #202223; color: white; border: none; width: 100%; padding: 14px; border-radius: 8px; font-weight: 700; font-size: 16px; cursor: pointer; transition: background 0.2s; margin-top: 10px; }
+  .jolly-btn-save:hover { background: #454f5b; }
+  .jolly-btn-save:disabled { background: #babfc3; cursor: not-allowed; }
+
+  .jolly-status { font-size: 12px; color: #6d7175; text-align: center; margin-top: 15px; }
+  
+  .jolly-help-box { background: #f6f6f7; border-radius: 8px; padding: 15px; margin-top: 15px; }
+  .help-link { display: flex; align-items: center; text-decoration: none; color: #202223; font-weight: 600; margin-bottom: 10px; padding: 10px; background: white; border: 1px solid #dfe3e8; border-radius: 6px; }
+  .help-link:hover { background: #f9fafb; }
+</style>
+
+<div class="jolly-hub-main">
+  <!-- HEADER -->
+  <div class="jolly-header-card">
+    <div>
+      <h2 style="margin:0;">Il tuo Jolly Hub</h2>
+      <p style="margin:5px 0 0; color: #6d7175;">Gestione tecnica piscina per <strong>{{ customer.name }}</strong></p>
+    </div>
+    <div id="hub-role-badge" class="jolly-badge badge-base">Caricamento...</div>
+  </div>
+
+  <div class="jolly-grid">
+    <!-- COLONNA SINISTRA: DATI -->
+    <div class="jolly-card">
+      <h3>Configurazione Tecnica</h3>
+      
+      <div class="jolly-field">
+        <label>Volume d'acqua totale (m³)</label>
+        <input type="number" id="hub-vol" class="jolly-input" placeholder="Es: 75">
+      </div>
+
+      <div class="jolly-field">
+        <label>Tipo di Filtrazione</label>
+        <select id="hub-fil" class="jolly-select">
+          <option value="sabbia">Filtro a Sabbia</option>
+          <option value="vetro">Filtro a Vetro</option>
+          <option value="cartuccia">Filtro a Cartuccia</option>
+        </select>
+      </div>
+
+      <div class="jolly-field">
+        <label>Modello Pompa di Circolazione</label>
+        <input type="text" id="hub-pmp" class="jolly-input" placeholder="Es: Hayward Super Pump">
+      </div>
+
+      <button id="hub-save-btn" class="jolly-btn-save">Salva e Sincronizza</button>
+      <p id="hub-sync-status" class="jolly-status">Sincronizzazione con il database Jolly Care...</p>
+    </div>
+
+    <!-- COLONNA DESTRA: ASSISTENZA -->
+    <div>
+      <div class="jolly-card">
+        <h3>Supporto Rapido</h3>
+        <p style="font-size: 14px; line-height: 1.5;">Come membro del programma Jolly Care, hai priorità su ogni intervento.</p>
+        
+        <div class="jolly-help-box">
+          <a href="/pages/ticket-assistenza" class="help-link">
+            <span style="margin-right: 10px;">🎫</span> Apri Segnalazione
+          </a>
+          <a href="https://wa.me/393281234567" target="_blank" class="help-link" style="border-color: #25D366; color: #25D366;">
+            <span style="margin-right: 10px;">💬</span> SOS WhatsApp
+          </a>
+        </div>
+        
+        <p style="font-size: 12px; margin-top: 15px; color: #919eab;">I tempi di risposta per il tuo livello sono entro 4 ore lavorative.</p>
+      </div>
+    </div>
+  </div>
+</div>
+
+<script>
+  (function() {
+    const cid = "{{ customer.id }}";
+    if (!cid) {
+      console.log("Utente non loggato");
+      return;
+    }
+
+    const API_BASE = "https://trains-preventing-programs-vic.trycloudflare.com/public";
+    const cleanId = cid.split('/').pop();
+
+    const badge = document.getElementById('hub-role-badge');
+    const volInput = document.getElementById('hub-vol');
+    const filSelect = document.getElementById('hub-fil');
+    const pmpInput = document.getElementById('hub-pmp');
+    const saveBtn = document.getElementById('hub-save-btn');
+    const statusMsg = document.getElementById('hub-sync-status');
+
+    // 1. CARICAMENTO DATI
+    fetch(`${API_BASE}/customer-data/${cleanId}`)
+      .then(res => res.json())
+      .then(data => {
+        // Ruolo e Badge
+        const role = String(data.role || "Base");
+        badge.innerText = `💎 Membro ${role.replace('_', ' ')}`;
+        badge.className = `jolly-badge ${role.toLowerCase().includes('gold') ? 'badge-gold' : (role.toLowerCase().includes('vip') ? 'badge-vip' : 'badge-base')}`;
+        
+        // Dati Tecnici
+        volInput.value = data.volume || "";
+        filSelect.value = data.filter || "sabbia";
+        pmpInput.value = data.pump || "";
+        
+        statusMsg.innerText = "Dati sincronizzati con il server Oracle.";
+      })
+      .catch(err => {
+        statusMsg.innerText = "Errore di connessione al database.";
+      });
+
+    // 2. SALVATAGGIO
+    saveBtn.addEventListener('click', function() {
+      saveBtn.disabled = true;
+      saveBtn.innerText = "Sincronizzazione...";
+      
+      const payload = {
+        customerId: `gid://shopify/Customer/${cleanId}`,
+        volume: volInput.value,
+        filtro: filSelect.value,
+        pompa: pmpInput.value
+      };
+
+      fetch(`${API_BASE}/update-pool`, {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify(payload)
+      })
+      .then(res => res.json())
+      .then(res => {
+        if(res.success) {
+          statusMsg.style.color = "#008060";
+          statusMsg.innerText = "Configurazione salvata con successo!";
+          setTimeout(() => {
+            statusMsg.style.color = "#6d7175";
+            statusMsg.innerText = "Dati sincronizzati con il server Oracle.";
+          }, 3000);
+        }
+      })
+      .finally(() => {
+        saveBtn.disabled = false;
+        saveBtn.innerText = "Salva e Sincronizza";
+      });
+    });
+  })();
+</script>
+
+{% schema %}
+{
+  "name": "Jolly Care Hub",
+  "settings": [],
+  "presets": [
+    {
+      "name": "Jolly Care Hub"
+    }
+  ]
+}
+{% endschema %}
+

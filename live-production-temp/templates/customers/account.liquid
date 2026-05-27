@@ -1,0 +1,126 @@
+<div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12 space-y-16 text-primary">
+  
+  <div class="flex flex-col md:flex-row justify-between items-center gap-8 border-b border-outline-variant/20 pb-12">
+      <div class="flex items-center gap-6">
+          <div class="w-24 h-24 bg-primary-fixed rounded-[32px] flex items-center justify-center text-primary shadow-inner shrink-0">
+              <span class="material-symbols-outlined text-5xl">person</span>
+          </div>
+          <div class="space-y-1">
+              <h1 class="text-4xl md:text-5xl font-black uppercase italic tracking-tighter">{{ customer.name | default: 'Cliente Jolly' }}</h1>
+              <p class="text-on-surface-variant font-bold text-sm uppercase tracking-widest">{{ customer.email }}</p>
+              <span class="inline-block mt-2 bg-tertiary-fixed text-on-tertiary-fixed px-3 py-1 rounded-full text-[10px] font-black uppercase tracking-widest">
+                  {{ customer.metafields.custom.user_role | default: 'Profilo Jolly Care' }}
+              </span>
+          </div>
+      </div>
+      <div class="flex gap-4">
+          <a href="{{ routes.account_logout_url }}" class="px-8 py-3 bg-surface-container-low text-error font-bold text-xs uppercase tracking-widest rounded-xl hover:bg-error-container/30 transition-all">Esci Account</a>
+      </div>
+  </div>
+
+  <div class="grid grid-cols-1 lg:grid-cols-12 gap-16">
+      
+      <div class="lg:col-span-5 space-y-10">
+          <div class="space-y-4">
+              <h2 class="text-2xl font-black uppercase italic tracking-tighter flex items-center gap-3">
+                  <span class="material-symbols-outlined text-[28px]">verified_user</span>
+                  Profilo Jolly Care
+              </h2>
+              <p class="text-on-surface-variant font-medium">I tuoi dati sono sincronizzati con Shopify per garantirti le migliori offerte e comunicazioni tecniche.</p>
+          </div>
+
+          <div class="bg-white rounded-[40px] p-10 shadow-xl border border-outline-variant/15 space-y-8">
+              <div class="space-y-2">
+                  <p class="text-[10px] font-black text-outline uppercase tracking-widest">Email Comunicazioni</p>
+                  <p class="text-lg font-bold text-primary">{{ customer.email }}</p>
+              </div>
+              <div class="space-y-2">
+                  <p class="text-[10px] font-black text-outline uppercase tracking-widest">Stato Abbonamento</p>
+                  <p class="text-lg font-bold text-emerald-600 uppercase tracking-tighter italic">Attivo via Shopify</p>
+              </div>
+              <div class="pt-4">
+                  <div class="bg-emerald-500/10 p-6 rounded-2xl border border-emerald-500/20 flex items-start gap-4">
+                      <span class="material-symbols-outlined text-emerald-600">mail_outline</span>
+                      <p class="text-xs font-bold text-emerald-800 leading-relaxed uppercase tracking-wider">Sei iscritto alla newsletter tecnica. Riceverai alert sui dosaggi chimici via mail.</p>
+                  </div>
+              </div>
+          </div>
+      </div>
+
+      <div class="lg:col-span-7 space-y-10">
+          <div class="flex justify-between items-end gap-4">
+              <div class="space-y-4">
+                  <h2 class="text-2xl font-black uppercase italic tracking-tighter flex items-center gap-3 text-primary">
+                      <span class="material-symbols-outlined text-[28px]">pool</span>
+                      Dati Tecnici Vasca
+                  </h2>
+                  <p class="text-on-surface-variant font-medium">Queste info servono ai nostri tecnici per guidarti nello shop.</p>
+              </div>
+              <a href="/pages/club#cartella" class="text-primary font-black uppercase text-[10px] tracking-widest border-b-2 border-tertiary-fixed pb-1">Gestisci Vasca</a>
+          </div>
+
+          <div class="grid grid-cols-1 md:grid-cols-2 gap-8">
+              <div class="bg-white p-8 rounded-[32px] shadow-lg border border-outline-variant/10 space-y-4">
+                  <p class="text-[10px] font-black text-outline uppercase tracking-widest">Capacità</p>
+                  <p class="text-5xl font-black text-primary italic">{{ customer.metafields.custom.pool_volume_m3 | default: '0' }} <span class="text-xl not-italic font-medium text-outline">m³</span></p>
+              </div>
+              <div class="bg-white p-8 rounded-[32px] shadow-lg border border-outline-variant/10 space-y-4">
+                  <p class="text-[10px] font-black text-outline uppercase tracking-widest">Filtrazione</p>
+                  <p class="text-2xl font-black text-primary uppercase italic">{{ customer.metafields.custom.pool_filter_type | default: 'N/D' }}</p>
+              </div>
+              <div class="md:col-span-2 bg-tertiary-container p-8 rounded-[32px] shadow-xl flex items-center justify-between group">
+                  <div>
+                      <h4 class="text-xl font-black uppercase italic tracking-tighter mb-1">Status Diagnostica</h4>
+                      <p class="text-sm font-medium opacity-80 text-primary">I tuoi suggerimenti shop sono calibrati per questa vasca.</p>
+                  </div>
+                  <a href="/collections/all" class="w-12 h-12 bg-tertiary-fixed rounded-full flex items-center justify-center text-on-tertiary-fixed shadow-lg group-hover:scale-110 transition-transform">
+                      <span class="material-symbols-outlined">arrow_forward</span>
+                  </a>
+              </div>
+          </div>
+      </div>
+  </div>
+
+  <section class="space-y-8">
+      <div class="flex items-center gap-4">
+          <h2 class="text-2xl font-black uppercase italic tracking-tighter">Cronologia Ordini</h2>
+          <div class="h-px flex-grow bg-outline-variant/20"></div>
+      </div>
+      
+      {%- if customer.orders.size > 0 -%}
+          <div class="bg-white rounded-[40px] border border-outline-variant/10 shadow-sm overflow-hidden">
+              <table class="w-full text-left">
+                  <thead class="bg-surface-container-low text-[10px] font-black uppercase tracking-widest text-outline">
+                      <tr>
+                          <th class="px-8 py-4">Ordine</th>
+                          <th class="px-8 py-4">Data</th>
+                          <th class="px-8 py-4">Status</th>
+                          <th class="px-8 py-4">Totale</th>
+                      </tr>
+                  </thead>
+                  <tbody class="divide-y divide-outline-variant/10">
+                      {%- for order in customer.orders -%}
+                          <tr class="hover:bg-surface-container-lowest transition-colors cursor-pointer" onclick="window.location.href='{{ order.customer_url }}'">
+                              <td class="px-8 py-6 font-black text-primary">{{ order.name }}</td>
+                              <td class="px-8 py-6 font-medium">{{ order.created_at | date: "%d/%m/%Y" }}</td>
+                              <td class="px-8 py-6">
+                                  <span class="px-3 py-1 rounded-full text-[9px] font-black uppercase tracking-widest bg-primary-fixed text-on-primary-fixed">
+                                      {{ order.financial_status_label }}
+                                  </span>
+                              </td>
+                              <td class="px-8 py-6 font-black text-primary">{{ order.total_price | money }}</td>
+                          </tr>
+                      {%- endfor -%}
+                  </tbody>
+              </table>
+          </div>
+      {%- else -%}
+          <div class="bg-white rounded-[40px] p-8 md:p-12 border border-outline-variant/10 shadow-sm text-center">
+              <span class="material-symbols-outlined text-6xl text-outline mb-6 opacity-30">receipt_long</span>
+              <p class="text-on-surface-variant font-bold text-lg mb-8 uppercase tracking-widest leading-relaxed">Non hai ancora effettuato ordini.</p>
+              <a href="/collections/all" class="text-primary font-black uppercase text-xs tracking-widest border-b-4 border-tertiary-fixed pb-1 hover:text-tertiary-fixed transition-colors">Inizia il tuo primo ordine</a>
+          </div>
+      {%- endif -%}
+  </section>
+
+</div>

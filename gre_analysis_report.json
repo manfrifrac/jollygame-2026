@@ -1,0 +1,149 @@
+{
+    "typologies": {
+        "CATEGORIA 1": {
+            "total_items": 1,
+            "common_attributes": [],
+            "example_items": [
+                {
+                    "sku": "ARTICOLO",
+                    "ean": "EAN",
+                    "title": "DESCRIZIONE",
+                    "cat_parent": "CATEGORIA 1",
+                    "cat_sub": "CATEGORIA 2",
+                    "price": "PREZZO DI VENDITA CONSIGLIATO 2026 + 3%"
+                }
+            ],
+            "suggested_selectors": [
+                "Modello/Serie",
+                "Caratteristica Tecnica (Potenza/Capacit\u00e0)"
+            ]
+        },
+        "Piscine": {
+            "total_items": 132,
+            "common_attributes": [],
+            "example_items": [
+                {
+                    "sku": "788032",
+                    "ean": "3605217880321",
+                    "title": "MINT - KIT Piscina in legno rettangolare sistema omega. Liner blu 75/100. Filtro a sabbia da 10m\u00b3/h. Scala in legno esterna/scala inox interna, 2 skimmer, protezione fondo e pareti. Include dispositivo Smart Plug. Copertura estiva e copertura invernale incluse. Dim: Est: 1010x418 h 146 - Int: 965x371 h 142",
+                    "cat_parent": "Piscine",
+                    "cat_sub": "Piscine in legno",
+                    "price": 18385.5
+                },
+                {
+                    "sku": "790207",
+                    "ean": "3605217902078",
+                    "title": "BRAGA - KIT Piscina in legno rettangolare sistema omega. Liner blu 75/100. Filtro a sabbia da 10m\u00b3/h. Scala in legno esterna/scala inox interna, 2 skimmer, protezione fondo e pareti. Include dispositivo Smart Plug. Copertura estiva e copertura invernale incluse. Dim: Est 815x420 h 146 - Int: 767x373 h 142",
+                    "cat_parent": "Piscine",
+                    "cat_sub": "Piscine in legno",
+                    "price": 13307.6
+                },
+                {
+                    "sku": "790206",
+                    "ean": "3605217902061",
+                    "title": "EVORA - KIT Piscina in legno rettangolare sistema omega. Liner blu 75/100. Filtro a sabbia da 8m\u00b3/h. Scala in legno esterna/scala inox interna, 2 skimmer, protezione fondo e pareti. Include dispositivo Smart Plug. Copertura estiva e copertura invernale incluse. Dim: Est 620x420 h 133 - Int: 570x373 h 130",
+                    "cat_parent": "Piscine",
+                    "cat_sub": "Piscine in legno",
+                    "price": 11113.7
+                }
+            ],
+            "suggested_selectors": [
+                "Forma (Ovale/Tonda/Rettangolare)",
+                "Materiale (Legno/Acciaio/Composito)",
+                "Dimensioni",
+                "Finitura (Bianca/Antracite/Legno)"
+            ]
+        },
+        "Accessori": {
+            "total_items": 544,
+            "common_attributes": [],
+            "example_items": [
+                {
+                    "sku": "786641",
+                    "ean": "3605217866417",
+                    "title": "Copertura isotermica per piscina in legno rettangolare Mint 788032, anti U.V.A, 400 micron. Polietilene. Dim: 960x366",
+                    "cat_parent": "Accessori",
+                    "cat_sub": "Coperture, tappeti e liner",
+                    "price": 462.47
+                },
+                {
+                    "sku": "CV790207",
+                    "ean": "8412081308333",
+                    "title": "Copertura isotermica per piscina in legno rettangolare Braga 790207, anti U.V.A, 400 micron. Polietilene. Dim: 762x368",
+                    "cat_parent": "Accessori",
+                    "cat_sub": "Coperture, tappeti e liner",
+                    "price": 338.87
+                },
+                {
+                    "sku": "CV800009",
+                    "ean": "8412081313894",
+                    "title": "Copertura isotermica per piscina in legno rettangolare Evora Plus 800009, anti U.V.A, 400 micron. Polietilene. Dim: 480x368",
+                    "cat_parent": "Accessori",
+                    "cat_sub": "Coperture, tappeti e liner",
+                    "price": 235.87
+                }
+            ],
+            "suggested_selectors": [
+                "Modello/Serie",
+                "Caratteristica Tecnica (Potenza/Capacit\u00e0)"
+            ]
+        },
+        "Prodotti chimici": {
+            "total_items": 134,
+            "common_attributes": [],
+            "example_items": [
+                {
+                    "sku": "90180",
+                    "ean": "8427370901805",
+                    "title": "ECO - Kit analisi Di Cloro/Bromo + pH (Oto/Fenolo)",
+                    "cat_parent": "Prodotti chimici",
+                    "cat_sub": "Vari",
+                    "price": 6.489
+                },
+                {
+                    "sku": "90181",
+                    "ean": "8427370901812",
+                    "title": "ECO - Ricambio per Kit analisi (Oto/Fenolo)",
+                    "cat_parent": "Prodotti chimici",
+                    "cat_sub": "Vari",
+                    "price": 4.738
+                },
+                {
+                    "sku": "76018",
+                    "ean": "8427370760181",
+                    "title": "Elevatore di pH granulare 1kg",
+                    "cat_parent": "Prodotti chimici",
+                    "cat_sub": "Correttori pH",
+                    "price": 7.828
+                }
+            ],
+            "suggested_selectors": [
+                "Modello/Serie",
+                "Caratteristica Tecnica (Potenza/Capacit\u00e0)"
+            ]
+        }
+    },
+    "shopify_image_discrepancies": [
+        {
+            "title": "Liner Di Ricambio Per Piscine Rotonde Interrate Con Spessore 60/100 Gre",
+            "variant_count": 4,
+            "shared_image": "https://cdn.shopify.com/s/files/1/1011/3567/9836/files/pr4213fe.jpg?v=1775640651"
+        },
+        {
+            "title": "Liner Di Ricambio Per Piscine Ovali Interrate Con Spessore 75/100 Gre",
+            "variant_count": 4,
+            "shared_image": "https://cdn.shopify.com/s/files/1/1011/3567/9836/files/prov5113fe.jpg?v=1775640658"
+        },
+        {
+            "title": "Tappeti Protettivi Rettangolari In Poliestere Per Piscine Fuoriterra",
+            "variant_count": 6,
+            "shared_image": "https://cdn.shopify.com/s/files/1/1011/3567/9836/files/protectiveblankets.jpg?v=1775640743"
+        },
+        {
+            "title": "Tappeti In Poliestere Protettivi Rotondi Per Fondo Piscine",
+            "variant_count": 6,
+            "shared_image": "https://cdn.shopify.com/s/files/1/1011/3567/9836/files/protectiveblankets_73ca1a2a-6fae-4ac2-b264-03cb6b729b9e.jpg?v=1775640767"
+        }
+    ],
+    "total_shopify_gre": 266
+}

@@ -1,0 +1,4091 @@
+{
+  "stats": {
+    "total": 453,
+    "active": 199,
+    "draft": 254,
+    "archived": 0,
+    "visible_online": 199,
+    "sellable": 198,
+    "zero_price": 86,
+    "no_images": 79
+  },
+  "details": [
+    {
+      "title": "Depuratore acqua 72 W a cartuccia",
+      "status": "DRAFT",
+      "has_images": true,
+      "price": 0,
+      "sku": null,
+      "is_visible_online": false,
+      "is_sellable": false
+    },
+    {
+      "title": "Pompa di calore Inverter HPGIC30",
+      "status": "DRAFT",
+      "has_images": true,
+      "price": 999,
+      "sku": null,
+      "is_visible_online": false,
+      "is_sellable": false
+    },
+    {
+      "title": "Copertura per piscina rettangolare",
+      "status": "DRAFT",
+      "has_images": true,
+      "price": 0,
+      "sku": null,
+      "is_visible_online": false,
+      "is_sellable": false
+    },
+    {
+      "title": "Doccia in acciaio inossidabile",
+      "status": "DRAFT",
+      "has_images": true,
+      "price": 269,
+      "sku": null,
+      "is_visible_online": false,
+      "is_sellable": false
+    },
+    {
+      "title": "Raccordo unione 2 tubi gall. 38/32mm",
+      "status": "ACTIVE",
+      "has_images": true,
+      "price": 6.68,
+      "sku": "40009",
+      "is_visible_online": true,
+      "is_sellable": true
+    },
+    {
+      "title": "Manico telescopico 2 sezioni, lunghezza 3,60 m",
+      "status": "ACTIVE",
+      "has_images": true,
+      "price": 24.21,
+      "sku": "40010",
+      "is_visible_online": true,
+      "is_sellable": true
+    },
+    {
+      "title": "Pulitore manuale in alluminio per piscina",
+      "status": "ACTIVE",
+      "has_images": true,
+      "price": 33.99,
+      "sku": "40022",
+      "is_visible_online": true,
+      "is_sellable": true
+    },
+    {
+      "title": "Termometro a sfera di vetro",
+      "status": "ACTIVE",
+      "has_images": true,
+      "price": 14.32,
+      "sku": "40055",
+      "is_visible_online": true,
+      "is_sellable": true
+    },
+    {
+      "title": "Erogatore Flot 200 g",
+      "status": "ACTIVE",
+      "has_images": true,
+      "price": 10.4,
+      "sku": "40070",
+      "is_visible_online": true,
+      "is_sellable": true
+    },
+    {
+      "title": "Kit di riparazione liner in gomma",
+      "status": "ACTIVE",
+      "has_images": true,
+      "price": 8.39,
+      "sku": "40080",
+      "is_visible_online": true,
+      "is_sellable": true
+    },
+    {
+      "title": "Adesivo specifico per PVC",
+      "status": "ACTIVE",
+      "has_images": true,
+      "price": 19.98,
+      "sku": "40553",
+      "is_visible_online": true,
+      "is_sellable": true
+    },
+    {
+      "title": "Tubo flessibile PVC Cepex",
+      "status": "ACTIVE",
+      "has_images": true,
+      "price": 138.02,
+      "sku": "40557",
+      "is_visible_online": true,
+      "is_sellable": true
+    },
+    {
+      "title": "Spazzola aspirante 51 cm",
+      "status": "ACTIVE",
+      "has_images": true,
+      "price": 18.75,
+      "sku": "40802",
+      "is_visible_online": true,
+      "is_sellable": true
+    },
+    {
+      "title": "Tester digitale AquaChek TruTest con 50 strisce",
+      "status": "DRAFT",
+      "has_images": true,
+      "price": 19.9,
+      "sku": "40817",
+      "is_visible_online": false,
+      "is_sellable": false
+    },
+    {
+      "title": "Ossigeno attivo liquido 5 litri",
+      "status": "ACTIVE",
+      "has_images": true,
+      "price": 65.41,
+      "sku": "76028",
+      "is_visible_online": true,
+      "is_sellable": true
+    },
+    {
+      "title": "Raccoglitore di fondo Eco Range",
+      "status": "ACTIVE",
+      "has_images": true,
+      "price": 7.47,
+      "sku": "90120",
+      "is_visible_online": true,
+      "is_sellable": true
+    },
+    {
+      "title": "Tubo galleggiante GRE 36,5m sezionabile",
+      "status": "ACTIVE",
+      "has_images": true,
+      "price": 147.29,
+      "sku": "90160",
+      "is_visible_online": true,
+      "is_sellable": true
+    },
+    {
+      "title": "Avvolgitore per coperture piscine interrate",
+      "status": "ACTIVE",
+      "has_images": true,
+      "price": 252.35,
+      "sku": "90171",
+      "is_visible_online": true,
+      "is_sellable": true
+    },
+    {
+      "title": "Riscaldamento solare per piscine",
+      "status": "ACTIVE",
+      "has_images": true,
+      "price": 81.37,
+      "sku": "90230",
+      "is_visible_online": true,
+      "is_sellable": true
+    },
+    {
+      "title": "Aspiratori idraulici silenziosi Silence Vac",
+      "status": "ACTIVE",
+      "has_images": true,
+      "price": 65.92,
+      "sku": "90397",
+      "is_visible_online": true,
+      "is_sellable": true
+    },
+    {
+      "title": "Scalette in legno per piscina",
+      "status": "ACTIVE",
+      "has_images": true,
+      "price": 293.55,
+      "sku": "126674",
+      "is_visible_online": true,
+      "is_sellable": true
+    },
+    {
+      "title": "Copertura per piscina in legno ovale Vermela",
+      "status": "ACTIVE",
+      "has_images": true,
+      "price": 647.87,
+      "sku": "621103",
+      "is_visible_online": true,
+      "is_sellable": true
+    },
+    {
+      "title": "Liner blu per piscina in acciaio rotonda 75/100",
+      "status": "ACTIVE",
+      "has_images": true,
+      "price": 663.32,
+      "sku": "770398",
+      "is_visible_online": true,
+      "is_sellable": true
+    },
+    {
+      "title": "Protezione Delta MS per pareti in legno",
+      "status": "ACTIVE",
+      "has_images": true,
+      "price": 239.99,
+      "sku": "772060",
+      "is_visible_online": true,
+      "is_sellable": true
+    },
+    {
+      "title": "Copertura piscina ovale",
+      "status": "ACTIVE",
+      "has_images": true,
+      "price": 169.95,
+      "sku": "773322",
+      "is_visible_online": true,
+      "is_sellable": true
+    },
+    {
+      "title": "Copertura per piscina rotonda violetta - Mod. 581",
+      "status": "ACTIVE",
+      "has_images": true,
+      "price": 306.94,
+      "sku": "784801",
+      "is_visible_online": true,
+      "is_sellable": true
+    },
+    {
+      "title": "Casetta in legno alta 118 cm",
+      "status": "ACTIVE",
+      "has_images": true,
+      "price": 492.34,
+      "sku": "787247",
+      "is_visible_online": true,
+      "is_sellable": true
+    },
+    {
+      "title": "Piscina Ovale Pacific",
+      "status": "ACTIVE",
+      "has_images": true,
+      "price": 2106.35,
+      "sku": "KIT500W",
+      "is_visible_online": true,
+      "is_sellable": true
+    },
+    {
+      "title": "Piscina Ovale Sicilia",
+      "status": "ACTIVE",
+      "has_images": true,
+      "price": 1838.55,
+      "sku": "KITPROV503W",
+      "is_visible_online": true,
+      "is_sellable": true
+    },
+    {
+      "title": "Tubo per puliscifondo 8m con 2 terminali",
+      "status": "ACTIVE",
+      "has_images": true,
+      "price": 43.26,
+      "sku": "40001",
+      "is_visible_online": true,
+      "is_sellable": true
+    },
+    {
+      "title": "Tappo di chiusura invernale 1,5",
+      "status": "ACTIVE",
+      "has_images": true,
+      "price": 3.19,
+      "sku": "40582",
+      "is_visible_online": true,
+      "is_sellable": true
+    },
+    {
+      "title": "Manicotto di giunzione per depuratori, 58cm",
+      "status": "ACTIVE",
+      "has_images": true,
+      "price": 14.63,
+      "sku": "60218",
+      "is_visible_online": true,
+      "is_sellable": true
+    },
+    {
+      "title": "Bromo shock granulato",
+      "status": "ACTIVE",
+      "has_images": true,
+      "price": 94.66,
+      "sku": "76026",
+      "is_visible_online": true,
+      "is_sellable": true
+    },
+    {
+      "title": "Anticalcare per la Pulizia",
+      "status": "ACTIVE",
+      "has_images": true,
+      "price": 26.73,
+      "sku": "76048",
+      "is_visible_online": true,
+      "is_sellable": true
+    },
+    {
+      "title": "Svernante liquido per inverno",
+      "status": "ACTIVE",
+      "has_images": true,
+      "price": 8.23,
+      "sku": "76050",
+      "is_visible_online": true,
+      "is_sellable": true
+    },
+    {
+      "title": "Elevatore di alcalinità",
+      "status": "ACTIVE",
+      "has_images": true,
+      "price": 34.76,
+      "sku": "76081",
+      "is_visible_online": true,
+      "is_sellable": true
+    },
+    {
+      "title": "Controllo remoto a 4 azioni con 50 blocchi multi funzioni",
+      "status": "ACTIVE",
+      "has_images": true,
+      "price": 0,
+      "sku": "76084",
+      "is_visible_online": true,
+      "is_sellable": false
+    },
+    {
+      "title": "Smart Plug F-F",
+      "status": "ACTIVE",
+      "has_images": true,
+      "price": 92.6,
+      "sku": "76671",
+      "is_visible_online": true,
+      "is_sellable": true
+    },
+    {
+      "title": "Regolatore pH ECO",
+      "status": "ACTIVE",
+      "has_images": true,
+      "price": 17.5,
+      "sku": "90003",
+      "is_visible_online": true,
+      "is_sellable": true
+    },
+    {
+      "title": "Liner piscina acciaio blu ovale",
+      "status": "ACTIVE",
+      "has_images": true,
+      "price": 799.28,
+      "sku": "773486",
+      "is_visible_online": true,
+      "is_sellable": true
+    },
+    {
+      "title": "Copertore per piscine rettangolari in legno Mint",
+      "status": "ACTIVE",
+      "has_images": true,
+      "price": 818.85,
+      "sku": "778041",
+      "is_visible_online": true,
+      "is_sellable": true
+    },
+    {
+      "title": "Liner piscina legno ovale blu",
+      "status": "ACTIVE",
+      "has_images": true,
+      "price": 460.41,
+      "sku": "778767",
+      "is_visible_online": true,
+      "is_sellable": true
+    },
+    {
+      "title": "Liner piscina legno rotonda Blu",
+      "status": "ACTIVE",
+      "has_images": true,
+      "price": 539.72,
+      "sku": "783885",
+      "is_visible_online": true,
+      "is_sellable": true
+    },
+    {
+      "title": "Liner piscina rettangolare in legno blu",
+      "status": "ACTIVE",
+      "has_images": true,
+      "price": 773.53,
+      "sku": "785939",
+      "is_visible_online": true,
+      "is_sellable": true
+    },
+    {
+      "title": "Piscina City Quadrata",
+      "status": "ACTIVE",
+      "has_images": true,
+      "price": 1725.25,
+      "sku": "790000",
+      "is_visible_online": true,
+      "is_sellable": true
+    },
+    {
+      "title": "Copertura per piscina in legno quadrata City",
+      "status": "ACTIVE",
+      "has_images": true,
+      "price": 107.12,
+      "sku": "790001",
+      "is_visible_online": true,
+      "is_sellable": true
+    },
+    {
+      "title": "Piscina Rotonda Lili 2",
+      "status": "ACTIVE",
+      "has_images": true,
+      "price": 2872.67,
+      "sku": "800008",
+      "is_visible_online": true,
+      "is_sellable": true
+    },
+    {
+      "title": "Piscina Ovale Grenade 2",
+      "status": "ACTIVE",
+      "has_images": true,
+      "price": 5943.1,
+      "sku": "7900862",
+      "is_visible_online": true,
+      "is_sellable": true
+    },
+    {
+      "title": "Piscina Marbella 2 Rettangolare",
+      "status": "ACTIVE",
+      "has_images": true,
+      "price": 8394.5,
+      "sku": "7900962",
+      "is_visible_online": true,
+      "is_sellable": true
+    },
+    {
+      "title": "Piscina in pietra Sumatra ovale",
+      "status": "ACTIVE",
+      "has_images": true,
+      "price": 3047.77,
+      "sku": "KPEOV5027",
+      "is_visible_online": true,
+      "is_sellable": true
+    },
+    {
+      "title": "Piscina Madagascar Ovale",
+      "status": "ACTIVE",
+      "has_images": true,
+      "price": 4201.37,
+      "sku": "KPEOV5059",
+      "is_visible_online": true,
+      "is_sellable": true
+    },
+    {
+      "title": "Piscina Madagascar Rotonda",
+      "status": "ACTIVE",
+      "has_images": true,
+      "price": 3362.95,
+      "sku": "KPE4259",
+      "is_visible_online": true,
+      "is_sellable": true
+    },
+    {
+      "title": "Piscina Rotonda Sumatra",
+      "status": "ACTIVE",
+      "has_images": true,
+      "price": 2569.85,
+      "sku": "KPE3527",
+      "is_visible_online": true,
+      "is_sellable": true
+    },
+    {
+      "title": "Piscina Bora Bora Rotonda",
+      "status": "ACTIVE",
+      "has_images": true,
+      "price": 998.07,
+      "sku": "KITPR303",
+      "is_visible_online": true,
+      "is_sellable": true
+    },
+    {
+      "title": "Piscina Haiti Ovale",
+      "status": "ACTIVE",
+      "has_images": true,
+      "price": 3877.95,
+      "sku": "KITPROV6188",
+      "is_visible_online": true,
+      "is_sellable": true
+    },
+    {
+      "title": "Piscina Pacific Rotonda",
+      "status": "ACTIVE",
+      "has_images": true,
+      "price": 1282.35,
+      "sku": "KIT240W",
+      "is_visible_online": true,
+      "is_sellable": true
+    },
+    {
+      "title": "Piscina Mauritius Ovale",
+      "status": "ACTIVE",
+      "has_images": true,
+      "price": 2863.4,
+      "sku": "KITPROV508WO",
+      "is_visible_online": true,
+      "is_sellable": true
+    },
+    {
+      "title": "Piscina Anthracite Ovale",
+      "status": "ACTIVE",
+      "has_images": true,
+      "price": 2656.37,
+      "sku": "KITPROV508GY",
+      "is_visible_online": true,
+      "is_sellable": true
+    },
+    {
+      "title": "Piscina Fidji Ovale",
+      "status": "ACTIVE",
+      "has_images": true,
+      "price": 1848.85,
+      "sku": "KIT500ECO",
+      "is_visible_online": true,
+      "is_sellable": true
+    },
+    {
+      "title": "Piscina forma di otto Varadero",
+      "status": "ACTIVE",
+      "has_images": true,
+      "price": 2832.5,
+      "sku": "KITPROV4870",
+      "is_visible_online": true,
+      "is_sellable": true
+    },
+    {
+      "title": "Piscina Fidji Rotonda",
+      "status": "ACTIVE",
+      "has_images": true,
+      "price": 1131.97,
+      "sku": "KIT240ECO",
+      "is_visible_online": true,
+      "is_sellable": true
+    },
+    {
+      "title": "Piscina Sicilia Rotonda",
+      "status": "ACTIVE",
+      "has_images": true,
+      "price": 1204.07,
+      "sku": "KITPR303W",
+      "is_visible_online": true,
+      "is_sellable": true
+    },
+    {
+      "title": "Piscina Bora Bora Ovale",
+      "status": "ACTIVE",
+      "has_images": true,
+      "price": 1708.77,
+      "sku": "KITPROV503",
+      "is_visible_online": true,
+      "is_sellable": true
+    },
+    {
+      "title": "Piscina Atlantis Ovale",
+      "status": "ACTIVE",
+      "has_images": true,
+      "price": 2518.35,
+      "sku": "KITPROV508",
+      "is_visible_online": true,
+      "is_sellable": true
+    },
+    {
+      "title": "Piscina Anthracite Rotonda",
+      "status": "ACTIVE",
+      "has_images": true,
+      "price": 1895.2,
+      "sku": "KITPR358GY",
+      "is_visible_online": true,
+      "is_sellable": true
+    },
+    {
+      "title": "Piscina Amazonia Ovale",
+      "status": "ACTIVE",
+      "has_images": true,
+      "price": 4006.7,
+      "sku": "KITPROV6188WO",
+      "is_visible_online": true,
+      "is_sellable": true
+    },
+    {
+      "title": "Piscina Aqualoon ovale",
+      "status": "ACTIVE",
+      "has_images": true,
+      "price": 1646.97,
+      "sku": "KIT500GYQGRE",
+      "is_visible_online": true,
+      "is_sellable": true
+    },
+    {
+      "title": "Piscina Aqualoon rotonda",
+      "status": "ACTIVE",
+      "has_images": true,
+      "price": 1080.47,
+      "sku": "KIT300GYQGRE",
+      "is_visible_online": true,
+      "is_sellable": true
+    },
+    {
+      "title": "Piscina Finlandia Ovale",
+      "status": "ACTIVE",
+      "has_images": true,
+      "price": 2106.35,
+      "sku": "KIT500N",
+      "is_visible_online": true,
+      "is_sellable": true
+    },
+    {
+      "title": "Piscina Finlandia Rotonda",
+      "status": "ACTIVE",
+      "has_images": true,
+      "price": 1282.35,
+      "sku": "KIT240N",
+      "is_visible_online": true,
+      "is_sellable": true
+    },
+    {
+      "title": "Piscina Mauritius Rotonda",
+      "status": "ACTIVE",
+      "has_images": true,
+      "price": 2106.35,
+      "sku": "KITPR358WO",
+      "is_visible_online": true,
+      "is_sellable": true
+    },
+    {
+      "title": "Piscina Atlantis Rotonda",
+      "status": "ACTIVE",
+      "has_images": true,
+      "price": 1884.9,
+      "sku": "KITPR358",
+      "is_visible_online": true,
+      "is_sellable": true
+    },
+    {
+      "title": "Piscina Avantgarde Rotonda",
+      "status": "ACTIVE",
+      "has_images": true,
+      "price": 5592.9,
+      "sku": "KPCO41",
+      "is_visible_online": true,
+      "is_sellable": true
+    },
+    {
+      "title": "Piscina Avantgarde Rettangolare",
+      "status": "ACTIVE",
+      "has_images": true,
+      "price": 4351.75,
+      "sku": "KPCOR2814T",
+      "is_visible_online": true,
+      "is_sellable": true
+    },
+    {
+      "title": "Piscina Avantgarde Quadrata",
+      "status": "ACTIVE",
+      "has_images": true,
+      "price": 5247.85,
+      "sku": "KPCOR28T",
+      "is_visible_online": true,
+      "is_sellable": true
+    },
+    {
+      "title": "Piscina Avantgarde Ovale",
+      "status": "ACTIVE",
+      "has_images": true,
+      "price": 7436.6,
+      "sku": "KPCOV52",
+      "is_visible_online": true,
+      "is_sellable": true
+    },
+    {
+      "title": "Robot pulitore elettrico",
+      "status": "ACTIVE",
+      "has_images": true,
+      "price": 668.47,
+      "sku": "WR000501",
+      "is_visible_online": true,
+      "is_sellable": true
+    },
+    {
+      "title": "Aspiratore elettronico per fondo piscina a batteria",
+      "status": "ACTIVE",
+      "has_images": true,
+      "price": 81.89,
+      "sku": "VCB08",
+      "is_visible_online": true,
+      "is_sellable": true
+    },
+    {
+      "title": "Kit testa aspirante con manico e tubo per pulizia fondo",
+      "status": "ACTIVE",
+      "has_images": true,
+      "price": 71.07,
+      "sku": "AR2064",
+      "is_visible_online": true,
+      "is_sellable": true
+    },
+    {
+      "title": "Kit di pulizia piscina autopor, 10M3, aspirazione manuale",
+      "status": "ACTIVE",
+      "has_images": true,
+      "price": 55.62,
+      "sku": "AR20637",
+      "is_visible_online": true,
+      "is_sellable": true
+    },
+    {
+      "title": "Deposito a sabbia per depurazione",
+      "status": "ACTIVE",
+      "has_images": true,
+      "price": 184.37,
+      "sku": "MG320NP",
+      "is_visible_online": true,
+      "is_sellable": true
+    },
+    {
+      "title": "Depuratore Aqualoon - Filtro per acqua, portata 3,5 m³/h",
+      "status": "ACTIVE",
+      "has_images": true,
+      "price": 76.22,
+      "sku": "CFAQ35",
+      "is_visible_online": true,
+      "is_sellable": true
+    },
+    {
+      "title": "Deposito per filtri indipendenti",
+      "status": "ACTIVE",
+      "has_images": true,
+      "price": 417.15,
+      "sku": "FIS600",
+      "is_visible_online": true,
+      "is_sellable": true
+    },
+    {
+      "title": "Casetta tecnica in composito, h:91",
+      "status": "ACTIVE",
+      "has_images": true,
+      "price": 472.77,
+      "sku": "TRCP96",
+      "is_visible_online": true,
+      "is_sellable": true
+    },
+    {
+      "title": "Pompa autoadescante Comfort - 1/3 CV",
+      "status": "ACTIVE",
+      "has_images": true,
+      "price": 146.26,
+      "sku": "PP032",
+      "is_visible_online": true,
+      "is_sellable": true
+    },
+    {
+      "title": "Pompa autoadescante premium",
+      "status": "ACTIVE",
+      "has_images": true,
+      "price": 355.35,
+      "sku": "PP152",
+      "is_visible_online": true,
+      "is_sellable": true
+    },
+    {
+      "title": "Cartuccia filtrante X per AR125, AR124, AR121 e AR118",
+      "status": "ACTIVE",
+      "has_images": true,
+      "price": 20.91,
+      "sku": "AR82",
+      "is_visible_online": true,
+      "is_sellable": true
+    },
+    {
+      "title": "Sistema filtrante Aqualoon",
+      "status": "ACTIVE",
+      "has_images": true,
+      "price": 15.44,
+      "sku": "AQ503",
+      "is_visible_online": true,
+      "is_sellable": true
+    },
+    {
+      "title": "Clorinatore salino collegato",
+      "status": "ACTIVE",
+      "has_images": true,
+      "price": 1080.47,
+      "sku": "SWGA40",
+      "is_visible_online": true,
+      "is_sellable": true
+    },
+    {
+      "title": "Sistema di disinfezione UV per piscine",
+      "status": "DRAFT",
+      "has_images": true,
+      "price": 243.99,
+      "sku": "UVC25",
+      "is_visible_online": false,
+      "is_sellable": false
+    },
+    {
+      "title": "Gel flocculante in monodosi",
+      "status": "ACTIVE",
+      "has_images": true,
+      "price": 6.79,
+      "sku": "UFG20",
+      "is_visible_online": true,
+      "is_sellable": true
+    },
+    {
+      "title": "KIT trattamento piscina fuori terra da 5 a 15m³",
+      "status": "ACTIVE",
+      "has_images": true,
+      "price": 53.46,
+      "sku": "76054L",
+      "is_visible_online": true,
+      "is_sellable": true
+    },
+    {
+      "title": "Kit trattamento acqua spa",
+      "status": "ACTIVE",
+      "has_images": true,
+      "price": 31.93,
+      "sku": "KTSPAIT",
+      "is_visible_online": true,
+      "is_sellable": true
+    },
+    {
+      "title": "Batteria per Blue Connect",
+      "status": "ACTIVE",
+      "has_images": true,
+      "price": 23.64,
+      "sku": "7015C001",
+      "is_visible_online": true,
+      "is_sellable": true
+    },
+    {
+      "title": "Estensore WiFi Bluetooth Blue",
+      "status": "ACTIVE",
+      "has_images": true,
+      "price": 88.25,
+      "sku": "7015C004",
+      "is_visible_online": true,
+      "is_sellable": true
+    },
+    {
+      "title": "Sonda sensore Blue Connect Blue Sensor Au",
+      "status": "ACTIVE",
+      "has_images": true,
+      "price": 179.65,
+      "sku": "7015R002",
+      "is_visible_online": true,
+      "is_sellable": true
+    },
+    {
+      "title": "Blue Fit 50",
+      "status": "ACTIVE",
+      "has_images": true,
+      "price": 38.77,
+      "sku": "7015C002",
+      "is_visible_online": true,
+      "is_sellable": true
+    },
+    {
+      "title": "Kit By Pass",
+      "status": "ACTIVE",
+      "has_images": true,
+      "price": 158.62,
+      "sku": "AR2000",
+      "is_visible_online": true,
+      "is_sellable": true
+    },
+    {
+      "title": "Pompa di calore mini - 40 m³",
+      "status": "ACTIVE",
+      "has_images": true,
+      "price": 925.97,
+      "sku": "HPM40",
+      "is_visible_online": true,
+      "is_sellable": true
+    },
+    {
+      "title": "Copertura per piscina rotonda in composite",
+      "status": "ACTIVE",
+      "has_images": true,
+      "price": 150.38,
+      "sku": "CVKPCO41",
+      "is_visible_online": true,
+      "is_sellable": true
+    },
+    {
+      "title": "Piscina quadrata copertura",
+      "status": "ACTIVE",
+      "has_images": true,
+      "price": 135.96,
+      "sku": "CVKPCOR28",
+      "is_visible_online": true,
+      "is_sellable": true
+    },
+    {
+      "title": "Doccia solare PVC nero 2 pezzi",
+      "status": "ACTIVE",
+      "has_images": true,
+      "price": 183.34,
+      "sku": "AR1020P",
+      "is_visible_online": true,
+      "is_sellable": true
+    },
+    {
+      "title": "Proiettore LED per piscine interrate, 9 LED, Bianco, 16 W",
+      "status": "ACTIVE",
+      "has_images": true,
+      "price": 229.69,
+      "sku": "PLREB",
+      "is_visible_online": true,
+      "is_sellable": true
+    },
+    {
+      "title": "Kit illuminazione piscina fuori terra con 2 proiettori LED",
+      "status": "ACTIVE",
+      "has_images": true,
+      "price": 24.21,
+      "sku": "PLED2",
+      "is_visible_online": true,
+      "is_sellable": true
+    },
+    {
+      "title": "Liner piscina legno quadrata Blu",
+      "status": "ACTIVE",
+      "has_images": true,
+      "price": 383.16,
+      "sku": "F790205",
+      "is_visible_online": true,
+      "is_sellable": true
+    },
+    {
+      "title": "Liner per piscine composite rotonde Grigio 40/100",
+      "status": "ACTIVE",
+      "has_images": true,
+      "price": 852.84,
+      "sku": "SPCO41G",
+      "is_visible_online": true,
+      "is_sellable": true
+    },
+    {
+      "title": "Liner per piscine in composite ovale, 524x386x124 cm",
+      "status": "ACTIVE",
+      "has_images": true,
+      "price": 1086.65,
+      "sku": "SPCO52G",
+      "is_visible_online": true,
+      "is_sellable": true
+    },
+    {
+      "title": "Liner Di Ricambio Grigio 60/100 Rettangolare x Piscine in Composito Gre",
+      "status": "ACTIVE",
+      "has_images": true,
+      "price": 972.32,
+      "sku": "SPCOR60G",
+      "is_visible_online": true,
+      "is_sellable": true
+    },
+    {
+      "title": "Liner Di Ricambio Per Piscine Rotonde Interrate Con Spessore 60/100 Gre",
+      "status": "ACTIVE",
+      "has_images": true,
+      "price": 990,
+      "sku": "PR5213FE",
+      "is_visible_online": true,
+      "is_sellable": true
+    },
+    {
+      "title": "Liner Di Ricambio Per Piscine Ovali Interrate Con Spessore 75/100 Gre",
+      "status": "ACTIVE",
+      "has_images": true,
+      "price": 1378.14,
+      "sku": "PROV8012FE",
+      "is_visible_online": true,
+      "is_sellable": true
+    },
+    {
+      "title": "Liner Grigio Di Ricambio x Piscina In Composito Quadrata 60/100 Gre",
+      "status": "ACTIVE",
+      "has_images": true,
+      "price": 655.08,
+      "sku": "SPCOR28G",
+      "is_visible_online": true,
+      "is_sellable": true
+    },
+    {
+      "title": "Scaletta Da 2 gradini Per SPA H 34 cm Gre - SPAL2",
+      "status": "ACTIVE",
+      "has_images": true,
+      "price": 85.49,
+      "sku": "SPAL2",
+      "is_visible_online": true,
+      "is_sellable": true
+    },
+    {
+      "title": "Scaletta Sintetica HDPE Per Piscine Interrate a 4 Gradini H206 cm Gre - EPE30",
+      "status": "ACTIVE",
+      "has_images": true,
+      "price": 410.97,
+      "sku": "EPE30",
+      "is_visible_online": true,
+      "is_sellable": true
+    },
+    {
+      "title": "Scaletta Per Piscine Fuoriterra 2x2 Gradini H 98 cm Gre - AR109",
+      "status": "ACTIVE",
+      "has_images": true,
+      "price": 82.4,
+      "sku": "AR109",
+      "is_visible_online": true,
+      "is_sellable": true
+    },
+    {
+      "title": "Spugne Magiche Per Linea Di Galleggiamento, 4 Unità - PGL4",
+      "status": "ACTIVE",
+      "has_images": true,
+      "price": 7,
+      "sku": "PGL4",
+      "is_visible_online": true,
+      "is_sellable": true
+    },
+    {
+      "title": "Skimmer Standard Completo Gre x Piscine Fuoriterra - AR100",
+      "status": "ACTIVE",
+      "has_images": true,
+      "price": 52.53,
+      "sku": "AR100",
+      "is_visible_online": true,
+      "is_sellable": true
+    },
+    {
+      "title": "Adattatore Puliscifondo x Tubo Pulitore e Skimmer - AR505",
+      "status": "ACTIVE",
+      "has_images": true,
+      "price": 11.9,
+      "sku": "AR505",
+      "is_visible_online": true,
+      "is_sellable": true
+    },
+    {
+      "title": "Tappeti Protettivi Rettangolari In Poliestere Per Piscine Fuoriterra",
+      "status": "ACTIVE",
+      "has_images": true,
+      "price": 247.2,
+      "sku": "MPROV1100",
+      "is_visible_online": true,
+      "is_sellable": true
+    },
+    {
+      "title": "Tappeto Puzzle Protettore Suolo In Etilene",
+      "status": "ACTIVE",
+      "has_images": true,
+      "price": 39.04,
+      "sku": "MPF819",
+      "is_visible_online": true,
+      "is_sellable": true
+    },
+    {
+      "title": "Tappeti In Poliestere Protettivi Rotondi Per Fondo Piscine",
+      "status": "ACTIVE",
+      "has_images": true,
+      "price": 143.17,
+      "sku": "MPR650",
+      "is_visible_online": true,
+      "is_sellable": true
+    },
+    {
+      "title": "Barriera Di Protezione Flessibile Per Piscine - SF133",
+      "status": "ACTIVE",
+      "has_images": true,
+      "price": 197.76,
+      "sku": "SF133",
+      "is_visible_online": true,
+      "is_sellable": true
+    },
+    {
+      "title": "Bicicletta Acquatica in Acciaio Inox Aquabike Per Aquafitness - AQB2",
+      "status": "ACTIVE",
+      "has_images": true,
+      "price": 862.11,
+      "sku": "AQB2",
+      "is_visible_online": true,
+      "is_sellable": true
+    },
+    {
+      "title": "Prodotto Minimal",
+      "status": "DRAFT",
+      "has_images": false,
+      "price": 0,
+      "sku": null,
+      "is_visible_online": false,
+      "is_sellable": false
+    },
+    {
+      "title": "Linea Rossa",
+      "status": "DRAFT",
+      "has_images": true,
+      "price": 0,
+      "sku": null,
+      "is_visible_online": false,
+      "is_sellable": false
+    },
+    {
+      "title": "Aspirapolvere RA 6300 iQ",
+      "status": "ACTIVE",
+      "has_images": true,
+      "price": 1962,
+      "sku": null,
+      "is_visible_online": true,
+      "is_sellable": true
+    },
+    {
+      "title": "Aspirapolvere RA 6900 iQ",
+      "status": "ACTIVE",
+      "has_images": true,
+      "price": 2598,
+      "sku": null,
+      "is_visible_online": true,
+      "is_sellable": true
+    },
+    {
+      "title": "Pulitore a vuoto OA 6600 iQ",
+      "status": "ACTIVE",
+      "has_images": true,
+      "price": 1459,
+      "sku": null,
+      "is_visible_online": true,
+      "is_sellable": true
+    },
+    {
+      "title": "Aspirapolvere OA 6400 iQ",
+      "status": "ACTIVE",
+      "has_images": true,
+      "price": 1349,
+      "sku": null,
+      "is_visible_online": true,
+      "is_sellable": true
+    },
+    {
+      "title": "Piscina Robot RA 6500 iQ",
+      "status": "ACTIVE",
+      "has_images": true,
+      "price": 2194,
+      "sku": null,
+      "is_visible_online": true,
+      "is_sellable": true
+    },
+    {
+      "title": "Aspirapolvere Robot RA 6800 iQ",
+      "status": "ACTIVE",
+      "has_images": true,
+      "price": 1849,
+      "sku": null,
+      "is_visible_online": true,
+      "is_sellable": true
+    },
+    {
+      "title": "SWY 3520",
+      "status": "ACTIVE",
+      "has_images": true,
+      "price": 649,
+      "sku": null,
+      "is_visible_online": true,
+      "is_sellable": true
+    },
+    {
+      "title": "SWY 3500 Piscina Robot Pulitore Elettrico",
+      "status": "ACTIVE",
+      "has_images": true,
+      "price": 649,
+      "sku": null,
+      "is_visible_online": true,
+      "is_sellable": true
+    },
+    {
+      "title": "Ovale 5390",
+      "status": "ACTIVE",
+      "has_images": true,
+      "price": 999,
+      "sku": null,
+      "is_visible_online": true,
+      "is_sellable": true
+    },
+    {
+      "title": "OV 5200 Sistema di Filtrazione",
+      "status": "ACTIVE",
+      "has_images": true,
+      "price": 999,
+      "sku": null,
+      "is_visible_online": true,
+      "is_sellable": true
+    },
+    {
+      "title": "GV 5220 Pulitore a Vapore",
+      "status": "ACTIVE",
+      "has_images": true,
+      "price": 999,
+      "sku": null,
+      "is_visible_online": true,
+      "is_sellable": true
+    },
+    {
+      "title": "Filtro FR 5200",
+      "status": "DRAFT",
+      "has_images": true,
+      "price": 0,
+      "sku": null,
+      "is_visible_online": false,
+      "is_sellable": false
+    },
+    {
+      "title": "OT 3290 Tile",
+      "status": "ACTIVE",
+      "has_images": true,
+      "price": 499,
+      "sku": null,
+      "is_visible_online": true,
+      "is_sellable": true
+    },
+    {
+      "title": "OT 3200",
+      "status": "ACTIVE",
+      "has_images": true,
+      "price": 499,
+      "sku": null,
+      "is_visible_online": true,
+      "is_sellable": true
+    },
+    {
+      "title": "GT 3220",
+      "status": "ACTIVE",
+      "has_images": true,
+      "price": 499,
+      "sku": null,
+      "is_visible_online": true,
+      "is_sellable": true
+    },
+    {
+      "title": "RT 3200",
+      "status": "ACTIVE",
+      "has_images": true,
+      "price": 829,
+      "sku": null,
+      "is_visible_online": true,
+      "is_sellable": true
+    },
+    {
+      "title": "XA 3010 iQ",
+      "status": "ACTIVE",
+      "has_images": true,
+      "price": 999,
+      "sku": null,
+      "is_visible_online": true,
+      "is_sellable": true
+    },
+    {
+      "title": "40 XA iQ",
+      "status": "ACTIVE",
+      "has_images": true,
+      "price": 1099,
+      "sku": null,
+      "is_visible_online": true,
+      "is_sellable": true
+    },
+    {
+      "title": "XA 4010 IQ",
+      "status": "ACTIVE",
+      "has_images": true,
+      "price": 1099,
+      "sku": null,
+      "is_visible_online": true,
+      "is_sellable": true
+    },
+    {
+      "title": "pH Expert",
+      "status": "ACTIVE",
+      "has_images": true,
+      "price": 420,
+      "sku": null,
+      "is_visible_online": true,
+      "is_sellable": true
+    },
+    {
+      "title": "RE 4200",
+      "status": "ACTIVE",
+      "has_images": true,
+      "price": 1165,
+      "sku": null,
+      "is_visible_online": true,
+      "is_sellable": true
+    },
+    {
+      "title": "RE 4700 iQ",
+      "status": "ACTIVE",
+      "has_images": true,
+      "price": 1769,
+      "sku": null,
+      "is_visible_online": true,
+      "is_sellable": true
+    },
+    {
+      "title": "RE 4400 iQ",
+      "status": "ACTIVE",
+      "has_images": true,
+      "price": 1476,
+      "sku": null,
+      "is_visible_online": true,
+      "is_sellable": true
+    },
+    {
+      "title": "RE 4300",
+      "status": "ACTIVE",
+      "has_images": true,
+      "price": 1232,
+      "sku": null,
+      "is_visible_online": true,
+      "is_sellable": true
+    },
+    {
+      "title": "RE 4600 iQ",
+      "status": "ACTIVE",
+      "has_images": true,
+      "price": 1671,
+      "sku": null,
+      "is_visible_online": true,
+      "is_sellable": true
+    },
+    {
+      "title": "Sirocco²",
+      "status": "DRAFT",
+      "has_images": true,
+      "price": 0,
+      "sku": null,
+      "is_visible_online": false,
+      "is_sellable": false
+    },
+    {
+      "title": "Heat Line",
+      "status": "DRAFT",
+      "has_images": true,
+      "price": 0,
+      "sku": null,
+      "is_visible_online": false,
+      "is_sellable": false
+    },
+    {
+      "title": "CNX 25",
+      "status": "ACTIVE",
+      "has_images": true,
+      "price": 879,
+      "sku": null,
+      "is_visible_online": true,
+      "is_sellable": true
+    },
+    {
+      "title": "CNX 20",
+      "status": "ACTIVE",
+      "has_images": true,
+      "price": 799,
+      "sku": null,
+      "is_visible_online": true,
+      "is_sellable": true
+    },
+    {
+      "title": "CNX 30 iQ",
+      "status": "ACTIVE",
+      "has_images": true,
+      "price": 999,
+      "sku": null,
+      "is_visible_online": true,
+      "is_sellable": true
+    },
+    {
+      "title": "CNX 40 iQ",
+      "status": "ACTIVE",
+      "has_images": true,
+      "price": 1099,
+      "sku": null,
+      "is_visible_online": true,
+      "is_sellable": true
+    },
+    {
+      "title": "CNX 50 iQ",
+      "status": "ACTIVE",
+      "has_images": true,
+      "price": 1199,
+      "sku": null,
+      "is_visible_online": true,
+      "is_sellable": true
+    },
+    {
+      "title": "Scambiatore di calore Zodiac RE/U",
+      "status": "DRAFT",
+      "has_images": true,
+      "price": 0,
+      "sku": null,
+      "is_visible_online": false,
+      "is_sellable": false
+    },
+    {
+      "title": "FloPro™ VS",
+      "status": "DRAFT",
+      "has_images": true,
+      "price": 0,
+      "sku": null,
+      "is_visible_online": false,
+      "is_sellable": false
+    },
+    {
+      "title": "Scambiatore di calore Zodiac RE/L",
+      "status": "DRAFT",
+      "has_images": true,
+      "price": 0,
+      "sku": null,
+      "is_visible_online": false,
+      "is_sellable": false
+    },
+    {
+      "title": "Z350iQ",
+      "status": "ACTIVE",
+      "has_images": true,
+      "price": 1950,
+      "sku": null,
+      "is_visible_online": true,
+      "is_sellable": true
+    },
+    {
+      "title": "Scambiatore di calore Zodiac RE/I",
+      "status": "DRAFT",
+      "has_images": true,
+      "price": 0,
+      "sku": null,
+      "is_visible_online": false,
+      "is_sellable": false
+    },
+    {
+      "title": "CAE con condotti",
+      "status": "DRAFT",
+      "has_images": true,
+      "price": 0,
+      "sku": null,
+      "is_visible_online": false,
+      "is_sellable": false
+    },
+    {
+      "title": "Power Force Inverter",
+      "status": "ACTIVE",
+      "has_images": true,
+      "price": 6900,
+      "sku": null,
+      "is_visible_online": true,
+      "is_sellable": true
+    },
+    {
+      "title": "Z950 Inverter",
+      "status": "ACTIVE",
+      "has_images": true,
+      "price": 5500,
+      "sku": null,
+      "is_visible_online": true,
+      "is_sellable": true
+    },
+    {
+      "title": "Z250iQ",
+      "status": "ACTIVE",
+      "has_images": true,
+      "price": 1450,
+      "sku": null,
+      "is_visible_online": true,
+      "is_sellable": true
+    },
+    {
+      "title": "Z650iQ",
+      "status": "ACTIVE",
+      "has_images": true,
+      "price": 4200,
+      "sku": null,
+      "is_visible_online": true,
+      "is_sellable": true
+    },
+    {
+      "title": "Z400iQ",
+      "status": "ACTIVE",
+      "has_images": true,
+      "price": 3200,
+      "sku": null,
+      "is_visible_online": true,
+      "is_sellable": true
+    },
+    {
+      "title": "Filtro a cartuccia Zodiac PX25",
+      "status": "DRAFT",
+      "has_images": true,
+      "price": 0,
+      "sku": null,
+      "is_visible_online": false,
+      "is_sellable": false
+    },
+    {
+      "title": "Filtro a cartuccia Zodiac CS",
+      "status": "DRAFT",
+      "has_images": true,
+      "price": 0,
+      "sku": null,
+      "is_visible_online": false,
+      "is_sellable": false
+    },
+    {
+      "title": "Crystal Clear",
+      "status": "DRAFT",
+      "has_images": true,
+      "price": 0,
+      "sku": null,
+      "is_visible_online": false,
+      "is_sellable": false
+    },
+    {
+      "title": "eXO® iQ",
+      "status": "ACTIVE",
+      "has_images": true,
+      "price": 1550,
+      "sku": null,
+      "is_visible_online": true,
+      "is_sellable": true
+    },
+    {
+      "title": "eXO® iQ LS",
+      "status": "ACTIVE",
+      "has_images": true,
+      "price": 1550,
+      "sku": null,
+      "is_visible_online": true,
+      "is_sellable": true
+    },
+    {
+      "title": "Dual Link",
+      "status": "DRAFT",
+      "has_images": true,
+      "price": 0,
+      "sku": null,
+      "is_visible_online": false,
+      "is_sellable": false
+    },
+    {
+      "title": "pH Link",
+      "status": "DRAFT",
+      "has_images": true,
+      "price": 0,
+      "sku": null,
+      "is_visible_online": false,
+      "is_sellable": false
+    },
+    {
+      "title": "Ei² iQ",
+      "status": "ACTIVE",
+      "has_images": true,
+      "price": 990,
+      "sku": null,
+      "is_visible_online": true,
+      "is_sellable": true
+    },
+    {
+      "title": "EiSalt",
+      "status": "ACTIVE",
+      "has_images": true,
+      "price": 750,
+      "sku": null,
+      "is_visible_online": true,
+      "is_sellable": true
+    },
+    {
+      "title": "eXPERT pH/ORP",
+      "status": "DRAFT",
+      "has_images": true,
+      "price": 0,
+      "sku": null,
+      "is_visible_online": false,
+      "is_sellable": false
+    },
+    {
+      "title": "eXPERT",
+      "status": "DRAFT",
+      "has_images": true,
+      "price": 0,
+      "sku": null,
+      "is_visible_online": false,
+      "is_sellable": false
+    },
+    {
+      "title": "TRX 8500 iQ",
+      "status": "ACTIVE",
+      "has_images": true,
+      "price": 3990,
+      "sku": null,
+      "is_visible_online": true,
+      "is_sellable": true
+    },
+    {
+      "title": "TRX 8700 iQ",
+      "status": "ACTIVE",
+      "has_images": true,
+      "price": 4790,
+      "sku": null,
+      "is_visible_online": true,
+      "is_sellable": true
+    },
+    {
+      "title": "Blue Connect Silver",
+      "status": "DRAFT",
+      "has_images": true,
+      "price": 0,
+      "sku": null,
+      "is_visible_online": false,
+      "is_sellable": false
+    },
+    {
+      "title": "Blue Connect Gold",
+      "status": "DRAFT",
+      "has_images": true,
+      "price": 0,
+      "sku": null,
+      "is_visible_online": false,
+      "is_sellable": false
+    },
+    {
+      "title": "Uranus",
+      "status": "DRAFT",
+      "has_images": true,
+      "price": 0,
+      "sku": null,
+      "is_visible_online": false,
+      "is_sellable": false
+    },
+    {
+      "title": "Chlor Expert",
+      "status": "ACTIVE",
+      "has_images": true,
+      "price": 480,
+      "sku": null,
+      "is_visible_online": true,
+      "is_sellable": true
+    },
+    {
+      "title": "iQPump",
+      "status": "ACTIVE",
+      "has_images": true,
+      "price": 1050,
+      "sku": null,
+      "is_visible_online": true,
+      "is_sellable": true
+    },
+    {
+      "title": "E30iQ",
+      "status": "ACTIVE",
+      "has_images": true,
+      "price": 1249,
+      "sku": null,
+      "is_visible_online": true,
+      "is_sellable": true
+    },
+    {
+      "title": "FloPro™",
+      "status": "DRAFT",
+      "has_images": true,
+      "price": 0,
+      "sku": null,
+      "is_visible_online": false,
+      "is_sellable": false
+    },
+    {
+      "title": "DT 850 E",
+      "status": "DRAFT",
+      "has_images": true,
+      "price": 0,
+      "sku": null,
+      "is_visible_online": false,
+      "is_sellable": false
+    },
+    {
+      "title": "OP 3220",
+      "status": "ACTIVE",
+      "has_images": true,
+      "price": 499,
+      "sku": null,
+      "is_visible_online": true,
+      "is_sellable": true
+    },
+    {
+      "title": "OP 32",
+      "status": "ACTIVE",
+      "has_images": true,
+      "price": 499,
+      "sku": null,
+      "is_visible_online": true,
+      "is_sellable": true
+    },
+    {
+      "title": "RF 5400 iQ",
+      "status": "ACTIVE",
+      "has_images": true,
+      "price": 1645,
+      "sku": null,
+      "is_visible_online": true,
+      "is_sellable": true
+    },
+    {
+      "title": "RF 5200 iQ",
+      "status": "ACTIVE",
+      "has_images": true,
+      "price": 1462,
+      "sku": null,
+      "is_visible_online": true,
+      "is_sellable": true
+    },
+    {
+      "title": "RF 42 iQ",
+      "status": "ACTIVE",
+      "has_images": true,
+      "price": 1304,
+      "sku": null,
+      "is_visible_online": true,
+      "is_sellable": true
+    },
+    {
+      "title": "RF 5600 iQ",
+      "status": "ACTIVE",
+      "has_images": true,
+      "price": 1828,
+      "sku": null,
+      "is_visible_online": true,
+      "is_sellable": true
+    },
+    {
+      "title": "OF 42 iQ",
+      "status": "ACTIVE",
+      "has_images": true,
+      "price": 849,
+      "sku": null,
+      "is_visible_online": true,
+      "is_sellable": true
+    },
+    {
+      "title": "Freedom+ Control",
+      "status": "ACTIVE",
+      "has_images": true,
+      "price": 1299,
+      "sku": null,
+      "is_visible_online": true,
+      "is_sellable": true
+    },
+    {
+      "title": "CNX-Li 5220 iQ",
+      "status": "ACTIVE",
+      "has_images": true,
+      "price": 1299,
+      "sku": null,
+      "is_visible_online": true,
+      "is_sellable": true
+    },
+    {
+      "title": "OF 4220 iQ",
+      "status": "ACTIVE",
+      "has_images": true,
+      "price": 849,
+      "sku": null,
+      "is_visible_online": true,
+      "is_sellable": true
+    },
+    {
+      "title": "CNX-Li 52 iQ",
+      "status": "ACTIVE",
+      "has_images": true,
+      "price": 999,
+      "sku": null,
+      "is_visible_online": true,
+      "is_sellable": true
+    },
+    {
+      "title": "Bluespring",
+      "status": "DRAFT",
+      "has_images": true,
+      "price": 0,
+      "sku": null,
+      "is_visible_online": false,
+      "is_sellable": false
+    },
+    {
+      "title": "Ninfea Thiny",
+      "status": "DRAFT",
+      "has_images": true,
+      "price": 0,
+      "sku": null,
+      "is_visible_online": false,
+      "is_sellable": false
+    },
+    {
+      "title": "Dolcevita Naked",
+      "status": "DRAFT",
+      "has_images": true,
+      "price": 0,
+      "sku": null,
+      "is_visible_online": false,
+      "is_sellable": false
+    },
+    {
+      "title": "Divina Skimmer",
+      "status": "DRAFT",
+      "has_images": true,
+      "price": 0,
+      "sku": null,
+      "is_visible_online": false,
+      "is_sellable": false
+    },
+    {
+      "title": "City",
+      "status": "DRAFT",
+      "has_images": true,
+      "price": 0,
+      "sku": null,
+      "is_visible_online": false,
+      "is_sellable": false
+    },
+    {
+      "title": "Dolcevita Diva LTI",
+      "status": "DRAFT",
+      "has_images": true,
+      "price": 0,
+      "sku": null,
+      "is_visible_online": false,
+      "is_sellable": false
+    },
+    {
+      "title": "Classic",
+      "status": "DRAFT",
+      "has_images": true,
+      "price": 0,
+      "sku": null,
+      "is_visible_online": false,
+      "is_sellable": false
+    },
+    {
+      "title": "Playa",
+      "status": "DRAFT",
+      "has_images": true,
+      "price": 0,
+      "sku": null,
+      "is_visible_online": false,
+      "is_sellable": false
+    },
+    {
+      "title": "Pop!",
+      "status": "DRAFT",
+      "has_images": true,
+      "price": 0,
+      "sku": null,
+      "is_visible_online": false,
+      "is_sellable": false
+    },
+    {
+      "title": "Antea",
+      "status": "DRAFT",
+      "has_images": true,
+      "price": 0,
+      "sku": null,
+      "is_visible_online": false,
+      "is_sellable": false
+    },
+    {
+      "title": "Ninfea",
+      "status": "DRAFT",
+      "has_images": true,
+      "price": 0,
+      "sku": null,
+      "is_visible_online": false,
+      "is_sellable": false
+    },
+    {
+      "title": "Dolcevita Rattan",
+      "status": "DRAFT",
+      "has_images": true,
+      "price": 0,
+      "sku": null,
+      "is_visible_online": false,
+      "is_sellable": false
+    },
+    {
+      "title": "Professional",
+      "status": "DRAFT",
+      "has_images": true,
+      "price": 0,
+      "sku": null,
+      "is_visible_online": false,
+      "is_sellable": false
+    },
+    {
+      "title": "Musa",
+      "status": "DRAFT",
+      "has_images": true,
+      "price": 0,
+      "sku": null,
+      "is_visible_online": false,
+      "is_sellable": false
+    },
+    {
+      "title": "Dolcevita Diva",
+      "status": "DRAFT",
+      "has_images": true,
+      "price": 0,
+      "sku": null,
+      "is_visible_online": false,
+      "is_sellable": false
+    },
+    {
+      "title": "MS",
+      "status": "DRAFT",
+      "has_images": true,
+      "price": 0,
+      "sku": null,
+      "is_visible_online": false,
+      "is_sellable": false
+    },
+    {
+      "title": "Pompa di calore Z550 IQ MD4",
+      "status": "ACTIVE",
+      "has_images": true,
+      "price": 5142,
+      "sku": null,
+      "is_visible_online": true,
+      "is_sellable": true
+    },
+    {
+      "title": "eXPERT pH",
+      "status": "DRAFT",
+      "has_images": true,
+      "price": 0,
+      "sku": null,
+      "is_visible_online": false,
+      "is_sellable": false
+    },
+    {
+      "title": "Freedom Lite",
+      "status": "ACTIVE",
+      "has_images": true,
+      "price": 649,
+      "sku": null,
+      "is_visible_online": true,
+      "is_sellable": true
+    },
+    {
+      "title": "Red Line",
+      "status": "DRAFT",
+      "has_images": true,
+      "price": 0,
+      "sku": null,
+      "is_visible_online": false,
+      "is_sellable": false
+    },
+    {
+      "title": "OA 6600 iQ",
+      "status": "DRAFT",
+      "has_images": true,
+      "price": 0,
+      "sku": null,
+      "is_visible_online": false,
+      "is_sellable": false
+    },
+    {
+      "title": "SWY 3500",
+      "status": "DRAFT",
+      "has_images": true,
+      "price": 0,
+      "sku": null,
+      "is_visible_online": false,
+      "is_sellable": false
+    },
+    {
+      "title": "OV 5390",
+      "status": "DRAFT",
+      "has_images": true,
+      "price": 0,
+      "sku": null,
+      "is_visible_online": false,
+      "is_sellable": false
+    },
+    {
+      "title": "OV 5200",
+      "status": "DRAFT",
+      "has_images": true,
+      "price": 0,
+      "sku": null,
+      "is_visible_online": false,
+      "is_sellable": false
+    },
+    {
+      "title": "GV 5220",
+      "status": "DRAFT",
+      "has_images": true,
+      "price": 0,
+      "sku": null,
+      "is_visible_online": false,
+      "is_sellable": false
+    },
+    {
+      "title": "Z550iQ",
+      "status": "ACTIVE",
+      "has_images": true,
+      "price": 2800,
+      "sku": null,
+      "is_visible_online": true,
+      "is_sellable": true
+    },
+    {
+      "title": "Piscina Power Steel Rettangolare",
+      "status": "DRAFT",
+      "has_images": true,
+      "price": 0,
+      "sku": null,
+      "is_visible_online": false,
+      "is_sellable": false
+    },
+    {
+      "title": "Piscina Power Steel Rotonda",
+      "status": "DRAFT",
+      "has_images": true,
+      "price": 0,
+      "sku": null,
+      "is_visible_online": false,
+      "is_sellable": false
+    },
+    {
+      "title": "Piscina Power Steel Rettangolare",
+      "status": "DRAFT",
+      "has_images": true,
+      "price": 0,
+      "sku": null,
+      "is_visible_online": false,
+      "is_sellable": false
+    },
+    {
+      "title": "Piscina Power Steel Rotonda",
+      "status": "DRAFT",
+      "has_images": true,
+      "price": 0,
+      "sku": null,
+      "is_visible_online": false,
+      "is_sellable": false
+    },
+    {
+      "title": "Piscina Prisma Frame Ovale",
+      "status": "ACTIVE",
+      "has_images": true,
+      "price": 1206.57,
+      "sku": "26798NP",
+      "is_visible_online": true,
+      "is_sellable": true
+    },
+    {
+      "title": "Piscina Prisma Frame Rotonda",
+      "status": "DRAFT",
+      "has_images": true,
+      "price": 0,
+      "sku": null,
+      "is_visible_online": false,
+      "is_sellable": false
+    },
+    {
+      "title": "Piscina Prisma Frame Rettangolare",
+      "status": "DRAFT",
+      "has_images": true,
+      "price": 0,
+      "sku": null,
+      "is_visible_online": false,
+      "is_sellable": false
+    },
+    {
+      "title": "Piscina Metallica Rotonda",
+      "status": "DRAFT",
+      "has_images": true,
+      "price": 0,
+      "sku": null,
+      "is_visible_online": false,
+      "is_sellable": false
+    },
+    {
+      "title": "Piscina Easy Set Idromassaggio",
+      "status": "ACTIVE",
+      "has_images": true,
+      "price": 485.56,
+      "sku": "26168NP",
+      "is_visible_online": true,
+      "is_sellable": true
+    },
+    {
+      "title": "Piscina Metallica Rettangolare",
+      "status": "ACTIVE",
+      "has_images": true,
+      "price": 331.55,
+      "sku": "28274NP",
+      "is_visible_online": true,
+      "is_sellable": true
+    },
+    {
+      "title": "Piscina Power Metallica Rotonda",
+      "status": "ACTIVE",
+      "has_images": true,
+      "price": 164.43,
+      "sku": "28206NP",
+      "is_visible_online": true,
+      "is_sellable": true
+    },
+    {
+      "title": "Piscina Power Steel Metallica",
+      "status": "ACTIVE",
+      "has_images": true,
+      "price": 151.67,
+      "sku": "28200NP",
+      "is_visible_online": true,
+      "is_sellable": true
+    },
+    {
+      "title": "Piscina Rectangolare Intex 220x150x60cm 28266NP",
+      "status": "ACTIVE",
+      "has_images": true,
+      "price": 128.63,
+      "sku": "28266NP",
+      "is_visible_online": true,
+      "is_sellable": true
+    },
+    {
+      "title": "Piscina Power Pietra",
+      "status": "ACTIVE",
+      "has_images": true,
+      "price": 127.68,
+      "sku": "28270NP",
+      "is_visible_online": true,
+      "is_sellable": true
+    },
+    {
+      "title": "Robot Pulitore",
+      "status": "ACTIVE",
+      "has_images": true,
+      "price": 476.81,
+      "sku": "28624",
+      "is_visible_online": true,
+      "is_sellable": true
+    },
+    {
+      "title": "Telo Termico",
+      "status": "DRAFT",
+      "has_images": true,
+      "price": 0,
+      "sku": null,
+      "is_visible_online": false,
+      "is_sellable": false
+    },
+    {
+      "title": "Telo Copri",
+      "status": "DRAFT",
+      "has_images": true,
+      "price": 0,
+      "sku": null,
+      "is_visible_online": false,
+      "is_sellable": false
+    },
+    {
+      "title": "Robot Pulitore Automatico",
+      "status": "ACTIVE",
+      "has_images": true,
+      "price": 111.68,
+      "sku": "28007EX",
+      "is_visible_online": true,
+      "is_sellable": true
+    },
+    {
+      "title": "Telo Copri Dura+",
+      "status": "ACTIVE",
+      "has_images": true,
+      "price": 106.69,
+      "sku": "28086",
+      "is_visible_online": true,
+      "is_sellable": true
+    },
+    {
+      "title": "Luce LED Magnetica",
+      "status": "ACTIVE",
+      "has_images": true,
+      "price": 105.82,
+      "sku": "28698",
+      "is_visible_online": true,
+      "is_sellable": true
+    },
+    {
+      "title": "Telo Copri Deluxe",
+      "status": "ACTIVE",
+      "has_images": true,
+      "price": 103.39,
+      "sku": "28040",
+      "is_visible_online": true,
+      "is_sellable": true
+    },
+    {
+      "title": "Luce a LED Galleggiante",
+      "status": "ACTIVE",
+      "has_images": true,
+      "price": 46.75,
+      "sku": "28625",
+      "is_visible_online": true,
+      "is_sellable": true
+    },
+    {
+      "title": "Telo Copri Prisma",
+      "status": "DRAFT",
+      "has_images": true,
+      "price": 0,
+      "sku": null,
+      "is_visible_online": false,
+      "is_sellable": false
+    },
+    {
+      "title": "Tela Copri Piscina Intex per Piscine Rettangolari 450x220 cm",
+      "status": "ACTIVE",
+      "has_images": true,
+      "price": 33.72,
+      "sku": "28039",
+      "is_visible_online": true,
+      "is_sellable": true
+    },
+    {
+      "title": "Kit Pulizia Intex",
+      "status": "ACTIVE",
+      "has_images": true,
+      "price": 27.94,
+      "sku": "29056",
+      "is_visible_online": true,
+      "is_sellable": true
+    },
+    {
+      "title": "Pompa Filtro Krystal Clear",
+      "status": "DRAFT",
+      "has_images": true,
+      "price": 0,
+      "sku": null,
+      "is_visible_online": false,
+      "is_sellable": false
+    },
+    {
+      "title": "Aspirapolvere Intex",
+      "status": "ACTIVE",
+      "has_images": true,
+      "price": 101.54,
+      "sku": "28620NP",
+      "is_visible_online": true,
+      "is_sellable": true
+    },
+    {
+      "title": "Luce LED Intex",
+      "status": "ACTIVE",
+      "has_images": true,
+      "price": 29.62,
+      "sku": "28503",
+      "is_visible_online": true,
+      "is_sellable": true
+    },
+    {
+      "title": "Cartuccie Chlorinanti Intex",
+      "status": "ACTIVE",
+      "has_images": true,
+      "price": 15.93,
+      "sku": "29001",
+      "is_visible_online": true,
+      "is_sellable": true
+    },
+    {
+      "title": "Cartuccia per Piscina Intex PureSpa",
+      "status": "ACTIVE",
+      "has_images": true,
+      "price": 12.36,
+      "sku": "29012",
+      "is_visible_online": true,
+      "is_sellable": true
+    },
+    {
+      "title": "Piscina Rettangolare per Cani Intex",
+      "status": "DRAFT",
+      "has_images": true,
+      "price": 393.89,
+      "sku": "48404NP",
+      "is_visible_online": false,
+      "is_sellable": false
+    },
+    {
+      "title": "Piscina Intex Inflabile",
+      "status": "DRAFT",
+      "has_images": true,
+      "price": 227.52,
+      "sku": "48402NP",
+      "is_visible_online": false,
+      "is_sellable": false
+    },
+    {
+      "title": "Piscina Intex Anelli",
+      "status": "DRAFT",
+      "has_images": true,
+      "price": 26.61,
+      "sku": "57422NP",
+      "is_visible_online": false,
+      "is_sellable": false
+    },
+    {
+      "title": "Piscine e Coperture Intex",
+      "status": "ACTIVE",
+      "has_images": true,
+      "price": 112.93,
+      "sku": "57186NP",
+      "is_visible_online": true,
+      "is_sellable": true
+    },
+    {
+      "title": "Piscine Intex",
+      "status": "DRAFT",
+      "has_images": true,
+      "price": 0,
+      "sku": null,
+      "is_visible_online": false,
+      "is_sellable": false
+    },
+    {
+      "title": "Piscina Gonfiabile Paradise 6 Persone - Intex IPRS300F-01",
+      "status": "DRAFT",
+      "has_images": true,
+      "price": 56.85,
+      "sku": "56490NP",
+      "is_visible_online": false,
+      "is_sellable": false
+    },
+    {
+      "title": "Pompe per Piscine Intex",
+      "status": "ACTIVE",
+      "has_images": true,
+      "price": 74.66,
+      "sku": "68609",
+      "is_visible_online": true,
+      "is_sellable": true
+    },
+    {
+      "title": "Pompa Elettrica QuickFill",
+      "status": "ACTIVE",
+      "has_images": true,
+      "price": 50.56,
+      "sku": "66637",
+      "is_visible_online": true,
+      "is_sellable": true
+    },
+    {
+      "title": "Piscina Prisma Frame",
+      "status": "ACTIVE",
+      "has_images": true,
+      "price": 1136.63,
+      "sku": "26770NP",
+      "is_visible_online": true,
+      "is_sellable": true
+    },
+    {
+      "title": "Pompa Filtro Sabbia",
+      "status": "ACTIVE",
+      "has_images": true,
+      "price": 384.85,
+      "sku": "26648",
+      "is_visible_online": true,
+      "is_sellable": true
+    },
+    {
+      "title": "Accessori Piscina",
+      "status": "ACTIVE",
+      "has_images": true,
+      "price": 34.95,
+      "sku": "19954",
+      "is_visible_online": true,
+      "is_sellable": true
+    },
+    {
+      "title": "Piscina Easy Set",
+      "status": "DRAFT",
+      "has_images": true,
+      "price": 0,
+      "sku": null,
+      "is_visible_online": false,
+      "is_sellable": false
+    },
+    {
+      "title": "Piscina Bestway Solo Struttura",
+      "status": "DRAFT",
+      "has_images": false,
+      "price": 999,
+      "sku": "56936-5",
+      "is_visible_online": false,
+      "is_sellable": false
+    },
+    {
+      "title": "KIT Piscina ovale decorazione nordic con sistema omega. Parete in acciaio. Liner grigio 40/100. Filtro a sabbia da 6m³/h. Skimmer. Scala di sicurezza con piattaforma 2x3 gradini. Tappeto. Include dispositivo Smart Plug. Dim: 730x375 h 132",
+      "status": "DRAFT",
+      "has_images": true,
+      "price": 4707.1,
+      "sku": "KITPROV7388N",
+      "is_visible_online": false,
+      "is_sellable": false
+    },
+    {
+      "title": "KIT Piscina ovale decorazione nordic con sistema omega. Parete in acciaio. Liner grigio 40/100. Filtro a sabbia da 6m³/h. Skimmer. Scala di sicurezza con piattaforma 2x3 gradini. Tappeto. Include dispositivo Smart Plug. Dim: 610x375 h 132",
+      "status": "DRAFT",
+      "has_images": true,
+      "price": 4006.7,
+      "sku": "KITPROV6188N",
+      "is_visible_online": false,
+      "is_sellable": false
+    },
+    {
+      "title": "KIT Piscina ovale decorazione nordic con 3 rinforzi laterali per parte. Parete in acciaio. Liner grigio 40/100. Filtro a sabbia da 6m³/h. Skimmer. Scala di sicurezza con piattaforma 2x3 gradini. Tappeto. Include dispositivo Smart Plug. Dim: 730x375 h 132",
+      "status": "DRAFT",
+      "has_images": true,
+      "price": 3790.4,
+      "sku": "KITPROV738N",
+      "is_visible_online": false,
+      "is_sellable": false
+    },
+    {
+      "title": "KIT Piscina ovale decorazione nordic con 2 rinforzi laterali per parte. Parete in acciaio. Liner grigio 40/100. Filtro a sabbia da 6m³/h. Skimmer. Scala di sicurezza con piattaforma 2x3 gradini. Tappeto. Include dispositivo Smart Plug. Dim: 610x375 h 132",
+      "status": "DRAFT",
+      "has_images": true,
+      "price": 3167.25,
+      "sku": "KITPROV618N",
+      "is_visible_online": false,
+      "is_sellable": false
+    },
+    {
+      "title": "KIT Piscina ovale decorazione nordic con 2 rinforzi laterali per parte. Parete in acciaio. Liner grigio 40/100. Filtro a sabbia da 6m³/h. Skimmer. Scala di sicurezza con piattaforma 2x3 gradini. Tappeto. Include dispositivo Smart Plug. Dim: 500x300 h 132",
+      "status": "DRAFT",
+      "has_images": true,
+      "price": 2863.4,
+      "sku": "KITPROV508N",
+      "is_visible_online": false,
+      "is_sellable": false
+    },
+    {
+      "title": "KIT Piscina tonda decorazione nordic. Parete in acciaio. Liner grigio 40/100. Filtro a sabbia da 6m³/h. Skimmer. Scala di sicurezza con piattaforma 2x3 gradini. Tappeto. Include dispositivo Smart Plug. Dim: Ø 550 h 132",
+      "status": "DRAFT",
+      "has_images": true,
+      "price": 2811.9,
+      "sku": "KITPR558N",
+      "is_visible_online": false,
+      "is_sellable": false
+    },
+    {
+      "title": "KIT Piscina tonda decorazione nordic. Parete in acciaio. Liner grigio 40/100. Filtro a sabbia da 6m³/h. Skimmer. Scala di sicurezza con piattaforma 2x3 gradini. Tappeto. Include dispositivo Smart Plug. Dim: Ø 460 h 132",
+      "status": "DRAFT",
+      "has_images": true,
+      "price": 2271.15,
+      "sku": "KITPR458N",
+      "is_visible_online": false,
+      "is_sellable": false
+    },
+    {
+      "title": "KIT Piscina tonda decorazione nordic. Parete in acciaio. Liner grigio 40/100. Filtro a sabbia da 6m³/h. Skimmer. Scala di sicurezza con piattaforma 2x3 gradini. Tappeto. Include dispositivo Smart Plug. Dim: Ø 350 h 132",
+      "status": "DRAFT",
+      "has_images": true,
+      "price": 2106.35,
+      "sku": "KITPR358N",
+      "is_visible_online": false,
+      "is_sellable": false
+    },
+    {
+      "title": "KIT Piscina ovale decorazione grigio antracite con sistema omega. Parete in acciaio. Liner blu 40/100. Filtro a sabbia da 6m³/h. Skimmer. Scala di sicurezza con piattaforma 2x3 gradini. Tappeto. Include dispositivo Smart Plug. Dim: 730x375 h 132",
+      "status": "DRAFT",
+      "has_images": true,
+      "price": 4221.97,
+      "sku": "KITPROV7388GY",
+      "is_visible_online": false,
+      "is_sellable": false
+    },
+    {
+      "title": "KIT Piscina ovale decorazione grigio antracite con sistema omega. Parete in acciaio. Liner blu 40/100. Filtro a sabbia da 6m³/h. Skimmer. Scala di sicurezza con piattaforma 2x3 gradini. Tappeto. Include dispositivo Smart Plug.  Dim: 610x375 h 132",
+      "status": "DRAFT",
+      "has_images": true,
+      "price": 3605,
+      "sku": "KITPROV6188GY",
+      "is_visible_online": false,
+      "is_sellable": false
+    },
+    {
+      "title": "KIT Piscina ovale decorazione grigio antracite con 3 rinforzi laterali per parte. Parete in acciaio. Liner blu 40/100. Filtro a sabbia da 4m³/h. Skimmer. Scala di sicurezza con piattaforma 2x3 gradini. Dim: 730x375 h 120",
+      "status": "DRAFT",
+      "has_images": true,
+      "price": 0,
+      "sku": null,
+      "is_visible_online": false,
+      "is_sellable": false
+    },
+    {
+      "title": "KIT Piscina ovale decorazione grigio antracite con 2 rinforzi laterali per parte. Parete in acciaio. Liner blu 40/100. Filtro a sabbia da 4m³/h. Skimmer. Scala di sicurezza con piattaforma 2x3 gradini. Dim: 610x375 h 120",
+      "status": "DRAFT",
+      "has_images": true,
+      "price": 2451.4,
+      "sku": "KIT610GY",
+      "is_visible_online": false,
+      "is_sellable": false
+    },
+    {
+      "title": "KIT Piscina ovale decorazione grigio antracite con 2 rinforzi laterali per parte. Parete in acciaio. Liner blu 30/100. Filtro a sabbia da 4m³/h. Skimmer. Scala di sicurezza con piattaforma 2x3 gradini. Dim: 500x300 h 120",
+      "status": "DRAFT",
+      "has_images": true,
+      "price": 2090.9,
+      "sku": "KIT500GY",
+      "is_visible_online": false,
+      "is_sellable": false
+    },
+    {
+      "title": "KIT Piscina tonda decorazione grigio antracite. Parete in acciaio. Liner blu 30/100. Filtro a sabbia da 4m³/h. Skimmer. Scala di sicurezza con piattaforma 2x3 gradini. Dim: Ø 460 h 120",
+      "status": "DRAFT",
+      "has_images": true,
+      "price": 1668.6,
+      "sku": "KIT460GY",
+      "is_visible_online": false,
+      "is_sellable": false
+    },
+    {
+      "title": "KIT Piscina tonda decorazione grigio antracite. Parete in acciaio. Liner blu 30/100. Filtro a sabbia da 4m³/h. Skimmer. Scala di sicurezza con piattaforma 2x3 gradini. Dim: Ø 350 h 120",
+      "status": "DRAFT",
+      "has_images": true,
+      "price": 1431.7,
+      "sku": "KIT350GY",
+      "is_visible_online": false,
+      "is_sellable": false
+    },
+    {
+      "title": "KIT Piscina tonda decorazione grigio antracite. Parete in acciaio. Liner blu 30/100. Filtro a sabbia da 4m³/h. Skimmer. Scala di sicurezza con piattaforma 2x3 gradini. Dim: Ø 300 h 120",
+      "status": "DRAFT",
+      "has_images": true,
+      "price": 1390.5,
+      "sku": "KIT300GY",
+      "is_visible_online": false,
+      "is_sellable": false
+    },
+    {
+      "title": "KIT Piscina ovale decorazione legno con 2 rinforzi laterali per parte. Parete in acciaio. Liner blu 40/100. Filtro Aqualoon da 4m³/h. Skimmer. Scala di sicurezza con piattaforma 2x3 gradini. Dim: 610x375 h 120",
+      "status": "DRAFT",
+      "has_images": true,
+      "price": 1801.47,
+      "sku": "KIT610WQGRE",
+      "is_visible_online": false,
+      "is_sellable": false
+    },
+    {
+      "title": "KIT Piscina ovale decorazione legno con 2 rinforzi laterali per parte. Parete in acciaio. Liner blu 30/100. Filtro Aqualoon da 4m³/h. Skimmer. Scala di sicurezza con piattaforma 2x3 gradini. Dim: 500x300 h 120",
+      "status": "DRAFT",
+      "has_images": true,
+      "price": 1502.77,
+      "sku": "KIT500WQGRE",
+      "is_visible_online": false,
+      "is_sellable": false
+    },
+    {
+      "title": "KIT Piscina tonda decorazione legno. Parete in acciaio. Liner blu 30/100. Filtro Aqualoon da 4m³/h. Skimmer. Scala di sicurezza con piattaforma 2x3 gradini. Dim: Ø 460 h 120",
+      "status": "DRAFT",
+      "has_images": true,
+      "price": 1214.37,
+      "sku": "KIT460WQGRE",
+      "is_visible_online": false,
+      "is_sellable": false
+    },
+    {
+      "title": "KIT Piscina tonda decorazione legno. Parete in acciaio. Liner blu 30/100. Filtro Aqualoon da 4m³/h. Skimmer. Scala di sicurezza con piattaforma 2x3 gradini. Dim: Ø 350 h 120",
+      "status": "DRAFT",
+      "has_images": true,
+      "price": 1111.37,
+      "sku": "KIT350WQGRE",
+      "is_visible_online": false,
+      "is_sellable": false
+    },
+    {
+      "title": "KIT Piscina tonda decorazione legno. Parete in acciaio. Liner blu 30/100. Filtro Aqualoon da 4m³/h. Skimmer. Scala di sicurezza con piattaforma 2x3 gradini. Dim: Ø 300 h 120",
+      "status": "DRAFT",
+      "has_images": true,
+      "price": 977.47,
+      "sku": "KIT300WQGRE",
+      "is_visible_online": false,
+      "is_sellable": false
+    },
+    {
+      "title": "KIT Piscina ovale bianca con 2 rinforzi laterali per parte. Parete in acciaio. Liner blu 40/100. Filtro Aqualoon da 4m³/h. Skimmer. Scala di sicurezza con piattaforma 2x3 gradini. Dim: 610x375 h 120",
+      "status": "DRAFT",
+      "has_images": true,
+      "price": 1801.47,
+      "sku": "KIT610QGRE",
+      "is_visible_online": false,
+      "is_sellable": false
+    },
+    {
+      "title": "KIT Piscina ovale bianca con 2 rinforzi laterali per parte. Parete in acciaio. Liner blu 30/100. Filtro Aqualoon da 4m³/h. Skimmer. Scala di sicurezza con piattaforma 2x3 gradini. Dim: 500x300 h 120",
+      "status": "DRAFT",
+      "has_images": true,
+      "price": 1502.77,
+      "sku": "KIT500QGRE",
+      "is_visible_online": false,
+      "is_sellable": false
+    },
+    {
+      "title": "KIT Piscina tonda bianca. Parete in acciaio. Liner blu 30/100. Filtro Aqualoon da 4m³/h. Skimmer. Scala di sicurezza con piattaforma 2x3 gradini. Dim: Ø 460 h 120",
+      "status": "DRAFT",
+      "has_images": true,
+      "price": 1214.37,
+      "sku": "KIT460QGRE",
+      "is_visible_online": false,
+      "is_sellable": false
+    },
+    {
+      "title": "KIT Piscina tonda bianca. Parete in acciaio. Liner blu 30/100. Filtro Aqualoon da 4m³/h. Skimmer. Scala di sicurezza con piattaforma 2x3 gradini. Dim: Ø 350 h 120",
+      "status": "DRAFT",
+      "has_images": true,
+      "price": 1111.37,
+      "sku": "KIT350QGRE",
+      "is_visible_online": false,
+      "is_sellable": false
+    },
+    {
+      "title": "KIT Piscina tonda bianca. Parete in acciaio. Liner blu 30/100. Filtro Aqualoon da 4m³/h. Skimmer. Scala di sicurezza con piattaforma 2x3 gradini. Dim: Ø 300 h 120",
+      "status": "DRAFT",
+      "has_images": true,
+      "price": 977.47,
+      "sku": "KIT300QGRE",
+      "is_visible_online": false,
+      "is_sellable": false
+    },
+    {
+      "title": "Copertura isotermica per piscina in legno rettangolare Mint 788032, anti U.V.A, 400 micron. Polietilene. Dim: 960x366",
+      "status": "DRAFT",
+      "has_images": false,
+      "price": 462.47,
+      "sku": "786641",
+      "is_visible_online": false,
+      "is_sellable": false
+    },
+    {
+      "title": "Copertura isotermica per piscina in legno rettangolare Braga 790207, anti U.V.A, 400 micron. Polietilene. Dim: 762x368",
+      "status": "DRAFT",
+      "has_images": true,
+      "price": 338.87,
+      "sku": "CV790207",
+      "is_visible_online": false,
+      "is_sellable": false
+    },
+    {
+      "title": "Copertura isotermica per piscina in legno rettangolare Evora Plus 800009, anti U.V.A, 400 micron. Polietilene. Dim: 480x368",
+      "status": "DRAFT",
+      "has_images": false,
+      "price": 235.87,
+      "sku": "CV800009",
+      "is_visible_online": false,
+      "is_sellable": false
+    },
+    {
+      "title": "Copertura isotermica per piscina in legno rettangolare Evora 790206, anti U.V.A, 400 micron. Polietilene. Dim: 565x368",
+      "status": "DRAFT",
+      "has_images": true,
+      "price": 256.47,
+      "sku": "CV790206",
+      "is_visible_online": false,
+      "is_sellable": false
+    },
+    {
+      "title": "Copertura isotermica per piscina in legno rettangolare Marbella 2 7900962, anti U.V.A, 400 micron. Polietilene. Dim: 368x218",
+      "status": "DRAFT",
+      "has_images": true,
+      "price": 116.39,
+      "sku": "CV7900962",
+      "is_visible_online": false,
+      "is_sellable": false
+    },
+    {
+      "title": "Copertura isotermica per piscina in legno rettangolare Marbella 790096, anti U.V.A, 400 micron. Polietilene. Dim: 374x224",
+      "status": "DRAFT",
+      "has_images": true,
+      "price": 116.39,
+      "sku": "788453",
+      "is_visible_online": false,
+      "is_sellable": false
+    },
+    {
+      "title": "Copertura isotermica per piscina in legno rettangolare Mango KPBRC620, anti U.V.A, 400 micron. Polietilene. Dim: 565x268",
+      "status": "DRAFT",
+      "has_images": false,
+      "price": 200.85,
+      "sku": "CVKPBRC620",
+      "is_visible_online": false,
+      "is_sellable": false
+    },
+    {
+      "title": "Copertura isotermica per piscina in legno ovale Avocado 790203 anti U.V.A, 400 micron. Polietilene. Dim: 603x403",
+      "status": "DRAFT",
+      "has_images": true,
+      "price": 325.48,
+      "sku": "CV790203",
+      "is_visible_online": false,
+      "is_sellable": false
+    },
+    {
+      "title": "Copertura isotermica per piscina in legno tonda Vasto 790302/Ananas 790210 anti U.V.A, 400 micron. Polietilene. Dim: Ø 371",
+      "status": "DRAFT",
+      "has_images": true,
+      "price": 164.7,
+      "sku": "CV790210",
+      "is_visible_online": false,
+      "is_sellable": false
+    },
+    {
+      "title": "Copertura invernale per piscina in legno ovale Avocado 790203, 580 g/m². PVC armato. Dim: 696x497",
+      "status": "DRAFT",
+      "has_images": true,
+      "price": 627.27,
+      "sku": "CI790203",
+      "is_visible_online": false,
+      "is_sellable": false
+    },
+    {
+      "title": "Copertura invernale per piscina in legno tonda Vasto 790210/Ananas 790210, 580 g/m². PVC armato. Dim: Ø 468",
+      "status": "DRAFT",
+      "has_images": true,
+      "price": 400.67,
+      "sku": "CI790210",
+      "is_visible_online": false,
+      "is_sellable": false
+    },
+    {
+      "title": "Copertura isotermica per piscina Composite rettangolare KPCOR60/KPCOR60N - KPCOR60L/KPCOR60LN 606x326, anti U.V.A, 400 micron. Polietilene. Dim: 560x280",
+      "status": "DRAFT",
+      "has_images": false,
+      "price": 246.17,
+      "sku": "CVKPCOR60",
+      "is_visible_online": false,
+      "is_sellable": false
+    },
+    {
+      "title": "Copertura isotermica per piscina Composite rettangolare KPCOR46/KPCOR46N 466x326, anti U.V.A, 400 micron. Polietilene. Dim: 420x280",
+      "status": "DRAFT",
+      "has_images": false,
+      "price": 178.19,
+      "sku": "CVKPCOR46",
+      "is_visible_online": false,
+      "is_sellable": false
+    },
+    {
+      "title": "Copertura isotermica per piscina Composite rettangolare KPCOR2814 326X186, anti U.V.A, 400 micron. Polietilene. Dim: 275x135",
+      "status": "DRAFT",
+      "has_images": true,
+      "price": 156.56,
+      "sku": "CVKPCOR2814",
+      "is_visible_online": false,
+      "is_sellable": false
+    },
+    {
+      "title": "Copertura isotermica per piscina interrata rettangolare 1000x500, anti U.V.A, 180 micron. Polietilene. Dim: 995x495",
+      "status": "DRAFT",
+      "has_images": true,
+      "price": 256.47,
+      "sku": "CPERT105",
+      "is_visible_online": false,
+      "is_sellable": false
+    },
+    {
+      "title": "Copertura isotermica per piscina interrata rettangolare 900x500, anti U.V.A, 180 micron. Polietilene. Dim: 895x495",
+      "status": "DRAFT",
+      "has_images": true,
+      "price": 235.87,
+      "sku": "CPERT95",
+      "is_visible_online": false,
+      "is_sellable": false
+    },
+    {
+      "title": "Copertura isotermica per piscina interrata rettangolare 800x400, anti U.V.A, 180 micron. Polietilene. Dim: 795x395",
+      "status": "DRAFT",
+      "has_images": false,
+      "price": 159.65,
+      "sku": "CPERT84",
+      "is_visible_online": false,
+      "is_sellable": false
+    },
+    {
+      "title": "Copertura isotermica per piscina interrata rettangolare 600x300, anti U.V.A, 180 micron. Polietilene. Dim: 595x295",
+      "status": "DRAFT",
+      "has_images": false,
+      "price": 93.73,
+      "sku": "CPERT63",
+      "is_visible_online": false,
+      "is_sellable": false
+    },
+    {
+      "title": "Copertura isotermica per piscina interrata rettangolare 500x300, anti U.V.A, 180 micron. Polietilene. Dim: 495x295",
+      "status": "DRAFT",
+      "has_images": true,
+      "price": 86.52,
+      "sku": "CPERT53",
+      "is_visible_online": false,
+      "is_sellable": false
+    },
+    {
+      "title": "Liner con sistema di ancoraggio (BEADED) blu 60/100 per piscina in legno rettangolare Mango KPBRC620",
+      "status": "DRAFT",
+      "has_images": true,
+      "price": 784.86,
+      "sku": "785949",
+      "is_visible_online": false,
+      "is_sellable": false
+    },
+    {
+      "title": "Liner con sistema di ancoraggio (BEADED) blu 60/100 per piscina in legno ovale Macadamia KPBOC632",
+      "status": "DRAFT",
+      "has_images": true,
+      "price": 774.56,
+      "sku": "785951",
+      "is_visible_online": false,
+      "is_sellable": false
+    },
+    {
+      "title": "Liner con sistema di ancoraggio (BEADED) blu 60/100 per piscina in legno ovale Bambu KPBOC535",
+      "status": "DRAFT",
+      "has_images": true,
+      "price": 684.95,
+      "sku": "785950",
+      "is_visible_online": false,
+      "is_sellable": false
+    },
+    {
+      "title": "Liner con sistema di ancoraggio (BEADED) blu 60/100 per piscina interata ovale 800x400 h 120",
+      "status": "DRAFT",
+      "has_images": true,
+      "price": 1204.07,
+      "sku": "PROV8013FE",
+      "is_visible_online": false,
+      "is_sellable": false
+    },
+    {
+      "title": "Liner con sistema di ancoraggio (BEADED) blu 60/100 per piscina interrata ovale 700x320 h 120",
+      "status": "DRAFT",
+      "has_images": true,
+      "price": 967.17,
+      "sku": "PROV7013FE",
+      "is_visible_online": false,
+      "is_sellable": false
+    },
+    {
+      "title": "Liner con sistema di ancoraggio (BEADED) blu 60/100 per piscina interrata ovale 600x320 h 120",
+      "status": "DRAFT",
+      "has_images": true,
+      "price": 764.26,
+      "sku": "PROV6013FE",
+      "is_visible_online": false,
+      "is_sellable": false
+    },
+    {
+      "title": "Liner con sistema di ancoraggio (BEADED) blu 75/100 per piscina interrata ovale 500x300 h 150",
+      "status": "DRAFT",
+      "has_images": true,
+      "price": 837.39,
+      "sku": "PROV5112FE",
+      "is_visible_online": false,
+      "is_sellable": false
+    },
+    {
+      "title": "Liner con sistema di ancoraggio (BEADED) blu 60/100 per piscina interrata ovale 500x300 h 120",
+      "status": "DRAFT",
+      "has_images": true,
+      "price": 621.09,
+      "sku": "PROV5113FE",
+      "is_visible_online": false,
+      "is_sellable": false
+    },
+    {
+      "title": "Liner con sistema di ancoraggio (BEADED) blu 60/100 per piscina interrata tonda Ø 550 h 120",
+      "status": "DRAFT",
+      "has_images": true,
+      "price": 930.09,
+      "sku": "PR5513FE",
+      "is_visible_online": false,
+      "is_sellable": false
+    },
+    {
+      "title": "Liner con sistema di ancoraggio (BEADED) blu 75/100 per piscina interrata tonda Ø 420 h 150",
+      "status": "DRAFT",
+      "has_images": true,
+      "price": 561.35,
+      "sku": "PR4212FE",
+      "is_visible_online": false,
+      "is_sellable": false
+    },
+    {
+      "title": "Liner OVERLAP blu 30/100 per piscina tonda Ø 460 h 120",
+      "status": "DRAFT",
+      "has_images": true,
+      "price": 235.87,
+      "sku": "FSPR460",
+      "is_visible_online": false,
+      "is_sellable": false
+    },
+    {
+      "title": "Scala acciaio inox (AISI 304) ACCESSO FACILE 3 gradini doppi per piscina interrata h 183,5",
+      "status": "DRAFT",
+      "has_images": false,
+      "price": 771.47,
+      "sku": "EIE3016",
+      "is_visible_online": false,
+      "is_sellable": false
+    },
+    {
+      "title": "Scala acciaio inox STANDARD 4 gradini per piscina interrata h 183",
+      "status": "DRAFT",
+      "has_images": true,
+      "price": 369.77,
+      "sku": "4027216",
+      "is_visible_online": false,
+      "is_sellable": false
+    },
+    {
+      "title": "Scala acciaio inox STANDARD 3 gradini per piscina interrata h 154",
+      "status": "DRAFT",
+      "has_images": true,
+      "price": 345.05,
+      "sku": "4011016",
+      "is_visible_online": false,
+      "is_sellable": false
+    },
+    {
+      "title": "Scala acciaio inox MURO 4 gradini per piscina interrata h 183",
+      "status": "DRAFT",
+      "has_images": false,
+      "price": 369.77,
+      "sku": "4027416",
+      "is_visible_online": false,
+      "is_sellable": false
+    },
+    {
+      "title": "Scala acciaio inox MURO 3 gradini per piscina interrata h 158",
+      "status": "DRAFT",
+      "has_images": false,
+      "price": 345.05,
+      "sku": "4027316",
+      "is_visible_online": false,
+      "is_sellable": false
+    },
+    {
+      "title": "Scala in HDPE 2x4 gradini con piattaforma h 138 per piscine fuoriterra di 120 e 132 cm",
+      "status": "DRAFT",
+      "has_images": true,
+      "price": 302.82,
+      "sku": "L4PL",
+      "is_visible_online": false,
+      "is_sellable": false
+    },
+    {
+      "title": "Scala di sicurezza 2x3 gradini con piattaforma h 134 cm per piscine fuoriterra di 120 e 132 cm",
+      "status": "DRAFT",
+      "has_images": true,
+      "price": 204.97,
+      "sku": "ES1213",
+      "is_visible_online": false,
+      "is_sellable": false
+    },
+    {
+      "title": "Scala 2x3 gradini con piattaforma h 134 per piscine fuoriterra di 120 e 132 cm",
+      "status": "DRAFT",
+      "has_images": true,
+      "price": 190.55,
+      "sku": "ET1213",
+      "is_visible_online": false,
+      "is_sellable": false
+    },
+    {
+      "title": "Scala INOX 2x4 gradini con piattaforma h 142",
+      "status": "DRAFT",
+      "has_images": true,
+      "price": 592.25,
+      "sku": "AR11680",
+      "is_visible_online": false,
+      "is_sellable": false
+    },
+    {
+      "title": "Pompa a velocità variabile 0,75 CV per piscine fino a 65m³",
+      "status": "DRAFT",
+      "has_images": true,
+      "price": 764.26,
+      "sku": "VSG75",
+      "is_visible_online": false,
+      "is_sellable": false
+    },
+    {
+      "title": "BOX AQUALOON: filtrazione in polietilene 700g (equivale a 25kg di sabbia)",
+      "status": "DRAFT",
+      "has_images": false,
+      "price": 25.18,
+      "sku": "AQ700B",
+      "is_visible_online": false,
+      "is_sellable": false
+    },
+    {
+      "title": "Filtro motorizzato a cartuccia da 3,8m³/h, 70W",
+      "status": "DRAFT",
+      "has_images": true,
+      "price": 266.77,
+      "sku": "AR125",
+      "is_visible_online": false,
+      "is_sellable": false
+    },
+    {
+      "title": "Filtro a cartuccia ad immersione da 3,8m³/h, 70W",
+      "status": "DRAFT",
+      "has_images": true,
+      "price": 209.09,
+      "sku": "AR124",
+      "is_visible_online": false,
+      "is_sellable": false
+    },
+    {
+      "title": "Filtro a cartuccia ad immersione da 2,0m³/h, 72W",
+      "status": "DRAFT",
+      "has_images": true,
+      "price": 160.74,
+      "sku": "AR121E",
+      "is_visible_online": false,
+      "is_sellable": false
+    },
+    {
+      "title": "Cestino dello Skimmer",
+      "status": "DRAFT",
+      "has_images": false,
+      "price": 12.36,
+      "sku": "AR500",
+      "is_visible_online": false,
+      "is_sellable": false
+    },
+    {
+      "title": "Sportellino standard Skimmer 14,5x12,5",
+      "status": "DRAFT",
+      "has_images": true,
+      "price": 14.52,
+      "sku": "AR501",
+      "is_visible_online": false,
+      "is_sellable": false
+    },
+    {
+      "title": "Guarnizione doppia standard Skimmer 20,5 x19,5",
+      "status": "DRAFT",
+      "has_images": true,
+      "price": 20.5,
+      "sku": "AR502",
+      "is_visible_online": false,
+      "is_sellable": false
+    },
+    {
+      "title": "Guarnizione doppia standard Skimmer 20,5 x 19,5 + 2 guarnizioni per la valvola di ritorno",
+      "status": "DRAFT",
+      "has_images": true,
+      "price": 22.14,
+      "sku": "AR521",
+      "is_visible_online": false,
+      "is_sellable": false
+    },
+    {
+      "title": "Valvola di ritorno standard + guarnizione + chiave",
+      "status": "DRAFT",
+      "has_images": true,
+      "price": 0,
+      "sku": null,
+      "is_visible_online": false,
+      "is_sellable": false
+    },
+    {
+      "title": "Manometro per Filtro a sabbia",
+      "status": "DRAFT",
+      "has_images": true,
+      "price": 27.3,
+      "sku": "AR506",
+      "is_visible_online": false,
+      "is_sellable": false
+    },
+    {
+      "title": "Ghiera per Filtro a sabbia. Apertura minima Ø 19 massima Ø 20,3",
+      "status": "DRAFT",
+      "has_images": true,
+      "price": 44.29,
+      "sku": "AR508",
+      "is_visible_online": false,
+      "is_sellable": false
+    },
+    {
+      "title": "Valvola a sfera apertura/chiusura per tubi Ø 38/32",
+      "status": "DRAFT",
+      "has_images": true,
+      "price": 12.1,
+      "sku": "AR512",
+      "is_visible_online": false,
+      "is_sellable": false
+    },
+    {
+      "title": "Valvola di chiusura 1/4 di giro + 1 connettore Ø 32/38 per kit di filtrazione",
+      "status": "DRAFT",
+      "has_images": true,
+      "price": 22.14,
+      "sku": "621702",
+      "is_visible_online": false,
+      "is_sellable": false
+    },
+    {
+      "title": "Rotolo di teflon + 4 fascette 38/32",
+      "status": "DRAFT",
+      "has_images": false,
+      "price": 21.53,
+      "sku": "AR510",
+      "is_visible_online": false,
+      "is_sellable": false
+    },
+    {
+      "title": "Spugna per assorbire le particelle oleose sulla superficie dell'acqua 10,5 x 7,5cm. 6pz per confezione. Display da 12 confezioni. Imballo da 4 display",
+      "status": "DRAFT",
+      "has_images": false,
+      "price": 12.77,
+      "sku": "WFL6",
+      "is_visible_online": false,
+      "is_sellable": false
+    },
+    {
+      "title": "Sacchetto per skimmer con velcro 10pz",
+      "status": "DRAFT",
+      "has_images": false,
+      "price": 15.86,
+      "sku": "FSK10",
+      "is_visible_online": false,
+      "is_sellable": false
+    },
+    {
+      "title": "10 filtri usa e getta per lo skimmer",
+      "status": "DRAFT",
+      "has_images": false,
+      "price": 23.9,
+      "sku": "40045",
+      "is_visible_online": false,
+      "is_sellable": false
+    },
+    {
+      "title": "Blue Connect Gold. Rilevamento 4 in 1: temperatura, pH, ORP e salinità. Sensore Gold per l'utilizzo con clorinatori. Funziona con Bluetooth e Wi-Fi. Batteria ricaricabile USB-C. App Fluidra Pool",
+      "status": "DRAFT",
+      "has_images": true,
+      "price": 410.97,
+      "sku": "WA000100",
+      "is_visible_online": false,
+      "is_sellable": false
+    },
+    {
+      "title": "Blue Sensor Pt",
+      "status": "DRAFT",
+      "has_images": true,
+      "price": 142.88,
+      "sku": "7015R003",
+      "is_visible_online": false,
+      "is_sellable": false
+    },
+    {
+      "title": "Kit di calibrazione",
+      "status": "DRAFT",
+      "has_images": false,
+      "price": 24.72,
+      "sku": "77739",
+      "is_visible_online": false,
+      "is_sellable": false
+    },
+    {
+      "title": "Regolatore di pH con pompa peristaltica per piscina interrata",
+      "status": "DRAFT",
+      "has_images": false,
+      "price": 472.77,
+      "sku": "CPH14",
+      "is_visible_online": false,
+      "is_sellable": false
+    },
+    {
+      "title": "Pompa di calore Full Inverter con connessione a internet, per piscine fino a 75m³",
+      "status": "DRAFT",
+      "has_images": true,
+      "price": 1801.47,
+      "sku": "HPGIC75",
+      "is_visible_online": false,
+      "is_sellable": false
+    },
+    {
+      "title": "Pompa di calore Full Inverter con connessione a internet, per piscine fino a 60m³",
+      "status": "DRAFT",
+      "has_images": false,
+      "price": 1440.97,
+      "sku": "HPGIC60",
+      "is_visible_online": false,
+      "is_sellable": false
+    },
+    {
+      "title": "Pompa di calore Full Inverter con connessione a internet, per piscine fino a 45m³",
+      "status": "DRAFT",
+      "has_images": false,
+      "price": 1183.47,
+      "sku": "HPGIC45",
+      "is_visible_online": false,
+      "is_sellable": false
+    },
+    {
+      "title": "Pompa di calore Full Inverter con connessione a internet, per piscine fino a 30m³",
+      "status": "DRAFT",
+      "has_images": false,
+      "price": 1028.97,
+      "sku": "HPGIC30",
+      "is_visible_online": false,
+      "is_sellable": false
+    },
+    {
+      "title": "Doccia in acciaio Inox con rubinetto lavapiedi Ø 4,3 x 216 cm. Soffione superiore anticalcare",
+      "status": "DRAFT",
+      "has_images": true,
+      "price": 293.55,
+      "sku": "DAI43F",
+      "is_visible_online": false,
+      "is_sellable": false
+    },
+    {
+      "title": "Doccia in acciaio Inox Ø 4,3 x 216 cm. Soffione superiore anticalcare",
+      "status": "DRAFT",
+      "has_images": true,
+      "price": 277.07,
+      "sku": "DAI43",
+      "is_visible_online": false,
+      "is_sellable": false
+    },
+    {
+      "title": "Doccia in alluminio pieghevole",
+      "status": "DRAFT",
+      "has_images": true,
+      "price": 25.23,
+      "sku": "AR104",
+      "is_visible_online": false,
+      "is_sellable": false
+    },
+    {
+      "title": "Vaschetta Lavapiedi",
+      "status": "DRAFT",
+      "has_images": false,
+      "price": 9.73,
+      "sku": "LP01",
+      "is_visible_online": false,
+      "is_sellable": false
+    },
+    {
+      "title": "Cartuccia di ricambio per pulitore CSPAN",
+      "status": "DRAFT",
+      "has_images": false,
+      "price": 12.82,
+      "sku": "CCSPAN",
+      "is_visible_online": false,
+      "is_sellable": false
+    },
+    {
+      "title": "Cartuccia di ricambio per pulitore VCB50P",
+      "status": "DRAFT",
+      "has_images": true,
+      "price": 24.93,
+      "sku": "CVCB50P",
+      "is_visible_online": false,
+      "is_sellable": false
+    },
+    {
+      "title": "Cartuccia di ricambio per pulitore VCB10P",
+      "status": "DRAFT",
+      "has_images": false,
+      "price": 12.88,
+      "sku": "CVCB10P",
+      "is_visible_online": false,
+      "is_sellable": false
+    },
+    {
+      "title": "Cartuccia di ricambio per robot RBR75",
+      "status": "DRAFT",
+      "has_images": true,
+      "price": 22.61,
+      "sku": "CRBR75",
+      "is_visible_online": false,
+      "is_sellable": false
+    },
+    {
+      "title": "Cartuccia di ricambio per robot RBR120",
+      "status": "DRAFT",
+      "has_images": false,
+      "price": 22.61,
+      "sku": "CRBR120",
+      "is_visible_online": false,
+      "is_sellable": false
+    },
+    {
+      "title": "Sacchetto per aspiratore Ventury modello piccolo",
+      "status": "DRAFT",
+      "has_images": false,
+      "price": 3.91,
+      "sku": "770344",
+      "is_visible_online": false,
+      "is_sellable": false
+    },
+    {
+      "title": "GRAPHITE - raccoglitore di superficie con bordo protettivo in materiale morbido",
+      "status": "DRAFT",
+      "has_images": false,
+      "price": 25.65,
+      "sku": "LSP40",
+      "is_visible_online": false,
+      "is_sellable": false
+    },
+    {
+      "title": "CONFORT - raccoglitore di superficie in poliestere con bordo protettivo in materiale morbido",
+      "status": "DRAFT",
+      "has_images": false,
+      "price": 11.95,
+      "sku": "40030N",
+      "is_visible_online": false,
+      "is_sellable": false
+    },
+    {
+      "title": "CONFORT - raccoglitore di superficie in alluminio",
+      "status": "DRAFT",
+      "has_images": false,
+      "price": 12.88,
+      "sku": "RHSALN",
+      "is_visible_online": false,
+      "is_sellable": false
+    },
+    {
+      "title": "CONFORT - supporto metallico per accessori a 5 posizioni",
+      "status": "DRAFT",
+      "has_images": false,
+      "price": 16.81,
+      "sku": "BHM5",
+      "is_visible_online": false,
+      "is_sellable": false
+    },
+    {
+      "title": "Raccoglitore di superficie con manico telescopico",
+      "status": "DRAFT",
+      "has_images": true,
+      "price": 14.32,
+      "sku": "40031",
+      "is_visible_online": false,
+      "is_sellable": false
+    },
+    {
+      "title": "Spugna per la pulizia della linea d'acqua 14,5x9x8 cm",
+      "status": "DRAFT",
+      "has_images": false,
+      "price": 4.07,
+      "sku": "770334",
+      "is_visible_online": false,
+      "is_sellable": false
+    },
+    {
+      "title": "Guanto con spugna per pulire la linea d'acqua",
+      "status": "DRAFT",
+      "has_images": false,
+      "price": 8.19,
+      "sku": "GFL5",
+      "is_visible_online": false,
+      "is_sellable": false
+    },
+    {
+      "title": "Termometro galleggiante Pesce Pagliaccio",
+      "status": "DRAFT",
+      "has_images": true,
+      "price": 13.29,
+      "sku": "TBF20",
+      "is_visible_online": false,
+      "is_sellable": false
+    },
+    {
+      "title": "Impugnatura a Clip Ø28 per unire i puliscifondo ai manici telescopici",
+      "status": "DRAFT",
+      "has_images": true,
+      "price": 9.48,
+      "sku": "40092",
+      "is_visible_online": false,
+      "is_sellable": false
+    },
+    {
+      "title": "CARDBOARD - Raccoglitore di superficie classico",
+      "status": "DRAFT",
+      "has_images": false,
+      "price": 5.41,
+      "sku": "772804",
+      "is_visible_online": false,
+      "is_sellable": false
+    },
+    {
+      "title": "CARDBOARD - Raccoglitore di superficie professionale",
+      "status": "DRAFT",
+      "has_images": false,
+      "price": 11.23,
+      "sku": "772868",
+      "is_visible_online": false,
+      "is_sellable": false
+    },
+    {
+      "title": "CARDBOARD - Raccoglitore di superficie + manico in alluminio da 122cm",
+      "status": "DRAFT",
+      "has_images": false,
+      "price": 8.19,
+      "sku": "772869",
+      "is_visible_online": false,
+      "is_sellable": false
+    },
+    {
+      "title": "ECO - Raccoglitore di superficie",
+      "status": "DRAFT",
+      "has_images": false,
+      "price": 0,
+      "sku": null,
+      "is_visible_online": false,
+      "is_sellable": false
+    },
+    {
+      "title": "ECO - Raccoglitore di superficie + manico 122cm",
+      "status": "DRAFT",
+      "has_images": false,
+      "price": 8.75,
+      "sku": "90117",
+      "is_visible_online": false,
+      "is_sellable": false
+    },
+    {
+      "title": "ECO - Raccoglitore di superficie con manico a 3 sezioni",
+      "status": "DRAFT",
+      "has_images": false,
+      "price": 10.81,
+      "sku": "90184",
+      "is_visible_online": false,
+      "is_sellable": false
+    },
+    {
+      "title": "ECO - Kit analisi Di Cloro/Bromo + pH (Oto/Fenolo)",
+      "status": "DRAFT",
+      "has_images": false,
+      "price": 6.49,
+      "sku": "90180",
+      "is_visible_online": false,
+      "is_sellable": false
+    },
+    {
+      "title": "ECO - Ricambio per Kit analisi (Oto/Fenolo)",
+      "status": "DRAFT",
+      "has_images": false,
+      "price": 4.74,
+      "sku": "90181",
+      "is_visible_online": false,
+      "is_sellable": false
+    },
+    {
+      "title": "Riduttore di pH 20l",
+      "status": "DRAFT",
+      "has_images": false,
+      "price": 26.52,
+      "sku": "76095",
+      "is_visible_online": false,
+      "is_sellable": false
+    },
+    {
+      "title": "Cloro Forte ZERO BORICO 1kg, pastiglie da 30g",
+      "status": "DRAFT",
+      "has_images": false,
+      "price": 18.44,
+      "sku": "76100NB",
+      "is_visible_online": false,
+      "is_sellable": false
+    },
+    {
+      "title": "Cloro Forte ZERO BORICO 5kg, pastiglie da 30g",
+      "status": "DRAFT",
+      "has_images": false,
+      "price": 0,
+      "sku": null,
+      "is_visible_online": false,
+      "is_sellable": false
+    },
+    {
+      "title": "Cloro Forte granulare 1kg",
+      "status": "DRAFT",
+      "has_images": false,
+      "price": 13.89,
+      "sku": "76066",
+      "is_visible_online": false,
+      "is_sellable": false
+    },
+    {
+      "title": "PALBOX Cloro Forte granulare 1kg",
+      "status": "DRAFT",
+      "has_images": false,
+      "price": 12.88,
+      "sku": "76079",
+      "is_visible_online": false,
+      "is_sellable": false
+    },
+    {
+      "title": "Cloro Forte granulare 3kg",
+      "status": "DRAFT",
+      "has_images": false,
+      "price": 28.74,
+      "sku": "76096",
+      "is_visible_online": false,
+      "is_sellable": false
+    },
+    {
+      "title": "Cloro Forte granulare 5kg",
+      "status": "DRAFT",
+      "has_images": false,
+      "price": 0,
+      "sku": null,
+      "is_visible_online": false,
+      "is_sellable": false
+    },
+    {
+      "title": "1/2 PALBOX Cloro Forte granulare 5kg",
+      "status": "DRAFT",
+      "has_images": false,
+      "price": 50.98,
+      "sku": "76097",
+      "is_visible_online": false,
+      "is_sellable": false
+    },
+    {
+      "title": "Cloro Lento ZERO BORICO 1kg, tavolette da 250g",
+      "status": "DRAFT",
+      "has_images": true,
+      "price": 0,
+      "sku": null,
+      "is_visible_online": false,
+      "is_sellable": false
+    },
+    {
+      "title": "Cloro Lento ZERO BORICO 5kg, tavolette da 250g",
+      "status": "DRAFT",
+      "has_images": true,
+      "price": 0,
+      "sku": null,
+      "is_visible_online": false,
+      "is_sellable": false
+    },
+    {
+      "title": "Cloro Lento granulare 1kg",
+      "status": "DRAFT",
+      "has_images": false,
+      "price": 16.38,
+      "sku": "76023",
+      "is_visible_online": false,
+      "is_sellable": false
+    },
+    {
+      "title": "Stabilizzatore di cloro 1kg",
+      "status": "DRAFT",
+      "has_images": false,
+      "price": 0,
+      "sku": null,
+      "is_visible_online": false,
+      "is_sellable": false
+    },
+    {
+      "title": "Stabilizzatore di cloro 4,5kg",
+      "status": "DRAFT",
+      "has_images": false,
+      "price": 0,
+      "sku": null,
+      "is_visible_online": false,
+      "is_sellable": false
+    },
+    {
+      "title": "Bromo Lento 5kg, pastiglie da 20g",
+      "status": "DRAFT",
+      "has_images": false,
+      "price": 119.38,
+      "sku": "76024",
+      "is_visible_online": false,
+      "is_sellable": false
+    },
+    {
+      "title": "PALBOX Trattamento 4 Azioni ZERO BORICO 1kg, tavolette da 250g",
+      "status": "DRAFT",
+      "has_images": true,
+      "price": 16.38,
+      "sku": "76063NB",
+      "is_visible_online": false,
+      "is_sellable": false
+    },
+    {
+      "title": "PALBOX Trattamento 4 Azioni ZERO BORICO 5kg, tavolette da 250g",
+      "status": "DRAFT",
+      "has_images": true,
+      "price": 0,
+      "sku": null,
+      "is_visible_online": false,
+      "is_sellable": false
+    },
+    {
+      "title": "Trattamento 5 Azioni ZERO BORICO 1kg, tavolette da 250g",
+      "status": "DRAFT",
+      "has_images": true,
+      "price": 17,
+      "sku": "76082NB",
+      "is_visible_online": false,
+      "is_sellable": false
+    },
+    {
+      "title": "Trattamento 5 Azioni ZERO BORICO 5kg, tavolette da 250g",
+      "status": "DRAFT",
+      "has_images": true,
+      "price": 0,
+      "sku": null,
+      "is_visible_online": false,
+      "is_sellable": false
+    },
+    {
+      "title": "Trattamento 5 Azioni ZERO BORICO 10kg, tavolette da 250g",
+      "status": "DRAFT",
+      "has_images": true,
+      "price": 100.84,
+      "sku": "76037NB",
+      "is_visible_online": false,
+      "is_sellable": false
+    },
+    {
+      "title": "Trattamento 8 Azioni ZERO BORICO 1kg, tavolette da 250g",
+      "status": "DRAFT",
+      "has_images": true,
+      "price": 0,
+      "sku": null,
+      "is_visible_online": false,
+      "is_sellable": false
+    },
+    {
+      "title": "Trattamento 8 Azioni ZERO BORICO 5kg, tavolette da 250g",
+      "status": "DRAFT",
+      "has_images": true,
+      "price": 0,
+      "sku": null,
+      "is_visible_online": false,
+      "is_sellable": false
+    },
+    {
+      "title": "Antialghe extra 1l",
+      "status": "DRAFT",
+      "has_images": true,
+      "price": 12.26,
+      "sku": "76041",
+      "is_visible_online": false,
+      "is_sellable": false
+    },
+    {
+      "title": "Antialghe extra 5l",
+      "status": "DRAFT",
+      "has_images": false,
+      "price": 24.62,
+      "sku": "76042",
+      "is_visible_online": false,
+      "is_sellable": false
+    },
+    {
+      "title": "Antialghe 1l",
+      "status": "DRAFT",
+      "has_images": true,
+      "price": 0,
+      "sku": null,
+      "is_visible_online": false,
+      "is_sellable": false
+    },
+    {
+      "title": "Antialghe 5l",
+      "status": "DRAFT",
+      "has_images": false,
+      "price": 0,
+      "sku": null,
+      "is_visible_online": false,
+      "is_sellable": false
+    },
+    {
+      "title": "PALBOX Antialghe 5l",
+      "status": "DRAFT",
+      "has_images": false,
+      "price": 0,
+      "sku": null,
+      "is_visible_online": false,
+      "is_sellable": false
+    },
+    {
+      "title": "Antialghe Extra compact super concentato 1l con tappo dosatore",
+      "status": "DRAFT",
+      "has_images": true,
+      "price": 17.46,
+      "sku": "76013",
+      "is_visible_online": false,
+      "is_sellable": false
+    },
+    {
+      "title": "Antialghe compact super concentato 1l con tappo dosatore",
+      "status": "DRAFT",
+      "has_images": true,
+      "price": 14.16,
+      "sku": "76015",
+      "is_visible_online": false,
+      "is_sellable": false
+    },
+    {
+      "title": "Flocculante 1kg, 8 cartucce da 125g. Solo per filtri a sabbia",
+      "status": "DRAFT",
+      "has_images": false,
+      "price": 10.4,
+      "sku": "76044",
+      "is_visible_online": false,
+      "is_sellable": false
+    },
+    {
+      "title": "Stop Metal 1l: appositamente studiato per le acque dure (pozzi, pozzetti, ruscelli). Trattiene i sali metallici e previene i depositi di calcare",
+      "status": "DRAFT",
+      "has_images": true,
+      "price": 7.98,
+      "sku": "76114",
+      "is_visible_online": false,
+      "is_sellable": false
+    },
+    {
+      "title": "Riduttore di pH granulare 5kg",
+      "status": "DRAFT",
+      "has_images": false,
+      "price": 0,
+      "sku": null,
+      "is_visible_online": false,
+      "is_sellable": false
+    },
+    {
+      "title": "Riduttore di pH 25l",
+      "status": "DRAFT",
+      "has_images": false,
+      "price": 38.62,
+      "sku": "90008",
+      "is_visible_online": false,
+      "is_sellable": false
+    },
+    {
+      "title": "Elevatore di pH granulare 4,5kg",
+      "status": "DRAFT",
+      "has_images": false,
+      "price": 19.05,
+      "sku": "90005",
+      "is_visible_online": false,
+      "is_sellable": false
+    },
+    {
+      "title": "Elevatore di pH 1l",
+      "status": "DRAFT",
+      "has_images": true,
+      "price": 9.42,
+      "sku": "90048",
+      "is_visible_online": false,
+      "is_sellable": false
+    },
+    {
+      "title": "Elevatore di pH 5l",
+      "status": "DRAFT",
+      "has_images": false,
+      "price": 20.5,
+      "sku": "90006",
+      "is_visible_online": false,
+      "is_sellable": false
+    },
+    {
+      "title": "Cloro Lento ZERO BORICO 1kg, tavolette da 250g",
+      "status": "DRAFT",
+      "has_images": true,
+      "price": 0,
+      "sku": null,
+      "is_visible_online": false,
+      "is_sellable": false
+    },
+    {
+      "title": "Cloro Lento ZERO BORICO 5kg, tavolette da 250g",
+      "status": "DRAFT",
+      "has_images": true,
+      "price": 51.4,
+      "sku": "76005NB",
+      "is_visible_online": false,
+      "is_sellable": false
+    },
+    {
+      "title": "PALLET Cloro Lento ZERO BORICO 5kg, tavolette da 250g - pallet senza scatole",
+      "status": "DRAFT",
+      "has_images": true,
+      "price": 47.28,
+      "sku": "90058NB",
+      "is_visible_online": false,
+      "is_sellable": false
+    },
+    {
+      "title": "Cloro Lento ZERO BORICO 10kg, tavolette da 250g",
+      "status": "DRAFT",
+      "has_images": true,
+      "price": 0,
+      "sku": null,
+      "is_visible_online": false,
+      "is_sellable": false
+    },
+    {
+      "title": "Trattamento 4 Azioni ZERO BORICO 1kg, tavolette da 250g",
+      "status": "DRAFT",
+      "has_images": true,
+      "price": 0,
+      "sku": null,
+      "is_visible_online": false,
+      "is_sellable": false
+    },
+    {
+      "title": "Trattamento 4 Azioni ZERO BORICO 5kg, tavolette da 250g",
+      "status": "DRAFT",
+      "has_images": true,
+      "price": 0,
+      "sku": null,
+      "is_visible_online": false,
+      "is_sellable": false
+    },
+    {
+      "title": "PALBOX Trattamento 4 Azioni ZERO BORICO 5kg, tavolette da 250g",
+      "status": "DRAFT",
+      "has_images": true,
+      "price": 0,
+      "sku": null,
+      "is_visible_online": false,
+      "is_sellable": false
+    },
+    {
+      "title": "PALLET Trattamento 4 azioni ZERO BORICO 5kg, tavolette da 250g - pallet senza scatole",
+      "status": "DRAFT",
+      "has_images": true,
+      "price": 47.9,
+      "sku": "90057NB",
+      "is_visible_online": false,
+      "is_sellable": false
+    },
+    {
+      "title": "Trattamento 4 Azioni ZERO BORICO 10kg, tavolette da 250g",
+      "status": "DRAFT",
+      "has_images": true,
+      "price": 0,
+      "sku": null,
+      "is_visible_online": false,
+      "is_sellable": false
+    },
+    {
+      "title": "Trattamento 5 Azioni ZERO BORICO 5kg, tavolette da 250g",
+      "status": "DRAFT",
+      "has_images": true,
+      "price": 56.55,
+      "sku": "76036NB",
+      "is_visible_online": false,
+      "is_sellable": false
+    },
+    {
+      "title": "Cloro Forte ZERO BORICO 5kg, pastiglie da 30g",
+      "status": "DRAFT",
+      "has_images": false,
+      "price": 51.4,
+      "sku": "76099NB",
+      "is_visible_online": false,
+      "is_sellable": false
+    },
+    {
+      "title": "PALBOX Cloro Forte ZERO BORICO 5Kg, pastiglie da 30g",
+      "status": "DRAFT",
+      "has_images": false,
+      "price": 0,
+      "sku": null,
+      "is_visible_online": false,
+      "is_sellable": false
+    },
+    {
+      "title": "Cloro Forte granulare 5kg",
+      "status": "DRAFT",
+      "has_images": false,
+      "price": 48.93,
+      "sku": "90081",
+      "is_visible_online": false,
+      "is_sellable": false
+    },
+    {
+      "title": "Cloro Forte granulare 10kg",
+      "status": "DRAFT",
+      "has_images": false,
+      "price": 87.45,
+      "sku": "90079",
+      "is_visible_online": false,
+      "is_sellable": false
+    },
+    {
+      "title": "Antialghe 1l",
+      "status": "DRAFT",
+      "has_images": true,
+      "price": 5.61,
+      "sku": "90053",
+      "is_visible_online": false,
+      "is_sellable": false
+    },
+    {
+      "title": "Antialghe 5l",
+      "status": "DRAFT",
+      "has_images": false,
+      "price": 14.63,
+      "sku": "90030",
+      "is_visible_online": false,
+      "is_sellable": false
+    },
+    {
+      "title": "PALBOX Antialghe 5l",
+      "status": "DRAFT",
+      "has_images": false,
+      "price": 13.6,
+      "sku": "90202",
+      "is_visible_online": false,
+      "is_sellable": false
+    },
+    {
+      "title": "Antialghe 10l",
+      "status": "DRAFT",
+      "has_images": false,
+      "price": 27.3,
+      "sku": "90032",
+      "is_visible_online": false,
+      "is_sellable": false
+    },
+    {
+      "title": "Flocculante 5l",
+      "status": "DRAFT",
+      "has_images": false,
+      "price": 20.09,
+      "sku": "90042",
+      "is_visible_online": false,
+      "is_sellable": false
+    },
+    {
+      "title": "Out acque torbide, 6 Pastiglie da 30g",
+      "status": "DRAFT",
+      "has_images": false,
+      "price": 22.14,
+      "sku": "90143N",
+      "is_visible_online": false,
+      "is_sellable": false
+    },
+    {
+      "title": "Out acque torbide per FILTRO A CARTUCCIA, 6 pastiglie da 17g",
+      "status": "DRAFT",
+      "has_images": true,
+      "price": 22.14,
+      "sku": "SATC6N",
+      "is_visible_online": false,
+      "is_sellable": false
+    },
+    {
+      "title": "Stop acque verdi 5l",
+      "status": "DRAFT",
+      "has_images": false,
+      "price": 26.57,
+      "sku": "76077",
+      "is_visible_online": false,
+      "is_sellable": false
+    },
+    {
+      "title": "Water saver 1l . Riduce la perdida di acqua e di calore",
+      "status": "DRAFT",
+      "has_images": true,
+      "price": 27.8,
+      "sku": "76115G",
+      "is_visible_online": false,
+      "is_sellable": false
+    },
+    {
+      "title": "Kit analisi Cloro + pH pastiglie Dpd1",
+      "status": "DRAFT",
+      "has_images": false,
+      "price": 10.81,
+      "sku": "40062",
+      "is_visible_online": false,
+      "is_sellable": false
+    },
+    {
+      "title": "Ricambio pastiglie Dpd1",
+      "status": "DRAFT",
+      "has_images": false,
+      "price": 7.36,
+      "sku": "40063",
+      "is_visible_online": false,
+      "is_sellable": false
+    },
+    {
+      "title": "Kit analisi Ossigeno/Bromo + pH Pastiglie Dpd4",
+      "status": "DRAFT",
+      "has_images": false,
+      "price": 11.95,
+      "sku": "40066",
+      "is_visible_online": false,
+      "is_sellable": false
+    },
+    {
+      "title": "Ricambio pastiglie Dpd4",
+      "status": "DRAFT",
+      "has_images": false,
+      "price": 8.86,
+      "sku": "40067",
+      "is_visible_online": false,
+      "is_sellable": false
+    },
+    {
+      "title": "Kit analisi Cloro/Bromo + pH (Oto/Fenolo)",
+      "status": "DRAFT",
+      "has_images": false,
+      "price": 10.29,
+      "sku": "40060",
+      "is_visible_online": false,
+      "is_sellable": false
+    },
+    {
+      "title": "Ricambio Oto/Fenolo",
+      "status": "DRAFT",
+      "has_images": false,
+      "price": 0,
+      "sku": null,
+      "is_visible_online": false,
+      "is_sellable": false
+    },
+    {
+      "title": "Cartine tornasole: Analisi Cloro + pH + Alcalinità (50 strisce)",
+      "status": "DRAFT",
+      "has_images": true,
+      "price": 12.31,
+      "sku": "40068",
+      "is_visible_online": false,
+      "is_sellable": false
+    },
+    {
+      "title": "Cartine tornasole: Analisi livello di sale nell'acqua (16 strisce)",
+      "status": "DRAFT",
+      "has_images": false,
+      "price": 17.97,
+      "sku": "40069",
+      "is_visible_online": false,
+      "is_sellable": false
+    },
+    {
+      "title": "50 Strisce analitiche 6 in 1: cloro libero, bromo libero, ph, alcalinità totale, durezza totale, acido cianurico",
+      "status": "DRAFT",
+      "has_images": true,
+      "price": 14.92,
+      "sku": "76200G",
+      "is_visible_online": false,
+      "is_sellable": false
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+# Dependency directories
+node_modules/
+jspm_packages/
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+venv-local/
+
+# Environment variables
+.env
+.env.production
+.env.production.local
+.env.vercel
+*.local
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+Thumbs.db
+ehthumbs.db
+desktop.ini
+
+# Playwright & Browser Sessions (CRITICAL)
+playwright_user_data*/
+playwright_session*/
+zodiac_session*/
+.playwright/
+ms-playwright/
+
+# Project Specific Data & DBs
+*.db
+*.db-journal
+*.db-wal
+backup_master_dbs/
+downloads/
+depliant*/
+zodiac_depliant*/
+laghetto_images/
+zodiac_images/
+robot img/
+robot_media/
+image-reviewer-web/.vercel/
+image-reviewer-web/public/data.json
+
+# Large Files
+*.zip
+*.pdf
+*.docx
+*.xlsx
+*.csv
+
+# Debug & Temporary Files
+*.log
+debug_*
+blocked.png
+gre_images_*.json
+immagini_approvate.json
+web_data.json
+gre_official_*.json
+gre_es_final_map.json
+listino_master_map.json
+gre_multi_option_plan.json
+gre_import_listino_structure.json
+gre_reimport_plan.json
+gre_missing_ean_map.json
+gre_missing_images_final.json
+
+# CSV and Large Excel (Only source excel might be worth keeping, but let's exclude derived ones)
+LAVORO_STRUTTURA_GRE_2026.csv
+REPORT_STRUTTURA_PRODOTTI_GRE.csv
+REPORT_REVISIONE_JOLLYGAME_2026.csv
+Master_Export_JollyGame_2026.csv
+Esportazione_*.csv
+intex_export_shopify.csv
+bestway_export_shopify.csv
+fluidra_export_shopify.csv
+mapping_*.csv
+prodotti_gre_mancanti.csv
+all_decoded_netrivals_links.csv
+final_redirects.csv
+
+# Keep the original listino if explicitly needed, but for now exclude it to keep repo light
+# LISTINOMANUFACTURASGRE2026.xlsx

@@ -1,0 +1,611 @@
+[
+  {
+    "id": "gid://shopify/Product/15546227753308",
+    "title": "Red Line",
+    "url": "https://www.zodiac-poolcare.it/riscaldamento/riscaldatori-elettrici/gamma-red-line/red-line",
+    "vendor": "Zodiac",
+    "new_sku": "red-line"
+  },
+  {
+    "id": "gid://shopify/Product/15546227917148",
+    "title": "RA 6300 iQ",
+    "url": "https://www.zodiac-poolcare.it/robot-pulitori/robot-elettrici-per-piscine-residenziali/gamma-alpha-iq-/ra-6300-iq",
+    "vendor": "Zodiac",
+    "new_sku": "ra-6300-iq"
+  },
+  {
+    "id": "gid://shopify/Product/15546242564444",
+    "title": "RA 6900 iQ",
+    "url": "https://www.zodiac-poolcare.it/robot-pulitori/robot-elettrici-per-piscine-residenziali/gamma-alpha-iq-/ra-6900-iq",
+    "vendor": "Zodiac",
+    "new_sku": "ra-6900-iq"
+  },
+  {
+    "id": "gid://shopify/Product/15546242695516",
+    "title": "OA 6600 iQ",
+    "url": "https://www.zodiac-poolcare.it/robot-pulitori/robot-elettrici-per-piscine-residenziali/gamma-alpha-iq-/oa-6600-iq",
+    "vendor": "Zodiac",
+    "new_sku": "oa-6600-iq"
+  },
+  {
+    "id": "gid://shopify/Product/15546242761052",
+    "title": "OA 6400 iQ",
+    "url": "https://www.zodiac-poolcare.it/robot-pulitori/robot-elettrici-per-piscine-residenziali/gamma-alpha-iq-/oa-6400-iq",
+    "vendor": "Zodiac",
+    "new_sku": "oa-6400-iq"
+  },
+  {
+    "id": "gid://shopify/Product/15546242826588",
+    "title": "RA 6500 iQ",
+    "url": "https://www.zodiac-poolcare.it/robot-pulitori/robot-elettrici-per-piscine-residenziali/gamma-alpha-iq-/ra-6500-iq",
+    "vendor": "Zodiac",
+    "new_sku": "ra-6500-iq"
+  },
+  {
+    "id": "gid://shopify/Product/15546242924892",
+    "title": "RA 6800 iQ",
+    "url": "https://www.zodiac-poolcare.it/robot-pulitori/robot-elettrici-per-piscine-residenziali/gamma-alpha-iq-/ra-6800-iq",
+    "vendor": "Zodiac",
+    "new_sku": "ra-6800-iq"
+  },
+  {
+    "id": "gid://shopify/Product/15546243023196",
+    "title": "SWY 3520",
+    "url": "https://www.zodiac-poolcare.it/robot-pulitori/robot-elettrici-per-piscine-residenziali/gamma-sweepy-/swy-3520",
+    "vendor": "Zodiac",
+    "new_sku": "swy-3520"
+  },
+  {
+    "id": "gid://shopify/Product/15546243121500",
+    "title": "SWY 3500",
+    "url": "https://www.zodiac-poolcare.it/robot-pulitori/robot-elettrici-per-piscine-residenziali/gamma-sweepy-/swy-3500",
+    "vendor": "Zodiac",
+    "new_sku": "swy-3500"
+  },
+  {
+    "id": "gid://shopify/Product/15546243187036",
+    "title": "OV 5390",
+    "url": "https://www.zodiac-poolcare.it/robot-pulitori/robot-elettrici-per-piscine-residenziali/gamma-vortex--4wd/ov-5390",
+    "vendor": "Zodiac",
+    "new_sku": "ov-5390"
+  },
+  {
+    "id": "gid://shopify/Product/15546243252572",
+    "title": "OV 5200",
+    "url": "https://www.zodiac-poolcare.it/robot-pulitori/robot-elettrici-per-piscine-residenziali/gamma-vortex--4wd/ov-5200",
+    "vendor": "Zodiac",
+    "new_sku": "ov-5200"
+  },
+  {
+    "id": "gid://shopify/Product/15546243416412",
+    "title": "GV 5220",
+    "url": "https://www.zodiac-poolcare.it/robot-pulitori/robot-elettrici-per-piscine-residenziali/gamma-vortex--4wd/gv-5220",
+    "vendor": "Zodiac",
+    "new_sku": "gv-5220"
+  },
+  {
+    "id": "gid://shopify/Product/15546243514716",
+    "title": "FR 5200",
+    "url": "https://www.zodiac-poolcare.it/robot-pulitori/robot-elettrici-per-piscine-residenziali/gamma-vortex--4wd/fr-5200",
+    "vendor": "Zodiac",
+    "new_sku": "fr-5200"
+  },
+  {
+    "id": "gid://shopify/Product/15546243580252",
+    "title": "OT 3290 Tile",
+    "url": "https://www.zodiac-poolcare.it/robot-pulitori/robot-elettrici-per-piscine-residenziali/gamma-tornax-/ot-3290-tile",
+    "vendor": "Zodiac",
+    "new_sku": "ot-3290-tile"
+  },
+  {
+    "id": "gid://shopify/Product/15546243711324",
+    "title": "OT 3200",
+    "url": "https://www.zodiac-poolcare.it/robot-pulitori/robot-elettrici-per-piscine-residenziali/gamma-tornax-/ot-3200",
+    "vendor": "Zodiac",
+    "new_sku": "ot-3200"
+  },
+  {
+    "id": "gid://shopify/Product/15546243809628",
+    "title": "GT 3220",
+    "url": "https://www.zodiac-poolcare.it/robot-pulitori/robot-elettrici-per-piscine-residenziali/gamma-tornax-/gt-3220",
+    "vendor": "Zodiac",
+    "new_sku": "gt-3220"
+  },
+  {
+    "id": "gid://shopify/Product/15546243875164",
+    "title": "RT 3200",
+    "url": "https://www.zodiac-poolcare.it/robot-pulitori/robot-elettrici-per-piscine-residenziali/gamma-tornax-/rt-3200",
+    "vendor": "Zodiac",
+    "new_sku": "rt-3200"
+  },
+  {
+    "id": "gid://shopify/Product/15546244202844",
+    "title": "XA 3010 iQ",
+    "url": "https://www.zodiac-poolcare.it/robot-pulitori/robot-elettrici-per-piscine-residenziali/altre-gamma/xa-3010-iq",
+    "vendor": "Zodiac",
+    "new_sku": "xa-3010-iq"
+  },
+  {
+    "id": "gid://shopify/Product/15546244301148",
+    "title": "40 XA iQ",
+    "url": "https://www.zodiac-poolcare.it/robot-pulitori/robot-elettrici-per-piscine-residenziali/altre-gamma/40-xa-iq",
+    "vendor": "Zodiac",
+    "new_sku": "40-xa-iq"
+  },
+  {
+    "id": "gid://shopify/Product/15546244399452",
+    "title": "XA 4010 IQ",
+    "url": "https://www.zodiac-poolcare.it/robot-pulitori/robot-elettrici-per-piscine-residenziali/altre-gamma/xa-4010-iq",
+    "vendor": "Zodiac",
+    "new_sku": "xa-4010-iq"
+  },
+  {
+    "id": "gid://shopify/Product/15546244497756",
+    "title": "pH Expert",
+    "url": "https://www.zodiac-poolcare.it/trattamento-dell-acqua/regolazione/gamma-regolazione-del-ph/ph-expert",
+    "vendor": "Zodiac",
+    "new_sku": "ph-expert"
+  },
+  {
+    "id": "gid://shopify/Product/15546244596060",
+    "title": "RE 4200",
+    "url": "https://www.zodiac-poolcare.it/robot-pulitori/robot-elettrici-per-piscine-residenziali/gamma-voyager-/re-4200",
+    "vendor": "Zodiac",
+    "new_sku": "re-4200"
+  },
+  {
+    "id": "gid://shopify/Product/15546244694364",
+    "title": "RE 4700 iQ",
+    "url": "https://www.zodiac-poolcare.it/robot-pulitori/robot-elettrici-per-piscine-residenziali/gamma-voyager-/re-4700-iq",
+    "vendor": "Zodiac",
+    "new_sku": "re-4700-iq"
+  },
+  {
+    "id": "gid://shopify/Product/15546244792668",
+    "title": "RE 4400 iQ",
+    "url": "https://www.zodiac-poolcare.it/robot-pulitori/robot-elettrici-per-piscine-residenziali/gamma-voyager-/re-4400-iq",
+    "vendor": "Zodiac",
+    "new_sku": "re-4400-iq"
+  },
+  {
+    "id": "gid://shopify/Product/15546244858204",
+    "title": "RE 4300",
+    "url": "https://www.zodiac-poolcare.it/robot-pulitori/robot-elettrici-per-piscine-residenziali/gamma-voyager-/re-4300",
+    "vendor": "Zodiac",
+    "new_sku": "re-4300"
+  },
+  {
+    "id": "gid://shopify/Product/15546244989276",
+    "title": "RE 4600 iQ",
+    "url": "https://www.zodiac-poolcare.it/robot-pulitori/robot-elettrici-per-piscine-residenziali/gamma-voyager-/re-4600-iq",
+    "vendor": "Zodiac",
+    "new_sku": "re-4600-iq"
+  },
+  {
+    "id": "gid://shopify/Product/15546245087580",
+    "title": "Sirocco\u00b2",
+    "url": "https://www.zodiac-poolcare.it/deumidificazione/deumidificatore-d-ambiente/gamma-sirocco---ambiente/sirocco-",
+    "vendor": "Zodiac",
+    "new_sku": "sirocco-"
+  },
+  {
+    "id": "gid://shopify/Product/15546245185884",
+    "title": "Heat Line",
+    "url": "https://www.zodiac-poolcare.it/riscaldamento/scambiatori-di-calore/gamma-heat-line/heat-line",
+    "vendor": "Zodiac",
+    "new_sku": "heat-line"
+  },
+  {
+    "id": "gid://shopify/Product/15546245316956",
+    "title": "CNX 25",
+    "url": "https://www.zodiac-poolcare.it/robot-pulitori/robot-elettrici-per-piscine-residenziali/gamma-cnx-/cnx-25",
+    "vendor": "Zodiac",
+    "new_sku": "cnx-25"
+  },
+  {
+    "id": "gid://shopify/Product/15546245382492",
+    "title": "CNX 20",
+    "url": "https://www.zodiac-poolcare.it/robot-pulitori/robot-elettrici-per-piscine-residenziali/gamma-cnx-/cnx-20",
+    "vendor": "Zodiac",
+    "new_sku": "cnx-20"
+  },
+  {
+    "id": "gid://shopify/Product/15546245415260",
+    "title": "CNX 30 iQ",
+    "url": "https://www.zodiac-poolcare.it/robot-pulitori/robot-elettrici-per-piscine-residenziali/gamma-cnx-/cnx-30-iq",
+    "vendor": "Zodiac",
+    "new_sku": "cnx-30-iq"
+  },
+  {
+    "id": "gid://shopify/Product/15546245480796",
+    "title": "CNX 40 iQ",
+    "url": "https://www.zodiac-poolcare.it/robot-pulitori/robot-elettrici-per-piscine-residenziali/gamma-cnx-/cnx-40-iq",
+    "vendor": "Zodiac",
+    "new_sku": "cnx-40-iq"
+  },
+  {
+    "id": "gid://shopify/Product/15546245513564",
+    "title": "CNX 50 iQ",
+    "url": "https://www.zodiac-poolcare.it/robot-pulitori/robot-elettrici-per-piscine-residenziali/gamma-cnx-/cnx-50-iq",
+    "vendor": "Zodiac",
+    "new_sku": "cnx-50-iq"
+  },
+  {
+    "id": "gid://shopify/Product/15546245611868",
+    "title": "FloPro\u2122 VS",
+    "url": "https://www.zodiac-poolcare.it/apparecchiature-di-filtrazione/pompe-di-filtrazione/gamma-flopro--vs/flopro--vs",
+    "vendor": "Zodiac",
+    "new_sku": "flopro--vs"
+  },
+  {
+    "id": "gid://shopify/Product/15546245710172",
+    "title": "Z350iQ",
+    "url": "https://www.zodiac-poolcare.it/riscaldamento/pompe-di-calore/gamma-piscine-residenziali/z350iq",
+    "vendor": "Zodiac",
+    "new_sku": "z350iq"
+  },
+  {
+    "id": "gid://shopify/Product/15546245775708",
+    "title": "CAE con condotti",
+    "url": "https://www.zodiac-poolcare.it/deumidificazione/deumidificatore-canalizzabile/gamma-cae-canalizzabile/cae-con-condotti",
+    "vendor": "Zodiac",
+    "new_sku": "cae-con-condotti"
+  },
+  {
+    "id": "gid://shopify/Product/15546245841244",
+    "title": "Power Force Inverter",
+    "url": "https://www.zodiac-poolcare.it/riscaldamento/pompe-di-calore/gamma-grandi-dimensioni/power-force-inverter",
+    "vendor": "Zodiac",
+    "new_sku": "power-force-inverter"
+  },
+  {
+    "id": "gid://shopify/Product/15546245874012",
+    "title": "Z950 Inverter",
+    "url": "https://www.zodiac-poolcare.it/riscaldamento/pompe-di-calore/gamma-grandi-dimensioni/z950-inverter",
+    "vendor": "Zodiac",
+    "new_sku": "z950-inverter"
+  },
+  {
+    "id": "gid://shopify/Product/15546245906780",
+    "title": "Z250iQ",
+    "url": "https://www.zodiac-poolcare.it/riscaldamento/pompe-di-calore/gamma-piscine-residenziali/z250iq",
+    "vendor": "Zodiac",
+    "new_sku": "z250iq"
+  },
+  {
+    "id": "gid://shopify/Product/15546245972316",
+    "title": "Z650iQ",
+    "url": "https://www.zodiac-poolcare.it/riscaldamento/pompe-di-calore/gamma-piscine-residenziali/z650iq",
+    "vendor": "Zodiac",
+    "new_sku": "z650iq"
+  },
+  {
+    "id": "gid://shopify/Product/15546246037852",
+    "title": "Z400iQ",
+    "url": "https://www.zodiac-poolcare.it/riscaldamento/pompe-di-calore/gamma-piscine-residenziali/z400iq",
+    "vendor": "Zodiac",
+    "new_sku": "z400iq"
+  },
+  {
+    "id": "gid://shopify/Product/15546246168924",
+    "title": "Crystal Clear",
+    "url": "https://www.zodiac-poolcare.it/apparecchiature-di-filtrazione/filtri/gamma-crystal-clear/crystal-clear",
+    "vendor": "Zodiac",
+    "new_sku": "crystal-clear"
+  },
+  {
+    "id": "gid://shopify/Product/15546246234460",
+    "title": "eXO\u00ae iQ",
+    "url": "https://www.zodiac-poolcare.it/trattamento-dell-acqua/elettrolisi-al-sale/gamma-exo--iq/exo--iq",
+    "vendor": "Zodiac",
+    "new_sku": "exo--iq"
+  },
+  {
+    "id": "gid://shopify/Product/15546246267228",
+    "title": "eXO\u00ae iQ LS",
+    "url": "https://www.zodiac-poolcare.it/trattamento-dell-acqua/elettrolisi-al-sale/gamma-exo--iq/exo--iq-ls",
+    "vendor": "Zodiac",
+    "new_sku": "exo--iq-ls"
+  },
+  {
+    "id": "gid://shopify/Product/15546246332764",
+    "title": "Dual Link",
+    "url": "https://www.zodiac-poolcare.it/trattamento-dell-acqua/elettrolisi-al-sale/gamma-exo--iq/dual-link",
+    "vendor": "Zodiac",
+    "new_sku": "dual-link"
+  },
+  {
+    "id": "gid://shopify/Product/15546246365532",
+    "title": "pH Link",
+    "url": "https://www.zodiac-poolcare.it/trattamento-dell-acqua/elettrolisi-al-sale/gamma-exo--iq/ph-link",
+    "vendor": "Zodiac",
+    "new_sku": "ph-link"
+  },
+  {
+    "id": "gid://shopify/Product/15546246398300",
+    "title": "Ei\u00b2 iQ",
+    "url": "https://www.zodiac-poolcare.it/trattamento-dell-acqua/elettrolisi-al-sale/gamma-ei-/ei--iq",
+    "vendor": "Zodiac",
+    "new_sku": "ei--iq"
+  },
+  {
+    "id": "gid://shopify/Product/15546246463836",
+    "title": "EiSalt",
+    "url": "https://www.zodiac-poolcare.it/trattamento-dell-acqua/elettrolisi-al-sale/gamma-ei-/eisalt",
+    "vendor": "Zodiac",
+    "new_sku": "eisalt"
+  },
+  {
+    "id": "gid://shopify/Product/15546246496604",
+    "title": "eXPERT pH/ORP",
+    "url": "https://www.zodiac-poolcare.it/trattamento-dell-acqua/elettrolisi-al-sale/gamma-expert/expert-ph-orp",
+    "vendor": "Zodiac",
+    "new_sku": "expert-ph-orp"
+  },
+  {
+    "id": "gid://shopify/Product/15546246562140",
+    "title": "eXPERT",
+    "url": "https://www.zodiac-poolcare.it/trattamento-dell-acqua/elettrolisi-al-sale/gamma-expert/expert",
+    "vendor": "Zodiac",
+    "new_sku": "expert"
+  },
+  {
+    "id": "gid://shopify/Product/15546246627676",
+    "title": "TRX 8500 iQ",
+    "url": "https://www.zodiac-poolcare.it/robot-pulitori/pulitori-elettrici-per-piscine-commerciali/vortrax-/trx-8500-iq",
+    "vendor": "Zodiac",
+    "new_sku": "trx-8500-iq"
+  },
+  {
+    "id": "gid://shopify/Product/15546246660444",
+    "title": "TRX 8700 iQ",
+    "url": "https://www.zodiac-poolcare.it/robot-pulitori/pulitori-elettrici-per-piscine-commerciali/vortrax-/trx-8700-iq",
+    "vendor": "Zodiac",
+    "new_sku": "trx-8700-iq"
+  },
+  {
+    "id": "gid://shopify/Product/15546246725980",
+    "title": "Blue Connect Silver",
+    "url": "https://www.zodiac-poolcare.it/analisi-dell-acqua/smart-sensors/blue-connect-/blue-connect-silver",
+    "vendor": "Zodiac",
+    "new_sku": "blue-connect-silver"
+  },
+  {
+    "id": "gid://shopify/Product/15546246791516",
+    "title": "Blue Connect Gold",
+    "url": "https://www.zodiac-poolcare.it/analisi-dell-acqua/smart-sensors/blue-connect-/blue-connect-gold",
+    "vendor": "Zodiac",
+    "new_sku": "blue-connect-gold"
+  },
+  {
+    "id": "gid://shopify/Product/15546246824284",
+    "title": "Uranus",
+    "url": "https://www.zodiac-poolcare.it/riscaldamento/scambiatori-di-calore/gamma-uranus--/uranus",
+    "vendor": "Zodiac",
+    "new_sku": "uranus"
+  },
+  {
+    "id": "gid://shopify/Product/15546246889820",
+    "title": "Chlor Expert",
+    "url": "https://www.zodiac-poolcare.it/trattamento-dell-acqua/regolazione/gamma-regolazione-del-cloro/chlor-expert",
+    "vendor": "Zodiac",
+    "new_sku": "chlor-expert"
+  },
+  {
+    "id": "gid://shopify/Product/15546246922588",
+    "title": "iQPump",
+    "url": "https://www.zodiac-poolcare.it/apparecchiature-di-filtrazione/pompe-di-filtrazione/gamma-flopro--vs/iqpump",
+    "vendor": "Zodiac",
+    "new_sku": "iqpump"
+  },
+  {
+    "id": "gid://shopify/Product/15546246988124",
+    "title": "E30iQ",
+    "url": "https://www.zodiac-poolcare.it/apparecchiature-di-filtrazione/pompe-di-filtrazione/gamma-e30iq/e30iq",
+    "vendor": "Zodiac",
+    "new_sku": "e30iq"
+  },
+  {
+    "id": "gid://shopify/Product/15546247053660",
+    "title": "FloPro\u2122",
+    "url": "https://www.zodiac-poolcare.it/apparecchiature-di-filtrazione/pompe-di-filtrazione/gamma-flopro-/flopro-",
+    "vendor": "Zodiac",
+    "new_sku": "flopro-"
+  },
+  {
+    "id": "gid://shopify/Product/15546247086428",
+    "title": "DT 850 E",
+    "url": "https://www.zodiac-poolcare.it/deumidificazione/deumidificatore-d-ambiente/gamma-dt-850/dt-850-e",
+    "vendor": "Zodiac",
+    "new_sku": "dt-850-e"
+  },
+  {
+    "id": "gid://shopify/Product/15546247151964",
+    "title": "OP 3220",
+    "url": "https://www.zodiac-poolcare.it/robot-pulitori/robot-elettrici-senza-cavo-per-piscine-residenziali/pixel-/op-3220",
+    "vendor": "Zodiac",
+    "new_sku": "op-3220"
+  },
+  {
+    "id": "gid://shopify/Product/15546247217500",
+    "title": "OP 32",
+    "url": "https://www.zodiac-poolcare.it/robot-pulitori/robot-elettrici-senza-cavo-per-piscine-residenziali/pixel-/op-32",
+    "vendor": "Zodiac",
+    "new_sku": "op-32"
+  },
+  {
+    "id": "gid://shopify/Product/15546247348572",
+    "title": "RF 5400 iQ",
+    "url": "https://www.zodiac-poolcare.it/robot-pulitori/robot-elettrici-senza-cavo-per-piscine-residenziali/freerider-/rf-5400-iq",
+    "vendor": "Zodiac",
+    "new_sku": "rf-5400-iq"
+  },
+  {
+    "id": "gid://shopify/Product/15546247446876",
+    "title": "RF 5200 iQ",
+    "url": "https://www.zodiac-poolcare.it/robot-pulitori/robot-elettrici-senza-cavo-per-piscine-residenziali/freerider-/rf-5200-iq",
+    "vendor": "Zodiac",
+    "new_sku": "rf-5200-iq"
+  },
+  {
+    "id": "gid://shopify/Product/15546247577948",
+    "title": "RF 42 iQ",
+    "url": "https://www.zodiac-poolcare.it/robot-pulitori/robot-elettrici-senza-cavo-per-piscine-residenziali/freerider-/rf-42-iq",
+    "vendor": "Zodiac",
+    "new_sku": "rf-42-iq"
+  },
+  {
+    "id": "gid://shopify/Product/15546247643484",
+    "title": "RF 5600 iQ",
+    "url": "https://www.zodiac-poolcare.it/robot-pulitori/robot-elettrici-senza-cavo-per-piscine-residenziali/freerider-/rf-5600-iq",
+    "vendor": "Zodiac",
+    "new_sku": "rf-5600-iq"
+  },
+  {
+    "id": "gid://shopify/Product/15546247774556",
+    "title": "OF 42 iQ",
+    "url": "https://www.zodiac-poolcare.it/robot-pulitori/robot-elettrici-senza-cavo-per-piscine-residenziali/freedom/of-42-iq",
+    "vendor": "Zodiac",
+    "new_sku": "of-42-iq"
+  },
+  {
+    "id": "gid://shopify/Product/15546247905628",
+    "title": "Freedom+ Control",
+    "url": "https://www.zodiac-poolcare.it/robot-pulitori/robot-elettrici-senza-cavo-per-piscine-residenziali/freedom/freedom--control",
+    "vendor": "Zodiac",
+    "new_sku": "freedom--control"
+  },
+  {
+    "id": "gid://shopify/Product/15546248003932",
+    "title": "CNX-Li 5220 iQ",
+    "url": "https://www.zodiac-poolcare.it/robot-pulitori/robot-elettrici-senza-cavo-per-piscine-residenziali/freedom/cnx-li-5220-iq",
+    "vendor": "Zodiac",
+    "new_sku": "cnx-li-5220-iq"
+  },
+  {
+    "id": "gid://shopify/Product/15546248102236",
+    "title": "OF 4220 iQ",
+    "url": "https://www.zodiac-poolcare.it/robot-pulitori/robot-elettrici-senza-cavo-per-piscine-residenziali/freedom/of-4220-iq",
+    "vendor": "Zodiac",
+    "new_sku": "of-4220-iq"
+  },
+  {
+    "id": "gid://shopify/Product/15546248167772",
+    "title": "CNX-Li 52 iQ",
+    "url": "https://www.zodiac-poolcare.it/robot-pulitori/robot-elettrici-senza-cavo-per-piscine-residenziali/freedom/cnx-li-52-iq",
+    "vendor": "Zodiac",
+    "new_sku": "cnx-li-52-iq"
+  },
+  {
+    "id": "gid://shopify/Product/15546249412956",
+    "title": "Bluespring",
+    "url": "https://www.piscinelaghetto.com/product/piscine-interrate/bluespring",
+    "vendor": "Piscine Laghetto",
+    "new_sku": "bluespring"
+  },
+  {
+    "id": "gid://shopify/Product/15546249544028",
+    "title": "Ninfea Thiny",
+    "url": "https://www.piscinelaghetto.com/product/minipiscine/musa-picnic",
+    "vendor": "Piscine Laghetto",
+    "new_sku": "musa-picnic"
+  },
+  {
+    "id": "gid://shopify/Product/15546249642332",
+    "title": "Dolcevita Naked",
+    "url": "https://www.piscinelaghetto.com/product/piscine-personalizzabili/dolcevita-naked",
+    "vendor": "Piscine Laghetto",
+    "new_sku": "dolcevita-naked"
+  },
+  {
+    "id": "gid://shopify/Product/15546249707868",
+    "title": "Divina Skimmer",
+    "url": "https://www.piscinelaghetto.com/product/piscine-seminterrate/divina-sfioro",
+    "vendor": "Piscine Laghetto",
+    "new_sku": "divina-sfioro"
+  },
+  {
+    "id": "gid://shopify/Product/15546249970012",
+    "title": "Dolcevita Diva LTI",
+    "url": "https://www.piscinelaghetto.com/product/piscine-fuori-terra-rigide/dolcevita-diva-lti",
+    "vendor": "Piscine Laghetto",
+    "new_sku": "dolcevita-diva-lti"
+  },
+  {
+    "id": "gid://shopify/Product/15546250068316",
+    "title": "Classic",
+    "url": "https://www.piscinelaghetto.com/product/piscine-fuori-terra-morbide/classic",
+    "vendor": "Piscine Laghetto",
+    "new_sku": "classic"
+  },
+  {
+    "id": "gid://shopify/Product/15546250166620",
+    "title": "Playa",
+    "url": "https://www.piscinelaghetto.com/product/minipiscine/playa-pool",
+    "vendor": "Piscine Laghetto",
+    "new_sku": "playa-pool"
+  },
+  {
+    "id": "gid://shopify/Product/15546250461532",
+    "title": "Antea",
+    "url": "https://www.piscinelaghetto.com/product/piscine-fuori-terra-rigide/antea",
+    "vendor": "Piscine Laghetto",
+    "new_sku": "antea"
+  },
+  {
+    "id": "gid://shopify/Product/15546250592604",
+    "title": "Ninfea",
+    "url": "https://www.piscinelaghetto.com/product/minipiscine/ninfea",
+    "vendor": "Piscine Laghetto",
+    "new_sku": "ninfea"
+  },
+  {
+    "id": "gid://shopify/Product/15546250658140",
+    "title": "Dolcevita Rattan",
+    "url": "https://www.piscinelaghetto.com/product/piscine-fuori-terra-rigide/dolcevita-rattan",
+    "vendor": "Piscine Laghetto",
+    "new_sku": "dolcevita-rattan"
+  },
+  {
+    "id": "gid://shopify/Product/15546250756444",
+    "title": "Professional",
+    "url": "https://www.piscinelaghetto.com/product/piscine-per-eventi/custom-professional",
+    "vendor": "Piscine Laghetto",
+    "new_sku": "custom-professional"
+  },
+  {
+    "id": "gid://shopify/Product/15546250821980",
+    "title": "Musa",
+    "url": "https://www.piscinelaghetto.com/product/minipiscine/musa-2025",
+    "vendor": "Piscine Laghetto",
+    "new_sku": "musa-2025"
+  },
+  {
+    "id": "gid://shopify/Product/15546250887516",
+    "title": "Dolcevita Diva",
+    "url": "https://www.piscinelaghetto.com/product/piscine-fuori-terra-rigide/dolcevita-diva",
+    "vendor": "Piscine Laghetto",
+    "new_sku": "dolcevita-diva"
+  },
+  {
+    "id": "gid://shopify/Product/15546259898716",
+    "title": "Z550iQ",
+    "url": "https://www.zodiac-poolcare.it/riscaldamento/pompe-di-calore/gamma-piscine-residenziali/z550iq",
+    "vendor": "Zodiac",
+    "new_sku": "z550iq"
+  },
+  {
+    "id": "gid://shopify/Product/15546260652380",
+    "title": "eXPERT pH",
+    "url": "https://www.zodiac-poolcare.it/trattamento-dell-acqua/elettrolisi-al-sale/gamma-expert/expert-ph",
+    "vendor": "Zodiac",
+    "new_sku": "expert-ph"
+  },
+  {
+    "id": "gid://shopify/Product/15546260816220",
+    "title": "Freedom Lite",
+    "url": "https://www.zodiac-poolcare.it/robot-pulitori/robot-elettrici-senza-cavo-per-piscine-residenziali/freedom/freedom-lite",
+    "vendor": "Zodiac",
+    "new_sku": "freedom-lite"
+  }
+]

@@ -1,0 +1,1116 @@
+{
+  "summary": {
+    "total_flagged": 122,
+    "by_issue": {
+      "AI_LEAKAGE_TITLE": 0,
+      "AI_LEAKAGE_DESCRIPTION": 3,
+      "ZERO_PRICE_ACTIVE": 0,
+      "MISSING_SKU": 120,
+      "MISSING_IMAGES": 2,
+      "BROKEN_HANDLE": 0
+    }
+  },
+  "details": [
+    {
+      "id": "gid://shopify/Product/15527757676892",
+      "title": "Depuratore acqua 72 W a cartuccia",
+      "handle": "depuratori-a-cartuccia-potenza-72-w",
+      "vendor": "Gre",
+      "issues": [
+        "MISSING_SKU"
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/15527758365020",
+      "title": "Pompa di calore Inverter HPGIC30",
+      "handle": "pompa-di-calore-inverter-hpgic30",
+      "vendor": "Gre",
+      "issues": [
+        "MISSING_SKU"
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/15527758561628",
+      "title": "Copertura per piscina rettangolare",
+      "handle": "coperture-per-piscine-rettangolari",
+      "vendor": "Gre",
+      "issues": [
+        "MISSING_SKU"
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/15527758954844",
+      "title": "Doccia in acciaio inossidabile",
+      "handle": "doccia-in-acciaio-inossidabile",
+      "vendor": "Gre",
+      "issues": [
+        "MISSING_SKU"
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/15546226934108",
+      "title": "Prodotto Minimal",
+      "handle": "test-product-minimal",
+      "vendor": "Zodiac",
+      "issues": [
+        "MISSING_SKU",
+        "MISSING_IMAGES"
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/15546227753308",
+      "title": "Linea Rossa",
+      "handle": "red-line",
+      "vendor": "Zodiac",
+      "issues": [
+        "MISSING_SKU"
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/15546227917148",
+      "title": "Aspirapolvere RA 6300 iQ",
+      "handle": "aspirapolvere-ra-6300-iq",
+      "vendor": "Zodiac",
+      "issues": [
+        "MISSING_SKU"
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/15546242564444",
+      "title": "Aspirapolvere RA 6900 iQ",
+      "handle": "aspirapolvere-ra-6900-iq",
+      "vendor": "Zodiac",
+      "issues": [
+        "MISSING_SKU"
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/15546242695516",
+      "title": "Pulitore a vuoto OA 6600 iQ",
+      "handle": "pulitore-a-vuoto-oa-6600-iq",
+      "vendor": "Zodiac",
+      "issues": [
+        "MISSING_SKU"
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/15546242761052",
+      "title": "Aspirapolvere OA 6400 iQ",
+      "handle": "aspirapolvere-oa-6400-iq",
+      "vendor": "Zodiac",
+      "issues": [
+        "MISSING_SKU"
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/15546242826588",
+      "title": "Piscina Robot RA 6500 iQ",
+      "handle": "piscina-robot-ra-6500-iq",
+      "vendor": "Zodiac",
+      "issues": [
+        "MISSING_SKU"
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/15546242924892",
+      "title": "Aspirapolvere Robot RA 6800 iQ",
+      "handle": "aspirapolvere-robot-ra-6800-iq",
+      "vendor": "Zodiac",
+      "issues": [
+        "MISSING_SKU"
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/15546243023196",
+      "title": "SWY 3520",
+      "handle": "swy-3520",
+      "vendor": "Zodiac",
+      "issues": [
+        "MISSING_SKU"
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/15546243121500",
+      "title": "SWY 3500 Piscina Robot Pulitore Elettrico",
+      "handle": "swy-3500-piscina-robot-pulitore-elettrico",
+      "vendor": "Zodiac",
+      "issues": [
+        "MISSING_SKU"
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/15546243187036",
+      "title": "Ovale 5390",
+      "handle": "ovale-5390",
+      "vendor": "Zodiac",
+      "issues": [
+        "MISSING_SKU"
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/15546243252572",
+      "title": "OV 5200 Sistema di Filtrazione",
+      "handle": "ov-5200-sistema-di-filtrazione",
+      "vendor": "Zodiac",
+      "issues": [
+        "MISSING_SKU"
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/15546243416412",
+      "title": "GV 5220 Pulitore a Vapore",
+      "handle": "gv-5220-pulitore-a-vapore",
+      "vendor": "Zodiac",
+      "issues": [
+        "MISSING_SKU"
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/15546243514716",
+      "title": "Filtro FR 5200",
+      "handle": "fr-5200",
+      "vendor": "Zodiac",
+      "issues": [
+        "MISSING_SKU"
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/15546243580252",
+      "title": "OT 3290 Tile",
+      "handle": "ot-3290-tile",
+      "vendor": "Zodiac",
+      "issues": [
+        "MISSING_SKU"
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/15546243711324",
+      "title": "OT 3200",
+      "handle": "ot-3200",
+      "vendor": "Zodiac",
+      "issues": [
+        "MISSING_SKU"
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/15546243809628",
+      "title": "GT 3220",
+      "handle": "gt-3220",
+      "vendor": "Zodiac",
+      "issues": [
+        "MISSING_SKU"
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/15546243875164",
+      "title": "RT 3200",
+      "handle": "rt-3200",
+      "vendor": "Zodiac",
+      "issues": [
+        "MISSING_SKU"
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/15546244202844",
+      "title": "XA 3010 iQ",
+      "handle": "xa-3010-iq",
+      "vendor": "Zodiac",
+      "issues": [
+        "MISSING_SKU"
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/15546244301148",
+      "title": "40 XA iQ",
+      "handle": "40-xa-iq",
+      "vendor": "Zodiac",
+      "issues": [
+        "MISSING_SKU"
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/15546244399452",
+      "title": "XA 4010 IQ",
+      "handle": "xa-4010-iq",
+      "vendor": "Zodiac",
+      "issues": [
+        "MISSING_SKU"
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/15546244497756",
+      "title": "pH Expert",
+      "handle": "ph-expert",
+      "vendor": "Zodiac",
+      "issues": [
+        "MISSING_SKU"
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/15546244596060",
+      "title": "RE 4200",
+      "handle": "re-4200",
+      "vendor": "Zodiac",
+      "issues": [
+        "MISSING_SKU"
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/15546244694364",
+      "title": "RE 4700 iQ",
+      "handle": "re-4700-iq",
+      "vendor": "Zodiac",
+      "issues": [
+        "MISSING_SKU"
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/15546244792668",
+      "title": "RE 4400 iQ",
+      "handle": "re-4400-iq",
+      "vendor": "Zodiac",
+      "issues": [
+        "MISSING_SKU"
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/15546244858204",
+      "title": "RE 4300",
+      "handle": "re-4300",
+      "vendor": "Zodiac",
+      "issues": [
+        "MISSING_SKU"
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/15546244989276",
+      "title": "RE 4600 iQ",
+      "handle": "re-4600-iq",
+      "vendor": "Zodiac",
+      "issues": [
+        "MISSING_SKU"
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/15546245087580",
+      "title": "Sirocco²",
+      "handle": "sirocco",
+      "vendor": "Zodiac",
+      "issues": [
+        "MISSING_SKU"
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/15546245185884",
+      "title": "Heat Line",
+      "handle": "heat-line",
+      "vendor": "Zodiac",
+      "issues": [
+        "MISSING_SKU"
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/15546245316956",
+      "title": "CNX 25",
+      "handle": "cnx-25",
+      "vendor": "Zodiac",
+      "issues": [
+        "MISSING_SKU"
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/15546245382492",
+      "title": "CNX 20",
+      "handle": "cnx-20",
+      "vendor": "Zodiac",
+      "issues": [
+        "MISSING_SKU"
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/15546245415260",
+      "title": "CNX 30 iQ",
+      "handle": "cnx-30-iq",
+      "vendor": "Zodiac",
+      "issues": [
+        "MISSING_SKU"
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/15546245480796",
+      "title": "CNX 40 iQ",
+      "handle": "cnx-40-iq",
+      "vendor": "Zodiac",
+      "issues": [
+        "MISSING_SKU"
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/15546245513564",
+      "title": "CNX 50 iQ",
+      "handle": "cnx-50-iq",
+      "vendor": "Zodiac",
+      "issues": [
+        "MISSING_SKU"
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/15546245579100",
+      "title": "RE/U",
+      "handle": "re-u",
+      "vendor": "Zodiac",
+      "issues": [
+        "MISSING_SKU"
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/15546245611868",
+      "title": "FloPro™ VS",
+      "handle": "flopro™-vs",
+      "vendor": "Zodiac",
+      "issues": [
+        "AI_LEAKAGE_DESCRIPTION",
+        "MISSING_SKU"
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/15546245644636",
+      "title": "RE/L",
+      "handle": "re-l",
+      "vendor": "Zodiac",
+      "issues": [
+        "MISSING_SKU"
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/15546245710172",
+      "title": "Z350iQ",
+      "handle": "z350iq",
+      "vendor": "Zodiac",
+      "issues": [
+        "AI_LEAKAGE_DESCRIPTION",
+        "MISSING_SKU"
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/15546245742940",
+      "title": "RE/I",
+      "handle": "re-i",
+      "vendor": "Zodiac",
+      "issues": [
+        "MISSING_SKU"
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/15546245775708",
+      "title": "CAE con condotti",
+      "handle": "cae-con-condotti",
+      "vendor": "Zodiac",
+      "issues": [
+        "MISSING_SKU"
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/15546245841244",
+      "title": "Power Force Inverter",
+      "handle": "power-force-inverter",
+      "vendor": "Zodiac",
+      "issues": [
+        "MISSING_SKU"
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/15546245874012",
+      "title": "Z950 Inverter",
+      "handle": "z950-inverter",
+      "vendor": "Zodiac",
+      "issues": [
+        "MISSING_SKU"
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/15546245906780",
+      "title": "Z250iQ",
+      "handle": "z250iq",
+      "vendor": "Zodiac",
+      "issues": [
+        "MISSING_SKU"
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/15546245972316",
+      "title": "Z650iQ",
+      "handle": "z650iq",
+      "vendor": "Zodiac",
+      "issues": [
+        "MISSING_SKU"
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/15546246037852",
+      "title": "Z400iQ",
+      "handle": "z400iq",
+      "vendor": "Zodiac",
+      "issues": [
+        "MISSING_SKU"
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/15546246070620",
+      "title": "PX25",
+      "handle": "px25",
+      "vendor": "Zodiac",
+      "issues": [
+        "MISSING_SKU"
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/15546246136156",
+      "title": "CS",
+      "handle": "cs",
+      "vendor": "Zodiac",
+      "issues": [
+        "MISSING_SKU"
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/15546246168924",
+      "title": "Crystal Clear",
+      "handle": "crystal-clear",
+      "vendor": "Zodiac",
+      "issues": [
+        "MISSING_SKU"
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/15546246234460",
+      "title": "eXO® iQ",
+      "handle": "exo-iq",
+      "vendor": "Zodiac",
+      "issues": [
+        "MISSING_SKU"
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/15546246267228",
+      "title": "eXO® iQ LS",
+      "handle": "exo-iq-ls",
+      "vendor": "Zodiac",
+      "issues": [
+        "MISSING_SKU"
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/15546246332764",
+      "title": "Dual Link",
+      "handle": "dual-link",
+      "vendor": "Zodiac",
+      "issues": [
+        "MISSING_SKU"
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/15546246365532",
+      "title": "pH Link",
+      "handle": "ph-link",
+      "vendor": "Zodiac",
+      "issues": [
+        "MISSING_SKU"
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/15546246398300",
+      "title": "Ei² iQ",
+      "handle": "ei-iq",
+      "vendor": "Zodiac",
+      "issues": [
+        "MISSING_SKU"
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/15546246463836",
+      "title": "EiSalt",
+      "handle": "eisalt",
+      "vendor": "Zodiac",
+      "issues": [
+        "MISSING_SKU"
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/15546246496604",
+      "title": "eXPERT pH/ORP",
+      "handle": "expert-ph-orp",
+      "vendor": "Zodiac",
+      "issues": [
+        "MISSING_SKU"
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/15546246562140",
+      "title": "eXPERT",
+      "handle": "expert",
+      "vendor": "Zodiac",
+      "issues": [
+        "MISSING_SKU"
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/15546246627676",
+      "title": "TRX 8500 iQ",
+      "handle": "trx-8500-iq",
+      "vendor": "Zodiac",
+      "issues": [
+        "MISSING_SKU"
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/15546246660444",
+      "title": "TRX 8700 iQ",
+      "handle": "trx-8700-iq",
+      "vendor": "Zodiac",
+      "issues": [
+        "MISSING_SKU"
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/15546246725980",
+      "title": "Blue Connect Silver",
+      "handle": "blue-connect-silver",
+      "vendor": "Zodiac",
+      "issues": [
+        "MISSING_SKU"
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/15546246791516",
+      "title": "Blue Connect Gold",
+      "handle": "blue-connect-gold",
+      "vendor": "Zodiac",
+      "issues": [
+        "MISSING_SKU"
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/15546246824284",
+      "title": "Uranus",
+      "handle": "uranus",
+      "vendor": "Zodiac",
+      "issues": [
+        "MISSING_SKU"
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/15546246889820",
+      "title": "Chlor Expert",
+      "handle": "chlor-expert",
+      "vendor": "Zodiac",
+      "issues": [
+        "MISSING_SKU"
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/15546246922588",
+      "title": "iQPump",
+      "handle": "iqpump",
+      "vendor": "Zodiac",
+      "issues": [
+        "MISSING_SKU"
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/15546246988124",
+      "title": "E30iQ",
+      "handle": "e30iq",
+      "vendor": "Zodiac",
+      "issues": [
+        "MISSING_SKU"
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/15546247053660",
+      "title": "FloPro™",
+      "handle": "flopro™",
+      "vendor": "Zodiac",
+      "issues": [
+        "MISSING_SKU"
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/15546247086428",
+      "title": "DT 850 E",
+      "handle": "dt-850-e",
+      "vendor": "Zodiac",
+      "issues": [
+        "MISSING_SKU"
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/15546247151964",
+      "title": "OP 3220",
+      "handle": "op-3220",
+      "vendor": "Zodiac",
+      "issues": [
+        "MISSING_SKU"
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/15546247217500",
+      "title": "OP 32",
+      "handle": "op-32",
+      "vendor": "Zodiac",
+      "issues": [
+        "MISSING_SKU"
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/15546247348572",
+      "title": "RF 5400 iQ",
+      "handle": "rf-5400-iq",
+      "vendor": "Zodiac",
+      "issues": [
+        "MISSING_SKU"
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/15546247446876",
+      "title": "RF 5200 iQ",
+      "handle": "rf-5200-iq",
+      "vendor": "Zodiac",
+      "issues": [
+        "MISSING_SKU"
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/15546247577948",
+      "title": "RF 42 iQ",
+      "handle": "rf-42-iq",
+      "vendor": "Zodiac",
+      "issues": [
+        "MISSING_SKU"
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/15546247643484",
+      "title": "RF 5600 iQ",
+      "handle": "rf-5600-iq",
+      "vendor": "Zodiac",
+      "issues": [
+        "MISSING_SKU"
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/15546247774556",
+      "title": "OF 42 iQ",
+      "handle": "of-42-iq",
+      "vendor": "Zodiac",
+      "issues": [
+        "MISSING_SKU"
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/15546247905628",
+      "title": "Freedom+ Control",
+      "handle": "freedom-control",
+      "vendor": "Zodiac",
+      "issues": [
+        "MISSING_SKU"
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/15546248003932",
+      "title": "CNX-Li 5220 iQ",
+      "handle": "cnx-li-5220-iq",
+      "vendor": "Zodiac",
+      "issues": [
+        "MISSING_SKU"
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/15546248102236",
+      "title": "OF 4220 iQ",
+      "handle": "of-4220-iq",
+      "vendor": "Zodiac",
+      "issues": [
+        "MISSING_SKU"
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/15546248167772",
+      "title": "CNX-Li 52 iQ",
+      "handle": "cnx-li-52-iq",
+      "vendor": "Zodiac",
+      "issues": [
+        "MISSING_SKU"
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/15546249412956",
+      "title": "Bluespring",
+      "handle": "bluespring",
+      "vendor": "Piscine Laghetto",
+      "issues": [
+        "MISSING_SKU"
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/15546249544028",
+      "title": "Ninfea Thiny",
+      "handle": "ninfea-thiny",
+      "vendor": "Piscine Laghetto",
+      "issues": [
+        "MISSING_SKU"
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/15546249642332",
+      "title": "Dolcevita Naked",
+      "handle": "dolcevita-naked",
+      "vendor": "Piscine Laghetto",
+      "issues": [
+        "MISSING_SKU"
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/15546249707868",
+      "title": "Divina Skimmer",
+      "handle": "divina-skimmer",
+      "vendor": "Piscine Laghetto",
+      "issues": [
+        "MISSING_SKU"
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/15546249871708",
+      "title": "City",
+      "handle": "city",
+      "vendor": "Piscine Laghetto",
+      "issues": [
+        "MISSING_SKU"
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/15546249970012",
+      "title": "Dolcevita Diva LTI",
+      "handle": "dolcevita-diva-lti",
+      "vendor": "Piscine Laghetto",
+      "issues": [
+        "MISSING_SKU"
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/15546250068316",
+      "title": "Classic",
+      "handle": "classic",
+      "vendor": "Piscine Laghetto",
+      "issues": [
+        "MISSING_SKU"
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/15546250166620",
+      "title": "Playa",
+      "handle": "playa",
+      "vendor": "Piscine Laghetto",
+      "issues": [
+        "MISSING_SKU"
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/15546250297692",
+      "title": "Pop!",
+      "handle": "pop",
+      "vendor": "Piscine Laghetto",
+      "issues": [
+        "MISSING_SKU"
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/15546250461532",
+      "title": "Antea",
+      "handle": "antea",
+      "vendor": "Piscine Laghetto",
+      "issues": [
+        "MISSING_SKU"
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/15546250592604",
+      "title": "Ninfea",
+      "handle": "ninfea",
+      "vendor": "Piscine Laghetto",
+      "issues": [
+        "MISSING_SKU"
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/15546250658140",
+      "title": "Dolcevita Rattan",
+      "handle": "dolcevita-rattan",
+      "vendor": "Piscine Laghetto",
+      "issues": [
+        "MISSING_SKU"
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/15546250756444",
+      "title": "Professional",
+      "handle": "professional",
+      "vendor": "Piscine Laghetto",
+      "issues": [
+        "MISSING_SKU"
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/15546250821980",
+      "title": "Musa",
+      "handle": "musa",
+      "vendor": "Piscine Laghetto",
+      "issues": [
+        "MISSING_SKU"
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/15546250887516",
+      "title": "Dolcevita Diva",
+      "handle": "dolcevita-diva",
+      "vendor": "Piscine Laghetto",
+      "issues": [
+        "MISSING_SKU"
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/15546259865948",
+      "title": "MS",
+      "handle": "ms-1",
+      "vendor": "Zodiac",
+      "issues": [
+        "MISSING_SKU"
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/15546259898716",
+      "title": "Pompa di calore Z550 IQ MD4",
+      "handle": "pompa-di-calore-z550-iq-md4",
+      "vendor": "Zodiac",
+      "issues": [
+        "MISSING_SKU"
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/15546260652380",
+      "title": "eXPERT pH",
+      "handle": "expert-ph",
+      "vendor": "Zodiac",
+      "issues": [
+        "MISSING_SKU"
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/15546260816220",
+      "title": "Freedom Lite",
+      "handle": "freedom-lite",
+      "vendor": "Zodiac",
+      "issues": [
+        "MISSING_SKU"
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/15582262952284",
+      "title": "Red Line",
+      "handle": "red-line-1",
+      "vendor": "Zodiac",
+      "issues": [
+        "MISSING_SKU"
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/15582263214428",
+      "title": "OA 6600 iQ",
+      "handle": "oa-6600-iq-1",
+      "vendor": "Zodiac",
+      "issues": [
+        "MISSING_SKU"
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/15582263640412",
+      "title": "SWY 3500",
+      "handle": "swy-3501",
+      "vendor": "Zodiac",
+      "issues": [
+        "MISSING_SKU"
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/15582263771484",
+      "title": "OV 5390",
+      "handle": "ov-5391",
+      "vendor": "Zodiac",
+      "issues": [
+        "MISSING_SKU"
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/15582263935324",
+      "title": "OV 5200",
+      "handle": "ov-5201",
+      "vendor": "Zodiac",
+      "issues": [
+        "MISSING_SKU"
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/15582264066396",
+      "title": "GV 5220",
+      "handle": "gv-5221",
+      "vendor": "Zodiac",
+      "issues": [
+        "MISSING_SKU"
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/15582264820060",
+      "title": "Z550iQ",
+      "handle": "z550iq",
+      "vendor": "Zodiac",
+      "issues": [
+        "MISSING_SKU"
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/15591455097180",
+      "title": "Piscina Power Steel Rettangolare",
+      "handle": "piscina-power-steel-rettangolare",
+      "vendor": "Intex",
+      "issues": [
+        "MISSING_SKU"
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/15591455228252",
+      "title": "Piscina Power Steel Rotonda",
+      "handle": "piscina-power-steel-rotonda",
+      "vendor": "Intex",
+      "issues": [
+        "MISSING_SKU"
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/15591465845084",
+      "title": "Piscina Power Steel Rettangolare",
+      "handle": "piscina-power-steel-rettangolare-1",
+      "vendor": "Intex",
+      "issues": [
+        "MISSING_SKU"
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/15591465943388",
+      "title": "Piscina Power Steel Rotonda",
+      "handle": "piscina-power-steel-rotonda-1",
+      "vendor": "Intex",
+      "issues": [
+        "MISSING_SKU"
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/15591515619676",
+      "title": "Piscina Prisma Frame Rotonda",
+      "handle": "piscina-prisma-frame-rotonda",
+      "vendor": "Intex",
+      "issues": [
+        "MISSING_SKU"
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/15591515717980",
+      "title": "Piscina Prisma Frame Rettangolare",
+      "handle": "piscina-prisma-frame-rettangolare",
+      "vendor": "Intex",
+      "issues": [
+        "MISSING_SKU"
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/15591515783516",
+      "title": "Piscina Metallica Rotonda",
+      "handle": "piscina-metallica-rotonda",
+      "vendor": "Intex",
+      "issues": [
+        "MISSING_SKU"
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/15591516602716",
+      "title": "Telo Termico",
+      "handle": "telo-termico",
+      "vendor": "Intex",
+      "issues": [
+        "MISSING_SKU"
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/15591516701020",
+      "title": "Telo Copri",
+      "handle": "telo-copri",
+      "vendor": "Intex",
+      "issues": [
+        "MISSING_SKU"
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/15591516832092",
+      "title": "Robot Pulitore Automatico",
+      "handle": "robot-pulitore-automatico",
+      "vendor": "Intex",
+      "issues": [
+        "AI_LEAKAGE_DESCRIPTION"
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/15591517618524",
+      "title": "Telo Copri Prisma",
+      "handle": "telo-copri-prisma",
+      "vendor": "Intex",
+      "issues": [
+        "MISSING_SKU"
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/15591517847900",
+      "title": "Pompa Filtro Krystal Clear",
+      "handle": "pompa-filtro-krystal-clear",
+      "vendor": "Intex",
+      "issues": [
+        "MISSING_SKU"
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/15591519125852",
+      "title": "Piscine Intex",
+      "handle": "piscine-intex",
+      "vendor": "Intex",
+      "issues": [
+        "MISSING_SKU"
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/15591520108892",
+      "title": "Piscina Easy Set",
+      "handle": "piscina-easy-set",
+      "vendor": "Intex",
+      "issues": [
+        "MISSING_SKU"
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/15591520272732",
+      "title": "Piscina Bestway Solo Struttura",
+      "handle": "piscina-bestway-solo-struttura",
+      "vendor": "Bestway",
+      "issues": [
+        "MISSING_IMAGES"
+      ]
+    }
+  ]
+}

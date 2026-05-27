@@ -1,0 +1,189 @@
+{% comment %}
+  Home Ecosystem - Jolly Game Piscine 2026 v10.3
+  MASTER EDITION: JPG Assets + Cache Buster
+{% endcomment %}
+
+<div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-16 space-y-32 font-sans text-primary">
+  <div style="display:none;" data-sync-id="20260403_1405_JPG_FIX"></div>
+  
+  <!-- 1. JOLLY CARE HUB (POLISHED HERO) -->
+  <section class="grid grid-cols-1 lg:grid-cols-12 gap-12 items-center">
+    <div class="lg:col-span-7 space-y-10">
+      <div class="inline-flex items-center gap-2 bg-[#00578E]/5 px-5 py-2.5 rounded-full border border-[#00578E]/10 backdrop-blur-sm">
+        <span class="material-symbols-outlined text-[#00578E] text-sm">shield</span>
+        <span class="text-[10px] font-black uppercase tracking-[0.4em] text-[#00578E]">Jolly Care System 2026</span>
+      </div>
+      <h2 class="text-6xl md:text-9xl font-headline font-black tracking-tighter leading-[0.85] uppercase italic">
+        L'acqua <br/><span class="text-[#00578E]">Perfetta</span> <br/>è <span class="text-[#FFDEA5] bg-[#00578E] px-6 rounded-3xl not-italic shadow-2xl">Smart.</span>
+      </h2>
+      <p class="text-xl md:text-2xl text-on-surface-variant font-medium max-w-2xl leading-relaxed italic opacity-70">
+        Monitoraggio invisibile, assistenza leggendaria. Benvenuto nell'ecosistema Jolly Care.
+      </p>
+      <div class="flex flex-wrap gap-6 pt-6">
+        <a href="/pages/club" class="px-12 py-6 bg-[#00578E] text-white rounded-2xl font-black text-xs uppercase tracking-widest shadow-[0_20px_50px_rgba(0,87,142,0.3)] hover:scale-105 transition-all flex items-center gap-3">
+          <span class="material-symbols-outlined">analytics</span>
+          Dashboard Club
+        </a>
+        <a href="/pages/jolly-care-piani" class="px-12 py-6 bg-white text-[#00578E] border-2 border-[#00578E] rounded-2xl font-black text-xs uppercase tracking-widest hover:bg-[#00578E] hover:text-white transition-all shadow-lg">
+          Vedi Piani
+        </a>
+      </div>
+    </div>
+    <div class="lg:col-span-5 relative group">
+      <div class="absolute -inset-10 bg-[#FFDEA5] rounded-[100px] blur-3xl opacity-20 group-hover:opacity-40 transition-opacity duration-1000"></div>
+      <div class="relative bg-gradient-to-br from-white to-slate-50 p-12 rounded-[72px] border border-outline-variant/20 shadow-2xl overflow-hidden aspect-square flex items-center justify-center">
+        <!-- BLUE CONNECT CORRECT IMAGE -->
+        <img src="https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSOI5Tk8kl_fUHkHjX731cK3fF-kYAfphAJZF1jhdCRc8Vcq2htnH2MfPqXEG44gWS2hjy8puPwFSOmUb1pE1-Ii05FBCl3TCOUm18KHp0kP9kJiwEg8PqI939-FKR3qqCM3w" 
+             alt="Blue Connect Plus" 
+             class="w-full h-full object-contain transform group-hover:scale-110 transition-transform duration-1000">
+        <div class="absolute bottom-10 left-10 right-10 p-8 bg-white/90 backdrop-blur-xl rounded-[32px] border border-white/20 shadow-xl">
+          <div class="flex justify-between items-start">
+            <div class="space-y-1">
+              <p class="text-[10px] font-black uppercase tracking-widest text-[#00578E]">Sensore IoT</p>
+              <p class="text-xl font-black uppercase italic">Blue Connect</p>
+              <p class="text-[9px] font-bold text-[#00578E]/60 uppercase tracking-tight leading-tight">
+                In comodato d'uso gratuito
+              </p>
+            </div>
+            <span class="w-3 h-3 bg-emerald-500 rounded-full animate-ping mt-2"></span>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- 2. FEATURED COLLECTIONS (CON LE TUE IMMAGINI AI) -->
+  <section class="space-y-16">
+    <div class="flex justify-between items-end">
+        <div class="space-y-4">
+            <h3 class="text-4xl md:text-6xl font-black uppercase italic tracking-tighter text-[#00578E]">Collezioni <br/><span class="text-[#FFDEA5] bg-[#00578E] px-4 rounded-xl not-italic">Elite.</span></h3>
+            <p class="text-xs font-black uppercase tracking-[0.4em] opacity-40">Selezionate per la stagione 2026</p>
+        </div>
+        <a href="/collections/all" class="hidden md:block font-black text-[10px] uppercase tracking-widest border-b-2 border-[#00578E] pb-1">Tutto il Catalogo →</a>
+    </div>
+
+    <div class="grid grid-cols-2 md:grid-cols-5 gap-4 md:gap-8">
+        <!-- PISCINE -->
+        <a href="/collections/piscine" class="group relative aspect-[3/4] rounded-[40px] overflow-hidden bg-slate-200 shadow-xl">
+            <img src="{{ 'piscine-elite.jpg' | asset_url }}" class="w-full h-full object-cover group-hover:scale-110 transition-transform duration-1000" alt="Piscine">
+            <div class="absolute inset-0 bg-gradient-to-t from-[#001945]/80 via-transparent to-transparent"></div>
+            <div class="absolute bottom-8 left-6 text-white">
+                <p class="text-xl font-black uppercase italic leading-none">Piscine</p>
+                <p class="text-[8px] font-bold uppercase tracking-widest opacity-60 mt-2">Design & Comfort</p>
+            </div>
+        </a>
+        <!-- SPA -->
+        <a href="/collections/spa" class="group relative aspect-[3/4] rounded-[40px] overflow-hidden bg-slate-200 shadow-xl md:mt-12">
+            <img src="{{ 'spa-wellness.jpg' | asset_url }}" class="w-full h-full object-cover group-hover:scale-110 transition-transform duration-1000" alt="SPA">
+            <div class="absolute inset-0 bg-gradient-to-t from-[#001945]/80 via-transparent to-transparent"></div>
+            <div class="absolute bottom-8 left-6 text-white">
+                <p class="text-xl font-black uppercase italic leading-none">SPA</p>
+                <p class="text-[8px] font-bold uppercase tracking-widest opacity-60 mt-2">Relas Idroterapico</p>
+            </div>
+        </a>
+        <!-- SALE -->
+        <a href="/collections/filtrazione-a-sale" class="group relative aspect-[3/4] rounded-[40px] overflow-hidden bg-slate-200 shadow-xl">
+            <img src="{{ 'filtrazione-sale.jpg' | asset_url }}" class="w-full h-full object-cover group-hover:scale-110 transition-transform duration-1000" alt="Filtrazione Sale">
+            <div class="absolute inset-0 bg-gradient-to-t from-[#001945]/80 via-transparent to-transparent"></div>
+            <div class="absolute bottom-8 left-6 text-white">
+                <p class="text-xl font-black uppercase italic leading-none">Filtrazione <br/>a Sale</p>
+                <p class="text-[8px] font-bold uppercase tracking-widest opacity-60 mt-2">Eco Technology</p>
+            </div>
+        </a>
+        <!-- SMART POOL -->
+        <a href="/collections/smart-pool" class="group relative aspect-[3/4] rounded-[40px] overflow-hidden bg-slate-200 shadow-xl md:mt-12">
+            <img src="{{ 'smart-pool.jpg' | asset_url }}" class="w-full h-full object-cover group-hover:scale-110 transition-transform duration-1000" alt="Smart Pool">
+            <div class="absolute inset-0 bg-gradient-to-t from-[#001945]/80 via-transparent to-transparent"></div>
+            <div class="absolute bottom-8 left-6 text-white">
+                <p class="text-xl font-black uppercase italic leading-none">Smart <br/>Pool</p>
+                <p class="text-[8px] font-bold uppercase tracking-widest opacity-60 mt-2">IoT Control</p>
+            </div>
+        </a>
+        <!-- NUOTO CONTRO CORRENTE -->
+        <a href="/collections/nuoto-contro-corrente" class="group relative aspect-[3/4] rounded-[40px] overflow-hidden bg-slate-200 shadow-xl">
+            <img src="{{ 'nuoto-corrente.jpg' | asset_url }}" class="w-full h-full object-cover group-hover:scale-110 transition-transform duration-1000" alt="Nuoto Contro Corrente">
+            <div class="absolute inset-0 bg-gradient-to-t from-[#001945]/80 via-transparent to-transparent"></div>
+            <div class="absolute bottom-8 left-6 text-white">
+                <p class="text-xl font-black uppercase italic leading-none">Nuoto <br/>Corrente</p>
+                <p class="text-[8px] font-bold uppercase tracking-widest opacity-60 mt-2">Sport Elite</p>
+            </div>
+        </a>
+    </div>
+  </section>
+
+  <!-- 3. HARMONIZED PARTNERS -->
+  <section class="space-y-16 bg-slate-50/50 p-12 md:p-24 rounded-[80px] border border-outline-variant/10">
+    <div class="text-center space-y-4">
+      <h3 class="text-3xl md:text-5xl font-black uppercase italic tracking-tighter text-[#00578E]">I Nostri <span class="text-[#FFDEA5] bg-[#00578E] px-3 rounded-lg">Partner</span></h3>
+      <p class="text-[10px] md:text-xs font-black uppercase tracking-[0.4em] opacity-40 italic">Authorized Excellence Center Centro Italia</p>
+    </div>
+    
+    <div class="grid grid-cols-1 md:grid-cols-2 gap-12 items-center justify-center max-w-4xl mx-auto">
+      <div class="bg-white p-10 rounded-[48px] shadow-sm flex flex-col items-center gap-6 group hover:shadow-xl transition-all duration-500">
+        <div class="h-24 md:h-32 flex items-center justify-center">
+            <img src="{{ 'zodiac-logo.jpg' | asset_url }}" alt="Zodiac" class="max-h-full w-auto object-contain transition-transform group-hover:scale-110">
+        </div>
+        <span class="px-4 py-1.5 bg-[#00578E] text-[#FFDEA5] rounded-full text-[9px] font-black uppercase tracking-widest shadow-lg">Partner Premium</span>
+      </div>
+      <div class="bg-white p-10 rounded-[48px] shadow-sm flex flex-col items-center gap-6 group hover:shadow-xl transition-all duration-500">
+        <div class="h-24 md:h-32 flex items-center justify-center">
+            <img src="{{ 'gre-logo.jpg' | asset_url }}" alt="Gre" class="max-h-full w-auto object-contain transition-transform group-hover:scale-110">
+        </div>
+        <span class="px-4 py-1.5 bg-red-600 text-white rounded-full text-[9px] font-black uppercase tracking-widest shadow-lg">Rivenditore Ufficiale</span>
+      </div>
+    </div>
+
+    <div class="pt-16 border-t border-outline-variant/10">
+      <div class="flex flex-wrap justify-center gap-12 md:gap-24 opacity-40 hover:opacity-100 transition-opacity duration-700">
+        <img src="{{ 'astral-logo.jpg' | asset_url }}" alt="AstralPool" class="h-8 md:h-10 object-contain grayscale hover:grayscale-0 transition-all">
+        <img src="{{ 'fluidra-logo.jpg' | asset_url }}" alt="Fluidra" class="h-8 md:h-10 object-contain grayscale hover:grayscale-0 transition-all">
+        <img src="{{ 'ctx-logo.jpg' | asset_url }}" alt="CTX" class="h-8 md:h-10 object-contain grayscale hover:grayscale-0 transition-all">
+        <img src="{{ 'laghetto-logo.jpg' | asset_url }}" alt="Laghetto" class="h-8 md:h-10 object-contain grayscale hover:grayscale-0 transition-all">
+        <img src="{{ 'intex-logo.jpg' | asset_url }}" alt="Intex" class="h-8 md:h-10 object-contain grayscale hover:grayscale-0 transition-all">
+      </div>
+    </div>
+  </section>
+
+  <!-- 4. STORE LOCATOR (DATI UFFICIALI) -->
+  <section class="bg-[#001945] p-12 md:p-24 rounded-[80px] relative overflow-hidden group shadow-2xl">
+    <div class="absolute inset-0 bg-gradient-to-br from-[#00578E]/20 to-transparent"></div>
+    <div class="relative z-10 flex flex-col md:flex-row items-center gap-20">
+      <div class="flex-1 space-y-8 text-center md:text-left text-white">
+        <h2 class="text-5xl md:text-7xl font-black uppercase italic tracking-tighter leading-none">Vieni a <br/><span class="text-[#FFDEA5]">Guidonia.</span></h2>
+        <div class="grid grid-cols-1 sm:grid-cols-2 gap-6">
+          <div class="flex items-center gap-4 bg-white/5 p-6 rounded-3xl border border-white/10 backdrop-blur-md hover:bg-white/10 transition-all">
+            <span class="material-symbols-outlined text-[#FFDEA5] text-2xl">location_on</span>
+            <span class="text-xs font-bold uppercase tracking-widest">V.le Roma, 208, 00012 Guidonia (RM)</span>
+          </div>
+          <div class="flex items-center gap-4 bg-white/5 p-6 rounded-3xl border border-white/10 backdrop-blur-md hover:bg-white/10 transition-all">
+            <span class="material-symbols-outlined text-[#FFDEA5] text-2xl">call</span>
+            <a href="tel:0774345316" class="text-xs font-bold uppercase tracking-widest">0774 345316</a>
+          </div>
+          <div class="flex items-center gap-4 bg-white/5 p-6 rounded-3xl border border-white/10 backdrop-blur-md sm:col-span-2 hover:bg-white/10 transition-all">
+            <span class="material-symbols-outlined text-[#FFDEA5] text-2xl">schedule</span>
+            <span class="text-xs font-bold uppercase tracking-widest">Lun - Sab | 9:00-13:00 e 16:00-20:00</span>
+          </div>
+        </div>
+      </div>
+      <div class="w-full md:w-1/3 bg-white p-12 rounded-[56px] text-center space-y-8 shadow-2xl relative overflow-hidden group-hover:scale-[1.02] transition-transform duration-700">
+        <div class="relative z-10 space-y-2">
+          <p class="text-[10px] font-black uppercase tracking-[0.4em] text-[#00578E]">Showroom Certificato</p>
+          <p class="text-3xl font-black uppercase italic text-[#00578E] leading-none">Elite Pool <br/>Center</p>
+        </div>
+        <div class="py-10 border-y border-slate-100 flex items-center justify-center">
+            <span class="material-symbols-outlined text-8xl text-[#00578E] opacity-10">qr_code_2</span>
+        </div>
+
+      </div>
+    </div>
+  </section>
+
+</div>
+
+{% schema %}
+{
+  "name": "Jolly Game Ecosystem",
+  "settings": [],
+  "presets": [{ "name": "Home Ecosystem v10.2 MASTER" }]
+}
+{% endschema %}

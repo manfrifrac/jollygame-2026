@@ -1,0 +1,146 @@
+{% comment %}
+  Shop Navigation with Dynamic Collection Images (Corrected)
+{% endcomment %}
+
+<div class="flex flex-col gap-2 bg-white/60 backdrop-blur-3xl p-3 transition-all duration-500 w-full">
+    <div id="ShopNavContainer" class="flex gap-3 overflow-x-auto md:overflow-x-visible md:flex-wrap md:justify-center no-scrollbar items-center px-6 md:px-10 py-1">
+        {%- assign current_path = request.path -%}
+        
+        <a href="/collections/all" class="group flex items-center gap-2 shrink-0 transition-all duration-300 relative px-4 py-2 rounded-xl border {% if current_path == '/collections/all' %}bg-primary text-white border-primary shadow-lg scale-105 z-10{% else %}bg-white/40 text-primary border-primary/5 hover:bg-white hover:border-primary/20 hover:scale-105{% endif %}">
+            <div class="w-6 h-6 rounded-lg flex items-center justify-center overflow-hidden shrink-0 transition-all duration-500 bg-primary-fixed/20">
+                <span class="material-symbols-outlined text-primary text-[18px]">grid_view</span>
+            </div>
+            <span class="font-black text-[10px] uppercase tracking-widest whitespace-nowrap">Vetrina</span>
+        </a>
+
+        {%- for link in linklists.main-menu.links -%}
+            {%- assign isActive = false -%}
+            {%- if link.active or link.child_active -%}
+                {%- assign isActive = true -%}
+            {%- endif -%}
+            
+            {%- assign collection_image = nil -%}
+            {%- if link.type == 'collection_link' -%}
+                {%- if link.object.image -%}
+                    {%- assign collection_image = link.object.image | image_url: width: 100 -%}
+                {%- endif -%}
+            {%- elsif link.url contains '/collections/' -%}
+                {%- assign handle_parts = link.url | split: '/collections/' -%}
+                {%- if handle_parts.size > 1 -%}
+                    {%- assign col_handle = handle_parts.last | split: '?' | first | split: '#' | first -%}
+                    {%- assign mapped_collection = collections[col_handle] -%}
+                    {%- if mapped_collection and mapped_collection.image -%}
+                        {%- assign collection_image = mapped_collection.image | image_url: width: 100 -%}
+                    {%- endif -%}
+                {%- endif -%}
+            {%- endif -%}
+
+            <a href="{{ link.url }}" class="group flex items-center gap-2 shrink-0 transition-all duration-300 relative px-4 py-2 rounded-xl border {% if isActive %}bg-primary text-white border-primary shadow-lg scale-105 z-10{% else %}bg-white/40 text-primary border-primary/5 hover:bg-white hover:border-primary/20 hover:scale-105{% endif %}">
+                <div class="w-6 h-6 rounded-lg flex items-center justify-center overflow-hidden shrink-0 transition-all duration-500 bg-surface-container-low border border-outline-variant/10">
+                    {%- if collection_image -%}
+                        <img src="{{ collection_image }}" class="w-full h-full object-cover transition-all group-hover:scale-110" alt="">
+                    {%- else -%}
+                        {%- assign icon_name = 'category' -%}
+                        <span class="material-symbols-outlined text-[16px] {% if isActive %}text-white{% else %}text-primary/40{% endif %}">{{ icon_name }}</span>
+                    {%- endif -%}
+                </div>
+                <span class="font-black text-[10px] uppercase tracking-widest whitespace-nowrap">{{ link.title }}</span>
+                {% if isActive %}<div class="absolute -bottom-1 left-1/2 -translate-x-1/2 w-1 h-1 bg-white rounded-full"></div>{% endif %}
+            </a>
+        {%- endfor -%}
+    </div>
+
+    {%- for link in linklists.main-menu.links -%}
+        {%- if link.active or link.child_active -%}
+            {%- if link.links.size > 0 -%}
+                <div class="flex flex-col gap-2 border-t border-primary/5 pt-2">
+                    <div class="flex gap-2 overflow-x-auto md:overflow-x-visible md:flex-wrap md:justify-center no-scrollbar px-1">
+                        {%- for sub_link in link.links -%}
+                            {%- assign isSubActive = false -%}
+                            {%- if sub_link.active or sub_link.child_active -%}
+                                {%- assign isSubActive = true -%}
+                            {%- endif -%}
+
+                            {%- assign sub_image = nil -%}
+                            {%- if sub_link.type == 'collection_link' -%}
+                                {%- if sub_link.object.image -%}
+                                    {%- assign sub_image = sub_link.object.image | image_url: width: 80 -%}
+                                {%- endif -%}
+                            {%- elsif sub_link.url contains '/collections/' -%}
+                                {%- assign handle_parts = sub_link.url | split: '/collections/' -%}
+                                {%- if handle_parts.size > 1 -%}
+                                    {%- assign col_handle = handle_parts.last | split: '?' | first | split: '#' | first -%}
+                                    {%- assign mapped_collection = collections[col_handle] -%}
+                                    {%- if mapped_collection and mapped_collection.image -%}
+                                        {%- assign sub_image = mapped_collection.image | image_url: width: 80 -%}
+                                    {%- endif -%}
+                                {%- endif -%}
+                            {%- endif -%}
+
+                            <a href="{{ sub_link.url }}" class="group flex items-center gap-2 shrink-0 transition-all duration-300 relative px-3 py-1.5 rounded-lg border {% if isSubActive %}bg-primary text-white border-primary shadow-md scale-105{% else %}bg-white/40 text-primary border-primary/5 hover:bg-white hover:border-primary/20{% endif %}">
+                                <div class="w-5 h-5 rounded-md flex items-center justify-center overflow-hidden shrink-0 transition-all duration-500 bg-white">
+                                    {%- if sub_image -%}
+                                        <img src="{{ sub_image }}" class="w-full h-full object-cover" alt="">
+                                    {%- else -%}
+                                        <span class="material-symbols-outlined text-[14px] {% if isSubActive %}text-primary{% else %}text-primary/30{% endif %}">subdirectory_arrow_right</span>
+                                    {%- endif -%}
+                                </div>
+                                <span class="font-black text-[9px] uppercase tracking-widest whitespace-nowrap">{{ sub_link.title }}</span>
+                            </a>
+                        {%- endfor -%}
+                    </div>
+
+                    {%- for sub_link in link.links -%}
+                        {%- if sub_link.active or sub_link.child_active -%}
+                            {%- if sub_link.links.size > 0 -%}
+                                <div class="flex gap-2 overflow-x-auto md:overflow-x-visible md:flex-wrap md:justify-center no-scrollbar px-1 pb-1 items-center">
+                                    <span class="material-symbols-outlined text-[12px] text-tertiary-fixed shrink-0 opacity-30">subdirectory_arrow_right</span>
+                                    {%- for grand_child in sub_link.links -%}
+                                        {%- assign isGrandActive = grand_child.active -%}
+                                        <a href="{{ grand_child.url }}" class="group flex items-center gap-2 shrink-0 transition-all duration-300 relative px-2 py-1 rounded-md border {% if isGrandActive %}bg-primary text-white border-primary shadow-sm scale-105{% else %}bg-white/40 text-primary border-primary/5 hover:bg-white hover:border-primary/20{% endif %}">
+                                            <span class="font-black text-[8px] uppercase tracking-widest whitespace-nowrap">{{ grand_child.title }}</span>
+                                        </a>
+                                    {%- endfor -%}
+                                </div>
+                            {%- endif -%}
+                        {%- endif -%}
+                    {%- endfor -%}
+                </div>
+            {%- endif -%}
+        {%- endif -%}
+    {%- endfor -%}
+</div>
+
+<script>
+    (function() {
+        function nudgeMenu() {
+            const containers = document.querySelectorAll('#ShopNavContainer');
+            if (window.innerWidth < 768) { // Only on mobile
+                containers.forEach(container => {
+                    setTimeout(() => {
+                        // Nudge right
+                        container.scrollTo({
+                            left: 60,
+                            behavior: 'smooth'
+                        });
+                        
+                        // Nudge back left after a short delay
+                        setTimeout(() => {
+                            container.scrollTo({
+                                left: 0,
+                                behavior: 'smooth'
+                            });
+                        }, 800);
+                    }, 1000);
+                });
+            }
+        }
+
+        // Run on load
+        if (document.readyState === 'complete') {
+            nudgeMenu();
+        } else {
+            window.addEventListener('load', nudgeMenu);
+        }
+    })();
+</script>

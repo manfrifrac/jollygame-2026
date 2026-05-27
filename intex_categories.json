@@ -1,0 +1,58 @@
+{
+    "intex_italia": [
+        {
+            "label": "Piscine Fuori Terra",
+            "url": "https://www.intexitalia.com/piscine-fuori-terra/"
+        },
+        {
+            "label": "SPA Idromassaggio",
+            "url": "https://www.intexitalia.com/spa-idromassaggio/"
+        },
+        {
+            "label": "Animali Domestici",
+            "url": "https://www.intexitalia.com/animali-domestici/"
+        },
+        {
+            "label": "Airbed",
+            "url": "https://www.intexitalia.com/airbed/"
+        },
+        {
+            "label": "Kayak, Canotti & SUP",
+            "url": "https://www.intexitalia.com/kayak-canotti-sup/"
+        },
+        {
+            "label": "Altalene & Swing Set",
+            "url": "https://www.intexitalia.com/altalene-swing-set/"
+        },
+        {
+            "label": "Wetset & Play Center",
+            "url": "https://www.intexitalia.com/wetset-playcenter/"
+        },
+        {
+            "label": "Pompe e Gonfiatori",
+            "url": "https://www.intexitalia.com/pompe-e-gonfiatori/"
+        }
+    ],
+    "intex_ricambi": [
+        {
+            "label": "Piscine fuori terra e accessori",
+            "url": "https://www.intexricambi.it/prodotti/piscine-fuori-terra/"
+        },
+        {
+            "label": "Spa Gonfiabili e accessori",
+            "url": "https://www.intexricambi.it/prodotti/spa/"
+        },
+        {
+            "label": "Kayak, Canotti & SUP e accessori",
+            "url": "https://www.intexricambi.it/prodotti/sup/"
+        },
+        {
+            "label": "Altalene e scivoli",
+            "url": "https://www.intexricambi.it/prodotti/altalene-e-accessori/"
+        },
+        {
+            "label": "Animali Domestici",
+            "url": "https://www.intexricambi.it/prodotti/animali-domestici/"
+        }
+    ]
+}

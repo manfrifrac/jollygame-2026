@@ -1,0 +1,2910 @@
+{
+  "summary": {
+    "total_products": 268,
+    "categories": {
+      "Piscine fuori terra": 160,
+      "Riscaldamento": 4,
+      "Pulitori": 37,
+      "Trattamento acqua": 16,
+      "no price": 19,
+      "Nessuna": 22,
+      "Filtraggio": 8,
+      "Coperture": 2
+    },
+    "data_quality": {
+      "complete": 33,
+      "partial": 184,
+      "empty_specs": 51
+    }
+  },
+  "details": [
+    {
+      "id": "gid://shopify/Product/15527757676892",
+      "title": "Depuratore acqua 72 W a cartuccia",
+      "vendor": "Gre",
+      "category": "Piscine fuori terra",
+      "specs": {
+        "forma": "MISSING",
+        "materiale": "MISSING",
+        "volume": "16.0",
+        "altezza": "MISSING"
+      }
+    },
+    {
+      "id": "gid://shopify/Product/15527758365020",
+      "title": "Pompa di calore Inverter HPGIC30",
+      "vendor": "Gre",
+      "category": "Riscaldamento",
+      "specs": {
+        "potenza": "MISSING",
+        "volume_max": "MISSING",
+        "tecnologia": "MISSING"
+      }
+    },
+    {
+      "id": "gid://shopify/Product/15527758561628",
+      "title": "Copertura per piscina rettangolare",
+      "vendor": "Gre",
+      "category": "Piscine fuori terra",
+      "specs": {
+        "forma": "Rettangolare",
+        "materiale": "MISSING",
+        "volume": "MISSING",
+        "altezza": "135"
+      }
+    },
+    {
+      "id": "gid://shopify/Product/15527758954844",
+      "title": "Doccia in acciaio inossidabile",
+      "vendor": "Gre",
+      "category": "Piscine fuori terra",
+      "specs": {
+        "forma": "Rettangolare",
+        "materiale": "Acciaio",
+        "volume": "MISSING",
+        "altezza": "MISSING"
+      }
+    },
+    {
+      "id": "gid://shopify/Product/15527770587484",
+      "title": "Raccordo unione 2 tubi gall. 38/32mm",
+      "vendor": "Gre",
+      "category": "Piscine fuori terra",
+      "specs": {
+        "forma": "MISSING",
+        "materiale": "MISSING",
+        "volume": "MISSING",
+        "altezza": "MISSING"
+      }
+    },
+    {
+      "id": "gid://shopify/Product/15527770620252",
+      "title": "Manico telescopico 2 sezioni, lunghezza 3,60 m",
+      "vendor": "Gre",
+      "category": "Piscine fuori terra",
+      "specs": {
+        "forma": "MISSING",
+        "materiale": "MISSING",
+        "volume": "MISSING",
+        "altezza": "200"
+      }
+    },
+    {
+      "id": "gid://shopify/Product/15527770685788",
+      "title": "Pulitore manuale in alluminio per piscina",
+      "vendor": "Gre",
+      "category": "Pulitori",
+      "specs": {
+        "tipo_pulizia": "MISSING",
+        "lunghezza_cavo": "MISSING",
+        "filtrazione": "MISSING"
+      }
+    },
+    {
+      "id": "gid://shopify/Product/15527770718556",
+      "title": "Termometro a sfera di vetro",
+      "vendor": "Gre",
+      "category": "Piscine fuori terra",
+      "specs": {
+        "forma": "MISSING",
+        "materiale": "MISSING",
+        "volume": "MISSING",
+        "altezza": "MISSING"
+      }
+    },
+    {
+      "id": "gid://shopify/Product/15527770784092",
+      "title": "Erogatore Flot 200 g",
+      "vendor": "Gre",
+      "category": "Piscine fuori terra",
+      "specs": {
+        "forma": "MISSING",
+        "materiale": "MISSING",
+        "volume": "MISSING",
+        "altezza": "MISSING"
+      }
+    },
+    {
+      "id": "gid://shopify/Product/15527770882396",
+      "title": "Kit di riparazione liner in gomma",
+      "vendor": "Gre",
+      "category": "Piscine fuori terra",
+      "specs": {
+        "forma": "MISSING",
+        "materiale": "PVC",
+        "volume": "MISSING",
+        "altezza": "MISSING"
+      }
+    },
+    {
+      "id": "gid://shopify/Product/15527770915164",
+      "title": "Adesivo per PVC diventa Colla per PVC oppure Adesivo PVC è meglio Adesivo specifico per PVC -> Colla specifica per PVC -> Colla per PVC oppure Adesivo specializzato per PVC quindi il nuovo titolo è: \nAdesivo specifico per PVC.",
+      "vendor": "Gre",
+      "category": "Piscine fuori terra",
+      "specs": {
+        "forma": "MISSING",
+        "materiale": "PVC",
+        "volume": "MISSING",
+        "altezza": "MISSING"
+      }
+    },
+    {
+      "id": "gid://shopify/Product/15527770980700",
+      "title": "Tubo flessibile PVC Cepex",
+      "vendor": "Gre",
+      "category": "Piscine fuori terra",
+      "specs": {
+        "forma": "MISSING",
+        "materiale": "PVC",
+        "volume": "MISSING",
+        "altezza": "MISSING"
+      }
+    },
+    {
+      "id": "gid://shopify/Product/15527771079004",
+      "title": "Spazzola aspirante 51 cm",
+      "vendor": "Gre",
+      "category": "Piscine fuori terra",
+      "specs": {
+        "forma": "MISSING",
+        "materiale": "MISSING",
+        "volume": "MISSING",
+        "altezza": "MISSING"
+      }
+    },
+    {
+      "id": "gid://shopify/Product/15527771373916",
+      "title": "Tester digitale AquaChek TruTest con 50 strisce",
+      "vendor": "Gre",
+      "category": "Piscine fuori terra",
+      "specs": {
+        "forma": "MISSING",
+        "materiale": "MISSING",
+        "volume": "MISSING",
+        "altezza": "MISSING"
+      }
+    },
+    {
+      "id": "gid://shopify/Product/15527772127580",
+      "title": "Ossigeno attivo liquido 5 litri",
+      "vendor": "Gre",
+      "category": "Trattamento acqua",
+      "specs": {
+        "produzione_cloro": "MISSING",
+        "volume_trattato": "10.0"
+      }
+    },
+    {
+      "id": "gid://shopify/Product/15527773962588",
+      "title": "Raccoglitore di fondo Eco Range",
+      "vendor": "Gre",
+      "category": "Piscine fuori terra",
+      "specs": {
+        "forma": "MISSING",
+        "materiale": "MISSING",
+        "volume": "MISSING",
+        "altezza": "MISSING"
+      }
+    },
+    {
+      "id": "gid://shopify/Product/15527774028124",
+      "title": "Tubo galleggiante GRE 36,5m sezionabile",
+      "vendor": "Gre",
+      "category": "Piscine fuori terra",
+      "specs": {
+        "forma": "MISSING",
+        "materiale": "MISSING",
+        "volume": "MISSING",
+        "altezza": "MISSING"
+      }
+    },
+    {
+      "id": "gid://shopify/Product/15527774060892",
+      "title": "Avvolgitore per coperture piscine interrate",
+      "vendor": "Gre",
+      "category": "Piscine fuori terra",
+      "specs": {
+        "forma": "MISSING",
+        "materiale": "MISSING",
+        "volume": "MISSING",
+        "altezza": "550"
+      }
+    },
+    {
+      "id": "gid://shopify/Product/15527774126428",
+      "title": "Riscaldamento solare per piscine smontabili -> Riscaldamento solare per piscine",
+      "vendor": "Gre",
+      "category": "Riscaldamento",
+      "specs": {
+        "potenza": "MISSING",
+        "volume_max": "MISSING",
+        "tecnologia": "MISSING"
+      }
+    },
+    {
+      "id": "gid://shopify/Product/15527774191964",
+      "title": "Aspiratori idraulici Silence Vac silenziosi -> Aspiratori idraulici silenziosi Silence Vac",
+      "vendor": "Gre",
+      "category": "Piscine fuori terra",
+      "specs": {
+        "forma": "MISSING",
+        "materiale": "MISSING",
+        "volume": "MISSING",
+        "altezza": "MISSING"
+      }
+    },
+    {
+      "id": "gid://shopify/Product/15527774290268",
+      "title": "Scalette in legno per piscina",
+      "vendor": "Gre",
+      "category": "Piscine fuori terra",
+      "specs": {
+        "forma": "MISSING",
+        "materiale": "Acciaio",
+        "volume": "MISSING",
+        "altezza": "MISSING"
+      }
+    },
+    {
+      "id": "gid://shopify/Product/15527774421340",
+      "title": "Copertura per piscina in legno ovale Vermela",
+      "vendor": "Gre",
+      "category": "Piscine fuori terra",
+      "specs": {
+        "forma": "Ovale",
+        "materiale": "Legno",
+        "volume": "MISSING",
+        "altezza": "512"
+      }
+    },
+    {
+      "id": "gid://shopify/Product/15527774650716",
+      "title": "Liner blu per piscina in acciaio rotonda 75/100",
+      "vendor": "Gre",
+      "category": "Piscine fuori terra",
+      "specs": {
+        "forma": "Rotonda",
+        "materiale": "Acciaio",
+        "volume": "MISSING",
+        "altezza": "120"
+      }
+    },
+    {
+      "id": "gid://shopify/Product/15527774912860",
+      "title": "Protezione Delta MS per pareti in legno",
+      "vendor": "Gre",
+      "category": "Piscine fuori terra",
+      "specs": {
+        "forma": "MISSING",
+        "materiale": "Legno",
+        "volume": "MISSING",
+        "altezza": "MISSING"
+      }
+    },
+    {
+      "id": "gid://shopify/Product/15527775207772",
+      "title": "Copertura piscina ovale",
+      "vendor": "Gre",
+      "category": "Piscine fuori terra",
+      "specs": {
+        "forma": "Ovale",
+        "materiale": "MISSING",
+        "volume": "MISSING",
+        "altezza": "295"
+      }
+    },
+    {
+      "id": "gid://shopify/Product/15527777173852",
+      "title": "Copertura per piscina rotonda violettta - Mod. 581 -> Piscina rotonda: copertura violettta Mod. 581",
+      "vendor": "Gre",
+      "category": "Piscine fuori terra",
+      "specs": {
+        "forma": "Rotonda",
+        "materiale": "Legno",
+        "volume": "MISSING",
+        "altezza": "511"
+      }
+    },
+    {
+      "id": "gid://shopify/Product/15527778189660",
+      "title": "Casetta in legno alta 118 cm",
+      "vendor": "Gre",
+      "category": "Piscine fuori terra",
+      "specs": {
+        "forma": "MISSING",
+        "materiale": "Legno",
+        "volume": "MISSING",
+        "altezza": "118"
+      }
+    },
+    {
+      "id": "gid://shopify/Product/15527785988444",
+      "title": "Piscina Ovale Pacific",
+      "vendor": "Gre",
+      "category": "Piscine fuori terra",
+      "specs": {
+        "forma": "Ovale",
+        "materiale": "Acciaio",
+        "volume": "14.55",
+        "altezza": "120"
+      }
+    },
+    {
+      "id": "gid://shopify/Product/15527793590620",
+      "title": "Piscina Ovale Sicilia",
+      "vendor": "Gre",
+      "category": "Piscine fuori terra",
+      "specs": {
+        "forma": "Ovale",
+        "materiale": "Acciaio",
+        "volume": "14.55",
+        "altezza": "120"
+      }
+    },
+    {
+      "id": "gid://shopify/Product/15527815643484",
+      "title": "Tubo per puliscifondo 8m con 2 terminali",
+      "vendor": "Gre",
+      "category": "Pulitori",
+      "specs": {
+        "tipo_pulizia": "MISSING",
+        "lunghezza_cavo": "MISSING",
+        "filtrazione": "MISSING"
+      }
+    },
+    {
+      "id": "gid://shopify/Product/15527815938396",
+      "title": "Tappo di chiusura invernale 1,5",
+      "vendor": "Gre",
+      "category": "Piscine fuori terra",
+      "specs": {
+        "forma": "MISSING",
+        "materiale": "MISSING",
+        "volume": "MISSING",
+        "altezza": "MISSING"
+      }
+    },
+    {
+      "id": "gid://shopify/Product/15527816102236",
+      "title": "Manicotto di giunzione per depuratori, 58cm",
+      "vendor": "Gre",
+      "category": "Piscine fuori terra",
+      "specs": {
+        "forma": "Forma di otto",
+        "materiale": "MISSING",
+        "volume": "MISSING",
+        "altezza": "MISSING"
+      }
+    },
+    {
+      "id": "gid://shopify/Product/15527816298844",
+      "title": "Bromo shock granulato",
+      "vendor": "Gre",
+      "category": "Trattamento acqua",
+      "specs": {
+        "produzione_cloro": "MISSING",
+        "volume_trattato": "10.0"
+      }
+    },
+    {
+      "id": "gid://shopify/Product/15527816626524",
+      "title": "Anticalcare per la Pulizia",
+      "vendor": "Gre",
+      "category": "Piscine fuori terra",
+      "specs": {
+        "forma": "MISSING",
+        "materiale": "MISSING",
+        "volume": "100.0",
+        "altezza": "MISSING"
+      }
+    },
+    {
+      "id": "gid://shopify/Product/15527816823132",
+      "title": "Svernante liquido per inverno",
+      "vendor": "Gre",
+      "category": "Trattamento acqua",
+      "specs": {
+        "produzione_cloro": "MISSING",
+        "volume_trattato": "100.0"
+      }
+    },
+    {
+      "id": "gid://shopify/Product/15527816888668",
+      "title": "Elevatore di alcalinità",
+      "vendor": "Gre",
+      "category": "Piscine fuori terra",
+      "specs": {
+        "forma": "MISSING",
+        "materiale": "MISSING",
+        "volume": "100.0",
+        "altezza": "MISSING"
+      }
+    },
+    {
+      "id": "gid://shopify/Product/15527816921436",
+      "title": "Controllo remoto a 4 azioni con 50 blocchi multi funzioni",
+      "vendor": "Gre",
+      "category": "Piscine fuori terra",
+      "specs": {
+        "forma": "MISSING",
+        "materiale": "MISSING",
+        "volume": "50.0",
+        "altezza": "MISSING"
+      }
+    },
+    {
+      "id": "gid://shopify/Product/15527817347420",
+      "title": "Smart Plug F-F",
+      "vendor": "Gre",
+      "category": "Piscine fuori terra",
+      "specs": {
+        "forma": "MISSING",
+        "materiale": "MISSING",
+        "volume": "MISSING",
+        "altezza": "MISSING"
+      }
+    },
+    {
+      "id": "gid://shopify/Product/15527817511260",
+      "title": "Regolatore pH ECO",
+      "vendor": "Gre",
+      "category": "Trattamento acqua",
+      "specs": {
+        "produzione_cloro": "MISSING",
+        "volume_trattato": "MISSING"
+      }
+    },
+    {
+      "id": "gid://shopify/Product/15527819182428",
+      "title": "Liner piscina acciaio blu ovale",
+      "vendor": "Gre",
+      "category": "Piscine fuori terra",
+      "specs": {
+        "forma": "Ovale",
+        "materiale": "Acciaio",
+        "volume": "MISSING",
+        "altezza": "120"
+      }
+    },
+    {
+      "id": "gid://shopify/Product/15527819837788",
+      "title": "Copertore per piscine rettangolari in legno Mint",
+      "vendor": "Gre",
+      "category": "Piscine fuori terra",
+      "specs": {
+        "forma": "Rettangolare",
+        "materiale": "Legno",
+        "volume": "MISSING",
+        "altezza": "467"
+      }
+    },
+    {
+      "id": "gid://shopify/Product/15527820099932",
+      "title": "Liner piscina legno ovale blu",
+      "vendor": "Gre",
+      "category": "Piscine fuori terra",
+      "specs": {
+        "forma": "Ovale",
+        "materiale": "Legno",
+        "volume": "MISSING",
+        "altezza": "119"
+      }
+    },
+    {
+      "id": "gid://shopify/Product/15527820165468",
+      "title": "Liner piscina legno rotonda Blu",
+      "vendor": "Gre",
+      "category": "Piscine fuori terra",
+      "specs": {
+        "forma": "Rotonda",
+        "materiale": "Legno",
+        "volume": "MISSING",
+        "altezza": "124"
+      }
+    },
+    {
+      "id": "gid://shopify/Product/15527820198236",
+      "title": "Liner piscina rettangolare in legno blu",
+      "vendor": "Gre",
+      "category": "Piscine fuori terra",
+      "specs": {
+        "forma": "Rettangolare",
+        "materiale": "Legno",
+        "volume": "MISSING",
+        "altezza": "133"
+      }
+    },
+    {
+      "id": "gid://shopify/Product/15527820296540",
+      "title": "Piscina City Quadrata",
+      "vendor": "Gre",
+      "category": "Piscine fuori terra",
+      "specs": {
+        "forma": "Quadrata",
+        "materiale": "Legno",
+        "volume": "2.3",
+        "altezza": "68"
+      }
+    },
+    {
+      "id": "gid://shopify/Product/15527820362076",
+      "title": "Copertura per piscina in legno quadrata City",
+      "vendor": "Gre",
+      "category": "Piscine fuori terra",
+      "specs": {
+        "forma": "Quadrata",
+        "materiale": "Legno",
+        "volume": "MISSING",
+        "altezza": "250"
+      }
+    },
+    {
+      "id": "gid://shopify/Product/15527820427612",
+      "title": "Piscina Rotonda Lili 2",
+      "vendor": "Gre",
+      "category": "Piscine fuori terra",
+      "specs": {
+        "forma": "Rotonda",
+        "materiale": "Legno",
+        "volume": "3.6",
+        "altezza": "107"
+      }
+    },
+    {
+      "id": "gid://shopify/Product/15527820820828",
+      "title": "Piscina Ovale Grenade 2",
+      "vendor": "Gre",
+      "category": "Piscine fuori terra",
+      "specs": {
+        "forma": "Ovale",
+        "materiale": "Acciaio",
+        "volume": "10.0",
+        "altezza": "117"
+      }
+    },
+    {
+      "id": "gid://shopify/Product/15527821017436",
+      "title": "Piscina Marbella 2 Rettangolare",
+      "vendor": "Gre",
+      "category": "Piscine fuori terra",
+      "specs": {
+        "forma": "Rettangolare",
+        "materiale": "Acciaio",
+        "volume": "8.6",
+        "altezza": "117"
+      }
+    },
+    {
+      "id": "gid://shopify/Product/15527821082972",
+      "title": "Piscina in pietra Sumatra ovale",
+      "vendor": "Gre",
+      "category": "Piscine fuori terra",
+      "specs": {
+        "forma": "Ovale",
+        "materiale": "Acciaio",
+        "volume": "12.36",
+        "altezza": "120"
+      }
+    },
+    {
+      "id": "gid://shopify/Product/15527821214044",
+      "title": "Piscina Madagascar Ovale",
+      "vendor": "Gre",
+      "category": "Piscine fuori terra",
+      "specs": {
+        "forma": "Ovale",
+        "materiale": "Acciaio",
+        "volume": "16.01",
+        "altezza": "150"
+      }
+    },
+    {
+      "id": "gid://shopify/Product/15527821377884",
+      "title": "Piscina Madagascar Rotonda",
+      "vendor": "Gre",
+      "category": "Piscine fuori terra",
+      "specs": {
+        "forma": "Rotonda",
+        "materiale": "Acciaio",
+        "volume": "18.84",
+        "altezza": "150"
+      }
+    },
+    {
+      "id": "gid://shopify/Product/15527821508956",
+      "title": "Piscina Rotonda Sumatra",
+      "vendor": "Gre",
+      "category": "Piscine fuori terra",
+      "specs": {
+        "forma": "Rotonda",
+        "materiale": "Acciaio",
+        "volume": "10.1",
+        "altezza": "120"
+      }
+    },
+    {
+      "id": "gid://shopify/Product/15527821574492",
+      "title": "Piscina Bora Bora Rotonda",
+      "vendor": "Gre",
+      "category": "Piscine fuori terra",
+      "specs": {
+        "forma": "Rotonda",
+        "materiale": "Acciaio",
+        "volume": "7.41",
+        "altezza": "120"
+      }
+    },
+    {
+      "id": "gid://shopify/Product/15527821967708",
+      "title": "Piscina Haiti Ovale",
+      "vendor": "Gre",
+      "category": "Piscine fuori terra",
+      "specs": {
+        "forma": "Ovale",
+        "materiale": "Acciaio",
+        "volume": "23.28",
+        "altezza": "132"
+      }
+    },
+    {
+      "id": "gid://shopify/Product/15527822066012",
+      "title": "Piscina Pacific Rotonda",
+      "vendor": "Gre",
+      "category": "Piscine fuori terra",
+      "specs": {
+        "forma": "Rotonda",
+        "materiale": "Acciaio",
+        "volume": "4.75",
+        "altezza": "120"
+      }
+    },
+    {
+      "id": "gid://shopify/Product/15527822229852",
+      "title": "Piscina Mauritius Ovale",
+      "vendor": "Gre",
+      "category": "Piscine fuori terra",
+      "specs": {
+        "forma": "Ovale",
+        "materiale": "Acciaio",
+        "volume": "16.21",
+        "altezza": "132"
+      }
+    },
+    {
+      "id": "gid://shopify/Product/15527822393692",
+      "title": "Piscina Anthracite Ovale",
+      "vendor": "Gre",
+      "category": "Piscine fuori terra",
+      "specs": {
+        "forma": "Ovale",
+        "materiale": "Acciaio",
+        "volume": "16.21",
+        "altezza": "132"
+      }
+    },
+    {
+      "id": "gid://shopify/Product/15527822459228",
+      "title": "Piscina Fidji Ovale",
+      "vendor": "Gre",
+      "category": "Piscine fuori terra",
+      "specs": {
+        "forma": "Ovale",
+        "materiale": "Acciaio",
+        "volume": "14.55",
+        "altezza": "120"
+      }
+    },
+    {
+      "id": "gid://shopify/Product/15527822590300",
+      "title": "Piscina forma di otto Varadero",
+      "vendor": "Gre",
+      "category": "Piscine fuori terra",
+      "specs": {
+        "forma": "Forma di otto",
+        "materiale": "Acciaio",
+        "volume": "13.69",
+        "altezza": "120"
+      }
+    },
+    {
+      "id": "gid://shopify/Product/15527822688604",
+      "title": "Piscina Fidji Rotonda",
+      "vendor": "Gre",
+      "category": "Piscine fuori terra",
+      "specs": {
+        "forma": "Rotonda",
+        "materiale": "Acciaio",
+        "volume": "4.75",
+        "altezza": "120"
+      }
+    },
+    {
+      "id": "gid://shopify/Product/15527822786908",
+      "title": "Piscina Sicilia Rotonda",
+      "vendor": "Gre",
+      "category": "Piscine fuori terra",
+      "specs": {
+        "forma": "Rotonda",
+        "materiale": "Acciaio",
+        "volume": "7.41",
+        "altezza": "120"
+      }
+    },
+    {
+      "id": "gid://shopify/Product/15527823049052",
+      "title": "Piscina Bora Bora Ovale",
+      "vendor": "Gre",
+      "category": "Piscine fuori terra",
+      "specs": {
+        "forma": "Ovale",
+        "materiale": "Acciaio",
+        "volume": "14.55",
+        "altezza": "120"
+      }
+    },
+    {
+      "id": "gid://shopify/Product/15527823409500",
+      "title": "Piscina Atlantis Ovale",
+      "vendor": "Gre",
+      "category": "Piscine fuori terra",
+      "specs": {
+        "forma": "Ovale",
+        "materiale": "Acciaio",
+        "volume": "16.21",
+        "altezza": "132"
+      }
+    },
+    {
+      "id": "gid://shopify/Product/15527823540572",
+      "title": "Piscina Anthracite Rotonda",
+      "vendor": "Gre",
+      "category": "Piscine fuori terra",
+      "specs": {
+        "forma": "Rotonda",
+        "materiale": "Acciaio",
+        "volume": "11.25",
+        "altezza": "132"
+      }
+    },
+    {
+      "id": "gid://shopify/Product/15527823606108",
+      "title": "Piscina Amazonia Ovale",
+      "vendor": "Gre",
+      "category": "Piscine fuori terra",
+      "specs": {
+        "forma": "Ovale",
+        "materiale": "Acciaio",
+        "volume": "23.28",
+        "altezza": "132"
+      }
+    },
+    {
+      "id": "gid://shopify/Product/15527823966556",
+      "title": "Piscina Aqualoon ovale",
+      "vendor": "Gre",
+      "category": "Piscine fuori terra",
+      "specs": {
+        "forma": "Ovale",
+        "materiale": "Acciaio",
+        "volume": "14.55",
+        "altezza": "120"
+      }
+    },
+    {
+      "id": "gid://shopify/Product/15527824195932",
+      "title": "Piscina Aqualoon rotonda",
+      "vendor": "Gre",
+      "category": "Piscine fuori terra",
+      "specs": {
+        "forma": "Rotonda",
+        "materiale": "Acciaio",
+        "volume": "7.41",
+        "altezza": "120"
+      }
+    },
+    {
+      "id": "gid://shopify/Product/15527824327004",
+      "title": "Piscina Finlandia Ovale",
+      "vendor": "Gre",
+      "category": "Piscine fuori terra",
+      "specs": {
+        "forma": "Ovale",
+        "materiale": "Acciaio",
+        "volume": "14.55",
+        "altezza": "120"
+      }
+    },
+    {
+      "id": "gid://shopify/Product/15527824720220",
+      "title": "Piscina Finlandia Rotonda",
+      "vendor": "Gre",
+      "category": "Piscine fuori terra",
+      "specs": {
+        "forma": "Rotonda",
+        "materiale": "Acciaio",
+        "volume": "4.75",
+        "altezza": "120"
+      }
+    },
+    {
+      "id": "gid://shopify/Product/15527825244508",
+      "title": "Piscina Mauritius Rotonda",
+      "vendor": "Gre",
+      "category": "Piscine fuori terra",
+      "specs": {
+        "forma": "Rotonda",
+        "materiale": "Acciaio",
+        "volume": "11.25",
+        "altezza": "132"
+      }
+    },
+    {
+      "id": "gid://shopify/Product/15527825375580",
+      "title": "Piscina Atlantis Rotonda",
+      "vendor": "Gre",
+      "category": "Piscine fuori terra",
+      "specs": {
+        "forma": "Rotonda",
+        "materiale": "Acciaio",
+        "volume": "11.25",
+        "altezza": "132"
+      }
+    },
+    {
+      "id": "gid://shopify/Product/15527825572188",
+      "title": "Piscina Avantgarde Rotonda",
+      "vendor": "Gre",
+      "category": "Piscine fuori terra",
+      "specs": {
+        "forma": "Rotonda",
+        "materiale": "Acciaio",
+        "volume": "11.0",
+        "altezza": "124"
+      }
+    },
+    {
+      "id": "gid://shopify/Product/15527825703260",
+      "title": "Piscina Avantgarde Rettangolare",
+      "vendor": "Gre",
+      "category": "Piscine fuori terra",
+      "specs": {
+        "forma": "Rettangolare",
+        "materiale": "Acciaio",
+        "volume": "3.3",
+        "altezza": "96"
+      }
+    },
+    {
+      "id": "gid://shopify/Product/15527826293084",
+      "title": "Piscina Avantgarde Quadrata",
+      "vendor": "Gre",
+      "category": "Piscine fuori terra",
+      "specs": {
+        "forma": "Quadrata",
+        "materiale": "Acciaio",
+        "volume": "6.6",
+        "altezza": "96"
+      }
+    },
+    {
+      "id": "gid://shopify/Product/15527826489692",
+      "title": "Piscina Avantgarde Ovale",
+      "vendor": "Gre",
+      "category": "Piscine fuori terra",
+      "specs": {
+        "forma": "Ovale",
+        "materiale": "Acciaio",
+        "volume": "16.21",
+        "altezza": "124"
+      }
+    },
+    {
+      "id": "gid://shopify/Product/15527826587996",
+      "title": "Robot pulitore elettrico",
+      "vendor": "Gre",
+      "category": "Pulitori",
+      "specs": {
+        "tipo_pulizia": "MISSING",
+        "lunghezza_cavo": "MISSING",
+        "filtrazione": "MISSING"
+      }
+    },
+    {
+      "id": "gid://shopify/Product/15527826620764",
+      "title": "Aspiratore elettronico per fondo piscina a batteria",
+      "vendor": "Gre",
+      "category": "Piscine fuori terra",
+      "specs": {
+        "forma": "MISSING",
+        "materiale": "MISSING",
+        "volume": "MISSING",
+        "altezza": "120"
+      }
+    },
+    {
+      "id": "gid://shopify/Product/15527826751836",
+      "title": "Kit testa aspirante con manico e tubo per pulizia fondo",
+      "vendor": "Gre",
+      "category": "Piscine fuori terra",
+      "specs": {
+        "forma": "MISSING",
+        "materiale": "MISSING",
+        "volume": "MISSING",
+        "altezza": "MISSING"
+      }
+    },
+    {
+      "id": "gid://shopify/Product/15527826882908",
+      "title": "Kit di pulizia piscina autopor, 10M3, aspirazione manuale",
+      "vendor": "Gre",
+      "category": "Piscine fuori terra",
+      "specs": {
+        "forma": "MISSING",
+        "materiale": "MISSING",
+        "volume": "MISSING",
+        "altezza": "MISSING"
+      }
+    },
+    {
+      "id": "gid://shopify/Product/15527827603804",
+      "title": "Deposito a sabbia per depurazione",
+      "vendor": "Gre",
+      "category": "Piscine fuori terra",
+      "specs": {
+        "forma": "MISSING",
+        "materiale": "MISSING",
+        "volume": "4.0",
+        "altezza": "MISSING"
+      }
+    },
+    {
+      "id": "gid://shopify/Product/15527828095324",
+      "title": "Depuratore Aqualoon - Filtro per acqua, portata 3,5 m³/h",
+      "vendor": "Gre",
+      "category": "Piscine fuori terra",
+      "specs": {
+        "forma": "MISSING",
+        "materiale": "MISSING",
+        "volume": "3.5",
+        "altezza": "MISSING"
+      }
+    },
+    {
+      "id": "gid://shopify/Product/15527828324700",
+      "title": "Deposito per filtri indipendenti",
+      "vendor": "Gre",
+      "category": "Piscine fuori terra",
+      "specs": {
+        "forma": "MISSING",
+        "materiale": "MISSING",
+        "volume": "MISSING",
+        "altezza": "96"
+      }
+    },
+    {
+      "id": "gid://shopify/Product/15527828980060",
+      "title": "Casetta tecnica in composito, h:91",
+      "vendor": "Gre",
+      "category": "Piscine fuori terra",
+      "specs": {
+        "forma": "MISSING",
+        "materiale": "Composito",
+        "volume": "MISSING",
+        "altezza": "MISSING"
+      }
+    },
+    {
+      "id": "gid://shopify/Product/15527829143900",
+      "title": "Pompa autoadescante Comfort - 1/3 CV",
+      "vendor": "Gre",
+      "category": "Piscine fuori terra",
+      "specs": {
+        "forma": "MISSING",
+        "materiale": "MISSING",
+        "volume": "35.0",
+        "altezza": "MISSING"
+      }
+    },
+    {
+      "id": "gid://shopify/Product/15527829438812",
+      "title": "Pompa autoadescante premium",
+      "vendor": "Gre",
+      "category": "Piscine fuori terra",
+      "specs": {
+        "forma": "MISSING",
+        "materiale": "MISSING",
+        "volume": "135.0",
+        "altezza": "MISSING"
+      }
+    },
+    {
+      "id": "gid://shopify/Product/15527829733724",
+      "title": "Cartuccia filtrante X per AR125, AR124, AR121 e AR118",
+      "vendor": "Gre",
+      "category": "Piscine fuori terra",
+      "specs": {
+        "forma": "MISSING",
+        "materiale": "MISSING",
+        "volume": "MISSING",
+        "altezza": "MISSING"
+      }
+    },
+    {
+      "id": "gid://shopify/Product/15527830389084",
+      "title": "Sistema filtrante Aqualoon",
+      "vendor": "Gre",
+      "category": "Piscine fuori terra",
+      "specs": {
+        "forma": "MISSING",
+        "materiale": "MISSING",
+        "volume": "MISSING",
+        "altezza": "MISSING"
+      }
+    },
+    {
+      "id": "gid://shopify/Product/15527830978908",
+      "title": "Clorinatore salino collegato",
+      "vendor": "Gre",
+      "category": "Piscine fuori terra",
+      "specs": {
+        "forma": "MISSING",
+        "materiale": "MISSING",
+        "volume": "40.0",
+        "altezza": "MISSING"
+      }
+    },
+    {
+      "id": "gid://shopify/Product/15527831470428",
+      "title": "Sistema di disinfezione UV per piscine",
+      "vendor": "Gre",
+      "category": "Trattamento acqua",
+      "specs": {
+        "produzione_cloro": "MISSING",
+        "volume_trattato": "25.0"
+      }
+    },
+    {
+      "id": "gid://shopify/Product/15527831634268",
+      "title": "Gel flocculante in monodosi",
+      "vendor": "Gre",
+      "category": "Trattamento acqua",
+      "specs": {
+        "produzione_cloro": "MISSING",
+        "volume_trattato": "20.0"
+      }
+    },
+    {
+      "id": "gid://shopify/Product/15527831863644",
+      "title": "KIT trattamento piscina fuori terra da 5 a 15m³",
+      "vendor": "Gre",
+      "category": "Piscine fuori terra",
+      "specs": {
+        "forma": "Rotonda",
+        "materiale": "MISSING",
+        "volume": "15.0",
+        "altezza": "MISSING"
+      }
+    },
+    {
+      "id": "gid://shopify/Product/15527831961948",
+      "title": "Kit trattamento acqua spa",
+      "vendor": "Gre",
+      "category": "Piscine fuori terra",
+      "specs": {
+        "forma": "Rotonda",
+        "materiale": "MISSING",
+        "volume": "25.0",
+        "altezza": "MISSING"
+      }
+    },
+    {
+      "id": "gid://shopify/Product/15527832060252",
+      "title": "Batteria per Blue Connect",
+      "vendor": "Gre",
+      "category": "Trattamento acqua",
+      "specs": {
+        "produzione_cloro": "MISSING",
+        "volume_trattato": "MISSING"
+      }
+    },
+    {
+      "id": "gid://shopify/Product/15527832125788",
+      "title": "Estensore WiFi Bluetooth Blue",
+      "vendor": "Gre",
+      "category": "Piscine fuori terra",
+      "specs": {
+        "forma": "MISSING",
+        "materiale": "MISSING",
+        "volume": "MISSING",
+        "altezza": "MISSING"
+      }
+    },
+    {
+      "id": "gid://shopify/Product/15527832224092",
+      "title": "Sonda sensore Blue Connect Blue Sensor Au",
+      "vendor": "Gre",
+      "category": "Trattamento acqua",
+      "specs": {
+        "produzione_cloro": "MISSING",
+        "volume_trattato": "MISSING"
+      }
+    },
+    {
+      "id": "gid://shopify/Product/15527832289628",
+      "title": "Blue Fit 50",
+      "vendor": "Gre",
+      "category": "Piscine fuori terra",
+      "specs": {
+        "forma": "MISSING",
+        "materiale": "MISSING",
+        "volume": "MISSING",
+        "altezza": "MISSING"
+      }
+    },
+    {
+      "id": "gid://shopify/Product/15527832355164",
+      "title": "Kit By Pass",
+      "vendor": "Gre",
+      "category": "Piscine fuori terra",
+      "specs": {
+        "forma": "MISSING",
+        "materiale": "MISSING",
+        "volume": "MISSING",
+        "altezza": "MISSING"
+      }
+    },
+    {
+      "id": "gid://shopify/Product/15527832387932",
+      "title": "Pompa di calore mini - 40 m³",
+      "vendor": "Gre",
+      "category": "Riscaldamento",
+      "specs": {
+        "potenza": "MISSING",
+        "volume_max": "MISSING",
+        "tecnologia": "MISSING"
+      }
+    },
+    {
+      "id": "gid://shopify/Product/15527832486236",
+      "title": "Copertura per piscina rotonda in composite",
+      "vendor": "Gre",
+      "category": "Piscine fuori terra",
+      "specs": {
+        "forma": "Rotonda",
+        "materiale": "Composito",
+        "volume": "MISSING",
+        "altezza": "361"
+      }
+    },
+    {
+      "id": "gid://shopify/Product/15527832519004",
+      "title": "Piscina quadrata copertura",
+      "vendor": "Gre",
+      "category": "Piscine fuori terra",
+      "specs": {
+        "forma": "Quadrata",
+        "materiale": "MISSING",
+        "volume": "MISSING",
+        "altezza": "275"
+      }
+    },
+    {
+      "id": "gid://shopify/Product/15527832584540",
+      "title": "Doccia solare PVC nero 2 pezzi",
+      "vendor": "Gre",
+      "category": "Piscine fuori terra",
+      "specs": {
+        "forma": "Rotonda",
+        "materiale": "PVC",
+        "volume": "MISSING",
+        "altezza": "MISSING"
+      }
+    },
+    {
+      "id": "gid://shopify/Product/15527832715612",
+      "title": "Proiettore LED per piscine interrate, 9 LED, Bianco, 16 W",
+      "vendor": "Gre",
+      "category": "Piscine fuori terra",
+      "specs": {
+        "forma": "MISSING",
+        "materiale": "Legno",
+        "volume": "MISSING",
+        "altezza": "MISSING"
+      }
+    },
+    {
+      "id": "gid://shopify/Product/15527832977756",
+      "title": "Kit illuminazione piscina fuori terra con 2 proiettori LED",
+      "vendor": "Gre",
+      "category": "Piscine fuori terra",
+      "specs": {
+        "forma": "MISSING",
+        "materiale": "Acciaio",
+        "volume": "MISSING",
+        "altezza": "MISSING"
+      }
+    },
+    {
+      "id": "gid://shopify/Product/15527833010524",
+      "title": "Liner piscina legno quadrata Blu",
+      "vendor": "Gre",
+      "category": "Piscine fuori terra",
+      "specs": {
+        "forma": "Quadrata",
+        "materiale": "Legno",
+        "volume": "MISSING",
+        "altezza": "119"
+      }
+    },
+    {
+      "id": "gid://shopify/Product/15527833076060",
+      "title": "Liner per piscine composite rotonde Grigio 40/100",
+      "vendor": "Gre",
+      "category": "Piscine fuori terra",
+      "specs": {
+        "forma": "Rotonda",
+        "materiale": "PVC",
+        "volume": "MISSING",
+        "altezza": "124"
+      }
+    },
+    {
+      "id": "gid://shopify/Product/15527833174364",
+      "title": "Liner per piscine in composite ovale, 524x386x124 cm",
+      "vendor": "Gre",
+      "category": "Piscine fuori terra",
+      "specs": {
+        "forma": "Ovale",
+        "materiale": "PVC",
+        "volume": "MISSING",
+        "altezza": "124"
+      }
+    },
+    {
+      "id": "gid://shopify/Product/15527833239900",
+      "title": "Liner Di Ricambio Grigio 60/100 Rettangolare x Piscine in Composito Gre",
+      "vendor": "Gre",
+      "category": "Piscine fuori terra",
+      "specs": {
+        "forma": "Rettangolare",
+        "materiale": "PVC",
+        "volume": "MISSING",
+        "altezza": "96"
+      }
+    },
+    {
+      "id": "gid://shopify/Product/15527833338204",
+      "title": "Liner Di Ricambio Per Piscine Rotonde Interrate Con Spessore 60/100 Gre",
+      "vendor": "Gre",
+      "category": "Piscine fuori terra",
+      "specs": {
+        "forma": "Rotonda",
+        "materiale": "Acciaio",
+        "volume": "MISSING",
+        "altezza": "120"
+      }
+    },
+    {
+      "id": "gid://shopify/Product/15527833370972",
+      "title": "Liner Di Ricambio Per Piscine Ovali Interrate Con Spessore 75/100 Gre",
+      "vendor": "Gre",
+      "category": "Piscine fuori terra",
+      "specs": {
+        "forma": "Ovale",
+        "materiale": "Acciaio",
+        "volume": "MISSING",
+        "altezza": "120"
+      }
+    },
+    {
+      "id": "gid://shopify/Product/15527833403740",
+      "title": "Liner Grigio Di Ricambio x Piscina In Composito Quadrata 60/100 Gre",
+      "vendor": "Gre",
+      "category": "Piscine fuori terra",
+      "specs": {
+        "forma": "Quadrata",
+        "materiale": "PVC",
+        "volume": "MISSING",
+        "altezza": "96"
+      }
+    },
+    {
+      "id": "gid://shopify/Product/15527833534812",
+      "title": "Scaletta Da 2 gradini Per SPA H 34 cm Gre - SPAL2",
+      "vendor": "Gre",
+      "category": "Piscine fuori terra",
+      "specs": {
+        "forma": "MISSING",
+        "materiale": "MISSING",
+        "volume": "MISSING",
+        "altezza": "MISSING"
+      }
+    },
+    {
+      "id": "gid://shopify/Product/15527833600348",
+      "title": "Scaletta Sintetica HDPE Per Piscine Interrate a 4 Gradini H206 cm Gre - EPE30",
+      "vendor": "Gre",
+      "category": "Piscine fuori terra",
+      "specs": {
+        "forma": "MISSING",
+        "materiale": "MISSING",
+        "volume": "MISSING",
+        "altezza": "206"
+      }
+    },
+    {
+      "id": "gid://shopify/Product/15527833665884",
+      "title": "Scaletta Per Piscine Fuoriterra 2x2 Gradini H 98 cm Gre - AR109",
+      "vendor": "Gre",
+      "category": "Piscine fuori terra",
+      "specs": {
+        "forma": "MISSING",
+        "materiale": "Acciaio",
+        "volume": "MISSING",
+        "altezza": "98"
+      }
+    },
+    {
+      "id": "gid://shopify/Product/15527833764188",
+      "title": "Spugne Magiche Per Linea Di Galleggiamento, 4 Unità - PGL4",
+      "vendor": "Gre",
+      "category": "Piscine fuori terra",
+      "specs": {
+        "forma": "MISSING",
+        "materiale": "MISSING",
+        "volume": "MISSING",
+        "altezza": "MISSING"
+      }
+    },
+    {
+      "id": "gid://shopify/Product/15527833960796",
+      "title": "Skimmer Standard Completo Gre x Piscine Fuoriterra - AR100",
+      "vendor": "Gre",
+      "category": "Piscine fuori terra",
+      "specs": {
+        "forma": "Rotonda",
+        "materiale": "MISSING",
+        "volume": "MISSING",
+        "altezza": "MISSING"
+      }
+    },
+    {
+      "id": "gid://shopify/Product/15527834091868",
+      "title": "Adattatore Puliscifondo x Tubo Pulitore e Skimmer - AR505",
+      "vendor": "Gre",
+      "category": "Pulitori",
+      "specs": {
+        "tipo_pulizia": "MISSING",
+        "lunghezza_cavo": "MISSING",
+        "filtrazione": "MISSING"
+      }
+    },
+    {
+      "id": "gid://shopify/Product/15527834124636",
+      "title": "Tappeti Protettivi Rettangolari In Poliestere Per Piscine Fuoriterra",
+      "vendor": "Gre",
+      "category": "Piscine fuori terra",
+      "specs": {
+        "forma": "MISSING",
+        "materiale": "MISSING",
+        "volume": "MISSING",
+        "altezza": "500"
+      }
+    },
+    {
+      "id": "gid://shopify/Product/15527834616156",
+      "title": "Tappeto Puzzle Protettore Suolo In Etilene",
+      "vendor": "Gre",
+      "category": "Piscine fuori terra",
+      "specs": {
+        "forma": "MISSING",
+        "materiale": "MISSING",
+        "volume": "MISSING",
+        "altezza": "MISSING"
+      }
+    },
+    {
+      "id": "gid://shopify/Product/15527835042140",
+      "title": "Tappeti In Poliestere Protettivi Rotondi Per Fondo Piscine",
+      "vendor": "Gre",
+      "category": "Piscine fuori terra",
+      "specs": {
+        "forma": "MISSING",
+        "materiale": "MISSING",
+        "volume": "MISSING",
+        "altezza": "650"
+      }
+    },
+    {
+      "id": "gid://shopify/Product/15527835205980",
+      "title": "Barriera Di Protezione Flessibile Per Piscine - SF133",
+      "vendor": "Gre",
+      "category": "Piscine fuori terra",
+      "specs": {
+        "forma": "MISSING",
+        "materiale": "MISSING",
+        "volume": "MISSING",
+        "altezza": "MISSING"
+      }
+    },
+    {
+      "id": "gid://shopify/Product/15527835631964",
+      "title": "Bicicletta Acquatica in Acciaio Inox Aquabike Per Aquafitness - AQB2",
+      "vendor": "Gre",
+      "category": "Piscine fuori terra",
+      "specs": {
+        "forma": "MISSING",
+        "materiale": "Acciaio",
+        "volume": "MISSING",
+        "altezza": "MISSING"
+      }
+    },
+    {
+      "id": "gid://shopify/Product/15546226934108",
+      "title": "Prodotto Minimal",
+      "vendor": "Zodiac",
+      "category": "no price",
+      "specs": {}
+    },
+    {
+      "id": "gid://shopify/Product/15546227753308",
+      "title": "Linea Rossa",
+      "vendor": "Zodiac",
+      "category": "no price",
+      "specs": {}
+    },
+    {
+      "id": "gid://shopify/Product/15546227917148",
+      "title": "Aspirapolvere RA 6300 iQ",
+      "vendor": "Zodiac",
+      "category": "Pulitori",
+      "specs": {
+        "tipo_pulizia": "MISSING",
+        "lunghezza_cavo": "MISSING",
+        "filtrazione": "MISSING"
+      }
+    },
+    {
+      "id": "gid://shopify/Product/15546242564444",
+      "title": "Aspirapolvere RA 6900 iQ",
+      "vendor": "Zodiac",
+      "category": "Pulitori",
+      "specs": {
+        "tipo_pulizia": "MISSING",
+        "lunghezza_cavo": "MISSING",
+        "filtrazione": "MISSING"
+      }
+    },
+    {
+      "id": "gid://shopify/Product/15546242695516",
+      "title": "Pulitore a vuoto OA 6600 iQ",
+      "vendor": "Zodiac",
+      "category": "Pulitori",
+      "specs": {
+        "tipo_pulizia": "MISSING",
+        "lunghezza_cavo": "MISSING",
+        "filtrazione": "MISSING"
+      }
+    },
+    {
+      "id": "gid://shopify/Product/15546242761052",
+      "title": "Aspirapolvere OA 6400 iQ",
+      "vendor": "Zodiac",
+      "category": "Pulitori",
+      "specs": {
+        "tipo_pulizia": "MISSING",
+        "lunghezza_cavo": "MISSING",
+        "filtrazione": "MISSING"
+      }
+    },
+    {
+      "id": "gid://shopify/Product/15546242826588",
+      "title": "Piscina Robot RA 6500 iQ",
+      "vendor": "Zodiac",
+      "category": "Pulitori",
+      "specs": {
+        "tipo_pulizia": "MISSING",
+        "lunghezza_cavo": "MISSING",
+        "filtrazione": "MISSING"
+      }
+    },
+    {
+      "id": "gid://shopify/Product/15546242924892",
+      "title": "Aspirapolvere Robot RA 6800 iQ",
+      "vendor": "Zodiac",
+      "category": "Pulitori",
+      "specs": {
+        "tipo_pulizia": "MISSING",
+        "lunghezza_cavo": "MISSING",
+        "filtrazione": "MISSING"
+      }
+    },
+    {
+      "id": "gid://shopify/Product/15546243023196",
+      "title": "SWY 3520",
+      "vendor": "Zodiac",
+      "category": "Nessuna",
+      "specs": {}
+    },
+    {
+      "id": "gid://shopify/Product/15546243121500",
+      "title": "SWY 3500 Piscina Robot Pulitore Elettrico",
+      "vendor": "Zodiac",
+      "category": "Pulitori",
+      "specs": {
+        "tipo_pulizia": "MISSING",
+        "lunghezza_cavo": "MISSING",
+        "filtrazione": "MISSING"
+      }
+    },
+    {
+      "id": "gid://shopify/Product/15546243187036",
+      "title": "Ovale 5390",
+      "vendor": "Zodiac",
+      "category": "Piscine fuori terra",
+      "specs": {
+        "forma": "Ovale",
+        "materiale": "MISSING",
+        "volume": "MISSING",
+        "altezza": "MISSING"
+      }
+    },
+    {
+      "id": "gid://shopify/Product/15546243252572",
+      "title": "OV 5200 Sistema di Filtrazione",
+      "vendor": "Zodiac",
+      "category": "Nessuna",
+      "specs": {}
+    },
+    {
+      "id": "gid://shopify/Product/15546243416412",
+      "title": "GV 5220 Pulitore a Vapore",
+      "vendor": "Zodiac",
+      "category": "Pulitori",
+      "specs": {
+        "tipo_pulizia": "MISSING",
+        "lunghezza_cavo": "MISSING",
+        "filtrazione": "MISSING"
+      }
+    },
+    {
+      "id": "gid://shopify/Product/15546243514716",
+      "title": "Filtro FR 5200",
+      "vendor": "Zodiac",
+      "category": "Filtraggio",
+      "specs": {}
+    },
+    {
+      "id": "gid://shopify/Product/15546243580252",
+      "title": "OT 3290 Tile",
+      "vendor": "Zodiac",
+      "category": "Nessuna",
+      "specs": {}
+    },
+    {
+      "id": "gid://shopify/Product/15546243711324",
+      "title": "OT 3200",
+      "vendor": "Zodiac",
+      "category": "Nessuna",
+      "specs": {}
+    },
+    {
+      "id": "gid://shopify/Product/15546243809628",
+      "title": "GT 3220",
+      "vendor": "Zodiac",
+      "category": "Nessuna",
+      "specs": {}
+    },
+    {
+      "id": "gid://shopify/Product/15546243875164",
+      "title": "RT 3200",
+      "vendor": "Zodiac",
+      "category": "Nessuna",
+      "specs": {}
+    },
+    {
+      "id": "gid://shopify/Product/15546244202844",
+      "title": "XA 3010 iQ",
+      "vendor": "Zodiac",
+      "category": "Pulitori",
+      "specs": {
+        "tipo_pulizia": "MISSING",
+        "lunghezza_cavo": "MISSING",
+        "filtrazione": "MISSING"
+      }
+    },
+    {
+      "id": "gid://shopify/Product/15546244301148",
+      "title": "40 XA iQ",
+      "vendor": "Zodiac",
+      "category": "Pulitori",
+      "specs": {
+        "tipo_pulizia": "MISSING",
+        "lunghezza_cavo": "MISSING",
+        "filtrazione": "MISSING"
+      }
+    },
+    {
+      "id": "gid://shopify/Product/15546244399452",
+      "title": "XA 4010 IQ",
+      "vendor": "Zodiac",
+      "category": "Pulitori",
+      "specs": {
+        "tipo_pulizia": "MISSING",
+        "lunghezza_cavo": "MISSING",
+        "filtrazione": "MISSING"
+      }
+    },
+    {
+      "id": "gid://shopify/Product/15546244497756",
+      "title": "pH Expert",
+      "vendor": "Zodiac",
+      "category": "Trattamento acqua",
+      "specs": {
+        "produzione_cloro": "MISSING",
+        "volume_trattato": "MISSING"
+      }
+    },
+    {
+      "id": "gid://shopify/Product/15546244596060",
+      "title": "RE 4200",
+      "vendor": "Zodiac",
+      "category": "Nessuna",
+      "specs": {}
+    },
+    {
+      "id": "gid://shopify/Product/15546244694364",
+      "title": "RE 4700 iQ",
+      "vendor": "Zodiac",
+      "category": "Pulitori",
+      "specs": {
+        "tipo_pulizia": "MISSING",
+        "lunghezza_cavo": "MISSING",
+        "filtrazione": "MISSING"
+      }
+    },
+    {
+      "id": "gid://shopify/Product/15546244792668",
+      "title": "RE 4400 iQ",
+      "vendor": "Zodiac",
+      "category": "Pulitori",
+      "specs": {
+        "tipo_pulizia": "MISSING",
+        "lunghezza_cavo": "MISSING",
+        "filtrazione": "MISSING"
+      }
+    },
+    {
+      "id": "gid://shopify/Product/15546244858204",
+      "title": "RE 4300",
+      "vendor": "Zodiac",
+      "category": "Nessuna",
+      "specs": {}
+    },
+    {
+      "id": "gid://shopify/Product/15546244989276",
+      "title": "RE 4600 iQ",
+      "vendor": "Zodiac",
+      "category": "Pulitori",
+      "specs": {
+        "tipo_pulizia": "MISSING",
+        "lunghezza_cavo": "MISSING",
+        "filtrazione": "MISSING"
+      }
+    },
+    {
+      "id": "gid://shopify/Product/15546245087580",
+      "title": "Sirocco²",
+      "vendor": "Zodiac",
+      "category": "no price",
+      "specs": {}
+    },
+    {
+      "id": "gid://shopify/Product/15546245185884",
+      "title": "Heat Line",
+      "vendor": "Zodiac",
+      "category": "Riscaldamento",
+      "specs": {
+        "potenza": "MISSING",
+        "volume_max": "MISSING",
+        "tecnologia": "MISSING"
+      }
+    },
+    {
+      "id": "gid://shopify/Product/15546245316956",
+      "title": "CNX 25",
+      "vendor": "Zodiac",
+      "category": "Pulitori",
+      "specs": {
+        "tipo_pulizia": "MISSING",
+        "lunghezza_cavo": "MISSING",
+        "filtrazione": "MISSING"
+      }
+    },
+    {
+      "id": "gid://shopify/Product/15546245382492",
+      "title": "CNX 20",
+      "vendor": "Zodiac",
+      "category": "Pulitori",
+      "specs": {
+        "tipo_pulizia": "MISSING",
+        "lunghezza_cavo": "MISSING",
+        "filtrazione": "MISSING"
+      }
+    },
+    {
+      "id": "gid://shopify/Product/15546245415260",
+      "title": "CNX 30 iQ",
+      "vendor": "Zodiac",
+      "category": "Pulitori",
+      "specs": {
+        "tipo_pulizia": "MISSING",
+        "lunghezza_cavo": "MISSING",
+        "filtrazione": "MISSING"
+      }
+    },
+    {
+      "id": "gid://shopify/Product/15546245480796",
+      "title": "CNX 40 iQ",
+      "vendor": "Zodiac",
+      "category": "Pulitori",
+      "specs": {
+        "tipo_pulizia": "MISSING",
+        "lunghezza_cavo": "MISSING",
+        "filtrazione": "MISSING"
+      }
+    },
+    {
+      "id": "gid://shopify/Product/15546245513564",
+      "title": "CNX 50 iQ",
+      "vendor": "Zodiac",
+      "category": "Pulitori",
+      "specs": {
+        "tipo_pulizia": "MISSING",
+        "lunghezza_cavo": "MISSING",
+        "filtrazione": "MISSING"
+      }
+    },
+    {
+      "id": "gid://shopify/Product/15546245579100",
+      "title": "RE/U",
+      "vendor": "Zodiac",
+      "category": "no price",
+      "specs": {}
+    },
+    {
+      "id": "gid://shopify/Product/15546245611868",
+      "title": "FloPro™ VS",
+      "vendor": "Zodiac",
+      "category": "no price",
+      "specs": {}
+    },
+    {
+      "id": "gid://shopify/Product/15546245644636",
+      "title": "RE/L",
+      "vendor": "Zodiac",
+      "category": "no price",
+      "specs": {}
+    },
+    {
+      "id": "gid://shopify/Product/15546245710172",
+      "title": "Z350iQ",
+      "vendor": "Zodiac",
+      "category": "Nessuna",
+      "specs": {}
+    },
+    {
+      "id": "gid://shopify/Product/15546245742940",
+      "title": "RE/I",
+      "vendor": "Zodiac",
+      "category": "no price",
+      "specs": {}
+    },
+    {
+      "id": "gid://shopify/Product/15546245775708",
+      "title": "CAE con condotti",
+      "vendor": "Zodiac",
+      "category": "no price",
+      "specs": {}
+    },
+    {
+      "id": "gid://shopify/Product/15546245841244",
+      "title": "Power Force Inverter",
+      "vendor": "Zodiac",
+      "category": "Nessuna",
+      "specs": {}
+    },
+    {
+      "id": "gid://shopify/Product/15546245874012",
+      "title": "Z950 Inverter",
+      "vendor": "Zodiac",
+      "category": "Nessuna",
+      "specs": {}
+    },
+    {
+      "id": "gid://shopify/Product/15546245906780",
+      "title": "Z250iQ",
+      "vendor": "Zodiac",
+      "category": "Nessuna",
+      "specs": {}
+    },
+    {
+      "id": "gid://shopify/Product/15546245972316",
+      "title": "Z650iQ",
+      "vendor": "Zodiac",
+      "category": "Nessuna",
+      "specs": {}
+    },
+    {
+      "id": "gid://shopify/Product/15546246037852",
+      "title": "Z400iQ",
+      "vendor": "Zodiac",
+      "category": "Nessuna",
+      "specs": {}
+    },
+    {
+      "id": "gid://shopify/Product/15546246070620",
+      "title": "PX25",
+      "vendor": "Zodiac",
+      "category": "no price",
+      "specs": {}
+    },
+    {
+      "id": "gid://shopify/Product/15546246136156",
+      "title": "CS",
+      "vendor": "Zodiac",
+      "category": "Filtraggio",
+      "specs": {}
+    },
+    {
+      "id": "gid://shopify/Product/15546246168924",
+      "title": "Crystal Clear",
+      "vendor": "Zodiac",
+      "category": "Filtraggio",
+      "specs": {}
+    },
+    {
+      "id": "gid://shopify/Product/15546246234460",
+      "title": "eXO® iQ",
+      "vendor": "Zodiac",
+      "category": "Pulitori",
+      "specs": {
+        "tipo_pulizia": "MISSING",
+        "lunghezza_cavo": "MISSING",
+        "filtrazione": "MISSING"
+      }
+    },
+    {
+      "id": "gid://shopify/Product/15546246267228",
+      "title": "eXO® iQ LS",
+      "vendor": "Zodiac",
+      "category": "Pulitori",
+      "specs": {
+        "tipo_pulizia": "MISSING",
+        "lunghezza_cavo": "MISSING",
+        "filtrazione": "MISSING"
+      }
+    },
+    {
+      "id": "gid://shopify/Product/15546246332764",
+      "title": "Dual Link",
+      "vendor": "Zodiac",
+      "category": "no price",
+      "specs": {}
+    },
+    {
+      "id": "gid://shopify/Product/15546246365532",
+      "title": "pH Link",
+      "vendor": "Zodiac",
+      "category": "Trattamento acqua",
+      "specs": {
+        "produzione_cloro": "MISSING",
+        "volume_trattato": "MISSING"
+      }
+    },
+    {
+      "id": "gid://shopify/Product/15546246398300",
+      "title": "Ei² iQ",
+      "vendor": "Zodiac",
+      "category": "Pulitori",
+      "specs": {
+        "tipo_pulizia": "MISSING",
+        "lunghezza_cavo": "MISSING",
+        "filtrazione": "MISSING"
+      }
+    },
+    {
+      "id": "gid://shopify/Product/15546246463836",
+      "title": "EiSalt",
+      "vendor": "Zodiac",
+      "category": "Nessuna",
+      "specs": {}
+    },
+    {
+      "id": "gid://shopify/Product/15546246496604",
+      "title": "eXPERT pH/ORP",
+      "vendor": "Zodiac",
+      "category": "Trattamento acqua",
+      "specs": {
+        "produzione_cloro": "MISSING",
+        "volume_trattato": "MISSING"
+      }
+    },
+    {
+      "id": "gid://shopify/Product/15546246562140",
+      "title": "eXPERT",
+      "vendor": "Zodiac",
+      "category": "Trattamento acqua",
+      "specs": {
+        "produzione_cloro": "MISSING",
+        "volume_trattato": "MISSING"
+      }
+    },
+    {
+      "id": "gid://shopify/Product/15546246627676",
+      "title": "TRX 8500 iQ",
+      "vendor": "Zodiac",
+      "category": "Pulitori",
+      "specs": {
+        "tipo_pulizia": "MISSING",
+        "lunghezza_cavo": "MISSING",
+        "filtrazione": "MISSING"
+      }
+    },
+    {
+      "id": "gid://shopify/Product/15546246660444",
+      "title": "TRX 8700 iQ",
+      "vendor": "Zodiac",
+      "category": "Pulitori",
+      "specs": {
+        "tipo_pulizia": "MISSING",
+        "lunghezza_cavo": "MISSING",
+        "filtrazione": "MISSING"
+      }
+    },
+    {
+      "id": "gid://shopify/Product/15546246725980",
+      "title": "Blue Connect Silver",
+      "vendor": "Zodiac",
+      "category": "Trattamento acqua",
+      "specs": {
+        "produzione_cloro": "MISSING",
+        "volume_trattato": "MISSING"
+      }
+    },
+    {
+      "id": "gid://shopify/Product/15546246791516",
+      "title": "Blue Connect Gold",
+      "vendor": "Zodiac",
+      "category": "Trattamento acqua",
+      "specs": {
+        "produzione_cloro": "MISSING",
+        "volume_trattato": "MISSING"
+      }
+    },
+    {
+      "id": "gid://shopify/Product/15546246824284",
+      "title": "Uranus",
+      "vendor": "Zodiac",
+      "category": "no price",
+      "specs": {}
+    },
+    {
+      "id": "gid://shopify/Product/15546246889820",
+      "title": "Chlor Expert",
+      "vendor": "Zodiac",
+      "category": "Trattamento acqua",
+      "specs": {
+        "produzione_cloro": "MISSING",
+        "volume_trattato": "MISSING"
+      }
+    },
+    {
+      "id": "gid://shopify/Product/15546246922588",
+      "title": "iQPump",
+      "vendor": "Zodiac",
+      "category": "Nessuna",
+      "specs": {}
+    },
+    {
+      "id": "gid://shopify/Product/15546246988124",
+      "title": "E30iQ",
+      "vendor": "Zodiac",
+      "category": "Nessuna",
+      "specs": {}
+    },
+    {
+      "id": "gid://shopify/Product/15546247053660",
+      "title": "FloPro™",
+      "vendor": "Zodiac",
+      "category": "no price",
+      "specs": {}
+    },
+    {
+      "id": "gid://shopify/Product/15546247086428",
+      "title": "DT 850 E",
+      "vendor": "Zodiac",
+      "category": "no price",
+      "specs": {}
+    },
+    {
+      "id": "gid://shopify/Product/15546247151964",
+      "title": "OP 3220",
+      "vendor": "Zodiac",
+      "category": "Nessuna",
+      "specs": {}
+    },
+    {
+      "id": "gid://shopify/Product/15546247217500",
+      "title": "OP 32",
+      "vendor": "Zodiac",
+      "category": "Nessuna",
+      "specs": {}
+    },
+    {
+      "id": "gid://shopify/Product/15546247348572",
+      "title": "RF 5400 iQ",
+      "vendor": "Zodiac",
+      "category": "Pulitori",
+      "specs": {
+        "tipo_pulizia": "MISSING",
+        "lunghezza_cavo": "MISSING",
+        "filtrazione": "MISSING"
+      }
+    },
+    {
+      "id": "gid://shopify/Product/15546247446876",
+      "title": "RF 5200 iQ",
+      "vendor": "Zodiac",
+      "category": "Pulitori",
+      "specs": {
+        "tipo_pulizia": "MISSING",
+        "lunghezza_cavo": "MISSING",
+        "filtrazione": "MISSING"
+      }
+    },
+    {
+      "id": "gid://shopify/Product/15546247577948",
+      "title": "RF 42 iQ",
+      "vendor": "Zodiac",
+      "category": "Pulitori",
+      "specs": {
+        "tipo_pulizia": "MISSING",
+        "lunghezza_cavo": "MISSING",
+        "filtrazione": "MISSING"
+      }
+    },
+    {
+      "id": "gid://shopify/Product/15546247643484",
+      "title": "RF 5600 iQ",
+      "vendor": "Zodiac",
+      "category": "Pulitori",
+      "specs": {
+        "tipo_pulizia": "MISSING",
+        "lunghezza_cavo": "MISSING",
+        "filtrazione": "MISSING"
+      }
+    },
+    {
+      "id": "gid://shopify/Product/15546247774556",
+      "title": "OF 42 iQ",
+      "vendor": "Zodiac",
+      "category": "Pulitori",
+      "specs": {
+        "tipo_pulizia": "MISSING",
+        "lunghezza_cavo": "MISSING",
+        "filtrazione": "MISSING"
+      }
+    },
+    {
+      "id": "gid://shopify/Product/15546247905628",
+      "title": "Freedom+ Control",
+      "vendor": "Zodiac",
+      "category": "Nessuna",
+      "specs": {}
+    },
+    {
+      "id": "gid://shopify/Product/15546248003932",
+      "title": "CNX-Li 5220 iQ",
+      "vendor": "Zodiac",
+      "category": "Pulitori",
+      "specs": {
+        "tipo_pulizia": "MISSING",
+        "lunghezza_cavo": "MISSING",
+        "filtrazione": "MISSING"
+      }
+    },
+    {
+      "id": "gid://shopify/Product/15546248102236",
+      "title": "OF 4220 iQ",
+      "vendor": "Zodiac",
+      "category": "Pulitori",
+      "specs": {
+        "tipo_pulizia": "MISSING",
+        "lunghezza_cavo": "MISSING",
+        "filtrazione": "MISSING"
+      }
+    },
+    {
+      "id": "gid://shopify/Product/15546248167772",
+      "title": "CNX-Li 52 iQ",
+      "vendor": "Zodiac",
+      "category": "Pulitori",
+      "specs": {
+        "tipo_pulizia": "MISSING",
+        "lunghezza_cavo": "MISSING",
+        "filtrazione": "MISSING"
+      }
+    },
+    {
+      "id": "gid://shopify/Product/15546249412956",
+      "title": "Bluespring",
+      "vendor": "Piscine Laghetto",
+      "category": "Piscine fuori terra",
+      "specs": {
+        "forma": "Rettangolare",
+        "materiale": "MISSING",
+        "volume": "MISSING",
+        "altezza": "MISSING"
+      }
+    },
+    {
+      "id": "gid://shopify/Product/15546249544028",
+      "title": "Ninfea Thiny",
+      "vendor": "Piscine Laghetto",
+      "category": "Piscine fuori terra",
+      "specs": {
+        "forma": "Ovale",
+        "materiale": "MISSING",
+        "volume": "MISSING",
+        "altezza": "MISSING"
+      }
+    },
+    {
+      "id": "gid://shopify/Product/15546249642332",
+      "title": "Dolcevita Naked",
+      "vendor": "Piscine Laghetto",
+      "category": "Piscine fuori terra",
+      "specs": {
+        "forma": "Rettangolare",
+        "materiale": "MISSING",
+        "volume": "MISSING",
+        "altezza": "MISSING"
+      }
+    },
+    {
+      "id": "gid://shopify/Product/15546249707868",
+      "title": "Divina Skimmer",
+      "vendor": "Piscine Laghetto",
+      "category": "Piscine fuori terra",
+      "specs": {
+        "forma": "Rettangolare",
+        "materiale": "MISSING",
+        "volume": "MISSING",
+        "altezza": "MISSING"
+      }
+    },
+    {
+      "id": "gid://shopify/Product/15546249871708",
+      "title": "City",
+      "vendor": "Piscine Laghetto",
+      "category": "Piscine fuori terra",
+      "specs": {
+        "forma": "Quadrata",
+        "materiale": "MISSING",
+        "volume": "MISSING",
+        "altezza": "MISSING"
+      }
+    },
+    {
+      "id": "gid://shopify/Product/15546249970012",
+      "title": "Dolcevita Diva LTI",
+      "vendor": "Piscine Laghetto",
+      "category": "Piscine fuori terra",
+      "specs": {
+        "forma": "Rettangolare",
+        "materiale": "MISSING",
+        "volume": "MISSING",
+        "altezza": "MISSING"
+      }
+    },
+    {
+      "id": "gid://shopify/Product/15546250068316",
+      "title": "Classic",
+      "vendor": "Piscine Laghetto",
+      "category": "Piscine fuori terra",
+      "specs": {
+        "forma": "Rettangolare",
+        "materiale": "MISSING",
+        "volume": "MISSING",
+        "altezza": "MISSING"
+      }
+    },
+    {
+      "id": "gid://shopify/Product/15546250166620",
+      "title": "Playa",
+      "vendor": "Piscine Laghetto",
+      "category": "Piscine fuori terra",
+      "specs": {
+        "forma": "Rettangolare",
+        "materiale": "MISSING",
+        "volume": "MISSING",
+        "altezza": "MISSING"
+      }
+    },
+    {
+      "id": "gid://shopify/Product/15546250297692",
+      "title": "Pop!",
+      "vendor": "Piscine Laghetto",
+      "category": "Piscine fuori terra",
+      "specs": {
+        "forma": "Ovale",
+        "materiale": "MISSING",
+        "volume": "MISSING",
+        "altezza": "MISSING"
+      }
+    },
+    {
+      "id": "gid://shopify/Product/15546250461532",
+      "title": "Antea",
+      "vendor": "Piscine Laghetto",
+      "category": "Piscine fuori terra",
+      "specs": {
+        "forma": "MISSING",
+        "materiale": "MISSING",
+        "volume": "MISSING",
+        "altezza": "MISSING"
+      }
+    },
+    {
+      "id": "gid://shopify/Product/15546250592604",
+      "title": "Ninfea",
+      "vendor": "Piscine Laghetto",
+      "category": "Piscine fuori terra",
+      "specs": {
+        "forma": "Ovale",
+        "materiale": "MISSING",
+        "volume": "MISSING",
+        "altezza": "MISSING"
+      }
+    },
+    {
+      "id": "gid://shopify/Product/15546250658140",
+      "title": "Dolcevita Rattan",
+      "vendor": "Piscine Laghetto",
+      "category": "Piscine fuori terra",
+      "specs": {
+        "forma": "Rettangolare",
+        "materiale": "MISSING",
+        "volume": "MISSING",
+        "altezza": "MISSING"
+      }
+    },
+    {
+      "id": "gid://shopify/Product/15546250756444",
+      "title": "Professional",
+      "vendor": "Piscine Laghetto",
+      "category": "Piscine fuori terra",
+      "specs": {
+        "forma": "MISSING",
+        "materiale": "MISSING",
+        "volume": "MISSING",
+        "altezza": "MISSING"
+      }
+    },
+    {
+      "id": "gid://shopify/Product/15546250821980",
+      "title": "Musa",
+      "vendor": "Piscine Laghetto",
+      "category": "Piscine fuori terra",
+      "specs": {
+        "forma": "MISSING",
+        "materiale": "MISSING",
+        "volume": "MISSING",
+        "altezza": "MISSING"
+      }
+    },
+    {
+      "id": "gid://shopify/Product/15546250887516",
+      "title": "Dolcevita Diva",
+      "vendor": "Piscine Laghetto",
+      "category": "Piscine fuori terra",
+      "specs": {
+        "forma": "Rettangolare",
+        "materiale": "MISSING",
+        "volume": "MISSING",
+        "altezza": "MISSING"
+      }
+    },
+    {
+      "id": "gid://shopify/Product/15546259865948",
+      "title": "MS",
+      "vendor": "Zodiac",
+      "category": "Filtraggio",
+      "specs": {}
+    },
+    {
+      "id": "gid://shopify/Product/15546259898716",
+      "title": "Pompa di calore Z550 IQ MD4",
+      "vendor": "Zodiac",
+      "category": "Pulitori",
+      "specs": {
+        "tipo_pulizia": "MISSING",
+        "lunghezza_cavo": "MISSING",
+        "filtrazione": "MISSING"
+      }
+    },
+    {
+      "id": "gid://shopify/Product/15546260652380",
+      "title": "eXPERT pH",
+      "vendor": "Zodiac",
+      "category": "Trattamento acqua",
+      "specs": {
+        "produzione_cloro": "MISSING",
+        "volume_trattato": "MISSING"
+      }
+    },
+    {
+      "id": "gid://shopify/Product/15546260816220",
+      "title": "Freedom Lite",
+      "vendor": "Zodiac",
+      "category": "Nessuna",
+      "specs": {}
+    },
+    {
+      "id": "gid://shopify/Product/15582262952284",
+      "title": "Red Line",
+      "vendor": "Zodiac",
+      "category": "no price",
+      "specs": {}
+    },
+    {
+      "id": "gid://shopify/Product/15582263214428",
+      "title": "OA 6600 iQ",
+      "vendor": "Zodiac",
+      "category": "no price",
+      "specs": {}
+    },
+    {
+      "id": "gid://shopify/Product/15582263640412",
+      "title": "SWY 3500",
+      "vendor": "Zodiac",
+      "category": "no price",
+      "specs": {}
+    },
+    {
+      "id": "gid://shopify/Product/15582263771484",
+      "title": "OV 5390",
+      "vendor": "Zodiac",
+      "category": "no price",
+      "specs": {}
+    },
+    {
+      "id": "gid://shopify/Product/15582263935324",
+      "title": "OV 5200",
+      "vendor": "Zodiac",
+      "category": "no price",
+      "specs": {}
+    },
+    {
+      "id": "gid://shopify/Product/15582264066396",
+      "title": "GV 5220",
+      "vendor": "Zodiac",
+      "category": "no price",
+      "specs": {}
+    },
+    {
+      "id": "gid://shopify/Product/15582264820060",
+      "title": "Z550iQ",
+      "vendor": "Zodiac",
+      "category": "Nessuna",
+      "specs": {}
+    },
+    {
+      "id": "gid://shopify/Product/15591455097180",
+      "title": "Piscina Power Steel Rettangolare",
+      "vendor": "Intex",
+      "category": "Piscine fuori terra",
+      "specs": {
+        "forma": "MISSING",
+        "materiale": "MISSING",
+        "volume": "MISSING",
+        "altezza": "MISSING"
+      }
+    },
+    {
+      "id": "gid://shopify/Product/15591455228252",
+      "title": "Piscina Power Steel Rotonda",
+      "vendor": "Intex",
+      "category": "Piscine fuori terra",
+      "specs": {
+        "forma": "MISSING",
+        "materiale": "MISSING",
+        "volume": "MISSING",
+        "altezza": "MISSING"
+      }
+    },
+    {
+      "id": "gid://shopify/Product/15591465845084",
+      "title": "Piscina Power Steel Rettangolare",
+      "vendor": "Intex",
+      "category": "Piscine fuori terra",
+      "specs": {
+        "forma": "MISSING",
+        "materiale": "MISSING",
+        "volume": "MISSING",
+        "altezza": "MISSING"
+      }
+    },
+    {
+      "id": "gid://shopify/Product/15591465943388",
+      "title": "Piscina Power Steel Rotonda",
+      "vendor": "Intex",
+      "category": "Piscine fuori terra",
+      "specs": {
+        "forma": "MISSING",
+        "materiale": "MISSING",
+        "volume": "MISSING",
+        "altezza": "MISSING"
+      }
+    },
+    {
+      "id": "gid://shopify/Product/15591515554140",
+      "title": "Piscina Prisma Frame Ovale",
+      "vendor": "Intex",
+      "category": "Piscine fuori terra",
+      "specs": {
+        "forma": "MISSING",
+        "materiale": "MISSING",
+        "volume": "MISSING",
+        "altezza": "MISSING"
+      }
+    },
+    {
+      "id": "gid://shopify/Product/15591515619676",
+      "title": "Piscina Prisma Frame Rotonda",
+      "vendor": "Intex",
+      "category": "Piscine fuori terra",
+      "specs": {
+        "forma": "MISSING",
+        "materiale": "MISSING",
+        "volume": "MISSING",
+        "altezza": "MISSING"
+      }
+    },
+    {
+      "id": "gid://shopify/Product/15591515717980",
+      "title": "Piscina Prisma Frame Rettangolare",
+      "vendor": "Intex",
+      "category": "Piscine fuori terra",
+      "specs": {
+        "forma": "MISSING",
+        "materiale": "MISSING",
+        "volume": "MISSING",
+        "altezza": "MISSING"
+      }
+    },
+    {
+      "id": "gid://shopify/Product/15591515783516",
+      "title": "Piscina Metallica Rotonda",
+      "vendor": "Intex",
+      "category": "Piscine fuori terra",
+      "specs": {
+        "forma": "MISSING",
+        "materiale": "MISSING",
+        "volume": "MISSING",
+        "altezza": "MISSING"
+      }
+    },
+    {
+      "id": "gid://shopify/Product/15591515849052",
+      "title": "Piscina Easy Set Idromassaggio",
+      "vendor": "Intex",
+      "category": "Piscine fuori terra",
+      "specs": {
+        "forma": "MISSING",
+        "materiale": "MISSING",
+        "volume": "MISSING",
+        "altezza": "MISSING"
+      }
+    },
+    {
+      "id": "gid://shopify/Product/15591515881820",
+      "title": "Piscina Metallica Rettangolare",
+      "vendor": "Intex",
+      "category": "Piscine fuori terra",
+      "specs": {
+        "forma": "MISSING",
+        "materiale": "MISSING",
+        "volume": "MISSING",
+        "altezza": "MISSING"
+      }
+    },
+    {
+      "id": "gid://shopify/Product/15591515914588",
+      "title": "Piscina Power Metallica Rotonda",
+      "vendor": "Intex",
+      "category": "Piscine fuori terra",
+      "specs": {
+        "forma": "MISSING",
+        "materiale": "MISSING",
+        "volume": "MISSING",
+        "altezza": "MISSING"
+      }
+    },
+    {
+      "id": "gid://shopify/Product/15591516045660",
+      "title": "Piscina Power Steel Metallica",
+      "vendor": "Intex",
+      "category": "Piscine fuori terra",
+      "specs": {
+        "forma": "MISSING",
+        "materiale": "MISSING",
+        "volume": "MISSING",
+        "altezza": "MISSING"
+      }
+    },
+    {
+      "id": "gid://shopify/Product/15591516176732",
+      "title": "Piscina Rectangolare Intex 220x150x60cm 28266NP\n\n(In alternativa, se puoi considerare un'opzione più concisa)\nPiscina Rectangolare Intex 2,2x1,5x0,6m 28266NP",
+      "vendor": "Intex",
+      "category": "Piscine fuori terra",
+      "specs": {
+        "forma": "MISSING",
+        "materiale": "MISSING",
+        "volume": "MISSING",
+        "altezza": "MISSING"
+      }
+    },
+    {
+      "id": "gid://shopify/Product/15591516307804",
+      "title": "Piscina Power Pietra",
+      "vendor": "Intex",
+      "category": "Piscine fuori terra",
+      "specs": {
+        "forma": "MISSING",
+        "materiale": "MISSING",
+        "volume": "MISSING",
+        "altezza": "MISSING"
+      }
+    },
+    {
+      "id": "gid://shopify/Product/15591516438876",
+      "title": "Robot Pulitore",
+      "vendor": "Intex",
+      "category": "Piscine fuori terra",
+      "specs": {
+        "forma": "MISSING",
+        "materiale": "MISSING",
+        "volume": "MISSING",
+        "altezza": "MISSING"
+      }
+    },
+    {
+      "id": "gid://shopify/Product/15591516602716",
+      "title": "Telo Termico",
+      "vendor": "Intex",
+      "category": "Piscine fuori terra",
+      "specs": {
+        "forma": "MISSING",
+        "materiale": "MISSING",
+        "volume": "MISSING",
+        "altezza": "MISSING"
+      }
+    },
+    {
+      "id": "gid://shopify/Product/15591516701020",
+      "title": "Telo Copri",
+      "vendor": "Intex",
+      "category": "Coperture",
+      "specs": {}
+    },
+    {
+      "id": "gid://shopify/Product/15591516832092",
+      "title": "Robot Pulitore Automatico",
+      "vendor": "Intex",
+      "category": "Piscine fuori terra",
+      "specs": {
+        "forma": "MISSING",
+        "materiale": "MISSING",
+        "volume": "MISSING",
+        "altezza": "MISSING"
+      }
+    },
+    {
+      "id": "gid://shopify/Product/15591516963164",
+      "title": "Telo Copri Dura+",
+      "vendor": "Intex",
+      "category": "Coperture",
+      "specs": {}
+    },
+    {
+      "id": "gid://shopify/Product/15591517094236",
+      "title": "Luce LED Magnetica",
+      "vendor": "Intex",
+      "category": "Piscine fuori terra",
+      "specs": {
+        "forma": "MISSING",
+        "materiale": "MISSING",
+        "volume": "MISSING",
+        "altezza": "MISSING"
+      }
+    },
+    {
+      "id": "gid://shopify/Product/15591517290844",
+      "title": "Telo Copri Deluxe",
+      "vendor": "Intex",
+      "category": "Piscine fuori terra",
+      "specs": {
+        "forma": "MISSING",
+        "materiale": "MISSING",
+        "volume": "MISSING",
+        "altezza": "MISSING"
+      }
+    },
+    {
+      "id": "gid://shopify/Product/15591517487452",
+      "title": "Luce a LED Galleggiante",
+      "vendor": "Intex",
+      "category": "Piscine fuori terra",
+      "specs": {
+        "forma": "MISSING",
+        "materiale": "MISSING",
+        "volume": "MISSING",
+        "altezza": "MISSING"
+      }
+    },
+    {
+      "id": "gid://shopify/Product/15591517618524",
+      "title": "Telo Copri Prisma",
+      "vendor": "Intex",
+      "category": "Piscine fuori terra",
+      "specs": {
+        "forma": "MISSING",
+        "materiale": "MISSING",
+        "volume": "MISSING",
+        "altezza": "MISSING"
+      }
+    },
+    {
+      "id": "gid://shopify/Product/15591517684060",
+      "title": "Tela Copri Piscina Intex per Piscine Rettangolari 450x220 cm \n\nSKU: [inserisciSKU]",
+      "vendor": "Intex",
+      "category": "Piscine fuori terra",
+      "specs": {
+        "forma": "MISSING",
+        "materiale": "MISSING",
+        "volume": "MISSING",
+        "altezza": "MISSING"
+      }
+    },
+    {
+      "id": "gid://shopify/Product/15591517782364",
+      "title": "Kit Pulizia Intex",
+      "vendor": "Intex",
+      "category": "Piscine fuori terra",
+      "specs": {
+        "forma": "MISSING",
+        "materiale": "MISSING",
+        "volume": "MISSING",
+        "altezza": "MISSING"
+      }
+    },
+    {
+      "id": "gid://shopify/Product/15591517847900",
+      "title": "Pompa Filtro Krystal Clear",
+      "vendor": "Intex",
+      "category": "Filtraggio",
+      "specs": {}
+    },
+    {
+      "id": "gid://shopify/Product/15591517946204",
+      "title": "Aspirapolvere Intex",
+      "vendor": "Intex",
+      "category": "Piscine fuori terra",
+      "specs": {
+        "forma": "MISSING",
+        "materiale": "MISSING",
+        "volume": "MISSING",
+        "altezza": "MISSING"
+      }
+    },
+    {
+      "id": "gid://shopify/Product/15591518110044",
+      "title": "Luce LED Intex",
+      "vendor": "Intex",
+      "category": "Piscine fuori terra",
+      "specs": {
+        "forma": "MISSING",
+        "materiale": "MISSING",
+        "volume": "MISSING",
+        "altezza": "MISSING"
+      }
+    },
+    {
+      "id": "gid://shopify/Product/15591518241116",
+      "title": "Cartuccie Chlorinanti Intex",
+      "vendor": "Intex",
+      "category": "Piscine fuori terra",
+      "specs": {
+        "forma": "MISSING",
+        "materiale": "MISSING",
+        "volume": "MISSING",
+        "altezza": "MISSING"
+      }
+    },
+    {
+      "id": "gid://shopify/Product/15591518372188",
+      "title": "Cartuccia per Piscina Intex PureSpa",
+      "vendor": "Intex",
+      "category": "Piscine fuori terra",
+      "specs": {
+        "forma": "MISSING",
+        "materiale": "MISSING",
+        "volume": "MISSING",
+        "altezza": "MISSING"
+      }
+    },
+    {
+      "id": "gid://shopify/Product/15591518568796",
+      "title": "Piscina Rettangolare per Cani Intex",
+      "vendor": "Intex",
+      "category": "Piscine fuori terra",
+      "specs": {
+        "forma": "MISSING",
+        "materiale": "MISSING",
+        "volume": "MISSING",
+        "altezza": "MISSING"
+      }
+    },
+    {
+      "id": "gid://shopify/Product/15591518732636",
+      "title": "Piscina Intex Inflabile",
+      "vendor": "Intex",
+      "category": "Piscine fuori terra",
+      "specs": {
+        "forma": "MISSING",
+        "materiale": "MISSING",
+        "volume": "MISSING",
+        "altezza": "MISSING"
+      }
+    },
+    {
+      "id": "gid://shopify/Product/15591518863708",
+      "title": "Piscina Intex Anelli",
+      "vendor": "Intex",
+      "category": "Piscine fuori terra",
+      "specs": {
+        "forma": "MISSING",
+        "materiale": "MISSING",
+        "volume": "MISSING",
+        "altezza": "MISSING"
+      }
+    },
+    {
+      "id": "gid://shopify/Product/15591518994780",
+      "title": "Piscine e Coperture Intex",
+      "vendor": "Intex",
+      "category": "Piscine fuori terra",
+      "specs": {
+        "forma": "MISSING",
+        "materiale": "MISSING",
+        "volume": "MISSING",
+        "altezza": "MISSING"
+      }
+    },
+    {
+      "id": "gid://shopify/Product/15591519125852",
+      "title": "Piscine Intex",
+      "vendor": "Intex",
+      "category": "Piscine fuori terra",
+      "specs": {
+        "forma": "MISSING",
+        "materiale": "MISSING",
+        "volume": "MISSING",
+        "altezza": "MISSING"
+      }
+    },
+    {
+      "id": "gid://shopify/Product/15591519289692",
+      "title": "Gonfiabile Piscina a Shaped Paradise 6 Personne - Intex IPRS300F-01.",
+      "vendor": "Intex",
+      "category": "Piscine fuori terra",
+      "specs": {
+        "forma": "MISSING",
+        "materiale": "MISSING",
+        "volume": "MISSING",
+        "altezza": "MISSING"
+      }
+    },
+    {
+      "id": "gid://shopify/Product/15591519420764",
+      "title": "Pompe per Piscine Intex",
+      "vendor": "Intex",
+      "category": "Filtraggio",
+      "specs": {}
+    },
+    {
+      "id": "gid://shopify/Product/15591519551836",
+      "title": "Pompa Elettrica QuickFill",
+      "vendor": "Intex",
+      "category": "Filtraggio",
+      "specs": {}
+    },
+    {
+      "id": "gid://shopify/Product/15591519682908",
+      "title": "Piscina Prisma Frame",
+      "vendor": "Intex",
+      "category": "Piscine fuori terra",
+      "specs": {
+        "forma": "MISSING",
+        "materiale": "MISSING",
+        "volume": "MISSING",
+        "altezza": "MISSING"
+      }
+    },
+    {
+      "id": "gid://shopify/Product/15591519813980",
+      "title": "Pompa Filtro Sabbia",
+      "vendor": "Intex",
+      "category": "Filtraggio",
+      "specs": {}
+    },
+    {
+      "id": "gid://shopify/Product/15591519945052",
+      "title": "Accessori Piscina",
+      "vendor": "Intex",
+      "category": "Piscine fuori terra",
+      "specs": {
+        "forma": "MISSING",
+        "materiale": "MISSING",
+        "volume": "MISSING",
+        "altezza": "MISSING"
+      }
+    },
+    {
+      "id": "gid://shopify/Product/15591520108892",
+      "title": "Piscina Easy Set",
+      "vendor": "Intex",
+      "category": "Piscine fuori terra",
+      "specs": {
+        "forma": "MISSING",
+        "materiale": "MISSING",
+        "volume": "MISSING",
+        "altezza": "MISSING"
+      }
+    },
+    {
+      "id": "gid://shopify/Product/15591520272732",
+      "title": "Piscina Bestway Solo Struttura",
+      "vendor": "Bestway",
+      "category": "Piscine fuori terra",
+      "specs": {
+        "forma": "MISSING",
+        "materiale": "MISSING",
+        "volume": "MISSING",
+        "altezza": "MISSING"
+      }
+    }
+  ]
+}

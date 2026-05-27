@@ -1,0 +1,31 @@
+<div class="trust-bar bg-primary-fixed text-on-primary-fixed py-2.5 px-4 shadow-sm border-b border-outline-variant/10 transition-all duration-300 hover:bg-primary-fixed-dim">
+  <div class="max-w-7xl mx-auto flex items-center justify-center gap-3">
+    <div class="flex items-center justify-center bg-primary/10 rounded-full p-1.5">
+      <span class="material-symbols-outlined text-[18px] text-primary" style="font-variation-settings: 'FILL' 1;">location_on</span>
+    </div>
+    <p class="text-[10px] md:text-[11px] font-black uppercase tracking-[0.15em] text-center leading-tight">
+      Specialisti Centro Italia: <span class="text-primary">Consegna Rapida</span> e Assistenza dedicata in Toscana, Lazio, Umbria e Marche
+    </p>
+  </div>
+</div>
+
+<style>
+  .section-trust-bar {
+    z-index: 10;
+    position: relative;
+  }
+</style>
+
+{% schema %}
+{
+  "name": "Trust Bar JollyGame",
+  "tag": "section",
+  "class": "section-trust-bar",
+  "settings": [],
+  "presets": [
+    {
+      "name": "Trust Bar JollyGame"
+    }
+  ]
+}
+{% endschema %}

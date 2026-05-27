@@ -1,0 +1,161 @@
+{%- style -%}
+  .section-{{ section.id }}-padding {
+    padding-top: {{ section.settings.padding_top | times: 0.75 | round: 0 }}px;
+    padding-bottom: {{ section.settings.padding_bottom | times: 0.75 | round: 0 }}px;
+  }
+
+  @media screen and (min-width: 750px) {
+    .section-{{ section.id }}-padding {
+      padding-top: {{ section.settings.padding_top }}px;
+      padding-bottom: {{ section.settings.padding_bottom }}px;
+    }
+  }
+
+  .brand-ricambi-hero {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    margin-bottom: 2rem;
+  }
+
+  .brand-ricambi-logo img {
+    max-width: 200px;
+    height: auto;
+    margin-bottom: 1rem;
+  }
+
+  .brand-ricambi-docs {
+    margin-top: 3rem;
+    padding: 2rem;
+    background: #f4f4f4;
+    border-radius: 8px;
+  }
+
+  .brand-ricambi-docs h2 {
+    margin-top: 0;
+  }
+
+  .brand-ricambi-docs ul {
+    list-style: none;
+    padding: 0;
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+    gap: 1rem;
+  }
+
+  .brand-ricambi-docs li a {
+    display: flex;
+    align-items: center;
+    padding: 1rem;
+    background: white;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    text-decoration: none;
+    color: inherit;
+    font-weight: bold;
+    transition: background 0.2s;
+  }
+
+  .brand-ricambi-docs li a:hover {
+    background: #eef;
+  }
+{%- endstyle -%}
+
+<div class="max-w-7xl mx-auto py-12 px-4 sm:px-6 lg:px-8 text-primary font-sans">
+  <!-- HERO SECTION -->
+  <div class="text-center mb-16">
+    {% if metaobject.logo %}
+      <div class="inline-block p-6 bg-white rounded-3xl shadow-sm border border-outline-variant/10 mb-8">
+        {{ metaobject.logo | image_url: width: 200 | image_tag: class: 'h-auto max-w-[150px]' }}
+      </div>
+    {% endif %}
+    <h1 class="text-4xl md:text-5xl font-black uppercase italic tracking-tighter text-[#00578E] mb-6">{{ metaobject.nome.value }}</h1>
+    <div class="rte text-lg text-on-surface-variant max-w-2xl mx-auto leading-relaxed">
+      {% for child in metaobject.descrizione.value.children %}
+        {% if child.type == 'paragraph' %}
+          <p>
+            {% for node in child.children %}
+              {{ node.value }}
+            {% endfor %}
+          </p>
+        {% endif %}
+      {% endfor %}
+    </div>
+  </div>
+
+  <!-- PRODUCTS GRID -->
+  <div class="brand-ricambi-products">
+    <h2 class="text-3xl font-black uppercase italic tracking-tighter text-[#00578E] mb-10">Ricambi Originali</h2>
+    <ul class="grid grid-cols-2 md:grid-cols-4 gap-6" role="list">
+      {% assign vendor_name = metaobject.nome.value | strip %}
+      {% assign count = 0 %}
+      {% paginate collections['tutti-i-ricambi'].products by 500 %}
+        {% for product in collections['tutti-i-ricambi'].products %}
+          {% assign product_vendor = product.vendor | strip %}
+          {% if product_vendor == vendor_name %}
+            {% if product.type == 'Ricambio' or product.tags contains 'Tipo: Ricambio' %}
+              <li class="grid__item">
+                {% render 'jolly-card-product', card_product: product %}
+              </li>
+              {% assign count = count | plus: 1 %}
+            {% endif %}
+          {% endif %}
+        {% endfor %}
+      {% endpaginate %}
+    </ul>
+
+    {% if count == 0 %}
+      <div class="bg-surface-container-low p-10 rounded-[32px] text-center border-2 border-dashed border-outline-variant/30">
+        <p class="text-outline font-black uppercase tracking-widest text-sm">Nessun ricambio trovato per {{ vendor_name }}. Controlla che i prodotti siano classificati correttamente.</p>
+      </div>
+    {% endif %}
+  </div>
+
+  <!-- DOCUMENTATION -->
+  {% if metaobject.documentazione.value.size > 0 %}
+    <div class="bg-surface-container-low p-10 md:p-12 rounded-[40px] border border-outline-variant/10">
+      <h2 class="text-2xl font-black uppercase italic tracking-tighter text-[#00578E] mb-8">Documentazione Tecnica e Esplosi</h2>
+      <ul class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+        {% for doc in metaobject.documentazione.value %}
+          <li class="bg-white p-6 rounded-2xl shadow-sm border border-outline-variant/10 flex items-center gap-4 hover:border-[#00578E] transition-all">
+            <span class="material-symbols-outlined text-[#00578E] text-2xl">description</span>
+            <a href="{{ doc.url_file.value }}" target="_blank" class="font-bold text-primary hover:text-[#00578E] transition-colors">
+              {{ doc.titolo.value }}
+            </a>
+          </li>
+        {% endfor %}
+      </ul>
+    </div>
+  {% endif %}
+</div>
+
+{% schema %}
+{
+  "name": "Brand Ricambi Page",
+  "tag": "section",
+  "class": "section",
+  "settings": [
+    {
+      "type": "range",
+      "id": "padding_top",
+      "min": 0,
+      "max": 100,
+      "step": 4,
+      "unit": "px",
+      "label": "Padding Top",
+      "default": 36
+    },
+    {
+      "type": "range",
+      "id": "padding_bottom",
+      "min": 0,
+      "max": 100,
+      "step": 4,
+      "unit": "px",
+      "label": "Padding Bottom",
+      "default": 36
+    }
+  ]
+}
+{% endschema %}

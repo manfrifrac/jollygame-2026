@@ -1,0 +1,44 @@
+{
+  "title": "Piscina Ovale Pacific",
+  "descriptionHtml": "<p>La piscina Pacific Ovale è il perfetto connubio di stile e funzionalità per il tuo giardino. Grazie al suo design con decorazione in legno, segue le ultime tendenze di decorazione e arredo per esterni. Questa piscina di acciaio imitazione legno si può installare facilmente senza necessità di realizzare scavi.</p><p>Il kit include tutto il materiale necessario per il montaggio: pareti in acciaio con trattamento Anti-UV, liner, skimmer, filtro a sabbia e scaletta. La piscina è dotata di un sistema di fissaggio con paletti laterali e ha una misura commerciale di 500 x 300 x 120 cm.</p><ul>\n<li>Piscina ovale con parete in acciaio e decorazione in legno</li>\n<li>Misura esterna: 527 x 500 x 122 cm</li>\n<li>Misura interna: 509 x 300 x 120 cm</li>\n<li>Volume di acqua: 14,55 m³</li>\n<li>Liner in PVC con trattamento anti-UV</li>\n<li>Depuratore a sabbia con portata di 4 m³/h e sabbia silex (circa 20 kg)</li>\n<li>Scala di sicurezza a forbice con 2x3 gradini, conforme alla normativa europea</li>\n<li>Struttura del contenitore e profili in acciaio galvanizzato</li>\n<li>Protettori ad iniezione per le giunture tra i profili orizzontali</li>\n<li>Include gruppo skimmer e tubi di collegamento</li>\n</ul><p>La struttura metallica è garantita per 5 anni, mentre il resto dei componenti è garantito per 2 anni. Il tempo di installazione è di circa 6 ore con 2-3 persone.</p>",
+  "vendor": "Gre",
+  "metafields": {
+    "nodes": [
+      {
+        "key": "materiale",
+        "value": "Acciaio",
+        "namespace": "custom"
+      },
+      {
+        "key": "forma",
+        "value": "Ovale",
+        "namespace": "custom"
+      },
+      {
+        "key": "volume_acqua",
+        "value": "14.55",
+        "namespace": "custom"
+      },
+      {
+        "key": "altezza_vasca",
+        "value": "120",
+        "namespace": "custom"
+      },
+      {
+        "key": "portata_m3h",
+        "value": "4.0",
+        "namespace": "custom"
+      },
+      {
+        "key": "title_tag",
+        "value": "Piscina Ovale Pacific | JollyGame",
+        "namespace": "global"
+      },
+      {
+        "key": "description_tag",
+        "value": "Piscina ovale in acciaio con decorazione in legno, facile da installare e dotata di tutti i componenti necessari. Garanzia 5 anni sulla struttura metallica.",
+        "namespace": "global"
+      }
+    ]
+  }
+}

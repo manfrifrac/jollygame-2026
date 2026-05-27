@@ -1,0 +1,970 @@
+{
+  "spareParts": [
+    {
+      "image": "https://img.bestway.eu/production/597EC408-DA02-4E6D-81B4-61C524A743FB.png",
+      "items": [
+        {
+          "index": "1",
+          "id": "P08573",
+          "bigcommerceId": "1542",
+          "sku": "P08573",
+          "image": "https://img.bestway.eu/production/d42b8de3-e414-4c7b-9580-c2f323f818d4.jpg",
+          "name": "Valvola di controllo per filtro a sabbia da 6056 e 8327 l/h",
+          "csCode": "P08573",
+          "price": {
+            "basePrice": 59.9,
+            "currencyCode": "EUR",
+            "value": 59.9
+          },
+          "variants": [
+            {
+              "availableForSale": null,
+              "id": "1507",
+              "options": []
+            }
+          ],
+          "slug": "valvola-controllo-per-pompa-filtro-a-sabbia-da-6056-e-8327-l-h",
+          "isInStock": true,
+          "sellable": true
+        },
+        {
+          "index": "2",
+          "id": "P61138ASS16",
+          "bigcommerceId": "762",
+          "sku": "P61138ASS16",
+          "image": "https://img.bestway.eu/production/dda349d6-8465-4e5b-988a-2377e7b4448c.jpg",
+          "name": "Manometro per pompa filtro a sabbia",
+          "csCode": "P61138ASS16",
+          "price": {
+            "basePrice": 16.9,
+            "currencyCode": "EUR",
+            "value": 16.9
+          },
+          "variants": [
+            {
+              "availableForSale": null,
+              "id": "727",
+              "options": []
+            }
+          ],
+          "slug": "manometro-per-pompa-filtro-a-sabbia",
+          "isInStock": true,
+          "sellable": true
+        },
+        {
+          "category": [
+            "spare_parts",
+            "spareparts_filters_it",
+            "spareparts_filters_tanks_it",
+            "unpublished_it"
+          ],
+          "csCode": "P03832",
+          "image": "https://img.bestway.eu/production/e6cb7efb-1d8d-49ed-9e54-9a7766c8c773.jpg",
+          "index": "3",
+          "items": [
+            {
+              "category": [
+                "unpublished_it"
+              ],
+              "comment": null,
+              "csCode": "P61205ASS16",
+              "image": "https://img.bestway.eu/production/286a8487-78a1-436c-8750-356968ed38b9.jpg",
+              "name": "Top Flange Clamp for 2000gal Sand Filter",
+              "sku": null,
+              "slug": null,
+              "type": "inter"
+            }
+          ],
+          "name": "Flangia superiore per pompa filtro a sabbia da 5678 a 11355 l/h",
+          "quantity": 2,
+          "sku": "1A58P0383219",
+          "slug": "flangia-pompa-filtro-a-sabbia-da-5678-a-11355-l-h"
+        },
+        {
+          "index": "4",
+          "id": "P61209ASS16",
+          "bigcommerceId": "764",
+          "sku": "P61209ASS16",
+          "image": "https://img.bestway.eu/production/1A58P0078916.jpg",
+          "name": "Setaccio per filtro a sabbia da 3.785 l/h in su",
+          "csCode": "P61209ASS16",
+          "price": {
+            "basePrice": 4.9,
+            "currencyCode": "EUR",
+            "value": 4.9
+          },
+          "variants": [
+            {
+              "availableForSale": null,
+              "id": "729",
+              "options": []
+            }
+          ],
+          "slug": "setaccio-per-filtro-a-sabbia",
+          "isInStock": true,
+          "sellable": true
+        },
+        {
+          "category": [
+            "unpublished_it"
+          ],
+          "csCode": "P61214ASS16",
+          "image": "https://img.bestway.eu/production/0ce73f5e-d288-4bec-91f5-64670533ded2.jpg",
+          "index": "5",
+          "items": [],
+          "name": "Top O-ring for 2000gal Sand Filter",
+          "quantity": 1,
+          "sku": "1A58P0079416",
+          "slug": null
+        },
+        {
+          "index": "6",
+          "id": "P08576",
+          "bigcommerceId": "1738",
+          "sku": "P08576",
+          "image": "https://img.bestway.eu/production/96e569f0-f72c-4654-804d-bc3c954182d8.jpg",
+          "name": "Serbatoio per filtro a sabbia da 8327 L/h",
+          "csCode": "P08576",
+          "price": {
+            "basePrice": 46.9,
+            "currencyCode": "EUR",
+            "value": 46.9
+          },
+          "variants": [
+            {
+              "availableForSale": null,
+              "id": "1703",
+              "options": []
+            }
+          ],
+          "slug": "serbatoio-filtro-a-sabbia-da-8327-L-h",
+          "isInStock": true,
+          "sellable": true
+        },
+        {
+          "index": "7",
+          "id": "P07831",
+          "bigcommerceId": "1195",
+          "sku": "P07831",
+          "image": "https://img.bestway.eu/production/1A58P0783123.jpg",
+          "name": "Tubo centrale B per filtro a sabbia da 8327 l/h",
+          "csCode": "P07831",
+          "price": {
+            "basePrice": 9.9,
+            "currencyCode": "EUR",
+            "value": 9.9
+          },
+          "variants": [
+            {
+              "availableForSale": null,
+              "id": "1160",
+              "options": []
+            }
+          ],
+          "slug": "tubo-centrale-b-per-filtro-a-sabbia-da-8327-l-h",
+          "isInStock": true,
+          "sellable": true
+        },
+        {
+          "category": [
+            "spare_parts_fr",
+            "spareparts_agp_fr",
+            "spareparts_agp_sandfilter_fr",
+            "unpublished_it"
+          ],
+          "csCode": "P61211ASS16",
+          "image": "https://img.bestway.eu/production/567e1482-4a08-42ec-93f6-7dd94a74cff9.jpg",
+          "index": "8",
+          "items": [],
+          "name": "Drain Canister for 2000gal Sand Filter",
+          "quantity": 1,
+          "sku": "1A58P0079116",
+          "slug": null
+        },
+        {
+          "index": "9",
+          "id": "P6581ASS16",
+          "bigcommerceId": "766",
+          "sku": "P6581ASS16",
+          "image": "https://img.bestway.eu/production/1A58P0091316.jpg",
+          "name": "Guarnizione O-ring per valvola di scarico per filtri a sabbia",
+          "csCode": "P6581ASS16",
+          "price": {
+            "basePrice": 3.9,
+            "currencyCode": "EUR",
+            "value": 3.9
+          },
+          "variants": [
+            {
+              "availableForSale": null,
+              "id": "731",
+              "options": []
+            }
+          ],
+          "slug": "guarnizione-O-ring-per-valvola-di-scarico-tranne-filtri-a-sabbia-da-2006-l-h",
+          "isInStock": true,
+          "sellable": true
+        },
+        {
+          "category": [
+            "spare_parts_fr",
+            "spareparts_agp_fr",
+            "spareparts_agp_sandfilter_fr",
+            "unpublished_it"
+          ],
+          "csCode": "P6580ASS16",
+          "image": "https://img.bestway.eu/production/c2a002bc-7d3c-4ca1-bf7c-26596742d035.jpg",
+          "index": "10",
+          "items": [],
+          "name": "Drain Valve Cap for Sand Filter except 530gal",
+          "quantity": 1,
+          "sku": "1A58P0091216",
+          "slug": null
+        },
+        {
+          "index": "11",
+          "id": "P07017",
+          "bigcommerceId": "838",
+          "sku": "P07017",
+          "image": "https://img.bestway.eu/production/1A58P0701723.jpg",
+          "name": "Set filtro a cestello per filtro a sabbia da 5.678,8.327,11.355 l/h",
+          "csCode": "P07017",
+          "price": {
+            "basePrice": 8.9,
+            "currencyCode": "EUR",
+            "value": 8.9
+          },
+          "variants": [
+            {
+              "availableForSale": null,
+              "id": "803",
+              "options": []
+            }
+          ],
+          "slug": "set-filtro-a-cestello-per-filtro-a-sabbia",
+          "isInStock": true,
+          "sellable": true
+        },
+        {
+          "category": [
+            "spare_parts",
+            "spareparts_filters_it",
+            "spareparts_filters_tanks_it",
+            "unpublished_it"
+          ],
+          "csCode": "P07013",
+          "image": "https://img.bestway.eu/production/74d55152-cc49-4509-900b-e0eabf77bea8.jpg",
+          "index": "12",
+          "items": [
+            {
+              "category": [
+                "spare_parts",
+                "spare_parts_fr",
+                "spareparts_agp_fr",
+                "spareparts_agp_sandfilter_fr",
+                "spareparts_filters_it",
+                "spareparts_filters_tanks_it",
+                "unpublished_it"
+              ],
+              "comment": null,
+              "csCode": "P03835",
+              "image": "https://img.bestway.eu/production/1A58P0383519.jpg",
+              "name": "Base del serbatoio per pompa filtro a sabbia da 7571 l/h e 8327 l/h",
+              "sku": "P03835",
+              "slug": "base-serbatoio-pompa-filtro-a-sabbia-da-7571-l-h-e-8327-l-h",
+              "type": "comp"
+            }
+          ],
+          "name": "Base del serbatoio per filtro a sabbia da 8.327 l/h",
+          "quantity": 1,
+          "sku": "1A58P0701323",
+          "slug": "base-serbatoio-per-filtro-a-sabbia-da-8327-l-h"
+        },
+        {
+          "category": [
+            "spare_parts",
+            "spareparts_filters_it",
+            "spareparts_filters_tanks_it"
+          ],
+          "csCode": "P08667",
+          "image": "https://img.bestway.eu/production/9b8c5009-38ae-4405-b45e-0c18eafad02a.jpg",
+          "index": "13",
+          "items": [],
+          "name": "Dado per coperchio della pompa filtro a sabbia",
+          "quantity": 1,
+          "sku": "1A58P0866725",
+          "slug": "dado-coperchio-filtro-a-sabbia"
+        },
+        {
+          "category": [
+            "spare_parts",
+            "spareparts_filters_it",
+            "spareparts_filters_tanks_it",
+            "unpublished_it"
+          ],
+          "csCode": "P07019",
+          "image": "https://img.bestway.eu/production/1A58P0701923.jpg",
+          "index": "14",
+          "items": [
+            {
+              "category": [
+                "spare_parts_fr",
+                "spareparts_agp_fr",
+                "spareparts_agp_sandfilter_fr",
+                "unpublished_it"
+              ],
+              "comment": null,
+              "csCode": "P6561ASS16",
+              "image": "https://img.bestway.eu/production/b814a122-2d8f-4852-9b68-8dc90d2ee499.jpg",
+              "name": "Strainer Cover for Sand Filter except 530gal",
+              "sku": "P6561ASS16",
+              "slug": null,
+              "type": "comp"
+            }
+          ],
+          "name": "Coperchio del pre-filtro per pompe filtro a sabbia (eccetto 2.006/3.028 l/h)",
+          "quantity": 1,
+          "sku": "1A58P0701923",
+          "slug": "coperchio-del-filtro-a-sabbia-eccetto-da-3028-l-h"
+        },
+        {
+          "category": [
+            "spare_parts",
+            "spare_parts_fr",
+            "spareparts_agp_fr",
+            "spareparts_agp_sandfilter_fr",
+            "spareparts_filters_it",
+            "spareparts_filters_tanks_it",
+            "unpublished_it"
+          ],
+          "csCode": "P6562ASS16",
+          "image": "https://img.bestway.eu/pdd_2025_1/P6562ASS16_1.jpg.png",
+          "index": "15",
+          "items": [],
+          "name": "Filtro per pompa filtro a sabbia da 5678 a 11356 l/h",
+          "quantity": 1,
+          "sku": "1A58P0090816",
+          "slug": "filtro-per-filtro-a-sabbia-da-5678-a-11356-l-h"
+        },
+        {
+          "index": "16",
+          "id": "P6563ASS16",
+          "bigcommerceId": "1433",
+          "sku": "P6563ASS16",
+          "image": "https://img.bestway.eu/production/c241ad5b-e3d4-45cc-a4cd-bf4f49e5b5da.jpg",
+          "name": "Guarnizione per pompa di filtraggio a sabbia",
+          "csCode": "P6563ASS16",
+          "price": {
+            "basePrice": 5.9,
+            "currencyCode": "EUR",
+            "value": 5.9
+          },
+          "variants": [
+            {
+              "availableForSale": null,
+              "id": "1398",
+              "options": []
+            }
+          ],
+          "slug": "guarnizione-pompa-filtro-a-sabbia",
+          "isInStock": false,
+          "sellable": true
+        },
+        {
+          "category": [
+            "spare_parts_fr",
+            "spareparts_agp_fr",
+            "spareparts_agp_sandfilter_fr",
+            "unpublished_it"
+          ],
+          "csCode": "P6029ASS16",
+          "image": "https://img.bestway.eu/production/ba91dca7-09d5-41ce-9ee3-a7673b9a2629.jpg",
+          "index": "17",
+          "items": [],
+          "name": "Washer for \u03a638mm Hose",
+          "quantity": 5,
+          "sku": "1A58P0077416",
+          "slug": null
+        },
+        {
+          "index": "18",
+          "id": "P08556",
+          "bigcommerceId": "1442",
+          "sku": "P08556",
+          "image": "https://img.bestway.eu/production/1ac0576f-f7e3-482e-b237-3a515ca66787.jpg",
+          "name": "Motore per pompe di filtraggio a sabbia da 8.327 l/h",
+          "csCode": "P08556",
+          "price": {
+            "basePrice": 74.9,
+            "currencyCode": "EUR",
+            "value": 74.9
+          },
+          "variants": [
+            {
+              "availableForSale": null,
+              "id": "1407",
+              "options": []
+            }
+          ],
+          "slug": "motore-pompe-filtro-a-sabbia-da-8327-l-h",
+          "isInStock": true,
+          "sellable": true
+        },
+        {
+          "category": [],
+          "csCode": "P08581",
+          "image": "https://img.bestway.eu/production/f5b00342-c818-479d-addf-77243386c261.jpg",
+          "index": "19",
+          "items": [],
+          "name": "Interconnecting Hose with Nuts for 8327L/2200gal Sand Filter(except GS)",
+          "quantity": 1,
+          "sku": "1A58P0858125",
+          "slug": null
+        },
+        {
+          "index": "20",
+          "id": "P08586",
+          "bigcommerceId": "1536",
+          "sku": "P08586",
+          "image": "https://img.bestway.eu/production/e1db1650-698f-405c-8a22-7b11f1c38b05.jpg",
+          "name": "Tubo da 3 metri per pompa filtro a sabbia da 6056 l/h",
+          "csCode": "P08586",
+          "price": {
+            "basePrice": 24.9,
+            "currencyCode": "EUR",
+            "value": 24.9
+          },
+          "variants": [
+            {
+              "availableForSale": null,
+              "id": "1501",
+              "options": []
+            }
+          ],
+          "slug": "tubo-3-metri-filtro-a-sabbia-da-6056-l-h",
+          "isInStock": true,
+          "sellable": true
+        },
+        {
+          "category": [],
+          "csCode": "P08664",
+          "image": "https://img.bestway.eu/production/f9b0487a-1033-4764-a8fa-165263bcc1dc.jpg",
+          "index": "21",
+          "items": [],
+          "name": "Drain Outlet Cover for Sand Filter",
+          "quantity": 1,
+          "sku": "1A58P0866425",
+          "slug": null
+        },
+        {
+          "category": [
+            "spare_parts",
+            "spare_parts_fr",
+            "spareparts_agp_fr",
+            "spareparts_agp_sandfilter_fr",
+            "spareparts_filters_it",
+            "spareparts_filters_tanks_it",
+            "unpublished_it"
+          ],
+          "csCode": "P6124ASS16",
+          "image": "https://img.bestway.eu/production/8d22b60b-0045-443a-99f6-5e10abde5cae.jpg",
+          "index": "22",
+          "items": [],
+          "name": "Fascetta stringitubo per pompa filtro a sabbia",
+          "quantity": 2,
+          "sku": "1A58P0081716",
+          "slug": "fascetta-stringitubo-pompa-filtro-a-sabbia"
+        },
+        {
+          "category": [
+            "gaskets_filterpumps_it",
+            "spare_parts",
+            "spare_parts_fr",
+            "spareparts_agp_fr",
+            "spareparts_agp_sandfilter_fr",
+            "spareparts_filters_it",
+            "unpublished_it"
+          ],
+          "csCode": "P6614ASS16",
+          "image": "https://img.bestway.eu/production/5bf7b626-b851-4631-b545-d1cff83dec1c.jpg",
+          "index": "23",
+          "items": [],
+          "name": "Adattatore per tubo da giardino per filtro a sabbia",
+          "quantity": 1,
+          "sku": "1A58P0092416",
+          "slug": "adattatore-tubo-da-giardino-per-filtro-a-sabbia"
+        },
+        {
+          "category": [],
+          "csCode": "P08665",
+          "image": "https://img.bestway.eu/production/2569dc4f-1d99-4103-8a04-216501db317e.jpg",
+          "index": "24",
+          "items": [],
+          "name": "Adaptor Nut for Sand Filter",
+          "quantity": 1,
+          "sku": "1A58P0866525",
+          "slug": null
+        },
+        {
+          "category": [
+            "gaskets_filterpumps_it",
+            "spare_parts",
+            "spareparts_filters_it",
+            "unpublished_it"
+          ],
+          "csCode": "P6916ASS16",
+          "image": "https://img.bestway.eu/production/e708dee5-03f8-4231-9715-88ecf939cada.jpg",
+          "index": "25",
+          "items": [],
+          "name": "Adattatore per tubo pompe filtro a sabbia e cartuccia da 38 mm",
+          "quantity": 2,
+          "sku": "1A58P0099516",
+          "slug": "adattatore-tubo-pompe-filtro-cartuccia-sabbia-38-mm"
+        }
+      ]
+    },
+    {
+      "image": "https://img.bestway.eu/production/A42BC22B-A051-477B-B545-D422C80B9EBB.png",
+      "items": [
+        {
+          "category": [
+            "gaskets_filterpumps_it",
+            "spare_parts",
+            "spare_parts_fr",
+            "spareparts_agp_fr",
+            "spareparts_agp_structure_fr",
+            "spareparts_filters_it",
+            "unpublished_it"
+          ],
+          "csCode": "P61318ASS16",
+          "image": "https://img.bestway.eu/production/1A58P0173416.jpg",
+          "index": "26",
+          "items": [],
+          "name": "Filtro di ingresso della piscina con attacco da 32 mm",
+          "quantity": 1,
+          "sku": "1A58P0173416",
+          "slug": "filtro-per-valvola-ingresso-della-piscina-con-uscita-da-32-mm"
+        },
+        {
+          "category": [
+            "gaskets_filterpumps_it",
+            "spare_parts",
+            "spare_parts_fr",
+            "spareparts_agp_fr",
+            "spareparts_agp_structure_fr",
+            "spareparts_filters_it",
+            "unpublished_it"
+          ],
+          "csCode": "P61322ASS16",
+          "image": "https://img.bestway.eu/production/1A58P0173516.jpg",
+          "index": "27",
+          "items": [],
+          "name": "Filtro in uscita della piscina con uscite da 32mm",
+          "quantity": 1,
+          "sku": "1A58P0173516",
+          "slug": "filtro-per-valvola-uscita-della-piscina-con-uscita-da-32-mm"
+        },
+        {
+          "category": [],
+          "csCode": "P08521",
+          "image": "https://img.bestway.eu/production/14a04f3f-eeab-46df-ba69-b06963bb3f87.jpg",
+          "index": "I",
+          "items": [],
+          "name": "8327L/2200gal Sand Filter(EU)",
+          "quantity": 1,
+          "sku": "1A58P0852125",
+          "slug": null
+        }
+      ]
+    }
+  ],
+  "relatedProducts": [
+    {
+      "bigCommerceCategories": [
+        244,
+        241
+      ],
+      "bigcommerceId": "1512",
+      "bulletPoints": "<p>\n</p><ul>\n<li>Sostituiscono la sabbia filtrante nei filtri per piscine</li>\n<li>Compatibili con tutti i modelli di pompe di filtraggio a sabbia Bestway</li>\n<li>Realizzate interamente in PET riciclabile e atossico </li>\n<li>Leggere e pratiche da usare, si lavano a mano e si riutilizzano pi\u00f9 volte</li>\n<li>Il controlavaggio non \u00e8 necessario, \u00e8 sufficiente risciacquare le sfere con un tubo dell'acqua</li><li>La confezione contiene 500 grammi di Polysphere, che corrispondono a 18 chili di sabbia</li>\n</ul><p></p>",
+      "categories": [
+        "Pompe di filtraggio",
+        "Cartucce e sabbia di vetro"
+      ],
+      "categoryBreadcrumb": {
+        "1": {
+          "code": "pompe-di-filtraggio",
+          "label": "Pompe di filtraggio"
+        },
+        "2": {
+          "code": "pompe-di-filtraggio/cartucce-e-sabbia",
+          "label": "Cartucce e sabbia di vetro"
+        }
+      },
+      "categorySlugs": [
+        "pompe-di-filtraggio/cartucce-e-sabbia",
+        "pompe-di-filtraggio"
+      ],
+      "description": "Piscine perfette? Solo con gli accessori giusti.",
+      "descriptionHtml": "<p>Rendi il filtro a sabbia ancora pi\u00f9 efficiente con le sfere filtranti Polysphere! Realizzate <b>in leggero materiale PET riciclabile e non tossico</b>, si utilizzano al posto della sabbia: bastano solo 28 g di Polysphere per ottenere il potere di filtraggio di 1 kg di sabbia.</p><p><br></p><p>Rispetto agli altri materiali filtranti, le sfere Polysphere rendono l'<b>acqua limpida in meno tempo</b>. Inoltre, sono <b>in grado di migliorare e preservare l'efficienza della pompa</b>, poich\u00e9 hanno bisogno di una pressione minore per funzionare; nel lungo periodo aiutano a preservare la longevit\u00e0 del sistema di filtraggio. <b>Leggere e facili da maneggiare</b>, sono <b>lavabili anche a mano</b>: basta metterle nel sacchetto in rete incluso e risciacquarle. Con una sola confezione da 500 grammi di Polysphere, corrispondenti a 18 kg di sabbia, avrai tutto il necessario per una filtrazione a lunga durata.</p>",
+      "eachGWs": 0.764,
+      "eachNWs": 0.5,
+      "ean": "6941607354483",
+      "enriched": true,
+      "fullColorBox": "16,5x34x16",
+      "heroImage": {
+        "alt": "",
+        "assetCode": "99383c93_9ffd_4551_a7dc_2b70e082c293",
+        "url": "https://img.bestway.eu/production/99383c93-9ffd-4551-a7dc-2b70e082c293.jpg"
+      },
+      "hierarchicalCategories": {
+        "lvl0": "pompe-di-filtraggio",
+        "lvl1": "pompe-di-filtraggio > cartucce-e-sabbia"
+      },
+      "id": "58475-6",
+      "images": [
+        {
+          "alt": "",
+          "assetCode": "1b87775e_f5a0_4a84_9cc8_5e78cb9b931b",
+          "label": null,
+          "url": "https://img.bestway.eu/production/1b87775e-f5a0-4a84-9cc8-5e78cb9b931b.jpg",
+          "videoS3Url": null,
+          "videoUrl": null
+        },
+        {
+          "alt": "",
+          "assetCode": "efea0089_e92e_4407_aec1_2f5bac8a51fd",
+          "label": null,
+          "url": "https://img.bestway.eu/production/efea0089-e92e-4407-aec1-2f5bac8a51fd.jpg",
+          "videoS3Url": null,
+          "videoUrl": null
+        },
+        {
+          "alt": "",
+          "assetCode": "99383c93_9ffd_4551_a7dc_2b70e082c293",
+          "label": null,
+          "url": "https://img.bestway.eu/production/99383c93-9ffd-4551-a7dc-2b70e082c293.jpg",
+          "videoS3Url": null,
+          "videoUrl": null
+        },
+        {
+          "alt": "",
+          "assetCode": "4c1cae3d_ce0c_42ed_87f6_a7db68176f2a",
+          "label": null,
+          "url": "https://img.bestway.eu/production/4c1cae3d-ce0c-42ed-87f6-a7db68176f2a.jpg",
+          "videoS3Url": null,
+          "videoUrl": null
+        },
+        {
+          "alt": "",
+          "assetCode": "973539d9_a9b8_48fd_9dd4_2cb701021727",
+          "label": null,
+          "url": "https://img.bestway.eu/production/973539d9-a9b8-48fd-9dd4-2cb701021727.jpg",
+          "videoS3Url": null,
+          "videoUrl": null
+        },
+        {
+          "alt": "",
+          "assetCode": "055160b6_1b86_492b_926b_4452d90f59cc",
+          "label": null,
+          "url": "https://img.bestway.eu/production/055160b6-1b86-492b-926b-4452d90f59cc.jpg",
+          "videoS3Url": null,
+          "videoUrl": null
+        },
+        {
+          "alt": "",
+          "assetCode": "53cb05b6_b29e_4df7_83f1_dd5e9081cd77",
+          "label": null,
+          "url": "https://img.bestway.eu/production/53cb05b6-b29e-4df7-83f1-dd5e9081cd77.jpg",
+          "videoS3Url": null,
+          "videoUrl": null
+        },
+        {
+          "alt": "",
+          "assetCode": "3d03392e_d232_49f7_a2bc_355b89ba03d9",
+          "label": null,
+          "url": "https://img.bestway.eu/production/3d03392e-d232-49f7-a2bc-355b89ba03d9.jpg",
+          "videoS3Url": null,
+          "videoUrl": null
+        },
+        {
+          "alt": "",
+          "assetCode": "7e747cba_a8e5_47c6_8292_6c26cf06c69d",
+          "label": null,
+          "url": "https://img.bestway.eu/production/7e747cba-a8e5-47c6-8292-6c26cf06c69d.jpg",
+          "videoS3Url": null,
+          "videoUrl": null
+        },
+        {
+          "alt": "",
+          "assetCode": "4bb5da44_3807_4046_b1f5_2f948370029e",
+          "label": null,
+          "url": "https://img.bestway.eu/production/4bb5da44-3807-4046-b1f5-2f948370029e.jpg",
+          "videoS3Url": null,
+          "videoUrl": null
+        }
+      ],
+      "isInStock": true,
+      "lastUpdate": "21/04/2026 15:27:06",
+      "lifestyleImage": {
+        "alt": "",
+        "assetCode": "99383c93_9ffd_4551_a7dc_2b70e082c293",
+        "url": "https://img.bestway.eu/production/99383c93-9ffd-4551-a7dc-2b70e082c293.jpg"
+      },
+      "mainImage": {
+        "alt": "",
+        "assetCode": "1b87775e_f5a0_4a84_9cc8_5e78cb9b931b",
+        "url": "https://img.bestway.eu/production/1b87775e-f5a0-4a84-9cc8-5e78cb9b931b.jpg"
+      },
+      "manuals": [
+        {
+          "assetCode": "53073324_6820_4da8_8621_dcf3394a3a0b",
+          "label": "Manuale d'uso per sfere filtranti \"Polysphere\"",
+          "url": "https://ns2.bestwaycorp.com/Manual/303021358432/53073324-6820-4da8-8621-dcf3394a3a0b.pdf"
+        },
+        {
+          "assetCode": "5c37ad9d_7cd9_4bb1_8ac2_642e1afcd0cd",
+          "label": "Polysphere Pool Filtration Ball with Mesh Bag Leaflet",
+          "url": "https://ns2.bestwaycorp.com/Manual/5C37AD9D-7CD9-4BB1-8AC2-642E1AFCD0CD.pdf"
+        }
+      ],
+      "metaDescription": "Le sfere filtranti Polysphere sono ideali per la manutenzione della tua piscina fuori terra. Da utilizzare con le pompe di filtraggio a sabbia.",
+      "metaTitle": "Sfere filtranti per piscina fuori terra Polysphere | Bestway Italia",
+      "nWs": 4.58,
+      "name": "Sfere filtranti Polysphere per pompa di filtraggio a sabbia",
+      "objectID": "58475-6",
+      "originalSku": "1058475XXX24",
+      "path": "/sfere-filtranti-polysphere-per-piscina",
+      "price": {
+        "basePrice": 12.99,
+        "currencyCode": "EUR",
+        "value": 12.99
+      },
+      "searchable": true,
+      "sellable": true,
+      "sku": "58475-6",
+      "slug": "sfere-filtranti-polysphere-per-piscina",
+      "stock": 331,
+      "suitableFor": [
+        "agp"
+      ],
+      "variants": [
+        {
+          "availableForSale": null,
+          "id": "1477",
+          "options": []
+        }
+      ],
+      "videos": [
+        {
+          "assetCode": "7keWH7wCF_g",
+          "label": "",
+          "url": "https://www.youtube.com/watch?v=7keWH7wCF-g&feature=youtu.be"
+        }
+      ],
+      "visible": true,
+      "warnings": "Utilizzare esclusivamente sotto la sorveglianza di un adulto.",
+      "weight": 0.764
+    },
+    {
+      "bigCommerceCategories": [
+        244,
+        241
+      ],
+      "bigcommerceId": "1025",
+      "bulletPoints": "<p>\n</p><ul>\n<li>Per tutti i principali modelli di pompe di filtraggio a sabbia</li>\n<li>Ottenuta dal riciclo del vetro, riutilizzabile pi\u00f9 volte</li>\n<li>Un metodo di filtraggio pi\u00f9 efficiente rispetto ai tradizionali filtri a cartuccia</li><li>Sacco da 25 kg</li>\n</ul>\n<p></p>",
+      "categories": [
+        "Pompe di filtraggio",
+        "Cartucce e sabbia di vetro"
+      ],
+      "categoryBreadcrumb": {
+        "1": {
+          "code": "pompe-di-filtraggio",
+          "label": "Pompe di filtraggio"
+        },
+        "2": {
+          "code": "pompe-di-filtraggio/cartucce-e-sabbia",
+          "label": "Cartucce e sabbia di vetro"
+        }
+      },
+      "categorySlugs": [
+        "pompe-di-filtraggio/cartucce-e-sabbia",
+        "pompe-di-filtraggio"
+      ],
+      "contents": "Sabbia di vetro, 25 Kg",
+      "description": "Piscine perfette? Solo con gli accessori giusti.",
+      "descriptionHtml": "Per una filtrazione ancora pi\u00f9 efficace la sabbia di vetro \u00e8 quello che ci vuole! Ottenuta dal riciclo del vetro, permette di filtrare le pi\u00f9 piccole impurit\u00e0 e particelle organiche, mantenendo il filtro e l'acqua della tua piscina sempre puliti. Da utilizzare unicamente con sistemi di filtrazione a sabbia.",
+      "eachGWs": 25,
+      "eachNWs": 25,
+      "enriched": true,
+      "fullColorBox": "35x35x54",
+      "heroImage": {
+        "alt": "",
+        "assetCode": "58196_B",
+        "url": "https://img.bestway.eu/58196/58196_B.jpg"
+      },
+      "hierarchicalCategories": {
+        "lvl0": "pompe-di-filtraggio",
+        "lvl1": "pompe-di-filtraggio > cartucce-e-sabbia"
+      },
+      "id": "58196",
+      "images": [
+        {
+          "alt": "",
+          "assetCode": "58196_A",
+          "label": null,
+          "url": "https://img.bestway.eu/58196/58196_A.jpg",
+          "videoS3Url": null,
+          "videoUrl": null
+        },
+        {
+          "alt": "",
+          "assetCode": "58196_B",
+          "label": null,
+          "url": "https://img.bestway.eu/58196/58196_B.jpg",
+          "videoS3Url": null,
+          "videoUrl": null
+        }
+      ],
+      "isInStock": true,
+      "lastUpdate": "19/04/2026 02:10:08",
+      "lifestyleImage": {
+        "alt": "",
+        "assetCode": "58196_B",
+        "url": "https://img.bestway.eu/58196/58196_B.jpg"
+      },
+      "mainImage": {
+        "alt": "",
+        "assetCode": "58196_A",
+        "url": "https://img.bestway.eu/58196/58196_A.jpg"
+      },
+      "metaDescription": "Acquista la sabbia di vetro da 25 kg da utilizzare per la pompa filtro della tua piscina fuori terra. Una soluzione super efficace, grazie al riciclo di vetro.",
+      "metaTitle": "Sabbia di vetro per pompa filtro piscina da 25 Kg | Bestway Italia",
+      "name": "Sabbia di vetro da 25 kg per pompa filtro piscina",
+      "objectID": "58196",
+      "origin": "Made in China",
+      "originalSku": "58196",
+      "path": "/sabbia-di-vetro-pompa-filtro-piscina",
+      "price": {
+        "basePrice": 26.9,
+        "currencyCode": "EUR",
+        "value": 26.9
+      },
+      "searchable": true,
+      "sellable": true,
+      "sku": "58196",
+      "slug": "sabbia-di-vetro-pompa-filtro-piscina",
+      "stock": 896,
+      "variants": [
+        {
+          "availableForSale": null,
+          "id": "990",
+          "options": []
+        }
+      ],
+      "visible": true,
+      "warnings": "Avvertenza:\nnon ingerire; tenere fuori dalla portata dei bambini.",
+      "weight": 25
+    },
+    {
+      "bigCommerceCategories": [
+        244,
+        241
+      ],
+      "bigcommerceId": "1863",
+      "bulletPoints": "<p>\n</p><ul>\n<li>Per tutti i principali modelli di pompe di filtraggio a sabbia</li>\n<li>Ottenuta dal riciclo del vetro, riutilizzabile pi\u00f9 volte</li><li>Dura pi\u00f9 a lungo rispetto alla normale sabbia quarzifera</li>\n<li>Un metodo di filtraggio pi\u00f9 efficiente rispetto ai tradizionali filtri a cartuccia</li><li>Sacco da 10 kg</li>\n</ul>\n<p></p>",
+      "categories": [
+        "Pompe di filtraggio",
+        "Cartucce e sabbia di vetro"
+      ],
+      "categoryBreadcrumb": {
+        "1": {
+          "code": "pompe-di-filtraggio",
+          "label": "Pompe di filtraggio"
+        },
+        "2": {
+          "code": "pompe-di-filtraggio/cartucce-e-sabbia",
+          "label": "Cartucce e sabbia di vetro"
+        }
+      },
+      "categorySlugs": [
+        "pompe-di-filtraggio/cartucce-e-sabbia",
+        "pompe-di-filtraggio"
+      ],
+      "contents": "Sabbia di vetro, 10 Kg",
+      "description": "Piscine perfette? Solo con gli accessori giusti.",
+      "descriptionHtml": "<p>Per una filtrazione ancora pi\u00f9 efficace la sabbia di vetro \u00e8 quello che ci vuole! Ottenuta dal riciclo del vetro, permette di filtrare le pi\u00f9 piccole impurit\u00e0 e particelle organiche, mantenendo il filtro e l'acqua della tua piscina sempre puliti. Da utilizzare unicamente con sistemi di filtrazione a sabbia.</p>",
+      "eachGWs": 10,
+      "eachNWs": 10,
+      "ean": "4260287540002",
+      "enriched": true,
+      "fullColorBox": "35x35x54",
+      "heroImage": {
+        "alt": "",
+        "assetCode": "58196_S_A",
+        "url": "https://img.bestway.eu/58196_S/58196_S_A.jpg"
+      },
+      "hierarchicalCategories": {
+        "lvl0": "pompe-di-filtraggio",
+        "lvl1": "pompe-di-filtraggio > cartucce-e-sabbia"
+      },
+      "id": "58196-S",
+      "images": [
+        {
+          "alt": "",
+          "assetCode": "58196_S_A",
+          "label": null,
+          "url": "https://img.bestway.eu/58196_S/58196_S_A.jpg",
+          "videoS3Url": null,
+          "videoUrl": null
+        },
+        {
+          "alt": "",
+          "assetCode": "58196_S_B",
+          "label": null,
+          "url": "https://img.bestway.eu/58196_S/58196_S_B.jpg",
+          "videoS3Url": null,
+          "videoUrl": null
+        }
+      ],
+      "isInStock": true,
+      "lastUpdate": "19/04/2026 02:10:09",
+      "lifestyleImage": {
+        "alt": "",
+        "assetCode": "58196_S_A",
+        "url": "https://img.bestway.eu/58196_S/58196_S_A.jpg"
+      },
+      "mainImage": {
+        "alt": "",
+        "assetCode": "58196_S_A",
+        "url": "https://img.bestway.eu/58196_S/58196_S_A.jpg"
+      },
+      "metaDescription": "Acquista la sabbia di vetro da 10 kg da utilizzare per la pompa filtro della tua piscina fuori terra. Una soluzione super efficace, grazie al riciclo di vetro.",
+      "metaTitle": "Sabbia di vetro per pompa filtro piscina da 10 Kg | Bestway Italia",
+      "name": "Sabbia di vetro da 10 kg per pompa filtro piscina",
+      "objectID": "58196-S",
+      "origin": "Made in China",
+      "originalSku": "58196-S",
+      "path": "/sabbia-vetro-10-kg-per-pompa-filtro-piscina",
+      "price": {
+        "basePrice": 16.9,
+        "currencyCode": "EUR",
+        "value": 16.9
+      },
+      "searchable": true,
+      "sellable": true,
+      "sku": "58196-S",
+      "slug": "sabbia-vetro-10-kg-per-pompa-filtro-piscina",
+      "stock": 477,
+      "variants": [
+        {
+          "availableForSale": null,
+          "id": "1828",
+          "options": []
+        }
+      ],
+      "visible": true,
+      "warnings": "Avvertenza:\nnon ingerire; tenere fuori dalla portata dei bambini.",
+      "weight": 10
+    }
+  ]
+}

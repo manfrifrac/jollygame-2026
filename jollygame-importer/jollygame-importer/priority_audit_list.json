@@ -1,0 +1,263 @@
+[
+  {
+    "title": "Copertura per piscina rettangolare",
+    "status": "ACTIVE",
+    "has_images": true,
+    "price": 0,
+    "sku": null,
+    "is_visible_online": true,
+    "is_sellable": false
+  },
+  {
+    "title": "Pulitore manuale in alluminio per piscina",
+    "status": "ACTIVE",
+    "has_images": true,
+    "price": 0,
+    "sku": "40022",
+    "is_visible_online": true,
+    "is_sellable": false
+  },
+  {
+    "title": "Copertura piscina ovale",
+    "status": "ACTIVE",
+    "has_images": true,
+    "price": 0,
+    "sku": "773322",
+    "is_visible_online": true,
+    "is_sellable": false
+  },
+  {
+    "title": "Piscina quadrata copertura",
+    "status": "ACTIVE",
+    "has_images": true,
+    "price": 0,
+    "sku": "CVKPCOR28",
+    "is_visible_online": true,
+    "is_sellable": false
+  },
+  {
+    "title": "Aspirapolvere Robot RA 6800 iQ",
+    "status": "ACTIVE",
+    "has_images": true,
+    "price": 0,
+    "sku": null,
+    "is_visible_online": true,
+    "is_sellable": false
+  },
+  {
+    "title": "Z350iQ",
+    "status": "ACTIVE",
+    "has_images": true,
+    "price": 0,
+    "sku": null,
+    "is_visible_online": true,
+    "is_sellable": false
+  },
+  {
+    "title": "Power Force Inverter",
+    "status": "ACTIVE",
+    "has_images": true,
+    "price": 0,
+    "sku": null,
+    "is_visible_online": true,
+    "is_sellable": false
+  },
+  {
+    "title": "Z950 Inverter",
+    "status": "ACTIVE",
+    "has_images": true,
+    "price": 0,
+    "sku": null,
+    "is_visible_online": true,
+    "is_sellable": false
+  },
+  {
+    "title": "Z250iQ",
+    "status": "ACTIVE",
+    "has_images": true,
+    "price": 0,
+    "sku": null,
+    "is_visible_online": true,
+    "is_sellable": false
+  },
+  {
+    "title": "Z650iQ",
+    "status": "ACTIVE",
+    "has_images": true,
+    "price": 0,
+    "sku": null,
+    "is_visible_online": true,
+    "is_sellable": false
+  },
+  {
+    "title": "Z400iQ",
+    "status": "ACTIVE",
+    "has_images": true,
+    "price": 0,
+    "sku": null,
+    "is_visible_online": true,
+    "is_sellable": false
+  },
+  {
+    "title": "eXO® iQ",
+    "status": "ACTIVE",
+    "has_images": true,
+    "price": 0,
+    "sku": null,
+    "is_visible_online": true,
+    "is_sellable": false
+  },
+  {
+    "title": "eXO® iQ LS",
+    "status": "ACTIVE",
+    "has_images": true,
+    "price": 0,
+    "sku": null,
+    "is_visible_online": true,
+    "is_sellable": false
+  },
+  {
+    "title": "Ei² iQ",
+    "status": "ACTIVE",
+    "has_images": true,
+    "price": 0,
+    "sku": null,
+    "is_visible_online": true,
+    "is_sellable": false
+  },
+  {
+    "title": "EiSalt",
+    "status": "ACTIVE",
+    "has_images": true,
+    "price": 0,
+    "sku": null,
+    "is_visible_online": true,
+    "is_sellable": false
+  },
+  {
+    "title": "TRX 8500 iQ",
+    "status": "ACTIVE",
+    "has_images": true,
+    "price": 0,
+    "sku": null,
+    "is_visible_online": true,
+    "is_sellable": false
+  },
+  {
+    "title": "TRX 8700 iQ",
+    "status": "ACTIVE",
+    "has_images": true,
+    "price": 0,
+    "sku": null,
+    "is_visible_online": true,
+    "is_sellable": false
+  },
+  {
+    "title": "iQPump",
+    "status": "ACTIVE",
+    "has_images": true,
+    "price": 0,
+    "sku": null,
+    "is_visible_online": true,
+    "is_sellable": false
+  },
+  {
+    "title": "E30iQ",
+    "status": "ACTIVE",
+    "has_images": true,
+    "price": 0,
+    "sku": null,
+    "is_visible_online": true,
+    "is_sellable": false
+  },
+  {
+    "title": "Piscina Rettangolare Ultra Xtr Frame 975x4,88x1,32cm",
+    "status": "DRAFT",
+    "has_images": true,
+    "price": 0,
+    "sku": null,
+    "is_visible_online": false,
+    "is_sellable": false
+  },
+  {
+    "title": "Piscina Rettangolare Ultra Xtr Frame 975x488x132cm",
+    "status": "DRAFT",
+    "has_images": true,
+    "price": 0,
+    "sku": null,
+    "is_visible_online": false,
+    "is_sellable": false
+  },
+  {
+    "title": "Piscina Intex Graphite Rotonda Con Pompa Filtro E Scaletta",
+    "status": "DRAFT",
+    "has_images": true,
+    "price": 0,
+    "sku": null,
+    "is_visible_online": false,
+    "is_sellable": false
+  },
+  {
+    "title": "RA 6300 iQ",
+    "status": "DRAFT",
+    "has_images": true,
+    "price": 0,
+    "sku": null,
+    "is_visible_online": false,
+    "is_sellable": false
+  },
+  {
+    "title": "RA 6900 iQ",
+    "status": "DRAFT",
+    "has_images": true,
+    "price": 0,
+    "sku": null,
+    "is_visible_online": false,
+    "is_sellable": false
+  },
+  {
+    "title": "OA 6600 iQ",
+    "status": "DRAFT",
+    "has_images": true,
+    "price": 0,
+    "sku": null,
+    "is_visible_online": false,
+    "is_sellable": false
+  },
+  {
+    "title": "OA 6400 iQ",
+    "status": "DRAFT",
+    "has_images": true,
+    "price": 0,
+    "sku": null,
+    "is_visible_online": false,
+    "is_sellable": false
+  },
+  {
+    "title": "RA 6500 iQ",
+    "status": "DRAFT",
+    "has_images": true,
+    "price": 0,
+    "sku": null,
+    "is_visible_online": false,
+    "is_sellable": false
+  },
+  {
+    "title": "RA 6800 iQ",
+    "status": "DRAFT",
+    "has_images": true,
+    "price": 0,
+    "sku": null,
+    "is_visible_online": false,
+    "is_sellable": false
+  },
+  {
+    "title": "Z550iQ",
+    "status": "DRAFT",
+    "has_images": true,
+    "price": 0,
+    "sku": null,
+    "is_visible_online": false,
+    "is_sellable": false
+  }
+]

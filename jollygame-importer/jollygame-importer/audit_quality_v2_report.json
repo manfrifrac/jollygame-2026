@@ -1,0 +1,2856 @@
+{
+  "summary": {
+    "total_products": 268,
+    "missing_images_count": 2,
+    "missing_price_count": 318,
+    "missing_sku_count": 120,
+    "variant_errors_count": 0
+  },
+  "details": {
+    "missing_images": [
+      {
+        "id": "gid://shopify/Product/15546226934108",
+        "title": "Prodotto Minimal",
+        "vendor": "Zodiac",
+        "handle": "test-product-minimal"
+      },
+      {
+        "id": "gid://shopify/Product/15591520272732",
+        "title": "Piscina Bestway Solo Struttura",
+        "vendor": "Bestway",
+        "handle": "piscina-bestway-solo-struttura"
+      }
+    ],
+    "missing_price": [
+      {
+        "product_title": "Depuratore acqua 72 W a cartuccia",
+        "variant_title": "Default Title",
+        "sku": null,
+        "price": "0.00",
+        "handle": "depuratori-a-cartuccia-potenza-72-w"
+      },
+      {
+        "product_title": "Copertura per piscina rettangolare",
+        "variant_title": "275 x 135",
+        "sku": null,
+        "price": "0.00",
+        "handle": "coperture-per-piscine-rettangolari"
+      },
+      {
+        "product_title": "Raccordo unione 2 tubi gall. 38/32mm",
+        "variant_title": "40009",
+        "sku": "40009",
+        "price": "0.00",
+        "handle": "tubi-accessori-per-tubi-raccordo-unione-2-tubi-gall-d-38-d-32mm"
+      },
+      {
+        "product_title": "Raccordo unione 2 tubi gall. 38/32mm",
+        "variant_title": "40012",
+        "sku": "40012",
+        "price": "0.00",
+        "handle": "tubi-accessori-per-tubi-raccordo-unione-2-tubi-gall-d-38-d-32mm"
+      },
+      {
+        "product_title": "Raccordo unione 2 tubi gall. 38/32mm",
+        "variant_title": "Ø32",
+        "sku": "40095",
+        "price": "0.00",
+        "handle": "tubi-accessori-per-tubi-raccordo-unione-2-tubi-gall-d-38-d-32mm"
+      },
+      {
+        "product_title": "Raccordo unione 2 tubi gall. 38/32mm",
+        "variant_title": "778196",
+        "sku": "778196",
+        "price": "0.00",
+        "handle": "tubi-accessori-per-tubi-raccordo-unione-2-tubi-gall-d-38-d-32mm"
+      },
+      {
+        "product_title": "Raccordo unione 2 tubi gall. 38/32mm",
+        "variant_title": "90165",
+        "sku": "90165",
+        "price": "0.00",
+        "handle": "tubi-accessori-per-tubi-raccordo-unione-2-tubi-gall-d-38-d-32mm"
+      },
+      {
+        "product_title": "Raccordo unione 2 tubi gall. 38/32mm",
+        "variant_title": "Ø38",
+        "sku": "787104",
+        "price": "0.00",
+        "handle": "tubi-accessori-per-tubi-raccordo-unione-2-tubi-gall-d-38-d-32mm"
+      },
+      {
+        "product_title": "Raccordo unione 2 tubi gall. 38/32mm",
+        "variant_title": "Ø38 (40091)",
+        "sku": "40091",
+        "price": "0.00",
+        "handle": "tubi-accessori-per-tubi-raccordo-unione-2-tubi-gall-d-38-d-32mm"
+      },
+      {
+        "product_title": "Raccordo unione 2 tubi gall. 38/32mm",
+        "variant_title": "Ø38 (AR509)",
+        "sku": "AR509",
+        "price": "0.00",
+        "handle": "tubi-accessori-per-tubi-raccordo-unione-2-tubi-gall-d-38-d-32mm"
+      },
+      {
+        "product_title": "Raccordo unione 2 tubi gall. 38/32mm",
+        "variant_title": "Ø32 (AR511)",
+        "sku": "AR511",
+        "price": "0.00",
+        "handle": "tubi-accessori-per-tubi-raccordo-unione-2-tubi-gall-d-38-d-32mm"
+      },
+      {
+        "product_title": "Manico telescopico 2 sezioni, lunghezza 3,60 m",
+        "variant_title": "40011",
+        "sku": "40011",
+        "price": "0.00",
+        "handle": "materiale-di-pulizia-manico-telescopico-manico-3-60-m-2-sezioni"
+      },
+      {
+        "product_title": "Manico telescopico 2 sezioni, lunghezza 3,60 m",
+        "variant_title": "90100",
+        "sku": "90100",
+        "price": "0.00",
+        "handle": "materiale-di-pulizia-manico-telescopico-manico-3-60-m-2-sezioni"
+      },
+      {
+        "product_title": "Manico telescopico 2 sezioni, lunghezza 3,60 m",
+        "variant_title": "40014",
+        "sku": "40014",
+        "price": "0.00",
+        "handle": "materiale-di-pulizia-manico-telescopico-manico-3-60-m-2-sezioni"
+      },
+      {
+        "product_title": "Manico telescopico 2 sezioni, lunghezza 3,60 m",
+        "variant_title": "TPP360",
+        "sku": "TPP360",
+        "price": "0.00",
+        "handle": "materiale-di-pulizia-manico-telescopico-manico-3-60-m-2-sezioni"
+      },
+      {
+        "product_title": "Manico telescopico 2 sezioni, lunghezza 3,60 m",
+        "variant_title": "40013",
+        "sku": "40013",
+        "price": "0.00",
+        "handle": "materiale-di-pulizia-manico-telescopico-manico-3-60-m-2-sezioni"
+      },
+      {
+        "product_title": "Pulitore manuale in alluminio per piscina",
+        "variant_title": "40022",
+        "sku": "40022",
+        "price": "0.00",
+        "handle": "materiale-di-pulizia-pulitori-manuali-pulitore-per-piscine-in-alluminio"
+      },
+      {
+        "product_title": "Pulitore manuale in alluminio per piscina",
+        "variant_title": "90105",
+        "sku": "90105",
+        "price": "0.00",
+        "handle": "materiale-di-pulizia-pulitori-manuali-pulitore-per-piscine-in-alluminio"
+      },
+      {
+        "product_title": "Pulitore manuale in alluminio per piscina",
+        "variant_title": "90110",
+        "sku": "90110",
+        "price": "0.00",
+        "handle": "materiale-di-pulizia-pulitori-manuali-pulitore-per-piscine-in-alluminio"
+      },
+      {
+        "product_title": "Pulitore manuale in alluminio per piscina",
+        "variant_title": "40016N",
+        "sku": "40016N",
+        "price": "0.00",
+        "handle": "materiale-di-pulizia-pulitori-manuali-pulitore-per-piscine-in-alluminio"
+      },
+      {
+        "product_title": "Pulitore manuale in alluminio per piscina",
+        "variant_title": "777573",
+        "sku": "777573",
+        "price": "0.00",
+        "handle": "materiale-di-pulizia-pulitori-manuali-pulitore-per-piscine-in-alluminio"
+      },
+      {
+        "product_title": "Pulitore manuale in alluminio per piscina",
+        "variant_title": "777970",
+        "sku": "777970",
+        "price": "0.00",
+        "handle": "materiale-di-pulizia-pulitori-manuali-pulitore-per-piscine-in-alluminio"
+      },
+      {
+        "product_title": "Pulitore manuale in alluminio per piscina",
+        "variant_title": "770306",
+        "sku": "770306",
+        "price": "0.00",
+        "handle": "materiale-di-pulizia-pulitori-manuali-pulitore-per-piscine-in-alluminio"
+      },
+      {
+        "product_title": "Pulitore manuale in alluminio per piscina",
+        "variant_title": "VHRP40",
+        "sku": "VHRP40",
+        "price": "0.00",
+        "handle": "materiale-di-pulizia-pulitori-manuali-pulitore-per-piscine-in-alluminio"
+      },
+      {
+        "product_title": "Pulitore manuale in alluminio per piscina",
+        "variant_title": "772794",
+        "sku": "772794",
+        "price": "0.00",
+        "handle": "materiale-di-pulizia-pulitori-manuali-pulitore-per-piscine-in-alluminio"
+      },
+      {
+        "product_title": "Pulitore manuale in alluminio per piscina",
+        "variant_title": "40017N",
+        "sku": "40017N",
+        "price": "0.00",
+        "handle": "materiale-di-pulizia-pulitori-manuali-pulitore-per-piscine-in-alluminio"
+      },
+      {
+        "product_title": "Pulitore manuale in alluminio per piscina",
+        "variant_title": "VHTP40",
+        "sku": "VHTP40",
+        "price": "0.00",
+        "handle": "materiale-di-pulizia-pulitori-manuali-pulitore-per-piscine-in-alluminio"
+      },
+      {
+        "product_title": "Pulitore manuale in alluminio per piscina",
+        "variant_title": "40018N",
+        "sku": "40018N",
+        "price": "0.00",
+        "handle": "materiale-di-pulizia-pulitori-manuali-pulitore-per-piscine-in-alluminio"
+      },
+      {
+        "product_title": "Pulitore manuale in alluminio per piscina",
+        "variant_title": "777584",
+        "sku": "777584",
+        "price": "0.00",
+        "handle": "materiale-di-pulizia-pulitori-manuali-pulitore-per-piscine-in-alluminio"
+      },
+      {
+        "product_title": "Pulitore manuale in alluminio per piscina",
+        "variant_title": "90111",
+        "sku": "90111",
+        "price": "0.00",
+        "handle": "materiale-di-pulizia-pulitori-manuali-pulitore-per-piscine-in-alluminio"
+      },
+      {
+        "product_title": "Termometro a sfera di vetro",
+        "variant_title": "40055",
+        "sku": "40055",
+        "price": "0.00",
+        "handle": "altri-accessori-termometri-termometro-a-sfera"
+      },
+      {
+        "product_title": "Termometro a sfera di vetro",
+        "variant_title": "BT474",
+        "sku": "BT474",
+        "price": "0.00",
+        "handle": "altri-accessori-termometri-termometro-a-sfera"
+      },
+      {
+        "product_title": "Termometro a sfera di vetro",
+        "variant_title": "40050",
+        "sku": "40050",
+        "price": "0.00",
+        "handle": "altri-accessori-termometri-termometro-a-sfera"
+      },
+      {
+        "product_title": "Termometro a sfera di vetro",
+        "variant_title": "40051",
+        "sku": "40051",
+        "price": "0.00",
+        "handle": "altri-accessori-termometri-termometro-a-sfera"
+      },
+      {
+        "product_title": "Termometro a sfera di vetro",
+        "variant_title": "40054",
+        "sku": "40054",
+        "price": "0.00",
+        "handle": "altri-accessori-termometri-termometro-a-sfera"
+      },
+      {
+        "product_title": "Termometro a sfera di vetro",
+        "variant_title": "90130",
+        "sku": "90130",
+        "price": "0.00",
+        "handle": "altri-accessori-termometri-termometro-a-sfera"
+      },
+      {
+        "product_title": "Termometro a sfera di vetro",
+        "variant_title": "770326",
+        "sku": "770326",
+        "price": "0.00",
+        "handle": "altri-accessori-termometri-termometro-a-sfera"
+      },
+      {
+        "product_title": "Termometro a sfera di vetro",
+        "variant_title": "TTUFO",
+        "sku": "TTUFO",
+        "price": "0.00",
+        "handle": "altri-accessori-termometri-termometro-a-sfera"
+      },
+      {
+        "product_title": "Termometro a sfera di vetro",
+        "variant_title": "90132",
+        "sku": "90132",
+        "price": "0.00",
+        "handle": "altri-accessori-termometri-termometro-a-sfera"
+      },
+      {
+        "product_title": "Termometro a sfera di vetro",
+        "variant_title": "THP24",
+        "sku": "THP24",
+        "price": "0.00",
+        "handle": "altri-accessori-termometri-termometro-a-sfera"
+      },
+      {
+        "product_title": "Erogatore Flot 200 g",
+        "variant_title": "40070",
+        "sku": "40070",
+        "price": "0.00",
+        "handle": "altri-accessori-dosatori-erogatore-flot-200-gr"
+      },
+      {
+        "product_title": "Erogatore Flot 200 g",
+        "variant_title": "40071",
+        "sku": "40071",
+        "price": "0.00",
+        "handle": "altri-accessori-dosatori-erogatore-flot-200-gr"
+      },
+      {
+        "product_title": "Erogatore Flot 200 g",
+        "variant_title": "90140",
+        "sku": "90140",
+        "price": "0.00",
+        "handle": "altri-accessori-dosatori-erogatore-flot-200-gr"
+      },
+      {
+        "product_title": "Erogatore Flot 200 g",
+        "variant_title": "90141",
+        "sku": "90141",
+        "price": "0.00",
+        "handle": "altri-accessori-dosatori-erogatore-flot-200-gr"
+      },
+      {
+        "product_title": "Erogatore Flot 200 g",
+        "variant_title": "DCT20",
+        "sku": "DCT20",
+        "price": "0.00",
+        "handle": "altri-accessori-dosatori-erogatore-flot-200-gr"
+      },
+      {
+        "product_title": "Erogatore Flot 200 g",
+        "variant_title": "FDP20",
+        "sku": "FDP20",
+        "price": "0.00",
+        "handle": "altri-accessori-dosatori-erogatore-flot-200-gr"
+      },
+      {
+        "product_title": "Erogatore Flot 200 g",
+        "variant_title": "FDP250",
+        "sku": "FDP250",
+        "price": "0.00",
+        "handle": "altri-accessori-dosatori-erogatore-flot-200-gr"
+      },
+      {
+        "product_title": "Kit di riparazione liner in gomma",
+        "variant_title": "AR202",
+        "sku": "AR202",
+        "price": "0.00",
+        "handle": "liner-e-riparatori-riparazione-kit-riparazione-liner-gre"
+      },
+      {
+        "product_title": "Kit di riparazione liner in gomma",
+        "variant_title": "V12",
+        "sku": "V12",
+        "price": "0.00",
+        "handle": "liner-e-riparatori-riparazione-kit-riparazione-liner-gre"
+      },
+      {
+        "product_title": "Tubo flessibile PVC Cepex",
+        "variant_title": "40557",
+        "sku": "40557",
+        "price": "0.00",
+        "handle": "altri-accessori-raccorderia-in-pvc-tubo-pvc-flessibile-cepex"
+      },
+      {
+        "product_title": "Tubo flessibile PVC Cepex",
+        "variant_title": "40538",
+        "sku": "40538",
+        "price": "0.00",
+        "handle": "altri-accessori-raccorderia-in-pvc-tubo-pvc-flessibile-cepex"
+      },
+      {
+        "product_title": "Tubo flessibile PVC Cepex",
+        "variant_title": "Ø50",
+        "sku": "40646",
+        "price": "0.00",
+        "handle": "altri-accessori-raccorderia-in-pvc-tubo-pvc-flessibile-cepex"
+      },
+      {
+        "product_title": "Tubo flessibile PVC Cepex",
+        "variant_title": "40591",
+        "sku": "40591",
+        "price": "0.00",
+        "handle": "altri-accessori-raccorderia-in-pvc-tubo-pvc-flessibile-cepex"
+      },
+      {
+        "product_title": "Tubo flessibile PVC Cepex",
+        "variant_title": "40593",
+        "sku": "40593",
+        "price": "0.00",
+        "handle": "altri-accessori-raccorderia-in-pvc-tubo-pvc-flessibile-cepex"
+      },
+      {
+        "product_title": "Tubo flessibile PVC Cepex",
+        "variant_title": "40592",
+        "sku": "40592",
+        "price": "0.00",
+        "handle": "altri-accessori-raccorderia-in-pvc-tubo-pvc-flessibile-cepex"
+      },
+      {
+        "product_title": "Tubo flessibile PVC Cepex",
+        "variant_title": "40539",
+        "sku": "40539",
+        "price": "0.00",
+        "handle": "altri-accessori-raccorderia-in-pvc-tubo-pvc-flessibile-cepex"
+      },
+      {
+        "product_title": "Tubo flessibile PVC Cepex",
+        "variant_title": "40541",
+        "sku": "40541",
+        "price": "0.00",
+        "handle": "altri-accessori-raccorderia-in-pvc-tubo-pvc-flessibile-cepex"
+      },
+      {
+        "product_title": "Tubo flessibile PVC Cepex",
+        "variant_title": "40555",
+        "sku": "40555",
+        "price": "0.00",
+        "handle": "altri-accessori-raccorderia-in-pvc-tubo-pvc-flessibile-cepex"
+      },
+      {
+        "product_title": "Tubo flessibile PVC Cepex",
+        "variant_title": "40537",
+        "sku": "40537",
+        "price": "0.00",
+        "handle": "altri-accessori-raccorderia-in-pvc-tubo-pvc-flessibile-cepex"
+      },
+      {
+        "product_title": "Tubo flessibile PVC Cepex",
+        "variant_title": "40590",
+        "sku": "40590",
+        "price": "0.00",
+        "handle": "altri-accessori-raccorderia-in-pvc-tubo-pvc-flessibile-cepex"
+      },
+      {
+        "product_title": "Tubo flessibile PVC Cepex",
+        "variant_title": "40543",
+        "sku": "40543",
+        "price": "0.00",
+        "handle": "altri-accessori-raccorderia-in-pvc-tubo-pvc-flessibile-cepex"
+      },
+      {
+        "product_title": "Spazzola aspirante 51 cm",
+        "variant_title": "40806",
+        "sku": "40806",
+        "price": "0.00",
+        "handle": "materiale-di-pulizia-spazzole-spazzola-aspirante-51-cm"
+      },
+      {
+        "product_title": "Spazzola aspirante 51 cm",
+        "variant_title": "90125",
+        "sku": "90125",
+        "price": "0.00",
+        "handle": "materiale-di-pulizia-spazzole-spazzola-aspirante-51-cm"
+      },
+      {
+        "product_title": "Spazzola aspirante 51 cm",
+        "variant_title": "90127",
+        "sku": "90127",
+        "price": "0.00",
+        "handle": "materiale-di-pulizia-spazzole-spazzola-aspirante-51-cm"
+      },
+      {
+        "product_title": "Spazzola aspirante 51 cm",
+        "variant_title": "90128",
+        "sku": "90128",
+        "price": "0.00",
+        "handle": "materiale-di-pulizia-spazzole-spazzola-aspirante-51-cm"
+      },
+      {
+        "product_title": "Spazzola aspirante 51 cm",
+        "variant_title": "CAA25",
+        "sku": "CAA25",
+        "price": "0.00",
+        "handle": "materiale-di-pulizia-spazzole-spazzola-aspirante-51-cm"
+      },
+      {
+        "product_title": "Spazzola aspirante 51 cm",
+        "variant_title": "40041SN",
+        "sku": "40041SN",
+        "price": "0.00",
+        "handle": "materiale-di-pulizia-spazzole-spazzola-aspirante-51-cm"
+      },
+      {
+        "product_title": "Spazzola aspirante 51 cm",
+        "variant_title": "40040N",
+        "sku": "40040N",
+        "price": "0.00",
+        "handle": "materiale-di-pulizia-spazzole-spazzola-aspirante-51-cm"
+      },
+      {
+        "product_title": "Spazzola aspirante 51 cm",
+        "variant_title": "40046N",
+        "sku": "40046N",
+        "price": "0.00",
+        "handle": "materiale-di-pulizia-spazzole-spazzola-aspirante-51-cm"
+      },
+      {
+        "product_title": "Spazzola aspirante 51 cm",
+        "variant_title": "40041N",
+        "sku": "40041N",
+        "price": "0.00",
+        "handle": "materiale-di-pulizia-spazzole-spazzola-aspirante-51-cm"
+      },
+      {
+        "product_title": "Spazzola aspirante 51 cm",
+        "variant_title": "772876",
+        "sku": "772876",
+        "price": "0.00",
+        "handle": "materiale-di-pulizia-spazzole-spazzola-aspirante-51-cm"
+      },
+      {
+        "product_title": "Spazzola aspirante 51 cm",
+        "variant_title": "HBP20",
+        "sku": "HBP20",
+        "price": "0.00",
+        "handle": "materiale-di-pulizia-spazzole-spazzola-aspirante-51-cm"
+      },
+      {
+        "product_title": "Spazzola aspirante 51 cm",
+        "variant_title": "772877",
+        "sku": "772877",
+        "price": "0.00",
+        "handle": "materiale-di-pulizia-spazzole-spazzola-aspirante-51-cm"
+      },
+      {
+        "product_title": "Spazzola aspirante 51 cm",
+        "variant_title": "WBP45",
+        "sku": "WBP45",
+        "price": "0.00",
+        "handle": "materiale-di-pulizia-spazzole-spazzola-aspirante-51-cm"
+      },
+      {
+        "product_title": "Spazzola aspirante 51 cm",
+        "variant_title": "WBP25",
+        "sku": "WBP25",
+        "price": "0.00",
+        "handle": "materiale-di-pulizia-spazzole-spazzola-aspirante-51-cm"
+      },
+      {
+        "product_title": "Raccoglitore di fondo Eco Range",
+        "variant_title": "90120",
+        "sku": "90120",
+        "price": "0.00",
+        "handle": "materiale-di-pulizia-raccoglitore-di-fondo-raccoglitore-senza-manico-eco-range"
+      },
+      {
+        "product_title": "Raccoglitore di fondo Eco Range",
+        "variant_title": "40031F",
+        "sku": "40031F",
+        "price": "0.00",
+        "handle": "materiale-di-pulizia-raccoglitore-di-fondo-raccoglitore-senza-manico-eco-range"
+      },
+      {
+        "product_title": "Raccoglitore di fondo Eco Range",
+        "variant_title": "777580",
+        "sku": "777580",
+        "price": "0.00",
+        "handle": "materiale-di-pulizia-raccoglitore-di-fondo-raccoglitore-senza-manico-eco-range"
+      },
+      {
+        "product_title": "Raccoglitore di fondo Eco Range",
+        "variant_title": "RHFALN",
+        "sku": "RHFALN",
+        "price": "0.00",
+        "handle": "materiale-di-pulizia-raccoglitore-di-fondo-raccoglitore-senza-manico-eco-range"
+      },
+      {
+        "product_title": "Raccoglitore di fondo Eco Range",
+        "variant_title": "40032N",
+        "sku": "40032N",
+        "price": "0.00",
+        "handle": "materiale-di-pulizia-raccoglitore-di-fondo-raccoglitore-senza-manico-eco-range"
+      },
+      {
+        "product_title": "Raccoglitore di fondo Eco Range",
+        "variant_title": "LRP40",
+        "sku": "LRP40",
+        "price": "0.00",
+        "handle": "materiale-di-pulizia-raccoglitore-di-fondo-raccoglitore-senza-manico-eco-range"
+      },
+      {
+        "product_title": "Raccoglitore di fondo Eco Range",
+        "variant_title": "772872",
+        "sku": "772872",
+        "price": "0.00",
+        "handle": "materiale-di-pulizia-raccoglitore-di-fondo-raccoglitore-senza-manico-eco-range"
+      },
+      {
+        "product_title": "Tubo galleggiante GRE 36,5m sezionabile",
+        "variant_title": "90160",
+        "sku": "90160",
+        "price": "0.00",
+        "handle": "tubi-tubo-flessibile-galleggiante-tubo-sezionabile-gre-36-5m"
+      },
+      {
+        "product_title": "Tubo galleggiante GRE 36,5m sezionabile",
+        "variant_title": "90161",
+        "sku": "90161",
+        "price": "0.00",
+        "handle": "tubi-tubo-flessibile-galleggiante-tubo-sezionabile-gre-36-5m"
+      },
+      {
+        "product_title": "Copertura per piscina in legno ovale Vermela",
+        "variant_title": "675 x 375",
+        "sku": "CIKPBOC632",
+        "price": "0.00",
+        "handle": "copertura-invernale-coperture-per-piscine-ovali-per-piscine-in-legno-vermela-712-x-512-cm"
+      },
+      {
+        "product_title": "Copertura per piscina in legno ovale Vermela",
+        "variant_title": "793 x 496",
+        "sku": "CI800007",
+        "price": "0.00",
+        "handle": "copertura-invernale-coperture-per-piscine-ovali-per-piscine-in-legno-vermela-712-x-512-cm"
+      },
+      {
+        "product_title": "Copertura per piscina in legno ovale Vermela",
+        "variant_title": "964 x 617",
+        "sku": "CI790209",
+        "price": "0.00",
+        "handle": "copertura-invernale-coperture-per-piscine-ovali-per-piscine-in-legno-vermela-712-x-512-cm"
+      },
+      {
+        "product_title": "Protezione Delta MS per pareti in legno",
+        "variant_title": "772060",
+        "sku": "772060",
+        "price": "0.00",
+        "handle": "tappeti-delta-ms-delta-ms-protezione-per-pareti-f-t-legno"
+      },
+      {
+        "product_title": "Copertura piscina ovale",
+        "variant_title": "495 x 295",
+        "sku": "773322",
+        "price": "0.00",
+        "handle": "coperture-isotermiche-coperture-per-piscine-ovali-1-495-x-295-cm"
+      },
+      {
+        "product_title": "Copertura piscina ovale",
+        "variant_title": "779530",
+        "sku": "779530",
+        "price": "0.00",
+        "handle": "coperture-isotermiche-coperture-per-piscine-ovali-1-495-x-295-cm"
+      },
+      {
+        "product_title": "Copertura piscina ovale",
+        "variant_title": "498 x 298",
+        "sku": "779532",
+        "price": "0.00",
+        "handle": "coperture-isotermiche-coperture-per-piscine-ovali-1-495-x-295-cm"
+      },
+      {
+        "product_title": "Copertura piscina ovale",
+        "variant_title": "585 x 360",
+        "sku": "784800",
+        "price": "0.00",
+        "handle": "coperture-isotermiche-coperture-per-piscine-ovali-1-495-x-295-cm"
+      },
+      {
+        "product_title": "Copertura piscina ovale",
+        "variant_title": "786634",
+        "sku": "786634",
+        "price": "0.00",
+        "handle": "coperture-isotermiche-coperture-per-piscine-ovali-1-495-x-295-cm"
+      },
+      {
+        "product_title": "Copertura piscina ovale",
+        "variant_title": "753 x 333",
+        "sku": "CVKPCO80",
+        "price": "0.00",
+        "handle": "coperture-isotermiche-coperture-per-piscine-ovali-1-495-x-295-cm"
+      },
+      {
+        "product_title": "Copertura piscina ovale",
+        "variant_title": "1000 x 550",
+        "sku": "CPROV1020",
+        "price": "0.00",
+        "handle": "coperture-isotermiche-coperture-per-piscine-ovali-1-495-x-295-cm"
+      },
+      {
+        "product_title": "Copertura piscina ovale",
+        "variant_title": "472 x 305",
+        "sku": "CPROV500",
+        "price": "0.00",
+        "handle": "coperture-isotermiche-coperture-per-piscine-ovali-1-495-x-295-cm"
+      },
+      {
+        "product_title": "Copertura piscina ovale",
+        "variant_title": "485 x 335",
+        "sku": "CPROV510",
+        "price": "0.00",
+        "handle": "coperture-isotermiche-coperture-per-piscine-ovali-1-495-x-295-cm"
+      },
+      {
+        "product_title": "Copertura piscina ovale",
+        "variant_title": "640 x 390",
+        "sku": "CPROV600",
+        "price": "0.00",
+        "handle": "coperture-isotermiche-coperture-per-piscine-ovali-1-495-x-295-cm"
+      },
+      {
+        "product_title": "Copertura piscina ovale",
+        "variant_title": "710 x 475",
+        "sku": "CPROV700",
+        "price": "0.00",
+        "handle": "coperture-isotermiche-coperture-per-piscine-ovali-1-495-x-295-cm"
+      },
+      {
+        "product_title": "Copertura piscina ovale",
+        "variant_title": "810 x 470",
+        "sku": "CPROV810",
+        "price": "0.00",
+        "handle": "coperture-isotermiche-coperture-per-piscine-ovali-1-495-x-295-cm"
+      },
+      {
+        "product_title": "Copertura piscina ovale",
+        "variant_title": "915 x 470",
+        "sku": "CPROV915",
+        "price": "0.00",
+        "handle": "coperture-isotermiche-coperture-per-piscine-ovali-1-495-x-295-cm"
+      },
+      {
+        "product_title": "Copertura piscina ovale",
+        "variant_title": "482 x 282",
+        "sku": "CVKPBOC535",
+        "price": "0.00",
+        "handle": "coperture-isotermiche-coperture-per-piscine-ovali-1-495-x-295-cm"
+      },
+      {
+        "product_title": "Copertura piscina ovale",
+        "variant_title": "580 x 282",
+        "sku": "CVKPBOC632",
+        "price": "0.00",
+        "handle": "coperture-isotermiche-coperture-per-piscine-ovali-1-495-x-295-cm"
+      },
+      {
+        "product_title": "Copertura piscina ovale",
+        "variant_title": "473 x 333",
+        "sku": "CVKPCO52",
+        "price": "0.00",
+        "handle": "coperture-isotermiche-coperture-per-piscine-ovali-1-495-x-295-cm"
+      },
+      {
+        "product_title": "Copertura piscina ovale",
+        "variant_title": "495 x 295 (CVPE500)",
+        "sku": "CVPE500",
+        "price": "0.00",
+        "handle": "coperture-isotermiche-coperture-per-piscine-ovali-1-495-x-295-cm"
+      },
+      {
+        "product_title": "Copertura piscina ovale",
+        "variant_title": "695 x 315",
+        "sku": "CVPE700",
+        "price": "0.00",
+        "handle": "coperture-isotermiche-coperture-per-piscine-ovali-1-495-x-295-cm"
+      },
+      {
+        "product_title": "Copertura piscina ovale",
+        "variant_title": "700 x 403",
+        "sku": "CV800007",
+        "price": "0.00",
+        "handle": "coperture-isotermiche-coperture-per-piscine-ovali-1-495-x-295-cm"
+      },
+      {
+        "product_title": "Copertura piscina ovale",
+        "variant_title": "810 x 470 (CVP800)",
+        "sku": "CVP800",
+        "price": "0.00",
+        "handle": "coperture-isotermiche-coperture-per-piscine-ovali-1-495-x-295-cm"
+      },
+      {
+        "product_title": "Copertura piscina ovale",
+        "variant_title": "730 x 370",
+        "sku": "773326",
+        "price": "0.00",
+        "handle": "coperture-isotermiche-coperture-per-piscine-ovali-1-495-x-295-cm"
+      },
+      {
+        "product_title": "Copertura piscina ovale",
+        "variant_title": "610 x 370",
+        "sku": "773324",
+        "price": "0.00",
+        "handle": "coperture-isotermiche-coperture-per-piscine-ovali-1-495-x-295-cm"
+      },
+      {
+        "product_title": "Copertura piscina ovale",
+        "variant_title": "1000 x 550 (CVP1000)",
+        "sku": "CVP1000",
+        "price": "0.00",
+        "handle": "coperture-isotermiche-coperture-per-piscine-ovali-1-495-x-295-cm"
+      },
+      {
+        "product_title": "Copertura piscina ovale",
+        "variant_title": "915 x 470 (CVP900)",
+        "sku": "CVP900",
+        "price": "0.00",
+        "handle": "coperture-isotermiche-coperture-per-piscine-ovali-1-495-x-295-cm"
+      },
+      {
+        "product_title": "Copertura piscina ovale",
+        "variant_title": "568 x 343",
+        "sku": "CV7900892",
+        "price": "0.00",
+        "handle": "coperture-isotermiche-coperture-per-piscine-ovali-1-495-x-295-cm"
+      },
+      {
+        "product_title": "Copertura piscina ovale",
+        "variant_title": "CVPE600",
+        "sku": "CVPE600",
+        "price": "0.00",
+        "handle": "coperture-isotermiche-coperture-per-piscine-ovali-1-495-x-295-cm"
+      },
+      {
+        "product_title": "Copertura piscina ovale",
+        "variant_title": "795 x 395",
+        "sku": "CVPE800",
+        "price": "0.00",
+        "handle": "coperture-isotermiche-coperture-per-piscine-ovali-1-495-x-295-cm"
+      },
+      {
+        "product_title": "Copertura piscina ovale",
+        "variant_title": "730 x 375",
+        "sku": "CPROV730",
+        "price": "0.00",
+        "handle": "coperture-isotermiche-coperture-per-piscine-ovali-1-495-x-295-cm"
+      },
+      {
+        "product_title": "Copertura piscina ovale",
+        "variant_title": "495 x 295 (CPROV505)",
+        "sku": "CPROV505",
+        "price": "0.00",
+        "handle": "coperture-isotermiche-coperture-per-piscine-ovali-1-495-x-295-cm"
+      },
+      {
+        "product_title": "Copertura piscina ovale",
+        "variant_title": "610 x 375",
+        "sku": "CPROV610",
+        "price": "0.00",
+        "handle": "coperture-isotermiche-coperture-per-piscine-ovali-1-495-x-295-cm"
+      },
+      {
+        "product_title": "Copertura piscina ovale",
+        "variant_title": "613 x 333",
+        "sku": "CVKPCO66",
+        "price": "0.00",
+        "handle": "coperture-isotermiche-coperture-per-piscine-ovali-1-495-x-295-cm"
+      },
+      {
+        "product_title": "Copertura piscina ovale",
+        "variant_title": "482 x 281",
+        "sku": "CV7900872",
+        "price": "0.00",
+        "handle": "coperture-isotermiche-coperture-per-piscine-ovali-1-495-x-295-cm"
+      },
+      {
+        "product_title": "Copertura piscina ovale",
+        "variant_title": "382 x 281",
+        "sku": "CV7900862",
+        "price": "0.00",
+        "handle": "coperture-isotermiche-coperture-per-piscine-ovali-1-495-x-295-cm"
+      },
+      {
+        "product_title": "Copertura piscina ovale",
+        "variant_title": "870 x 523",
+        "sku": "CV790209",
+        "price": "0.00",
+        "handle": "coperture-isotermiche-coperture-per-piscine-ovali-1-495-x-295-cm"
+      },
+      {
+        "product_title": "Copertura piscina ovale",
+        "variant_title": "458 x 258",
+        "sku": "CVWPPAPA",
+        "price": "0.00",
+        "handle": "coperture-isotermiche-coperture-per-piscine-ovali-1-495-x-295-cm"
+      },
+      {
+        "product_title": "Casetta in legno alta 118 cm",
+        "variant_title": "787248",
+        "sku": "787248",
+        "price": "0.00",
+        "handle": "casette-per-filtri-casette-di-legno-altezza-118-cm"
+      },
+      {
+        "product_title": "Casetta in legno alta 118 cm",
+        "variant_title": "787249",
+        "sku": "787249",
+        "price": "0.00",
+        "handle": "casette-per-filtri-casette-di-legno-altezza-118-cm"
+      },
+      {
+        "product_title": "Tubo per puliscifondo 8m con 2 terminali",
+        "variant_title": "Ø38 (40002)",
+        "sku": "40002",
+        "price": "0.00",
+        "handle": "tubi-tubo-per-puliscifondo-tubo-8m-2-terminali-o38-mm"
+      },
+      {
+        "product_title": "Tubo per puliscifondo 8m con 2 terminali",
+        "variant_title": "Ø38 (40003)",
+        "sku": "40003",
+        "price": "0.00",
+        "handle": "tubi-tubo-per-puliscifondo-tubo-8m-2-terminali-o38-mm"
+      },
+      {
+        "product_title": "Tubo per puliscifondo 8m con 2 terminali",
+        "variant_title": "Ø38 (40004)",
+        "sku": "40004",
+        "price": "0.00",
+        "handle": "tubi-tubo-per-puliscifondo-tubo-8m-2-terminali-o38-mm"
+      },
+      {
+        "product_title": "Tubo per puliscifondo 8m con 2 terminali",
+        "variant_title": "Ø38 (AR210)",
+        "sku": "AR210",
+        "price": "0.00",
+        "handle": "tubi-tubo-per-puliscifondo-tubo-8m-2-terminali-o38-mm"
+      },
+      {
+        "product_title": "Tubo per puliscifondo 8m con 2 terminali",
+        "variant_title": "Ø38 (AR212)",
+        "sku": "AR212",
+        "price": "0.00",
+        "handle": "tubi-tubo-per-puliscifondo-tubo-8m-2-terminali-o38-mm"
+      },
+      {
+        "product_title": "Tubo per puliscifondo 8m con 2 terminali",
+        "variant_title": "Ø32",
+        "sku": "770323",
+        "price": "0.00",
+        "handle": "tubi-tubo-per-puliscifondo-tubo-8m-2-terminali-o38-mm"
+      },
+      {
+        "product_title": "Tubo per puliscifondo 8m con 2 terminali",
+        "variant_title": "Ø38 (90135)",
+        "sku": "90135",
+        "price": "0.00",
+        "handle": "tubi-tubo-per-puliscifondo-tubo-8m-2-terminali-o38-mm"
+      },
+      {
+        "product_title": "Tubo per puliscifondo 8m con 2 terminali",
+        "variant_title": "Ø32 (770322)",
+        "sku": "770322",
+        "price": "0.00",
+        "handle": "tubi-tubo-per-puliscifondo-tubo-8m-2-terminali-o38-mm"
+      },
+      {
+        "product_title": "Tappo di chiusura invernale 1,5",
+        "variant_title": "40583",
+        "sku": "40583",
+        "price": "0.00",
+        "handle": "altri-accessori-accessori-per-linverno-tappo-chiusura-invernale-1-5"
+      },
+      {
+        "product_title": "Tappo di chiusura invernale 1,5",
+        "variant_title": "PIC1",
+        "sku": "PIC1",
+        "price": "0.00",
+        "handle": "altri-accessori-accessori-per-linverno-tappo-chiusura-invernale-1-5"
+      },
+      {
+        "product_title": "Tappo di chiusura invernale 1,5",
+        "variant_title": "40580",
+        "sku": "40580",
+        "price": "0.00",
+        "handle": "altri-accessori-accessori-per-linverno-tappo-chiusura-invernale-1-5"
+      },
+      {
+        "product_title": "Tappo di chiusura invernale 1,5",
+        "variant_title": "40581",
+        "sku": "40581",
+        "price": "0.00",
+        "handle": "altri-accessori-accessori-per-linverno-tappo-chiusura-invernale-1-5"
+      },
+      {
+        "product_title": "Manicotto di giunzione per depuratori, 58cm",
+        "variant_title": "Ø38",
+        "sku": "60218",
+        "price": "0.00",
+        "handle": "tubi-tubo-di-giunzione-per-depuratori-manicotto-58cm-o38mm"
+      },
+      {
+        "product_title": "Manicotto di giunzione per depuratori, 58cm",
+        "variant_title": "Ø38 (60205)",
+        "sku": "60205",
+        "price": "0.00",
+        "handle": "tubi-tubo-di-giunzione-per-depuratori-manicotto-58cm-o38mm"
+      },
+      {
+        "product_title": "Manicotto di giunzione per depuratori, 58cm",
+        "variant_title": "Ø38 (AR2100)",
+        "sku": "AR2100",
+        "price": "0.00",
+        "handle": "tubi-tubo-di-giunzione-per-depuratori-manicotto-58cm-o38mm"
+      },
+      {
+        "product_title": "Manicotto di giunzione per depuratori, 58cm",
+        "variant_title": "Ø38 (60222)",
+        "sku": "60222",
+        "price": "0.00",
+        "handle": "tubi-tubo-di-giunzione-per-depuratori-manicotto-58cm-o38mm"
+      },
+      {
+        "product_title": "Manicotto di giunzione per depuratori, 58cm",
+        "variant_title": "Ø38 (40180)",
+        "sku": "40180",
+        "price": "0.00",
+        "handle": "tubi-tubo-di-giunzione-per-depuratori-manicotto-58cm-o38mm"
+      },
+      {
+        "product_title": "Manicotto di giunzione per depuratori, 58cm",
+        "variant_title": "Ø32",
+        "sku": "40181",
+        "price": "0.00",
+        "handle": "tubi-tubo-di-giunzione-per-depuratori-manicotto-58cm-o38mm"
+      },
+      {
+        "product_title": "Bromo shock granulato",
+        "variant_title": "76027",
+        "sku": "76027",
+        "price": "0.00",
+        "handle": "prodotti-chimici-bromo-bromo-shock-granulato-5-kg"
+      },
+      {
+        "product_title": "Bromo shock granulato",
+        "variant_title": "76025",
+        "sku": "76025",
+        "price": "0.00",
+        "handle": "prodotti-chimici-bromo-bromo-shock-granulato-5-kg"
+      },
+      {
+        "product_title": "Anticalcare per la Pulizia",
+        "variant_title": "76047",
+        "sku": "76047",
+        "price": "0.00",
+        "handle": "prodotti-chimici-pulizia-anticalcare-5-litro"
+      },
+      {
+        "product_title": "Anticalcare per la Pulizia",
+        "variant_title": "76046",
+        "sku": "76046",
+        "price": "0.00",
+        "handle": "prodotti-chimici-pulizia-anticalcare-5-litro"
+      },
+      {
+        "product_title": "Anticalcare per la Pulizia",
+        "variant_title": "76049",
+        "sku": "76049",
+        "price": "0.00",
+        "handle": "prodotti-chimici-pulizia-anticalcare-5-litro"
+      },
+      {
+        "product_title": "Svernante liquido per inverno",
+        "variant_title": "90035",
+        "sku": "90035",
+        "price": "0.00",
+        "handle": "prodotti-chimici-prodotti-chimici-per-linverno-svernante-liquido-1-litro"
+      },
+      {
+        "product_title": "Svernante liquido per inverno",
+        "variant_title": "76051",
+        "sku": "76051",
+        "price": "0.00",
+        "handle": "prodotti-chimici-prodotti-chimici-per-linverno-svernante-liquido-1-litro"
+      },
+      {
+        "product_title": "Svernante liquido per inverno",
+        "variant_title": "76080L",
+        "sku": "76080L",
+        "price": "0.00",
+        "handle": "prodotti-chimici-prodotti-chimici-per-linverno-svernante-liquido-1-litro"
+      },
+      {
+        "product_title": "Elevatore di alcalinità",
+        "variant_title": "90147N",
+        "sku": "90147N",
+        "price": "0.00",
+        "handle": "prodotti-chimici-problema-soluzione-elevatore-di-alcalinita-5-kg"
+      },
+      {
+        "product_title": "Controllo remoto a 4 azioni con 50 blocchi multi funzioni",
+        "variant_title": "76084",
+        "sku": "76084",
+        "price": "0.00",
+        "handle": "prodotti-chimici-multi-funzioni-4-azioni-50-blocchi-500-gr"
+      },
+      {
+        "product_title": "Controllo remoto a 4 azioni con 50 blocchi multi funzioni",
+        "variant_title": "76034",
+        "sku": "76034",
+        "price": "0.00",
+        "handle": "prodotti-chimici-multi-funzioni-4-azioni-50-blocchi-500-gr"
+      },
+      {
+        "product_title": "Controllo remoto a 4 azioni con 50 blocchi multi funzioni",
+        "variant_title": "76058",
+        "sku": "76058",
+        "price": "0.00",
+        "handle": "prodotti-chimici-multi-funzioni-4-azioni-50-blocchi-500-gr"
+      },
+      {
+        "product_title": "Controllo remoto a 4 azioni con 50 blocchi multi funzioni",
+        "variant_title": "76085",
+        "sku": "76085",
+        "price": "0.00",
+        "handle": "prodotti-chimici-multi-funzioni-4-azioni-50-blocchi-500-gr"
+      },
+      {
+        "product_title": "Controllo remoto a 4 azioni con 50 blocchi multi funzioni",
+        "variant_title": "76012NB",
+        "sku": "76012NB",
+        "price": "0.00",
+        "handle": "prodotti-chimici-multi-funzioni-4-azioni-50-blocchi-500-gr"
+      },
+      {
+        "product_title": "Controllo remoto a 4 azioni con 50 blocchi multi funzioni",
+        "variant_title": "76006NB",
+        "sku": "76006NB",
+        "price": "0.00",
+        "handle": "prodotti-chimici-multi-funzioni-4-azioni-50-blocchi-500-gr"
+      },
+      {
+        "product_title": "Controllo remoto a 4 azioni con 50 blocchi multi funzioni",
+        "variant_title": "76007NB",
+        "sku": "76007NB",
+        "price": "0.00",
+        "handle": "prodotti-chimici-multi-funzioni-4-azioni-50-blocchi-500-gr"
+      },
+      {
+        "product_title": "Controllo remoto a 4 azioni con 50 blocchi multi funzioni",
+        "variant_title": "76039NB",
+        "sku": "76039NB",
+        "price": "0.00",
+        "handle": "prodotti-chimici-multi-funzioni-4-azioni-50-blocchi-500-gr"
+      },
+      {
+        "product_title": "Controllo remoto a 4 azioni con 50 blocchi multi funzioni",
+        "variant_title": "76031NB",
+        "sku": "76031NB",
+        "price": "0.00",
+        "handle": "prodotti-chimici-multi-funzioni-4-azioni-50-blocchi-500-gr"
+      },
+      {
+        "product_title": "Controllo remoto a 4 azioni con 50 blocchi multi funzioni",
+        "variant_title": "76032NB",
+        "sku": "76032NB",
+        "price": "0.00",
+        "handle": "prodotti-chimici-multi-funzioni-4-azioni-50-blocchi-500-gr"
+      },
+      {
+        "product_title": "Controllo remoto a 4 azioni con 50 blocchi multi funzioni",
+        "variant_title": "76067NB",
+        "sku": "76067NB",
+        "price": "0.00",
+        "handle": "prodotti-chimici-multi-funzioni-4-azioni-50-blocchi-500-gr"
+      },
+      {
+        "product_title": "Controllo remoto a 4 azioni con 50 blocchi multi funzioni",
+        "variant_title": "76033NB",
+        "sku": "76033NB",
+        "price": "0.00",
+        "handle": "prodotti-chimici-multi-funzioni-4-azioni-50-blocchi-500-gr"
+      },
+      {
+        "product_title": "Smart Plug F-F",
+        "variant_title": "76671",
+        "sku": "76671",
+        "price": "0.00",
+        "handle": "altri-accessori-connettivita-smart-plug-f-f"
+      },
+      {
+        "product_title": "Smart Plug F-F",
+        "variant_title": "WA000082",
+        "sku": "WA000082",
+        "price": "0.00",
+        "handle": "altri-accessori-connettivita-smart-plug-f-f"
+      },
+      {
+        "product_title": "Regolatore pH ECO",
+        "variant_title": "76002",
+        "sku": "76002",
+        "price": "0.00",
+        "handle": "prodotti-chimici-controllo-del-ph-eco-riduttore-ph-5-l"
+      },
+      {
+        "product_title": "Regolatore pH ECO",
+        "variant_title": "76019",
+        "sku": "76019",
+        "price": "0.00",
+        "handle": "prodotti-chimici-controllo-del-ph-eco-riduttore-ph-5-l"
+      },
+      {
+        "product_title": "Regolatore pH ECO",
+        "variant_title": "76018",
+        "sku": "76018",
+        "price": "0.00",
+        "handle": "prodotti-chimici-controllo-del-ph-eco-riduttore-ph-5-l"
+      },
+      {
+        "product_title": "Regolatore pH ECO",
+        "variant_title": "76001",
+        "sku": "76001",
+        "price": "0.00",
+        "handle": "prodotti-chimici-controllo-del-ph-eco-riduttore-ph-5-l"
+      },
+      {
+        "product_title": "Liner piscina acciaio blu ovale",
+        "variant_title": "500 x 350",
+        "sku": "FPROV5071",
+        "price": "0.00",
+        "handle": "liner-e-riparatori-liner-per-piscine-in-acciaio-ovali-blu-75-100-610-x-370-x-120-cm"
+      },
+      {
+        "product_title": "Liner piscina acciaio blu ovale",
+        "variant_title": "730 x 375 (FPROV730A60)",
+        "sku": "FPROV730A60",
+        "price": "0.00",
+        "handle": "liner-e-riparatori-liner-per-piscine-in-acciaio-ovali-blu-75-100-610-x-370-x-120-cm"
+      },
+      {
+        "product_title": "Copertore per piscine rettangolari in legno Mint",
+        "variant_title": "415 x 240",
+        "sku": "CI790204",
+        "price": "0.00",
+        "handle": "copertura-invernale-copertore-per-piscine-rettangolari-per-piscine-in-legno-mint-1058-x-467-cm"
+      },
+      {
+        "product_title": "Copertore per piscine rettangolari in legno Mint",
+        "variant_title": "658 x 360",
+        "sku": "CIKPBRC620",
+        "price": "0.00",
+        "handle": "copertura-invernale-copertore-per-piscine-rettangolari-per-piscine-in-legno-mint-1058-x-467-cm"
+      },
+      {
+        "product_title": "Copertore per piscine rettangolari in legno Mint",
+        "variant_title": "558 x 360",
+        "sku": "CIWPPAPA",
+        "price": "0.00",
+        "handle": "copertura-invernale-copertore-per-piscine-rettangolari-per-piscine-in-legno-mint-1058-x-467-cm"
+      },
+      {
+        "product_title": "Liner piscina legno ovale blu",
+        "variant_title": "656 x 456",
+        "sku": "F790203",
+        "price": "0.00",
+        "handle": "liner-e-riparatori-liner-per-piscine-di-legno-ovali-blu-436-x-336-x-119-cm-piscina-grenade"
+      },
+      {
+        "product_title": "Liner piscina legno ovale blu",
+        "variant_title": "620 x 395",
+        "sku": "F790053C",
+        "price": "0.00",
+        "handle": "liner-e-riparatori-liner-per-piscine-di-legno-ovali-blu-436-x-336-x-119-cm-piscina-grenade"
+      },
+      {
+        "product_title": "Liner piscina legno ovale blu",
+        "variant_title": "755 x 456",
+        "sku": "F800007",
+        "price": "0.00",
+        "handle": "liner-e-riparatori-liner-per-piscine-di-legno-ovali-blu-436-x-336-x-119-cm-piscina-grenade"
+      },
+      {
+        "product_title": "Liner piscina legno ovale blu",
+        "variant_title": "585 x 410",
+        "sku": "788569",
+        "price": "0.00",
+        "handle": "liner-e-riparatori-liner-per-piscine-di-legno-ovali-blu-436-x-336-x-119-cm-piscina-grenade"
+      },
+      {
+        "product_title": "Liner piscina legno rotonda Blu",
+        "variant_title": "428 x 117",
+        "sku": "F790210",
+        "price": "0.00",
+        "handle": "liner-e-riparatori-liner-per-piscine-di-legno-rotonde-blu-o511-x-124-cm-piscina-violette"
+      },
+      {
+        "product_title": "Liner piscina rettangolare in legno blu",
+        "variant_title": "375 x 200",
+        "sku": "F790204",
+        "price": "0.00",
+        "handle": "liner-e-riparatori-liner-per-piscine-di-legno-rettangolari-blu-600-x-400-x-133-cm-piscina-evora"
+      },
+      {
+        "product_title": "Liner piscina rettangolare in legno blu",
+        "variant_title": "420 x 270",
+        "sku": "F790962",
+        "price": "0.00",
+        "handle": "liner-e-riparatori-liner-per-piscine-di-legno-rettangolari-blu-600-x-400-x-133-cm-piscina-evora"
+      },
+      {
+        "product_title": "Copertura per piscina in legno quadrata City",
+        "variant_title": "282 x 219",
+        "sku": "WCPTB200",
+        "price": "0.00",
+        "handle": "copertura-invernale-coperture-per-piscine-quadrate-per-piscine-in-legno-city-250-x-250-cm"
+      },
+      {
+        "product_title": "Piscina Rotonda Lili 2",
+        "variant_title": "Ø428",
+        "sku": "790302",
+        "price": "0.00",
+        "handle": "piscine-in-legno-rotonda-lili-2-o280-x-107-cm"
+      },
+      {
+        "product_title": "Piscina Ovale Grenade 2",
+        "variant_title": "535 x 335 (WPBAMB2)",
+        "sku": "WPBAMB2",
+        "price": "0.00",
+        "handle": "piscine-in-legno-ovale-grenade-2-436-x-336-x-117-cm"
+      },
+      {
+        "product_title": "Piscina Ovale Grenade 2",
+        "variant_title": "632 x 335",
+        "sku": "KPBOC632",
+        "price": "0.00",
+        "handle": "piscine-in-legno-ovale-grenade-2-436-x-336-x-117-cm"
+      },
+      {
+        "product_title": "Piscina Ovale Grenade 2",
+        "variant_title": "656 x 456",
+        "sku": "790203",
+        "price": "0.00",
+        "handle": "piscine-in-legno-ovale-grenade-2-436-x-336-x-117-cm"
+      },
+      {
+        "product_title": "Piscina Ovale Grenade 2",
+        "variant_title": "755 x 456",
+        "sku": "800007",
+        "price": "0.00",
+        "handle": "piscine-in-legno-ovale-grenade-2-436-x-336-x-117-cm"
+      },
+      {
+        "product_title": "Piscina Marbella 2 Rettangolare",
+        "variant_title": "520 x 320",
+        "sku": "WPPAPA",
+        "price": "0.00",
+        "handle": "piscina-fuori-terra-in-legno-rettangolare-evora-790206-gre-sunbay-travi-metalliche-pino"
+      },
+      {
+        "product_title": "Piscina Anthracite Ovale",
+        "variant_title": "610 x 375",
+        "sku": "KITPROV618GY",
+        "price": "0.00",
+        "handle": "piscine-in-acciaio-anthracite-ovale-paletti-laterali-500-x-300-x-132-cm-5"
+      },
+      {
+        "product_title": "Piscina Anthracite Ovale",
+        "variant_title": "730 x 375",
+        "sku": "KITPROV738GY",
+        "price": "0.00",
+        "handle": "piscine-in-acciaio-anthracite-ovale-paletti-laterali-500-x-300-x-132-cm-5"
+      },
+      {
+        "product_title": "Piscina Anthracite Rotonda",
+        "variant_title": "Ø460",
+        "sku": "KITPR458GY",
+        "price": "0.00",
+        "handle": "piscine-in-acciaio-anthracite-rotonda-o350-x-132-cm-4"
+      },
+      {
+        "product_title": "Piscina Aqualoon ovale",
+        "variant_title": "610 x 375",
+        "sku": "KIT610GYQGRE",
+        "price": "0.00",
+        "handle": "piscine-in-acciaio-aqualoon-ovale-anthracite-500-x-300-x-120-cm-8"
+      },
+      {
+        "product_title": "Piscina Aqualoon rotonda",
+        "variant_title": "Ø350",
+        "sku": "KIT350GYQGRE",
+        "price": "0.00",
+        "handle": "piscine-in-acciaio-aqualoon-rotonda-anthracite-o300-x-120-cm-6"
+      },
+      {
+        "product_title": "Piscina Aqualoon rotonda",
+        "variant_title": "Ø460",
+        "sku": "KIT460GYQGRE",
+        "price": "0.00",
+        "handle": "piscine-in-acciaio-aqualoon-rotonda-anthracite-o300-x-120-cm-6"
+      },
+      {
+        "product_title": "Piscina Avantgarde Rettangolare",
+        "variant_title": "455 x 315",
+        "sku": "KPCOR46T",
+        "price": "0.00",
+        "handle": "piscine-in-composito-avantgarde-rettangolare-315-x-175-x-96-cm"
+      },
+      {
+        "product_title": "Piscina Avantgarde Rettangolare",
+        "variant_title": "595 x 315",
+        "sku": "KPCOR60T",
+        "price": "0.00",
+        "handle": "piscine-in-composito-avantgarde-rettangolare-315-x-175-x-96-cm"
+      },
+      {
+        "product_title": "Piscina Avantgarde Rettangolare",
+        "variant_title": "595 x 315 (KPCOR60LT)",
+        "sku": "KPCOR60LT",
+        "price": "0.00",
+        "handle": "piscine-in-composito-avantgarde-rettangolare-315-x-175-x-96-cm"
+      },
+      {
+        "product_title": "Robot pulitore elettrico",
+        "variant_title": "RBG90",
+        "sku": "RBG90",
+        "price": "0.00",
+        "handle": "pulitori-elettrico-robots-robot-pulitore-elettrico-er-230"
+      },
+      {
+        "product_title": "Aspiratore elettronico per fondo piscina a batteria",
+        "variant_title": "LE75",
+        "sku": "LE75",
+        "price": "0.00",
+        "handle": "pulitori-elettrico-pulitori-elettrici-manuali-a-batteria-per-fondo-piscina-aspiratore-elettronico"
+      },
+      {
+        "product_title": "Aspiratore elettronico per fondo piscina a batteria",
+        "variant_title": "CSPAN",
+        "sku": "CSPAN",
+        "price": "0.00",
+        "handle": "pulitori-elettrico-pulitori-elettrici-manuali-a-batteria-per-fondo-piscina-aspiratore-elettronico"
+      },
+      {
+        "product_title": "Aspiratore elettronico per fondo piscina a batteria",
+        "variant_title": "TBC60",
+        "sku": "TBC60",
+        "price": "0.00",
+        "handle": "pulitori-elettrico-pulitori-elettrici-manuali-a-batteria-per-fondo-piscina-aspiratore-elettronico"
+      },
+      {
+        "product_title": "Kit testa aspirante con manico e tubo per pulizia fondo",
+        "variant_title": "784880",
+        "sku": "784880",
+        "price": "0.00",
+        "handle": "pulitori-manuali-kit-pulitore-fondo-kit-testa-aspirante-con-manico-e-tubo"
+      },
+      {
+        "product_title": "Kit testa aspirante con manico e tubo per pulizia fondo",
+        "variant_title": "08050",
+        "sku": "08050",
+        "price": "0.00",
+        "handle": "pulitori-manuali-kit-pulitore-fondo-kit-testa-aspirante-con-manico-e-tubo"
+      },
+      {
+        "product_title": "Kit di pulizia piscina autopor, 10M3, aspirazione manuale",
+        "variant_title": "PFAC17",
+        "sku": "PFAC17",
+        "price": "0.00",
+        "handle": "pulitori-manuali-pulitori-ad-aspirazione-manuali-kit-limpieza-piscinas-autopor-10m3-para"
+      },
+      {
+        "product_title": "Casetta tecnica in composito, h:91",
+        "variant_title": "TRCP124",
+        "sku": "TRCP124",
+        "price": "0.00",
+        "handle": "casette-per-filtri-casetta-di-composito-local-tecnico-de-composite-h-91"
+      },
+      {
+        "product_title": "Pompa autoadescante Comfort - 1/3 CV",
+        "variant_title": "PP052",
+        "sku": "PP052",
+        "price": "0.00",
+        "handle": "pompe-per-piscine-pompe-comfort-pompa-autoadescante-1-3-cv"
+      },
+      {
+        "product_title": "Cartuccia filtrante X per AR125, AR124, AR121 e AR118",
+        "variant_title": "CCFS20",
+        "sku": "CCFS20",
+        "price": "0.00",
+        "handle": "accessori-per-filtro-cartuccia-filtrante-cartuccia-x-ar125-ar124-ar121-e-ar118"
+      },
+      {
+        "product_title": "Cartuccia filtrante X per AR125, AR124, AR121 e AR118",
+        "variant_title": "CAQ70",
+        "sku": "CAQ70",
+        "price": "0.00",
+        "handle": "accessori-per-filtro-cartuccia-filtrante-cartuccia-x-ar125-ar124-ar121-e-ar118"
+      },
+      {
+        "product_title": "Cartuccia filtrante X per AR125, AR124, AR121 e AR118",
+        "variant_title": "AR79",
+        "sku": "AR79",
+        "price": "0.00",
+        "handle": "accessori-per-filtro-cartuccia-filtrante-cartuccia-x-ar125-ar124-ar121-e-ar118"
+      },
+      {
+        "product_title": "Cartuccia filtrante X per AR125, AR124, AR121 e AR118",
+        "variant_title": "AR86",
+        "sku": "AR86",
+        "price": "0.00",
+        "handle": "accessori-per-filtro-cartuccia-filtrante-cartuccia-x-ar125-ar124-ar121-e-ar118"
+      },
+      {
+        "product_title": "Cartuccia filtrante X per AR125, AR124, AR121 e AR118",
+        "variant_title": "AR89",
+        "sku": "AR89",
+        "price": "0.00",
+        "handle": "accessori-per-filtro-cartuccia-filtrante-cartuccia-x-ar125-ar124-ar121-e-ar118"
+      },
+      {
+        "product_title": "Sistema filtrante Aqualoon",
+        "variant_title": "AQ700",
+        "sku": "AQ700",
+        "price": "0.00",
+        "handle": "accessori-per-filtro-mezzi-filtranti-sistema-filtrante-aqualoon-500g"
+      },
+      {
+        "product_title": "Sistema filtrante Aqualoon",
+        "variant_title": "AR200",
+        "sku": "AR200",
+        "price": "0.00",
+        "handle": "accessori-per-filtro-mezzi-filtranti-sistema-filtrante-aqualoon-500g"
+      },
+      {
+        "product_title": "Sistema filtrante Aqualoon",
+        "variant_title": "VF025",
+        "sku": "VF025",
+        "price": "0.00",
+        "handle": "accessori-per-filtro-mezzi-filtranti-sistema-filtrante-aqualoon-500g"
+      },
+      {
+        "product_title": "Clorinatore salino collegato",
+        "variant_title": "90367",
+        "sku": "90367",
+        "price": "0.00",
+        "handle": "elettrolisi-del-sale-clorinatore-salino-cloratore-salino-collegato-40-m3"
+      },
+      {
+        "product_title": "Clorinatore salino collegato",
+        "variant_title": "90366",
+        "sku": "90366",
+        "price": "0.00",
+        "handle": "elettrolisi-del-sale-clorinatore-salino-cloratore-salino-collegato-40-m3"
+      },
+      {
+        "product_title": "Clorinatore salino collegato",
+        "variant_title": "90365",
+        "sku": "90365",
+        "price": "0.00",
+        "handle": "elettrolisi-del-sale-clorinatore-salino-cloratore-salino-collegato-40-m3"
+      },
+      {
+        "product_title": "Clorinatore salino collegato",
+        "variant_title": "GOSA25",
+        "sku": "GOSA25",
+        "price": "0.00",
+        "handle": "elettrolisi-del-sale-clorinatore-salino-cloratore-salino-collegato-40-m3"
+      },
+      {
+        "product_title": "Clorinatore salino collegato",
+        "variant_title": "GOSA50",
+        "sku": "GOSA50",
+        "price": "0.00",
+        "handle": "elettrolisi-del-sale-clorinatore-salino-cloratore-salino-collegato-40-m3"
+      },
+      {
+        "product_title": "Clorinatore salino collegato",
+        "variant_title": "GOSA75",
+        "sku": "GOSA75",
+        "price": "0.00",
+        "handle": "elettrolisi-del-sale-clorinatore-salino-cloratore-salino-collegato-40-m3"
+      },
+      {
+        "product_title": "Gel flocculante in monodosi",
+        "variant_title": "76011",
+        "sku": "76011",
+        "price": "0.00",
+        "handle": "prodotti-chimici-flocculante-gel-flocculante-in-monodosi-28-gr"
+      },
+      {
+        "product_title": "Gel flocculante in monodosi",
+        "variant_title": "76104",
+        "sku": "76104",
+        "price": "0.00",
+        "handle": "prodotti-chimici-flocculante-gel-flocculante-in-monodosi-28-gr"
+      },
+      {
+        "product_title": "Gel flocculante in monodosi",
+        "variant_title": "76010",
+        "sku": "76010",
+        "price": "0.00",
+        "handle": "prodotti-chimici-flocculante-gel-flocculante-in-monodosi-28-gr"
+      },
+      {
+        "product_title": "Gel flocculante in monodosi",
+        "variant_title": "90046",
+        "sku": "90046",
+        "price": "0.00",
+        "handle": "prodotti-chimici-flocculante-gel-flocculante-in-monodosi-28-gr"
+      },
+      {
+        "product_title": "Gel flocculante in monodosi",
+        "variant_title": "90054",
+        "sku": "90054",
+        "price": "0.00",
+        "handle": "prodotti-chimici-flocculante-gel-flocculante-in-monodosi-28-gr"
+      },
+      {
+        "product_title": "KIT trattamento piscina fuori terra da 5 a 15m³",
+        "variant_title": "76053",
+        "sku": "76053",
+        "price": "0.00",
+        "handle": "prodotti-chimici-trattamento-per-piscine-fuori-terra-kit-trattamento-piscina-da-5-a-15m3"
+      },
+      {
+        "product_title": "KIT trattamento piscina fuori terra da 5 a 15m³",
+        "variant_title": "08099AL",
+        "sku": "08099AL",
+        "price": "0.00",
+        "handle": "prodotti-chimici-trattamento-per-piscine-fuori-terra-kit-trattamento-piscina-da-5-a-15m3"
+      },
+      {
+        "product_title": "KIT trattamento piscina fuori terra da 5 a 15m³",
+        "variant_title": "08012L",
+        "sku": "08012L",
+        "price": "0.00",
+        "handle": "prodotti-chimici-trattamento-per-piscine-fuori-terra-kit-trattamento-piscina-da-5-a-15m3"
+      },
+      {
+        "product_title": "KIT trattamento piscina fuori terra da 5 a 15m³",
+        "variant_title": "08013AL",
+        "sku": "08013AL",
+        "price": "0.00",
+        "handle": "prodotti-chimici-trattamento-per-piscine-fuori-terra-kit-trattamento-piscina-da-5-a-15m3"
+      },
+      {
+        "product_title": "KIT trattamento piscina fuori terra da 5 a 15m³",
+        "variant_title": "KKP525",
+        "sku": "KKP525",
+        "price": "0.00",
+        "handle": "prodotti-chimici-trattamento-per-piscine-fuori-terra-kit-trattamento-piscina-da-5-a-15m3"
+      },
+      {
+        "product_title": "KIT trattamento piscina fuori terra da 5 a 15m³",
+        "variant_title": "76110NB",
+        "sku": "76110NB",
+        "price": "0.00",
+        "handle": "prodotti-chimici-trattamento-per-piscine-fuori-terra-kit-trattamento-piscina-da-5-a-15m3"
+      },
+      {
+        "product_title": "Kit trattamento acqua spa",
+        "variant_title": "KTSPAIT",
+        "sku": "KTSPAIT",
+        "price": "0.00",
+        "handle": "prodotti-chimici-kit-trattamento-spa-kit-trattamento-acqua-spa"
+      },
+      {
+        "product_title": "Kit trattamento acqua spa",
+        "variant_title": "SCAPEPI20",
+        "sku": "SCAPEPI20",
+        "price": "0.00",
+        "handle": "prodotti-chimici-kit-trattamento-spa-kit-trattamento-acqua-spa"
+      },
+      {
+        "product_title": "Kit trattamento acqua spa",
+        "variant_title": "SCAPEPI60",
+        "sku": "SCAPEPI60",
+        "price": "0.00",
+        "handle": "prodotti-chimici-kit-trattamento-spa-kit-trattamento-acqua-spa"
+      },
+      {
+        "product_title": "Pompa di calore mini - 40 m³",
+        "variant_title": "HPM30",
+        "sku": "HPM30",
+        "price": "0.00",
+        "handle": "pompe-di-calore-pompa-di-calore-mini-pompa-di-calore-mini-volume-di-40-m3-1"
+      },
+      {
+        "product_title": "Pompa di calore mini - 40 m³",
+        "variant_title": "HPM20",
+        "sku": "HPM20",
+        "price": "0.00",
+        "handle": "pompe-di-calore-pompa-di-calore-mini-pompa-di-calore-mini-volume-di-40-m3-1"
+      },
+      {
+        "product_title": "Copertura per piscina rotonda in composite",
+        "variant_title": "Ø545",
+        "sku": "CPR550",
+        "price": "0.00",
+        "handle": "coperture-isotermiche-coperture-per-piscine-rotonde-1-per-piscina-in-composite-o361-cm"
+      },
+      {
+        "product_title": "Copertura per piscina rotonda in composite",
+        "variant_title": "Ø635",
+        "sku": "CPR650",
+        "price": "0.00",
+        "handle": "coperture-isotermiche-coperture-per-piscine-rotonde-1-per-piscina-in-composite-o361-cm"
+      },
+      {
+        "product_title": "Copertura per piscina rotonda in composite",
+        "variant_title": "Ø240",
+        "sku": "CV250",
+        "price": "0.00",
+        "handle": "coperture-isotermiche-coperture-per-piscine-rotonde-1-per-piscina-in-composite-o361-cm"
+      },
+      {
+        "product_title": "Copertura per piscina rotonda in composite",
+        "variant_title": "Ø337",
+        "sku": "CV800002",
+        "price": "0.00",
+        "handle": "coperture-isotermiche-coperture-per-piscine-rotonde-1-per-piscina-in-composite-o361-cm"
+      },
+      {
+        "product_title": "Copertura per piscina rotonda in composite",
+        "variant_title": "Ø360",
+        "sku": "772997",
+        "price": "0.00",
+        "handle": "coperture-isotermiche-coperture-per-piscine-rotonde-1-per-piscina-in-composite-o361-cm"
+      },
+      {
+        "product_title": "Copertura per piscina rotonda in composite",
+        "variant_title": "Ø295",
+        "sku": "CVPE300",
+        "price": "0.00",
+        "handle": "coperture-isotermiche-coperture-per-piscine-rotonde-1-per-piscina-in-composite-o361-cm"
+      },
+      {
+        "product_title": "Copertura per piscina rotonda in composite",
+        "variant_title": "Ø415",
+        "sku": "CVPE420",
+        "price": "0.00",
+        "handle": "coperture-isotermiche-coperture-per-piscine-rotonde-1-per-piscina-in-composite-o361-cm"
+      },
+      {
+        "product_title": "Copertura per piscina rotonda in composite",
+        "variant_title": "Ø345",
+        "sku": "CVPE350",
+        "price": "0.00",
+        "handle": "coperture-isotermiche-coperture-per-piscine-rotonde-1-per-piscina-in-composite-o361-cm"
+      },
+      {
+        "product_title": "Copertura per piscina rotonda in composite",
+        "variant_title": "Ø545 (CVPE550)",
+        "sku": "CVPE550",
+        "price": "0.00",
+        "handle": "coperture-isotermiche-coperture-per-piscine-rotonde-1-per-piscina-in-composite-o361-cm"
+      },
+      {
+        "product_title": "Copertura per piscina rotonda in composite",
+        "variant_title": "Ø460",
+        "sku": "772999",
+        "price": "0.00",
+        "handle": "coperture-isotermiche-coperture-per-piscine-rotonde-1-per-piscina-in-composite-o361-cm"
+      },
+      {
+        "product_title": "Copertura per piscina rotonda in composite",
+        "variant_title": "Ø550",
+        "sku": "773320",
+        "price": "0.00",
+        "handle": "coperture-isotermiche-coperture-per-piscine-rotonde-1-per-piscina-in-composite-o361-cm"
+      },
+      {
+        "product_title": "Copertura per piscina rotonda in composite",
+        "variant_title": "Ø455",
+        "sku": "CV450",
+        "price": "0.00",
+        "handle": "coperture-isotermiche-coperture-per-piscine-rotonde-1-per-piscina-in-composite-o361-cm"
+      },
+      {
+        "product_title": "Copertura per piscina rotonda in composite",
+        "variant_title": "Ø345 (CV350)",
+        "sku": "CV350",
+        "price": "0.00",
+        "handle": "coperture-isotermiche-coperture-per-piscine-rotonde-1-per-piscina-in-composite-o361-cm"
+      },
+      {
+        "product_title": "Copertura per piscina rotonda in composite",
+        "variant_title": "Ø395",
+        "sku": "CPR400",
+        "price": "0.00",
+        "handle": "coperture-isotermiche-coperture-per-piscine-rotonde-1-per-piscina-in-composite-o361-cm"
+      },
+      {
+        "product_title": "Copertura per piscina rotonda in composite",
+        "variant_title": "Ø295 (CV300)",
+        "sku": "CV300",
+        "price": "0.00",
+        "handle": "coperture-isotermiche-coperture-per-piscine-rotonde-1-per-piscina-in-composite-o361-cm"
+      },
+      {
+        "product_title": "Copertura per piscina rotonda in composite",
+        "variant_title": "Ø237",
+        "sku": "CV800008",
+        "price": "0.00",
+        "handle": "coperture-isotermiche-coperture-per-piscine-rotonde-1-per-piscina-in-composite-o361-cm"
+      },
+      {
+        "product_title": "Copertura per piscina rotonda in composite",
+        "variant_title": "CV800003",
+        "sku": "CV800003",
+        "price": "0.00",
+        "handle": "coperture-isotermiche-coperture-per-piscine-rotonde-1-per-piscina-in-composite-o361-cm"
+      },
+      {
+        "product_title": "Piscina quadrata copertura",
+        "variant_title": "275 x 275",
+        "sku": "CVKPCOR28",
+        "price": "0.00",
+        "handle": "coperture-isotermiche-coperture-per-piscine-quadrate-1-275-x-275-cm"
+      },
+      {
+        "product_title": "Piscina quadrata copertura",
+        "variant_title": "305 x 305",
+        "sku": "CV790205",
+        "price": "0.00",
+        "handle": "coperture-isotermiche-coperture-per-piscine-quadrate-1-275-x-275-cm"
+      },
+      {
+        "product_title": "Piscina quadrata copertura",
+        "variant_title": "195 x 195",
+        "sku": "CV790000",
+        "price": "0.00",
+        "handle": "coperture-isotermiche-coperture-per-piscine-quadrate-1-275-x-275-cm"
+      },
+      {
+        "product_title": "Doccia solare PVC nero 2 pezzi",
+        "variant_title": "RSS30",
+        "sku": "RSS30",
+        "price": "0.00",
+        "handle": "docce-docce-solari-doccia-solare-pvc-nero-2-pezzi-20l"
+      },
+      {
+        "product_title": "Doccia solare PVC nero 2 pezzi",
+        "variant_title": "SLS17",
+        "sku": "SLS17",
+        "price": "0.00",
+        "handle": "docce-docce-solari-doccia-solare-pvc-nero-2-pezzi-20l"
+      },
+      {
+        "product_title": "Liner per piscine in composite ovale, 524x386x124 cm",
+        "variant_title": "664 x 386 (SPCO6650G)",
+        "sku": "SPCO6650G",
+        "price": "0.00",
+        "handle": "liner-e-riparatori-liner-per-piscine-in-composite-ovali-liner-ovale-pisc-comp-524x386x124cm"
+      },
+      {
+        "product_title": "Prodotto Minimal",
+        "variant_title": "Default Title",
+        "sku": null,
+        "price": "0.00",
+        "handle": "test-product-minimal"
+      },
+      {
+        "product_title": "Linea Rossa",
+        "variant_title": "Default Title",
+        "sku": null,
+        "price": "0.00",
+        "handle": "red-line"
+      },
+      {
+        "product_title": "Filtro FR 5200",
+        "variant_title": "Default Title",
+        "sku": null,
+        "price": "0.00",
+        "handle": "fr-5200"
+      },
+      {
+        "product_title": "Sirocco²",
+        "variant_title": "Default Title",
+        "sku": null,
+        "price": "0.00",
+        "handle": "sirocco"
+      },
+      {
+        "product_title": "Heat Line",
+        "variant_title": "Default Title",
+        "sku": null,
+        "price": "0.00",
+        "handle": "heat-line"
+      },
+      {
+        "product_title": "RE/U",
+        "variant_title": "Default Title",
+        "sku": null,
+        "price": "0.00",
+        "handle": "re-u"
+      },
+      {
+        "product_title": "FloPro™ VS",
+        "variant_title": "Default Title",
+        "sku": null,
+        "price": "0.00",
+        "handle": "flopro™-vs"
+      },
+      {
+        "product_title": "RE/L",
+        "variant_title": "Default Title",
+        "sku": null,
+        "price": "0.00",
+        "handle": "re-l"
+      },
+      {
+        "product_title": "RE/I",
+        "variant_title": "Default Title",
+        "sku": null,
+        "price": "0.00",
+        "handle": "re-i"
+      },
+      {
+        "product_title": "CAE con condotti",
+        "variant_title": "Default Title",
+        "sku": null,
+        "price": "0.00",
+        "handle": "cae-con-condotti"
+      },
+      {
+        "product_title": "PX25",
+        "variant_title": "Default Title",
+        "sku": null,
+        "price": "0.00",
+        "handle": "px25"
+      },
+      {
+        "product_title": "CS",
+        "variant_title": "Default Title",
+        "sku": null,
+        "price": "0.00",
+        "handle": "cs"
+      },
+      {
+        "product_title": "Crystal Clear",
+        "variant_title": "Default Title",
+        "sku": null,
+        "price": "0.00",
+        "handle": "crystal-clear"
+      },
+      {
+        "product_title": "Dual Link",
+        "variant_title": "Default Title",
+        "sku": null,
+        "price": "0.00",
+        "handle": "dual-link"
+      },
+      {
+        "product_title": "pH Link",
+        "variant_title": "Default Title",
+        "sku": null,
+        "price": "0.00",
+        "handle": "ph-link"
+      },
+      {
+        "product_title": "eXPERT pH/ORP",
+        "variant_title": "Default Title",
+        "sku": null,
+        "price": "0.00",
+        "handle": "expert-ph-orp"
+      },
+      {
+        "product_title": "eXPERT",
+        "variant_title": "Default Title",
+        "sku": null,
+        "price": "0.00",
+        "handle": "expert"
+      },
+      {
+        "product_title": "Blue Connect Silver",
+        "variant_title": "Default Title",
+        "sku": null,
+        "price": "0.00",
+        "handle": "blue-connect-silver"
+      },
+      {
+        "product_title": "Blue Connect Gold",
+        "variant_title": "Default Title",
+        "sku": null,
+        "price": "0.00",
+        "handle": "blue-connect-gold"
+      },
+      {
+        "product_title": "Uranus",
+        "variant_title": "Default Title",
+        "sku": null,
+        "price": "0.00",
+        "handle": "uranus"
+      },
+      {
+        "product_title": "FloPro™",
+        "variant_title": "Default Title",
+        "sku": null,
+        "price": "0.00",
+        "handle": "flopro™"
+      },
+      {
+        "product_title": "DT 850 E",
+        "variant_title": "Default Title",
+        "sku": null,
+        "price": "0.00",
+        "handle": "dt-850-e"
+      },
+      {
+        "product_title": "Bluespring",
+        "variant_title": "Default Title",
+        "sku": null,
+        "price": "0.00",
+        "handle": "bluespring"
+      },
+      {
+        "product_title": "Ninfea Thiny",
+        "variant_title": "Default Title",
+        "sku": null,
+        "price": "0.00",
+        "handle": "ninfea-thiny"
+      },
+      {
+        "product_title": "Dolcevita Naked",
+        "variant_title": "Default Title",
+        "sku": null,
+        "price": "0.00",
+        "handle": "dolcevita-naked"
+      },
+      {
+        "product_title": "Divina Skimmer",
+        "variant_title": "Default Title",
+        "sku": null,
+        "price": "0.00",
+        "handle": "divina-skimmer"
+      },
+      {
+        "product_title": "City",
+        "variant_title": "Default Title",
+        "sku": null,
+        "price": "0.00",
+        "handle": "city"
+      },
+      {
+        "product_title": "Dolcevita Diva LTI",
+        "variant_title": "Default Title",
+        "sku": null,
+        "price": "0.00",
+        "handle": "dolcevita-diva-lti"
+      },
+      {
+        "product_title": "Classic",
+        "variant_title": "Default Title",
+        "sku": null,
+        "price": "0.00",
+        "handle": "classic"
+      },
+      {
+        "product_title": "Playa",
+        "variant_title": "Default Title",
+        "sku": null,
+        "price": "0.00",
+        "handle": "playa"
+      },
+      {
+        "product_title": "Pop!",
+        "variant_title": "Default Title",
+        "sku": null,
+        "price": "0.00",
+        "handle": "pop"
+      },
+      {
+        "product_title": "Antea",
+        "variant_title": "Default Title",
+        "sku": null,
+        "price": "0.00",
+        "handle": "antea"
+      },
+      {
+        "product_title": "Ninfea",
+        "variant_title": "Default Title",
+        "sku": null,
+        "price": "0.00",
+        "handle": "ninfea"
+      },
+      {
+        "product_title": "Dolcevita Rattan",
+        "variant_title": "Default Title",
+        "sku": null,
+        "price": "0.00",
+        "handle": "dolcevita-rattan"
+      },
+      {
+        "product_title": "Professional",
+        "variant_title": "Default Title",
+        "sku": null,
+        "price": "0.00",
+        "handle": "professional"
+      },
+      {
+        "product_title": "Musa",
+        "variant_title": "Default Title",
+        "sku": null,
+        "price": "0.00",
+        "handle": "musa"
+      },
+      {
+        "product_title": "Dolcevita Diva",
+        "variant_title": "Default Title",
+        "sku": null,
+        "price": "0.00",
+        "handle": "dolcevita-diva"
+      },
+      {
+        "product_title": "MS",
+        "variant_title": "Default Title",
+        "sku": null,
+        "price": "0.00",
+        "handle": "ms-1"
+      },
+      {
+        "product_title": "eXPERT pH",
+        "variant_title": "Default Title",
+        "sku": null,
+        "price": "0.00",
+        "handle": "expert-ph"
+      },
+      {
+        "product_title": "Red Line",
+        "variant_title": "Default Title",
+        "sku": null,
+        "price": "0.00",
+        "handle": "red-line-1"
+      },
+      {
+        "product_title": "OA 6600 iQ",
+        "variant_title": "Default Title",
+        "sku": null,
+        "price": "0.00",
+        "handle": "oa-6600-iq-1"
+      },
+      {
+        "product_title": "SWY 3500",
+        "variant_title": "Default Title",
+        "sku": null,
+        "price": "0.00",
+        "handle": "swy-3501"
+      },
+      {
+        "product_title": "OV 5390",
+        "variant_title": "Default Title",
+        "sku": null,
+        "price": "0.00",
+        "handle": "ov-5391"
+      },
+      {
+        "product_title": "OV 5200",
+        "variant_title": "Default Title",
+        "sku": null,
+        "price": "0.00",
+        "handle": "ov-5201"
+      },
+      {
+        "product_title": "GV 5220",
+        "variant_title": "Default Title",
+        "sku": null,
+        "price": "0.00",
+        "handle": "gv-5221"
+      },
+      {
+        "product_title": "Piscina Power Steel Rettangolare",
+        "variant_title": "975x488x132cm",
+        "sku": null,
+        "price": "0.00",
+        "handle": "piscina-power-steel-rettangolare"
+      },
+      {
+        "product_title": "Piscina Power Steel Rotonda",
+        "variant_title": "732x132cm",
+        "sku": null,
+        "price": "0.00",
+        "handle": "piscina-power-steel-rotonda"
+      },
+      {
+        "product_title": "Piscina Power Steel Rettangolare",
+        "variant_title": "975x488x132cm",
+        "sku": null,
+        "price": "0.00",
+        "handle": "piscina-power-steel-rettangolare-1"
+      },
+      {
+        "product_title": "Piscina Power Steel Rotonda",
+        "variant_title": "732x132cm",
+        "sku": null,
+        "price": "0.00",
+        "handle": "piscina-power-steel-rotonda-1"
+      },
+      {
+        "product_title": "Piscina Prisma Frame Rotonda",
+        "variant_title": "610x132cm",
+        "sku": null,
+        "price": "0.00",
+        "handle": "piscina-prisma-frame-rotonda"
+      },
+      {
+        "product_title": "Piscina Prisma Frame Rettangolare",
+        "variant_title": "400x200cm",
+        "sku": null,
+        "price": "0.00",
+        "handle": "piscina-prisma-frame-rettangolare"
+      },
+      {
+        "product_title": "Piscina Metallica Rotonda",
+        "variant_title": "457x122cm",
+        "sku": null,
+        "price": "0.00",
+        "handle": "piscina-metallica-rotonda"
+      },
+      {
+        "product_title": "Telo Termico",
+        "variant_title": "Misura",
+        "sku": null,
+        "price": "0.00",
+        "handle": "telo-termico"
+      },
+      {
+        "product_title": "Telo Copri",
+        "variant_title": "Misura",
+        "sku": null,
+        "price": "0.00",
+        "handle": "telo-copri"
+      },
+      {
+        "product_title": "Telo Copri Prisma",
+        "variant_title": "Misura",
+        "sku": null,
+        "price": "0.00",
+        "handle": "telo-copri-prisma"
+      },
+      {
+        "product_title": "Pompa Filtro Krystal Clear",
+        "variant_title": "9463 L/h",
+        "sku": null,
+        "price": "0.00",
+        "handle": "pompa-filtro-krystal-clear"
+      },
+      {
+        "product_title": "Piscine Intex",
+        "variant_title": "56495NP",
+        "sku": null,
+        "price": "0.00",
+        "handle": "piscine-intex"
+      },
+      {
+        "product_title": "Piscina Easy Set",
+        "variant_title": "175x71cm",
+        "sku": null,
+        "price": "0.00",
+        "handle": "piscina-easy-set"
+      }
+    ],
+    "variant_errors": [],
+    "missing_sku": [
+      {
+        "product_title": "Depuratore acqua 72 W a cartuccia",
+        "variant_title": "Default Title",
+        "handle": "depuratori-a-cartuccia-potenza-72-w"
+      },
+      {
+        "product_title": "Pompa di calore Inverter HPGIC30",
+        "variant_title": "Default Title",
+        "handle": "pompe-di-calore-inverter-hpgic30"
+      },
+      {
+        "product_title": "Copertura per piscina rettangolare",
+        "variant_title": "275 x 135",
+        "handle": "coperture-per-piscine-rettangolari"
+      },
+      {
+        "product_title": "Doccia in acciaio inossidabile",
+        "variant_title": "Default Title",
+        "handle": "docce-standard-doccia-in-acciaio-inossidabile"
+      },
+      {
+        "product_title": "Prodotto Minimal",
+        "variant_title": "Default Title",
+        "handle": "test-product-minimal"
+      },
+      {
+        "product_title": "Linea Rossa",
+        "variant_title": "Default Title",
+        "handle": "red-line"
+      },
+      {
+        "product_title": "Aspirapolvere RA 6300 iQ",
+        "variant_title": "Default Title",
+        "handle": "ra-6300-iq"
+      },
+      {
+        "product_title": "Aspirapolvere RA 6900 iQ",
+        "variant_title": "Default Title",
+        "handle": "ra-6900-iq"
+      },
+      {
+        "product_title": "Pulitore a vuoto OA 6600 iQ",
+        "variant_title": "Default Title",
+        "handle": "oa-6600-iq"
+      },
+      {
+        "product_title": "Aspirapolvere OA 6400 iQ",
+        "variant_title": "Default Title",
+        "handle": "oa-6400-iq"
+      },
+      {
+        "product_title": "Piscina Robot RA 6500 iQ",
+        "variant_title": "Default Title",
+        "handle": "ra-6500-iq"
+      },
+      {
+        "product_title": "Aspirapolvere Robot RA 6800 iQ",
+        "variant_title": "Default Title",
+        "handle": "ra-6800-iq"
+      },
+      {
+        "product_title": "SWY 3520",
+        "variant_title": "Default Title",
+        "handle": "swy-3520"
+      },
+      {
+        "product_title": "SWY 3500 Piscina Robot Pulitore Elettrico",
+        "variant_title": "Default Title",
+        "handle": "swy-3500"
+      },
+      {
+        "product_title": "Ovale 5390",
+        "variant_title": "Default Title",
+        "handle": "ov-5390"
+      },
+      {
+        "product_title": "OV 5200 Sistema di Filtrazione",
+        "variant_title": "Default Title",
+        "handle": "ov-5200"
+      },
+      {
+        "product_title": "GV 5220 Pulitore a Vapore",
+        "variant_title": "Default Title",
+        "handle": "gv-5220"
+      },
+      {
+        "product_title": "Filtro FR 5200",
+        "variant_title": "Default Title",
+        "handle": "fr-5200"
+      },
+      {
+        "product_title": "OT 3290 Tile",
+        "variant_title": "Default Title",
+        "handle": "ot-3290-tile"
+      },
+      {
+        "product_title": "OT 3200",
+        "variant_title": "Default Title",
+        "handle": "ot-3200"
+      },
+      {
+        "product_title": "GT 3220",
+        "variant_title": "Default Title",
+        "handle": "gt-3220"
+      },
+      {
+        "product_title": "RT 3200",
+        "variant_title": "Default Title",
+        "handle": "rt-3200"
+      },
+      {
+        "product_title": "XA 3010 iQ",
+        "variant_title": "Default Title",
+        "handle": "xa-3010-iq"
+      },
+      {
+        "product_title": "40 XA iQ",
+        "variant_title": "Default Title",
+        "handle": "40-xa-iq"
+      },
+      {
+        "product_title": "XA 4010 IQ",
+        "variant_title": "Default Title",
+        "handle": "xa-4010-iq"
+      },
+      {
+        "product_title": "pH Expert",
+        "variant_title": "Default Title",
+        "handle": "ph-expert"
+      },
+      {
+        "product_title": "RE 4200",
+        "variant_title": "Default Title",
+        "handle": "re-4200"
+      },
+      {
+        "product_title": "RE 4700 iQ",
+        "variant_title": "Default Title",
+        "handle": "re-4700-iq"
+      },
+      {
+        "product_title": "RE 4400 iQ",
+        "variant_title": "Default Title",
+        "handle": "re-4400-iq"
+      },
+      {
+        "product_title": "RE 4300",
+        "variant_title": "Default Title",
+        "handle": "re-4300"
+      },
+      {
+        "product_title": "RE 4600 iQ",
+        "variant_title": "Default Title",
+        "handle": "re-4600-iq"
+      },
+      {
+        "product_title": "Sirocco²",
+        "variant_title": "Default Title",
+        "handle": "sirocco"
+      },
+      {
+        "product_title": "Heat Line",
+        "variant_title": "Default Title",
+        "handle": "heat-line"
+      },
+      {
+        "product_title": "CNX 25",
+        "variant_title": "Default Title",
+        "handle": "cnx-25"
+      },
+      {
+        "product_title": "CNX 20",
+        "variant_title": "Default Title",
+        "handle": "cnx-20"
+      },
+      {
+        "product_title": "CNX 30 iQ",
+        "variant_title": "Default Title",
+        "handle": "cnx-30-iq"
+      },
+      {
+        "product_title": "CNX 40 iQ",
+        "variant_title": "Default Title",
+        "handle": "cnx-40-iq"
+      },
+      {
+        "product_title": "CNX 50 iQ",
+        "variant_title": "Default Title",
+        "handle": "cnx-50-iq"
+      },
+      {
+        "product_title": "RE/U",
+        "variant_title": "Default Title",
+        "handle": "re-u"
+      },
+      {
+        "product_title": "FloPro™ VS",
+        "variant_title": "Default Title",
+        "handle": "flopro™-vs"
+      },
+      {
+        "product_title": "RE/L",
+        "variant_title": "Default Title",
+        "handle": "re-l"
+      },
+      {
+        "product_title": "Z350iQ",
+        "variant_title": "Default Title",
+        "handle": "z350iq"
+      },
+      {
+        "product_title": "RE/I",
+        "variant_title": "Default Title",
+        "handle": "re-i"
+      },
+      {
+        "product_title": "CAE con condotti",
+        "variant_title": "Default Title",
+        "handle": "cae-con-condotti"
+      },
+      {
+        "product_title": "Power Force Inverter",
+        "variant_title": "Default Title",
+        "handle": "power-force-inverter"
+      },
+      {
+        "product_title": "Z950 Inverter",
+        "variant_title": "Default Title",
+        "handle": "z950-inverter"
+      },
+      {
+        "product_title": "Z250iQ",
+        "variant_title": "Default Title",
+        "handle": "z250iq"
+      },
+      {
+        "product_title": "Z650iQ",
+        "variant_title": "Default Title",
+        "handle": "z650iq"
+      },
+      {
+        "product_title": "Z400iQ",
+        "variant_title": "Default Title",
+        "handle": "z400iq"
+      },
+      {
+        "product_title": "PX25",
+        "variant_title": "Default Title",
+        "handle": "px25"
+      },
+      {
+        "product_title": "CS",
+        "variant_title": "Default Title",
+        "handle": "cs"
+      },
+      {
+        "product_title": "Crystal Clear",
+        "variant_title": "Default Title",
+        "handle": "crystal-clear"
+      },
+      {
+        "product_title": "eXO® iQ",
+        "variant_title": "Default Title",
+        "handle": "exo®-iq"
+      },
+      {
+        "product_title": "eXO® iQ LS",
+        "variant_title": "Default Title",
+        "handle": "exo®-iq-ls"
+      },
+      {
+        "product_title": "Dual Link",
+        "variant_title": "Default Title",
+        "handle": "dual-link"
+      },
+      {
+        "product_title": "pH Link",
+        "variant_title": "Default Title",
+        "handle": "ph-link"
+      },
+      {
+        "product_title": "Ei² iQ",
+        "variant_title": "Default Title",
+        "handle": "ei-iq"
+      },
+      {
+        "product_title": "EiSalt",
+        "variant_title": "Default Title",
+        "handle": "eisalt"
+      },
+      {
+        "product_title": "eXPERT pH/ORP",
+        "variant_title": "Default Title",
+        "handle": "expert-ph-orp"
+      },
+      {
+        "product_title": "eXPERT",
+        "variant_title": "Default Title",
+        "handle": "expert"
+      },
+      {
+        "product_title": "TRX 8500 iQ",
+        "variant_title": "Default Title",
+        "handle": "trx-8500-iq"
+      },
+      {
+        "product_title": "TRX 8700 iQ",
+        "variant_title": "Default Title",
+        "handle": "trx-8700-iq"
+      },
+      {
+        "product_title": "Blue Connect Silver",
+        "variant_title": "Default Title",
+        "handle": "blue-connect-silver"
+      },
+      {
+        "product_title": "Blue Connect Gold",
+        "variant_title": "Default Title",
+        "handle": "blue-connect-gold"
+      },
+      {
+        "product_title": "Uranus",
+        "variant_title": "Default Title",
+        "handle": "uranus"
+      },
+      {
+        "product_title": "Chlor Expert",
+        "variant_title": "Default Title",
+        "handle": "chlor-expert"
+      },
+      {
+        "product_title": "iQPump",
+        "variant_title": "Default Title",
+        "handle": "iqpump"
+      },
+      {
+        "product_title": "E30iQ",
+        "variant_title": "Default Title",
+        "handle": "e30iq"
+      },
+      {
+        "product_title": "FloPro™",
+        "variant_title": "Default Title",
+        "handle": "flopro™"
+      },
+      {
+        "product_title": "DT 850 E",
+        "variant_title": "Default Title",
+        "handle": "dt-850-e"
+      },
+      {
+        "product_title": "OP 3220",
+        "variant_title": "Default Title",
+        "handle": "op-3220"
+      },
+      {
+        "product_title": "OP 32",
+        "variant_title": "Default Title",
+        "handle": "op-32"
+      },
+      {
+        "product_title": "RF 5400 iQ",
+        "variant_title": "Default Title",
+        "handle": "rf-5400-iq"
+      },
+      {
+        "product_title": "RF 5200 iQ",
+        "variant_title": "Default Title",
+        "handle": "rf-5200-iq"
+      },
+      {
+        "product_title": "RF 42 iQ",
+        "variant_title": "Default Title",
+        "handle": "rf-42-iq"
+      },
+      {
+        "product_title": "RF 5600 iQ",
+        "variant_title": "Default Title",
+        "handle": "rf-5600-iq"
+      },
+      {
+        "product_title": "OF 42 iQ",
+        "variant_title": "Default Title",
+        "handle": "of-42-iq"
+      },
+      {
+        "product_title": "Freedom+ Control",
+        "variant_title": "Default Title",
+        "handle": "freedom-control"
+      },
+      {
+        "product_title": "CNX-Li 5220 iQ",
+        "variant_title": "Default Title",
+        "handle": "cnx-li-5220-iq"
+      },
+      {
+        "product_title": "OF 4220 iQ",
+        "variant_title": "Default Title",
+        "handle": "of-4220-iq"
+      },
+      {
+        "product_title": "CNX-Li 52 iQ",
+        "variant_title": "Default Title",
+        "handle": "cnx-li-52-iq"
+      },
+      {
+        "product_title": "Bluespring",
+        "variant_title": "Default Title",
+        "handle": "bluespring"
+      },
+      {
+        "product_title": "Ninfea Thiny",
+        "variant_title": "Default Title",
+        "handle": "ninfea-thiny"
+      },
+      {
+        "product_title": "Dolcevita Naked",
+        "variant_title": "Default Title",
+        "handle": "dolcevita-naked"
+      },
+      {
+        "product_title": "Divina Skimmer",
+        "variant_title": "Default Title",
+        "handle": "divina-skimmer"
+      },
+      {
+        "product_title": "City",
+        "variant_title": "Default Title",
+        "handle": "city"
+      },
+      {
+        "product_title": "Dolcevita Diva LTI",
+        "variant_title": "Default Title",
+        "handle": "dolcevita-diva-lti"
+      },
+      {
+        "product_title": "Classic",
+        "variant_title": "Default Title",
+        "handle": "classic"
+      },
+      {
+        "product_title": "Playa",
+        "variant_title": "Default Title",
+        "handle": "playa"
+      },
+      {
+        "product_title": "Pop!",
+        "variant_title": "Default Title",
+        "handle": "pop"
+      },
+      {
+        "product_title": "Antea",
+        "variant_title": "Default Title",
+        "handle": "antea"
+      },
+      {
+        "product_title": "Ninfea",
+        "variant_title": "Default Title",
+        "handle": "ninfea"
+      },
+      {
+        "product_title": "Dolcevita Rattan",
+        "variant_title": "Default Title",
+        "handle": "dolcevita-rattan"
+      },
+      {
+        "product_title": "Professional",
+        "variant_title": "Default Title",
+        "handle": "professional"
+      },
+      {
+        "product_title": "Musa",
+        "variant_title": "Default Title",
+        "handle": "musa"
+      },
+      {
+        "product_title": "Dolcevita Diva",
+        "variant_title": "Default Title",
+        "handle": "dolcevita-diva"
+      },
+      {
+        "product_title": "MS",
+        "variant_title": "Default Title",
+        "handle": "ms-1"
+      },
+      {
+        "product_title": "Pompa di calore Z550 IQ MD4",
+        "variant_title": "Default Title",
+        "handle": "z550iq-1"
+      },
+      {
+        "product_title": "eXPERT pH",
+        "variant_title": "Default Title",
+        "handle": "expert-ph"
+      },
+      {
+        "product_title": "Freedom Lite",
+        "variant_title": "Default Title",
+        "handle": "freedom-lite"
+      },
+      {
+        "product_title": "Red Line",
+        "variant_title": "Default Title",
+        "handle": "red-line-1"
+      },
+      {
+        "product_title": "OA 6600 iQ",
+        "variant_title": "Default Title",
+        "handle": "oa-6600-iq-1"
+      },
+      {
+        "product_title": "SWY 3500",
+        "variant_title": "Default Title",
+        "handle": "swy-3501"
+      },
+      {
+        "product_title": "OV 5390",
+        "variant_title": "Default Title",
+        "handle": "ov-5391"
+      },
+      {
+        "product_title": "OV 5200",
+        "variant_title": "Default Title",
+        "handle": "ov-5201"
+      },
+      {
+        "product_title": "GV 5220",
+        "variant_title": "Default Title",
+        "handle": "gv-5221"
+      },
+      {
+        "product_title": "Z550iQ",
+        "variant_title": "Default Title",
+        "handle": "z550iq"
+      },
+      {
+        "product_title": "Piscina Power Steel Rettangolare",
+        "variant_title": "975x488x132cm",
+        "handle": "piscina-power-steel-rettangolare"
+      },
+      {
+        "product_title": "Piscina Power Steel Rotonda",
+        "variant_title": "732x132cm",
+        "handle": "piscina-power-steel-rotonda"
+      },
+      {
+        "product_title": "Piscina Power Steel Rettangolare",
+        "variant_title": "975x488x132cm",
+        "handle": "piscina-power-steel-rettangolare-1"
+      },
+      {
+        "product_title": "Piscina Power Steel Rotonda",
+        "variant_title": "732x132cm",
+        "handle": "piscina-power-steel-rotonda-1"
+      },
+      {
+        "product_title": "Piscina Prisma Frame Rotonda",
+        "variant_title": "610x132cm",
+        "handle": "piscina-prisma-frame-rotonda"
+      },
+      {
+        "product_title": "Piscina Prisma Frame Rettangolare",
+        "variant_title": "400x200cm",
+        "handle": "piscina-prisma-frame-rettangolare"
+      },
+      {
+        "product_title": "Piscina Metallica Rotonda",
+        "variant_title": "457x122cm",
+        "handle": "piscina-metallica-rotonda"
+      },
+      {
+        "product_title": "Telo Termico",
+        "variant_title": "Misura",
+        "handle": "telo-termico"
+      },
+      {
+        "product_title": "Telo Copri",
+        "variant_title": "Misura",
+        "handle": "telo-copri"
+      },
+      {
+        "product_title": "Telo Copri Prisma",
+        "variant_title": "Misura",
+        "handle": "telo-copri-prisma"
+      },
+      {
+        "product_title": "Pompa Filtro Krystal Clear",
+        "variant_title": "9463 L/h",
+        "handle": "pompa-filtro-krystal-clear"
+      },
+      {
+        "product_title": "Piscine Intex",
+        "variant_title": "56495NP",
+        "handle": "piscine-intex"
+      },
+      {
+        "product_title": "Piscina Easy Set",
+        "variant_title": "175x71cm",
+        "handle": "piscina-easy-set"
+      }
+    ]
+  }
+}

@@ -1,0 +1,144 @@
+<div class="max-w-7xl mx-auto px-6 md:px-10 py-12 mb-20 text-primary">
+  <div class="flex flex-col md:flex-row justify-between items-end gap-6 mb-12 border-b border-outline-variant/10 pb-10">
+      <div class="space-y-4">
+          <div class="flex items-center gap-3">
+              <a href="{{ routes.account_url }}" class="w-10 h-10 rounded-full bg-surface-container-low flex items-center justify-center text-primary hover:bg-primary hover:text-white transition-all">
+                  <span class="material-symbols-outlined text-[20px]">arrow_back</span>
+              </a>
+              <span class="text-[10px] font-black uppercase tracking-[0.2em] text-outline">Gestione Account</span>
+          </div>
+          <h1 class="text-5xl md:text-7xl font-black uppercase italic tracking-tighter leading-none">I Tuoi Indirizzi</h1>
+          <p class="text-on-surface-variant font-medium text-xl">Gestisci le tue destinazioni di spedizione e fatturazione.</p>
+      </div>
+      <button 
+        type="button" 
+        aria-expanded="false" 
+        aria-controls="AddAddress" 
+        class="bg-primary text-white px-10 py-4 rounded-2xl font-black text-xs uppercase tracking-widest shadow-xl hover:bg-primary-fixed-variant transition-all active:scale-95 flex items-center gap-3"
+        onclick="document.getElementById('AddAddress').classList.remove('hidden')"
+      >
+          <span class="material-symbols-outlined">add_location</span>
+          Aggiungi Nuovo
+      </button>
+  </div>
+
+  {% comment %} New Address Form (Hidden by default) {% endcomment %}
+  <div id="AddAddress" class="hidden mb-16 bg-white p-10 md:p-16 rounded-[48px] shadow-2xl border border-outline-variant/15 max-w-4xl mx-auto relative overflow-hidden">
+      <div class="absolute inset-0 opacity-[0.02] pointer-events-none" style="background-image: radial-gradient(#002366 1px, transparent 1px); background-size: 30px 30px;"></div>
+      
+      <div class="relative z-10">
+          <h2 class="text-3xl font-black uppercase italic tracking-tighter text-primary mb-10">Nuovo Indirizzo</h2>
+          
+          {%- form 'customer_address', customer.new_address, aria-labelledBy: 'AddressNewHeading' -%}
+            <div class="grid grid-cols-1 md:grid-cols-2 gap-8">
+                <div class="space-y-2">
+                    <label for="AddressFirstNameNew" class="text-[10px] font-black uppercase tracking-widest text-outline ml-1">Nome</label>
+                    <input type="text" id="AddressFirstNameNew" name="address[first_name]" value="{{ form.first_name }}" autocomplete="given-name" class="w-full px-6 py-4 rounded-xl bg-surface-container-low border-0 font-bold text-primary focus:ring-2 focus:ring-primary/10 outline-none">
+                </div>
+                <div class="space-y-2">
+                    <label for="AddressLastNameNew" class="text-[10px] font-black uppercase tracking-widest text-outline ml-1">Cognome</label>
+                    <input type="text" id="AddressLastNameNew" name="address[last_name]" value="{{ form.last_name }}" autocomplete="family-name" class="w-full px-6 py-4 rounded-xl bg-surface-container-low border-0 font-bold text-primary focus:ring-2 focus:ring-primary/10 outline-none">
+                </div>
+                <div class="md:col-span-2 space-y-2">
+                    <label for="AddressAddress1New" class="text-[10px] font-black uppercase tracking-widest text-outline ml-1">Indirizzo</label>
+                    <input type="text" id="AddressAddress1New" name="address[address1]" value="{{ form.address1 }}" autocomplete="address-line1" class="w-full px-6 py-4 rounded-xl bg-surface-container-low border-0 font-bold text-primary focus:ring-2 focus:ring-primary/10 outline-none">
+                </div>
+                <div class="space-y-2">
+                    <label for="AddressCityNew" class="text-[10px] font-black uppercase tracking-widest text-outline ml-1">Città</label>
+                    <input type="text" id="AddressCityNew" name="address[city]" value="{{ form.city }}" autocomplete="address-level2" class="w-full px-6 py-4 rounded-xl bg-surface-container-low border-0 font-bold text-primary focus:ring-2 focus:ring-primary/10 outline-none">
+                </div>
+                <div class="space-y-2">
+                    <label for="AddressZipNew" class="text-[10px] font-black uppercase tracking-widest text-outline ml-1">CAP</label>
+                    <input type="text" id="AddressZipNew" name="address[zip]" value="{{ form.zip }}" autocapitalize="characters" autocomplete="postal-code" class="w-full px-6 py-4 rounded-xl bg-surface-container-low border-0 font-bold text-primary focus:ring-2 focus:ring-primary/10 outline-none">
+                </div>
+                <div class="space-y-2">
+                    <label for="AddressCountryNew" class="text-[10px] font-black uppercase tracking-widest text-outline ml-1">Paese</label>
+                    <div class="select relative">
+                        <select id="AddressCountryNew" name="address[country]" data-default="{{ form.country }}" autocomplete="country" class="w-full px-6 py-4 rounded-xl bg-surface-container-low border-0 font-bold text-primary focus:ring-2 focus:ring-primary/10 outline-none appearance-none">
+                            {{ all_country_option_tags }}
+                        </select>
+                        <span class="material-symbols-outlined absolute right-4 top-1/2 -translate-y-1/2 text-primary/20 pointer-events-none">expand_more</span>
+                    </div>
+                </div>
+                <div class="space-y-2">
+                    <label for="AddressPhoneNew" class="text-[10px] font-black uppercase tracking-widest text-outline ml-1">Telefono</label>
+                    <input type="tel" id="AddressPhoneNew" name="address[phone]" value="{{ form.phone }}" autocomplete="tel" class="w-full px-6 py-4 rounded-xl bg-surface-container-low border-0 font-bold text-primary focus:ring-2 focus:ring-primary/10 outline-none">
+                </div>
+            </div>
+            
+            <div class="mt-8 flex items-center gap-3">
+                {{ form.set_as_default_checkbox }}
+                <label for="address_default_address_new" class="text-xs font-bold uppercase tracking-widest text-on-surface-variant">Imposta come predefinito</label>
+            </div>
+
+            <div class="mt-12 flex gap-6">
+                <button type="reset" class="flex-1 py-5 rounded-2xl font-black text-xs uppercase tracking-widest text-outline hover:bg-surface-container-low transition-all" onclick="document.getElementById('AddAddress').classList.add('hidden')">Annulla</button>
+                <button type="submit" class="flex-2 bg-primary text-white px-12 py-5 rounded-2xl font-black text-xs uppercase tracking-widest shadow-xl hover:bg-primary-fixed-variant transition-all">Salva Indirizzo</button>
+            </div>
+          {%- endform -%}
+      </div>
+  </div>
+
+  {% comment %} List of Addresses {% endcomment %}
+  <ul role="list" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8 p-0 m-0 list-none">
+    {%- for address in customer.addresses -%}
+      <li class="bg-white rounded-[40px] p-10 border border-outline-variant/10 shadow-sm flex flex-col justify-between group hover:shadow-xl transition-all duration-500 relative overflow-hidden">
+        {%- if address == customer.default_address -%}
+            <div class="absolute top-0 right-0 bg-tertiary-fixed text-on-tertiary-fixed px-4 py-1.5 rounded-bl-2xl font-black text-[8px] uppercase tracking-widest">Predefinito</div>
+        {%- endif -%}
+        
+        <div class="space-y-6 relative z-10">
+            <div class="w-12 h-12 bg-primary-fixed rounded-2xl flex items-center justify-center text-primary mb-8 shadow-inner">
+                <span class="material-symbols-outlined">location_on</span>
+            </div>
+            
+            <div class="space-y-1">
+                <p class="text-xl font-black text-primary uppercase tracking-tighter italic leading-tight">{{ address.first_name }} {{ address.last_name }}</p>
+                <div class="text-sm font-medium text-on-surface-variant leading-relaxed uppercase tracking-wider">
+                    {{ address | format_address }}
+                </div>
+            </div>
+        </div>
+
+        <div class="mt-10 pt-8 border-t border-outline-variant/10 flex gap-4 relative z-10">
+            <button 
+                type="button" 
+                class="text-[10px] font-black text-primary uppercase tracking-widest border-b-2 border-tertiary-fixed pb-0.5 hover:text-tertiary-fixed transition-all"
+                onclick="document.getElementById('EditAddress_{{ address.id }}').classList.remove('hidden')"
+            >
+                Modifica
+            </button>
+            <form
+              method="post"
+              action="/account/addresses/{{ address.id }}"
+              onsubmit="return confirm('Sei sicuro di voler eliminare questo indirizzo?')"
+            >
+              <input type="hidden" name="_method" value="delete">
+              <button type="submit" class="text-[10px] font-black text-error uppercase tracking-widest border-b-2 border-error/20 pb-0.5 hover:text-error hover:border-error transition-all">Elimina</button>
+            </form>
+        </div>
+
+        {% comment %} Edit Form (Hidden by default) {% endcomment %}
+        <div id="EditAddress_{{ address.id }}" class="hidden fixed inset-0 z-[100] flex items-center justify-center p-4 bg-primary/40 backdrop-blur-md">
+            <div class="bg-white w-full max-w-2xl rounded-[40px] p-10 md:p-16 shadow-2xl relative">
+                <h2 class="text-3xl font-black uppercase italic tracking-tighter text-primary mb-10">Modifica Indirizzo</h2>
+                
+                {%- form 'customer_address', address -%}
+                    <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
+                        <input type="text" name="address[first_name]" value="{{ form.first_name }}" placeholder="Nome" class="w-full px-6 py-4 rounded-xl bg-surface-container-low border-0 font-bold text-primary outline-none">
+                        <input type="text" name="address[last_name]" value="{{ form.last_name }}" placeholder="Cognome" class="w-full px-6 py-4 rounded-xl bg-surface-container-low border-0 font-bold text-primary outline-none">
+                        <input type="text" name="address[address1]" value="{{ form.address1 }}" placeholder="Indirizzo" class="md:col-span-2 w-full px-6 py-4 rounded-xl bg-surface-container-low border-0 font-bold text-primary outline-none">
+                        <input type="text" name="address[city]" value="{{ form.city }}" placeholder="Città" class="w-full px-6 py-4 rounded-xl bg-surface-container-low border-0 font-bold text-primary outline-none">
+                        <input type="text" name="address[zip]" value="{{ form.zip }}" placeholder="CAP" class="w-full px-6 py-4 rounded-xl bg-surface-container-low border-0 font-bold text-primary outline-none">
+                    </div>
+                    <div class="mt-10 flex gap-4">
+                        <button type="button" class="flex-1 py-4 rounded-xl font-black text-xs uppercase tracking-widest text-outline" onclick="document.getElementById('EditAddress_{{ address.id }}').classList.add('hidden')">Annulla</button>
+                        <button type="submit" class="flex-1 bg-primary text-white py-4 rounded-xl font-black text-xs uppercase tracking-widest shadow-lg">Aggiorna</button>
+                    </div>
+                {%- endform -%}
+            </div>
+        </div>
+      </li>
+    {%- endfor -%}
+  </ul>
+</div>

@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gre Image Reviewer</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-gray-100 min-h-screen p-8">
+    <div class="max-w-6xl mx-auto">
+        <header class="mb-8 flex justify-between items-center sticky top-0 bg-gray-100 py-4 z-50 border-b">
+            <div>
+                <h1 class="text-3xl font-bold text-gray-800">Review Immagini Gre</h1>
+                <p class="text-gray-600">Seleziona l'immagine corretta per ogni prodotto</p>
+            </div>
+            <div class="bg-white p-4 rounded-lg shadow-sm text-right">
+                <div class="text-sm font-semibold text-gray-500 uppercase">Progresso</div>
+                <div class="text-2xl font-bold text-blue-600"><span id="done-count">0</span> / <span id="total-count">0</span></div>
+                <button id="download-btn" class="mt-2 bg-blue-600 hover:bg-blue-700 text-white px-4 py-2 rounded text-sm font-bold transition">
+                    ⬇️ Scarica Risultati JSON
+                </button>
+            </div>
+        </header>
+
+        <div id="container" class="space-y-8">
+            <div class="text-center py-20">
+                <div class="animate-spin rounded-full h-12 w-12 border-b-2 border-blue-600 mx-auto"></div>
+                <p class="mt-4 text-gray-500">Caricamento prodotti...</p>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        let allData = {};
+        let productTitles = {};
+        let decisions = {};
+        let skus = [];
+        let currentIndex = 0;
+
+        async function init() {
+            try {
+                // Fetch data
+                const [dataRes, csvRes] = await Promise.all([
+                    fetch('/data.json'),
+                    fetch('/products.csv')
+                ]);
+                
+                allData = await dataRes.json();
+                const csvText = await csvRes.text();
+                
+                // Parse CSV simple way
+                const lines = csvText.split('\n');
+                lines.slice(1).forEach(line => {
+                    const [sku, ...titleParts] = line.split(',');
+                    if (sku) {
+                        const cleanSku = sku.trim().replace(/"/g, '').toUpperCase();
+                        productTitles[cleanSku] = titleParts.join(',').trim().replace(/"/g, '');
+                    }
+                });
+
+                skus = Object.keys(allData);
+                document.getElementById('total-count').innerText = skus.length;
+                render();
+            } catch (err) {
+                console.error(err);
+                document.getElementById('container').innerHTML = `<div class="bg-red-100 text-red-700 p-4 rounded">Errore nel caricamento dati: ${err.message}</div>`;
+            }
+        }
+
+        function render() {
+            const container = document.getElementById('container');
+            container.innerHTML = '';
+
+            const activeSkus = skus.filter(s => !decisions[s]);
+            document.getElementById('done-count').innerText = skus.length - activeSkus.length;
+
+            if (activeSkus.length === 0) {
+                container.innerHTML = `
+                    <div class="bg-green-100 text-green-800 p-8 rounded-xl text-center">
+                        <h2 class="text-2xl font-bold mb-2">Ottimo lavoro! 🎉</h2>
+                        <p>Hai controllato tutti i prodotti. Clicca il tasto in alto per scaricare il file JSON e inviamelo.</p>
+                    </div>
+                `;
+                return;
+            }
+
+            // Render first 10 for performance
+            activeSkus.slice(0, 10).forEach(sku => {
+                const card = document.createElement('div');
+                card.className = "bg-white rounded-xl shadow-md overflow-hidden p-6 border-2 border-transparent hover:border-blue-200 transition";
+                card.id = `card-${sku}`;
+                
+                const images = allData[sku];
+                let gridHtml = '';
+                
+                images.forEach(url => {
+                    gridHtml += `
+                        <div class="group relative border rounded-lg p-2 hover:bg-gray-50 transition cursor-pointer" onclick="makeDecision('${sku}', '${url}')">
+                            <img src="${url}" class="w-full h-48 object-contain rounded" onerror="this.src='https://placehold.co/400x400?text=Immagine+non+disponibile'">
+                            <div class="mt-2 text-center">
+                                <button class="w-full bg-green-500 text-white font-bold py-2 rounded opacity-80 group-hover:opacity-100 transition">✅ Seleziona</button>
+                            </div>
+                        </div>
+                    `;
+                });
+
+                card.innerHTML = `
+                    <div class="flex justify-between items-start mb-4">
+                        <div>
+                            <h3 class="text-xl font-bold text-gray-800">${productTitles[sku] || 'Prodotto senza titolo'}</h3>
+                            <span class="inline-block bg-gray-100 text-gray-600 text-xs px-2 py-1 rounded mt-1 font-mono">${sku}</span>
+                        </div>
+                        <button onclick="makeDecision('${sku}', 'REJECTED')" class="text-red-500 hover:bg-red-50 px-3 py-1 rounded text-sm font-medium border border-red-200 transition">
+                            ❌ Nessuna va bene
+                        </button>
+                    </div>
+                    <div class="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-5 gap-4">
+                        ${gridHtml}
+                    </div>
+                `;
+                container.appendChild(card);
+            });
+        }
+
+        function makeDecision(sku, url) {
+            decisions[sku] = url;
+            render();
+            // Optional: smooth scroll to top if needed
+        }
+
+        document.getElementById('download-btn').onclick = () => {
+            const dataStr = "data:text/json;charset=utf-8," + encodeURIComponent(JSON.stringify(decisions, null, 4));
+            const downloadAnchorNode = document.createElement('a');
+            downloadAnchorNode.setAttribute("href",     dataStr);
+            downloadAnchorNode.setAttribute("download", "immagini_approvate_web.json");
+            document.body.appendChild(downloadAnchorNode);
+            downloadAnchorNode.click();
+            downloadAnchorNode.remove();
+        };
+
+        init();
+    </script>
+</body>
+</html>

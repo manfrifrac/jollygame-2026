@@ -1,0 +1,122 @@
+{% comment %}
+  Landing Page Piani Jolly Care 2026
+  Branding: Jolly Game Blue (#00578E) & Care Gold (#FFDEA5)
+  Dynamic Prices from product: abbonamento-jolly-care
+{% endcomment %}
+
+<div class="max-w-7xl mx-auto py-24 px-4 sm:px-6 lg:px-8 text-primary font-sans space-y-32">
+    
+    <div class="text-center space-y-6 max-w-4xl mx-auto">
+        <h1 class="text-6xl md:text-8xl font-black uppercase italic tracking-tighter text-[#00578E] leading-[0.85]">Piani <br/><span class="text-[#FFDEA5] drop-shadow-sm">Jolly Care.</span></h1>
+        <p class="text-xl md:text-2xl text-outline font-medium italic">Scegli l'eccellenza per la tua oasi di relax. Tre livelli di protezione calibrati sulle tue esigenze.</p>
+    </div>
+
+    <!-- GRIGLIA COMPARATIVA -->
+    {% assign sub_product = all_products['abbonamento-jolly-care'] %}
+    <div class="grid grid-cols-1 md:grid-cols-3 gap-12 items-end">
+        
+        <!-- MEMBRO BASE -->
+        <div class="bg-white p-12 rounded-[64px] border border-outline-variant/20 shadow-xl flex flex-col justify-between hover:scale-[1.02] transition-all duration-500 min-h-[600px]">
+            <div class="space-y-10">
+                <div class="space-y-2">
+                    <h3 class="text-3xl font-black uppercase italic tracking-tighter text-[#00578E]">Membro Base</h3>
+                    <p class="text-[10px] font-black uppercase tracking-widest text-outline">Ingresso Smart</p>
+                </div>
+                <div class="text-6xl font-black italic text-[#00578E]">Free</div>
+                <ul class="space-y-6 text-xs font-bold uppercase tracking-[0.2em] opacity-70">
+                    <li class="flex items-center gap-4"><span class="material-symbols-outlined text-emerald-500">check_circle</span> Cartella Clinica Cloud</li>
+                    <li class="flex items-center gap-4"><span class="material-symbols-outlined text-emerald-500">check_circle</span> Accesso allo Shop</li>
+                    <li class="flex items-center gap-4"><span class="material-symbols-outlined text-emerald-500">check_circle</span> Diagnostica Manuale</li>
+                    <li class="flex items-center gap-4 opacity-20"><span class="material-symbols-outlined">block</span> Supporto VIP SOS</li>
+                </ul>
+            </div>
+            <a href="/account/register" class="mt-12 w-full bg-[#00578E] text-white py-6 rounded-3xl font-black text-[10px] uppercase tracking-widest text-center shadow-xl hover:brightness-110 transition-all">Registrati Gratis</a>
+        </div>
+
+        <!-- JOLLY CARE PRO -->
+        {% assign pro_variant = sub_product.variants | where: "title", "Pro" | first %}
+        <div class="bg-[#00578E] p-12 rounded-[64px] text-white shadow-2xl border-4 border-[#FFDEA5]/30 flex flex-col justify-between relative hover:scale-105 transition-all duration-500 min-h-[650px] z-10">
+            <div class="absolute top-0 right-0 bg-[#FFDEA5] text-[#00578E] px-8 py-3 rounded-bl-3xl font-black text-[10px] uppercase tracking-widest shadow-lg">RACCOMANDATO</div>
+            <div class="space-y-10">
+                <div class="space-y-2">
+                    <h3 class="text-3xl font-black uppercase italic tracking-tighter text-[#FFDEA5]">Jolly Care PRO</h3>
+                    <p class="text-[10px] font-black uppercase tracking-widest text-white/50">Protezione Attiva</p>
+                </div>
+                <div class="text-6xl font-black italic">{{ pro_variant.price | money_without_trailing_zeros }}<span class="text-lg opacity-40">/m</span></div>
+                <ul class="space-y-6 text-xs font-bold uppercase tracking-[0.2em]">
+                    <li class="flex items-center gap-4 text-[#FFDEA5]"><span class="material-symbols-outlined">shield</span> Vantaggi Base Inclusi</li>
+                    <li class="flex items-center gap-4"><span class="material-symbols-outlined">forum</span> WhatsApp Direct Line</li>
+                    <li class="flex items-center gap-4"><span class="material-symbols-outlined">electric_bolt</span> SOS Intervento 24h</li>
+                    <li class="flex items-center gap-4"><span class="material-symbols-outlined">visibility</span> Monitoraggio Proattivo</li>
+                </ul>
+            </div>
+            <button onclick="buyPlan('{{ pro_variant.id }}')" class="mt-12 w-full bg-[#FFDEA5] text-[#00578E] py-6 rounded-3xl font-black text-[10px] uppercase tracking-widest shadow-xl hover:scale-105 transition-all">Attiva Jolly Care Pro</button>
+        </div>
+
+        <!-- MEMBRO GOLD -->
+        {% assign gold_variant = sub_product.variants | where: "title", "Gold" | first %}
+        <div class="bg-[#001945] p-12 rounded-[64px] text-white shadow-xl border-4 border-[#FFDEA5] flex flex-col justify-between relative overflow-hidden group hover:scale-[1.02] transition-all duration-500 min-h-[600px]">
+            <div class="absolute -right-10 -top-10 opacity-10 text-white group-hover:rotate-12 transition-transform duration-1000">
+                <span class="material-symbols-outlined text-[250px]">diamond</span>
+            </div>
+            <div class="space-y-10 relative z-10">
+                <div class="space-y-2">
+                    <h3 class="text-3xl font-black uppercase italic tracking-tighter text-[#FFDEA5] flex items-center gap-3">Membro GOLD 💎</h3>
+                    <p class="text-[10px] font-black uppercase tracking-widest text-white/40">Automazione Totale</p>
+                </div>
+                <div class="text-6xl font-black italic text-[#FFDEA5]">{{ gold_variant.price | money_without_trailing_zeros }}<span class="text-lg text-white/20">/m</span></div>
+                <ul class="space-y-6 text-xs font-bold uppercase tracking-[0.2em]">
+                    <li class="flex items-center gap-4 text-[#FFDEA5]"><span class="material-symbols-outlined">sync</span> Blue Connect Incluso</li>
+                    <li class="flex items-center gap-4"><span class="material-symbols-outlined">engineering</span> Manutenzione Full-Service</li>
+                    <li class="flex items-center gap-4"><span class="material-symbols-outlined">local_shipping</span> Refill Automatico</li>
+                    <li class="flex items-center gap-4"><span class="material-symbols-outlined">calendar_month</span> Checkup Fisico Mensile</li>
+                </ul>
+            </div>
+            <button onclick="buyPlan('{{ gold_variant.id }}')" class="mt-12 w-full border-4 border-[#FFDEA5] text-[#FFDEA5] py-6 rounded-3xl font-black text-[10px] uppercase tracking-widest hover:bg-[#FFDEA5] hover:text-[#001945] transition-all relative z-10 shadow-lg">Passa a GOLD</button>
+        </div>
+    </div>
+
+    <!-- DETTAGLI SERVIZIO -->
+    <section class="bg-surface-container-low rounded-[64px] p-12 md:p-20 grid grid-cols-1 lg:grid-cols-2 gap-20 items-center border border-outline-variant/10">
+        <div class="space-y-10">
+            <h2 class="text-4xl font-black uppercase italic tracking-tighter text-[#00578E]">Perché scegliere <br/><span class="text-[#FFDEA5] bg-[#00578E] px-4 py-1 rounded-2xl not-italic">Jolly Care?</span></h2>
+            <p class="text-lg text-outline italic leading-relaxed">
+                Il nostro obiettivo non è venderti prodotti, ma garantirti un'acqua perfetta con il minimo sforzo. Grazie all'integrazione tra diagnostica cloud e rete di assistenza sul territorio, Jolly Care trasforma la tua piscina in un ecosistema autonomo e sicuro.
+            </p>
+            <div class="grid grid-cols-2 gap-8">
+                <div class="space-y-2">
+                    <p class="text-3xl font-black text-[#00578E]">15min</p>
+                    <p class="text-[9px] font-black uppercase tracking-widest text-outline">Tempo Risposta VIP</p>
+                </div>
+                <div class="space-y-2">
+                    <p class="text-3xl font-black text-[#00578E]">H24</p>
+                    <p class="text-[9px] font-black uppercase tracking-widest text-outline">Monitoraggio Cloud</p>
+                </div>
+            </div>
+        </div>
+        <div class="relative">
+            <div class="aspect-square bg-[#00578E] rounded-[48px] overflow-hidden shadow-2xl relative group">
+                <img src="https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSOI5Tk8kl_fUHkHjX731cK3fF-kYAfphAJZF1jhdCRc8Vcq2htnH2MfPqXEG44gWS2hjy8puPwFSOmUb1pE1-Ii05FBCl3TCOUm18KHp0kP9kJiwEg8PqI939-FKR3qqCM3w" class="w-full h-full object-cover opacity-80 group-hover:scale-110 transition-transform duration-1000" alt="Blue Connect">
+                <div class="absolute inset-0 bg-gradient-to-t from-[#001945] via-transparent to-transparent"></div>
+                <div class="absolute bottom-10 left-10 text-white space-y-2">
+                    <p class="text-[10px] font-black uppercase tracking-widest text-[#FFDEA5]">Incluso nel piano GOLD</p>
+                    <p class="text-2xl font-black italic uppercase leading-none">Blue Connect Plus</p>
+                </div>
+            </div>
+        </div>
+    </section>
+</div>
+
+<script>
+  function buyPlan(id) {
+    fetch('/cart/add.js', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({ items: [{ id: id, quantity: 1, selling_plan: "692465828188" }] })
+    }).then(() => window.location.href = "/checkout");
+  }
+</script>
+
+{% schema %}
+{ "name": "Landing Piani" }
+{% endschema %}

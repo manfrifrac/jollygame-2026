@@ -1,0 +1,26 @@
+# Learn more about configuring your app at https://shopify.dev/docs/apps/tools/cli/configuration
+
+client_id = "d616f7dc87082f688892cc90094362c1"
+name = "jollygame-importer"
+application_url = "https://jollygamepiscine.myshopify.com"
+embedded = true
+
+[build]
+automatically_update_urls_on_dev = true
+
+[webhooks]
+api_version = "2024-10"
+
+  [[webhooks.subscriptions]]
+  topics = [ "app/uninstalled" ]
+  uri = "https://example.com/webhooks/uninstalled"
+
+[access_scopes]
+# Learn more at https://shopify.dev/docs/apps/tools/cli/configuration#access_scopes
+scopes = "read_content,read_files,read_metaobject_definitions,read_metaobjects,read_products,read_publications,write_content,write_files,write_metaobject_definitions,write_metaobjects,write_online_store_navigation,write_products,write_publications"
+
+[auth]
+redirect_urls = [
+  "http://localhost:3000/auth/callback",
+  "https://localhost:3000/auth/callback"
+]

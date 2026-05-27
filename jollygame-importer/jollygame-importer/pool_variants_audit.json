@@ -1,0 +1,1630 @@
+[
+  {
+    "title": "Piscina Ovale Pacific",
+    "vendor": "Gre",
+    "status": "ACTIVE",
+    "total_variants": 3,
+    "issues": [],
+    "variant_details": [
+      {
+        "name": "500 x 300",
+        "sku": "KIT500W",
+        "price": "2106.35",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "610 x 375",
+        "sku": "KIT610W",
+        "price": "2625.47",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "730 x 375",
+        "sku": "KIT730W",
+        "price": "3084.85",
+        "stock": 10,
+        "available": true
+      }
+    ]
+  },
+  {
+    "title": "Piscina Ovale Sicilia",
+    "vendor": "Gre",
+    "status": "ACTIVE",
+    "total_variants": 1,
+    "issues": [],
+    "variant_details": [
+      {
+        "name": "500 x 300",
+        "sku": "KITPROV503W",
+        "price": "1838.55",
+        "stock": 10,
+        "available": true
+      }
+    ]
+  },
+  {
+    "title": "Piscina City Quadrata",
+    "vendor": "Gre",
+    "status": "ACTIVE",
+    "total_variants": 2,
+    "issues": [],
+    "variant_details": [
+      {
+        "name": "225 x 225",
+        "sku": "790000",
+        "price": "1725.25",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "305 x 305",
+        "sku": "WPCARR3",
+        "price": "4985.20",
+        "stock": 10,
+        "available": true
+      }
+    ]
+  },
+  {
+    "title": "Piscina Rotonda Lili 2",
+    "vendor": "Gre",
+    "status": "ACTIVE",
+    "total_variants": 4,
+    "issues": [],
+    "variant_details": [
+      {
+        "name": "Ø280",
+        "sku": "800008",
+        "price": "2872.67",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "Ø400",
+        "sku": "800002",
+        "price": "3543.20",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "Ø428",
+        "sku": "790302",
+        "price": "4506.25",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "Ø500",
+        "sku": "800003",
+        "price": "5134.55",
+        "stock": 10,
+        "available": true
+      }
+    ]
+  },
+  {
+    "title": "Piscina Ovale Grenade 2",
+    "vendor": "Gre",
+    "status": "ACTIVE",
+    "total_variants": 8,
+    "issues": [
+      "1 varianti con prezzo 0"
+    ],
+    "variant_details": [
+      {
+        "name": "436 x 336",
+        "sku": "7900862",
+        "price": "5943.10",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "535 x 335",
+        "sku": "7900872",
+        "price": "6808.30",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "535 x 335 (WPBAMB2)",
+        "sku": "WPBAMB2",
+        "price": "7045.20",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "632 x 335",
+        "sku": "KPBOC632",
+        "price": "8085.50",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "656 x 456",
+        "sku": "790203",
+        "price": "8579.90",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "620 x 395",
+        "sku": "7900892",
+        "price": "8837.40",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "755 x 456",
+        "sku": "800007",
+        "price": "0.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "672 x 472",
+        "sku": "790098",
+        "price": "9743.80",
+        "stock": 10,
+        "available": true
+      }
+    ]
+  },
+  {
+    "title": "Piscina Marbella 2 Rettangolare",
+    "vendor": "Gre",
+    "status": "ACTIVE",
+    "total_variants": 5,
+    "issues": [],
+    "variant_details": [
+      {
+        "name": "420 x 270",
+        "sku": "7900962",
+        "price": "8394.50",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "520 x 320",
+        "sku": "WPPAPA",
+        "price": "6303.60",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "620 x 420",
+        "sku": "790206",
+        "price": "11113.70",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "815 x 420",
+        "sku": "790207",
+        "price": "13307.60",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "1010 x 418",
+        "sku": "788032",
+        "price": "18385.50",
+        "stock": 10,
+        "available": true
+      }
+    ]
+  },
+  {
+    "title": "Piscina in pietra Sumatra ovale",
+    "vendor": "Gre",
+    "status": "ACTIVE",
+    "total_variants": 4,
+    "issues": [],
+    "variant_details": [
+      {
+        "name": "500 x 300",
+        "sku": "KPEOV5027",
+        "price": "3047.77",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "600 x 320",
+        "sku": "KPEOV6027",
+        "price": "3213.60",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "700 x 320",
+        "sku": "KPEOV7027",
+        "price": "3356.77",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "800 x 400",
+        "sku": "KPEOV8027",
+        "price": "3986.10",
+        "stock": 10,
+        "available": true
+      }
+    ]
+  },
+  {
+    "title": "Piscina Madagascar Ovale",
+    "vendor": "Gre",
+    "status": "ACTIVE",
+    "total_variants": 4,
+    "issues": [],
+    "variant_details": [
+      {
+        "name": "500 x 300",
+        "sku": "KPEOV5059",
+        "price": "4201.37",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "600 x 320",
+        "sku": "KPEOV6059",
+        "price": "4407.37",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "700 x 320",
+        "sku": "KPEOV7059",
+        "price": "4619.55",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "800 x 400",
+        "sku": "KPEOV8059",
+        "price": "5036.70",
+        "stock": 10,
+        "available": true
+      }
+    ]
+  },
+  {
+    "title": "Piscina Madagascar Rotonda",
+    "vendor": "Gre",
+    "status": "ACTIVE",
+    "total_variants": 1,
+    "issues": [],
+    "variant_details": [
+      {
+        "name": "Ø420",
+        "sku": "KPE4259",
+        "price": "3362.95",
+        "stock": 10,
+        "available": true
+      }
+    ]
+  },
+  {
+    "title": "Piscina Rotonda Sumatra",
+    "vendor": "Gre",
+    "status": "ACTIVE",
+    "total_variants": 2,
+    "issues": [],
+    "variant_details": [
+      {
+        "name": "Ø350",
+        "sku": "KPE3527",
+        "price": "2569.85",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "Ø420",
+        "sku": "KPE4227",
+        "price": "2729.50",
+        "stock": 10,
+        "available": true
+      }
+    ]
+  },
+  {
+    "title": "Piscina Bora Bora Rotonda",
+    "vendor": "Gre",
+    "status": "ACTIVE",
+    "total_variants": 3,
+    "issues": [],
+    "variant_details": [
+      {
+        "name": "Ø300",
+        "sku": "KITPR303",
+        "price": "998.07",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "Ø350",
+        "sku": "KITPR353",
+        "price": "1049.57",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "Ø460",
+        "sku": "KITPR453",
+        "price": "1234.97",
+        "stock": 10,
+        "available": true
+      }
+    ]
+  },
+  {
+    "title": "Piscina Haiti Ovale",
+    "vendor": "Gre",
+    "status": "ACTIVE",
+    "total_variants": 4,
+    "issues": [],
+    "variant_details": [
+      {
+        "name": "610 x 375",
+        "sku": "KITPROV6188",
+        "price": "3877.95",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "730 x 375",
+        "sku": "KITPROV7388",
+        "price": "4423.85",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "915 x 470",
+        "sku": "KITPROV9188",
+        "price": "5721.65",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "1000 x 550",
+        "sku": "KITPROV10288",
+        "price": "6174.85",
+        "stock": 10,
+        "available": true
+      }
+    ]
+  },
+  {
+    "title": "Piscina Pacific Rotonda",
+    "vendor": "Gre",
+    "status": "ACTIVE",
+    "total_variants": 4,
+    "issues": [],
+    "variant_details": [
+      {
+        "name": "Ø240",
+        "sku": "KIT240W",
+        "price": "1282.35",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "Ø300",
+        "sku": "KIT300W",
+        "price": "1416.25",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "Ø350",
+        "sku": "KIT350W",
+        "price": "1467.75",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "Ø460",
+        "sku": "KIT460W",
+        "price": "1678.90",
+        "stock": 10,
+        "available": true
+      }
+    ]
+  },
+  {
+    "title": "Piscina Mauritius Ovale",
+    "vendor": "Gre",
+    "status": "ACTIVE",
+    "total_variants": 3,
+    "issues": [],
+    "variant_details": [
+      {
+        "name": "500 x 300",
+        "sku": "KITPROV508WO",
+        "price": "2863.40",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "610 x 375",
+        "sku": "KITPROV618WO",
+        "price": "3167.25",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "730 x 375",
+        "sku": "KITPROV738WO",
+        "price": "3790.40",
+        "stock": 10,
+        "available": true
+      }
+    ]
+  },
+  {
+    "title": "Piscina Anthracite Ovale",
+    "vendor": "Gre",
+    "status": "ACTIVE",
+    "total_variants": 3,
+    "issues": [],
+    "variant_details": [
+      {
+        "name": "500 x 300",
+        "sku": "KITPROV508GY",
+        "price": "2656.37",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "610 x 375",
+        "sku": "KITPROV618GY",
+        "price": "2935.50",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "730 x 375",
+        "sku": "KITPROV738GY",
+        "price": "3388.70",
+        "stock": 10,
+        "available": true
+      }
+    ]
+  },
+  {
+    "title": "Piscina Fidji Ovale",
+    "vendor": "Gre",
+    "status": "ACTIVE",
+    "total_variants": 3,
+    "issues": [],
+    "variant_details": [
+      {
+        "name": "500 x 300",
+        "sku": "KIT500ECO",
+        "price": "1848.85",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "610 x 375",
+        "sku": "KIT610ECO",
+        "price": "2003.35",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "730 x 375",
+        "sku": "KIT730ECO",
+        "price": "2569.85",
+        "stock": 10,
+        "available": true
+      }
+    ]
+  },
+  {
+    "title": "Piscina forma di otto Varadero",
+    "vendor": "Gre",
+    "status": "ACTIVE",
+    "total_variants": 2,
+    "issues": [],
+    "variant_details": [
+      {
+        "name": "500 x 340",
+        "sku": "KITPROV4870",
+        "price": "2832.50",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "640 x 390",
+        "sku": "KITPROV6270",
+        "price": "3284.67",
+        "stock": 10,
+        "available": true
+      }
+    ]
+  },
+  {
+    "title": "Piscina Fidji Rotonda",
+    "vendor": "Gre",
+    "status": "ACTIVE",
+    "total_variants": 5,
+    "issues": [],
+    "variant_details": [
+      {
+        "name": "Ø240",
+        "sku": "KIT240ECO",
+        "price": "1131.97",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "Ø300",
+        "sku": "KIT300ECO",
+        "price": "1230.85",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "Ø350",
+        "sku": "KIT350ECO",
+        "price": "1282.35",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "Ø460",
+        "sku": "KIT460ECO",
+        "price": "1467.75",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "Ø550",
+        "sku": "KIT550ECO",
+        "price": "1678.90",
+        "stock": 10,
+        "available": true
+      }
+    ]
+  },
+  {
+    "title": "Piscina Sicilia Rotonda",
+    "vendor": "Gre",
+    "status": "ACTIVE",
+    "total_variants": 3,
+    "issues": [],
+    "variant_details": [
+      {
+        "name": "Ø300",
+        "sku": "KITPR303W",
+        "price": "1204.07",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "Ø350",
+        "sku": "KITPR353W",
+        "price": "1261.75",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "Ø460",
+        "sku": "KITPR453W",
+        "price": "1467.75",
+        "stock": 10,
+        "available": true
+      }
+    ]
+  },
+  {
+    "title": "Piscina Bora Bora Ovale",
+    "vendor": "Gre",
+    "status": "ACTIVE",
+    "total_variants": 2,
+    "issues": [],
+    "variant_details": [
+      {
+        "name": "500 x 300",
+        "sku": "KITPROV503",
+        "price": "1708.77",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "610 x 375",
+        "sku": "KITPROV613",
+        "price": "1890.05",
+        "stock": 10,
+        "available": true
+      }
+    ]
+  },
+  {
+    "title": "Piscina Atlantis Ovale",
+    "vendor": "Gre",
+    "status": "ACTIVE",
+    "total_variants": 6,
+    "issues": [],
+    "variant_details": [
+      {
+        "name": "500 x 300",
+        "sku": "KITPROV508",
+        "price": "2518.35",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "610 x 375",
+        "sku": "KITPROV618",
+        "price": "2811.90",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "730 x 375",
+        "sku": "KITPROV738",
+        "price": "3342.35",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "800 x 470",
+        "sku": "KITPROV818",
+        "price": "4006.70",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "915 x 470",
+        "sku": "KITPROV918",
+        "price": "4629.85",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "1000 x 550",
+        "sku": "KITPROV1028",
+        "price": "6051.25",
+        "stock": 10,
+        "available": true
+      }
+    ]
+  },
+  {
+    "title": "Piscina Anthracite Rotonda",
+    "vendor": "Gre",
+    "status": "ACTIVE",
+    "total_variants": 2,
+    "issues": [],
+    "variant_details": [
+      {
+        "name": "Ø350",
+        "sku": "KITPR358GY",
+        "price": "1895.20",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "Ø460",
+        "sku": "KITPR458GY",
+        "price": "2142.40",
+        "stock": 10,
+        "available": true
+      }
+    ]
+  },
+  {
+    "title": "Piscina Amazonia Ovale",
+    "vendor": "Gre",
+    "status": "ACTIVE",
+    "total_variants": 2,
+    "issues": [],
+    "variant_details": [
+      {
+        "name": "610 x 375",
+        "sku": "KITPROV6188WO",
+        "price": "4006.70",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "730 x 375",
+        "sku": "KITPROV7388WO",
+        "price": "4707.10",
+        "stock": 10,
+        "available": true
+      }
+    ]
+  },
+  {
+    "title": "Piscina Aqualoon ovale",
+    "vendor": "Gre",
+    "status": "ACTIVE",
+    "total_variants": 2,
+    "issues": [],
+    "variant_details": [
+      {
+        "name": "500 x 300",
+        "sku": "KIT500GYQGRE",
+        "price": "1646.97",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "610 x 375",
+        "sku": "KIT610GYQGRE",
+        "price": "1914.77",
+        "stock": 10,
+        "available": true
+      }
+    ]
+  },
+  {
+    "title": "Piscina Aqualoon rotonda",
+    "vendor": "Gre",
+    "status": "ACTIVE",
+    "total_variants": 3,
+    "issues": [],
+    "variant_details": [
+      {
+        "name": "Ø300",
+        "sku": "KIT300GYQGRE",
+        "price": "1080.47",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "Ø350",
+        "sku": "KIT350GYQGRE",
+        "price": "1214.37",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "Ø460",
+        "sku": "KIT460GYQGRE",
+        "price": "1337.97",
+        "stock": 10,
+        "available": true
+      }
+    ]
+  },
+  {
+    "title": "Piscina Finlandia Ovale",
+    "vendor": "Gre",
+    "status": "ACTIVE",
+    "total_variants": 3,
+    "issues": [],
+    "variant_details": [
+      {
+        "name": "500 x 300",
+        "sku": "KIT500N",
+        "price": "2106.35",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "610 x 375",
+        "sku": "KIT610N",
+        "price": "2625.47",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "730 x 375",
+        "sku": "KIT730N",
+        "price": "3084.85",
+        "stock": 10,
+        "available": true
+      }
+    ]
+  },
+  {
+    "title": "Piscina Finlandia Rotonda",
+    "vendor": "Gre",
+    "status": "ACTIVE",
+    "total_variants": 4,
+    "issues": [],
+    "variant_details": [
+      {
+        "name": "Ø240",
+        "sku": "KIT240N",
+        "price": "1282.35",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "KIT300N",
+        "sku": "KIT300N",
+        "price": "1416.25",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "KIT350N",
+        "sku": "KIT350N",
+        "price": "1467.75",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "KIT460N",
+        "sku": "KIT460N",
+        "price": "1678.90",
+        "stock": 10,
+        "available": true
+      }
+    ]
+  },
+  {
+    "title": "Piscina Mauritius Rotonda",
+    "vendor": "Gre",
+    "status": "ACTIVE",
+    "total_variants": 3,
+    "issues": [],
+    "variant_details": [
+      {
+        "name": "Ø350",
+        "sku": "KITPR358WO",
+        "price": "2106.35",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "Ø460",
+        "sku": "KITPR458WO",
+        "price": "2271.15",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "Ø550",
+        "sku": "KITPR558WO",
+        "price": "2811.90",
+        "stock": 10,
+        "available": true
+      }
+    ]
+  },
+  {
+    "title": "Piscina Atlantis Rotonda",
+    "vendor": "Gre",
+    "status": "ACTIVE",
+    "total_variants": 3,
+    "issues": [],
+    "variant_details": [
+      {
+        "name": "Ø350",
+        "sku": "KITPR358",
+        "price": "1884.90",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "Ø460",
+        "sku": "KITPR458",
+        "price": "2209.35",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "Ø550",
+        "sku": "KITPR558",
+        "price": "2538.95",
+        "stock": 10,
+        "available": true
+      }
+    ]
+  },
+  {
+    "title": "Piscina Avantgarde Rotonda",
+    "vendor": "Gre",
+    "status": "ACTIVE",
+    "total_variants": 1,
+    "issues": [],
+    "variant_details": [
+      {
+        "name": "Ø410",
+        "sku": "KPCO41",
+        "price": "5592.90",
+        "stock": 10,
+        "available": true
+      }
+    ]
+  },
+  {
+    "title": "Piscina Avantgarde Rettangolare",
+    "vendor": "Gre",
+    "status": "ACTIVE",
+    "total_variants": 4,
+    "issues": [],
+    "variant_details": [
+      {
+        "name": "315 x 175",
+        "sku": "KPCOR2814T",
+        "price": "4351.75",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "455 x 315",
+        "sku": "KPCOR46T",
+        "price": "8290.47",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "595 x 315",
+        "sku": "KPCOR60T",
+        "price": "10397.85",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "595 x 315 (KPCOR60LT)",
+        "sku": "KPCOR60LT",
+        "price": "10500.85",
+        "stock": 10,
+        "available": true
+      }
+    ]
+  },
+  {
+    "title": "Piscina Avantgarde Quadrata",
+    "vendor": "Gre",
+    "status": "ACTIVE",
+    "total_variants": 1,
+    "issues": [],
+    "variant_details": [
+      {
+        "name": "315 x 315",
+        "sku": "KPCOR28T",
+        "price": "5247.85",
+        "stock": 10,
+        "available": true
+      }
+    ]
+  },
+  {
+    "title": "Piscina Avantgarde Ovale",
+    "vendor": "Gre",
+    "status": "ACTIVE",
+    "total_variants": 5,
+    "issues": [],
+    "variant_details": [
+      {
+        "name": "524 x 386",
+        "sku": "KPCOV52",
+        "price": "7436.60",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "524 x 386 (KPCOV52L)",
+        "sku": "KPCOV52L",
+        "price": "7498.40",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "664 x 386",
+        "sku": "KPCOV66",
+        "price": "9218.50",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "664 x 386 (KPCOV66L)",
+        "sku": "KPCOV66L",
+        "price": "9393.60",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "804 x 386",
+        "sku": "KPCOV80",
+        "price": "10866.50",
+        "stock": 10,
+        "available": true
+      }
+    ]
+  },
+  {
+    "title": "Bluespring",
+    "vendor": "Piscine Laghetto",
+    "status": "DRAFT",
+    "total_variants": 1,
+    "issues": [
+      "1 varianti con prezzo 0",
+      "1 varianti senza SKU"
+    ],
+    "variant_details": [
+      {
+        "name": "Default Title",
+        "sku": null,
+        "price": "0.00",
+        "stock": 0,
+        "available": true
+      }
+    ]
+  },
+  {
+    "title": "Ninfea Thiny",
+    "vendor": "Piscine Laghetto",
+    "status": "DRAFT",
+    "total_variants": 1,
+    "issues": [
+      "1 varianti con prezzo 0",
+      "1 varianti senza SKU"
+    ],
+    "variant_details": [
+      {
+        "name": "Default Title",
+        "sku": null,
+        "price": "0.00",
+        "stock": 0,
+        "available": true
+      }
+    ]
+  },
+  {
+    "title": "Dolcevita Naked",
+    "vendor": "Piscine Laghetto",
+    "status": "DRAFT",
+    "total_variants": 1,
+    "issues": [
+      "1 varianti con prezzo 0",
+      "1 varianti senza SKU"
+    ],
+    "variant_details": [
+      {
+        "name": "Default Title",
+        "sku": null,
+        "price": "0.00",
+        "stock": 0,
+        "available": true
+      }
+    ]
+  },
+  {
+    "title": "City",
+    "vendor": "Piscine Laghetto",
+    "status": "DRAFT",
+    "total_variants": 1,
+    "issues": [
+      "1 varianti con prezzo 0",
+      "1 varianti senza SKU"
+    ],
+    "variant_details": [
+      {
+        "name": "Default Title",
+        "sku": null,
+        "price": "0.00",
+        "stock": 0,
+        "available": true
+      }
+    ]
+  },
+  {
+    "title": "Dolcevita Diva LTI",
+    "vendor": "Piscine Laghetto",
+    "status": "DRAFT",
+    "total_variants": 1,
+    "issues": [
+      "1 varianti con prezzo 0",
+      "1 varianti senza SKU"
+    ],
+    "variant_details": [
+      {
+        "name": "Default Title",
+        "sku": null,
+        "price": "0.00",
+        "stock": 0,
+        "available": true
+      }
+    ]
+  },
+  {
+    "title": "Classic",
+    "vendor": "Piscine Laghetto",
+    "status": "DRAFT",
+    "total_variants": 1,
+    "issues": [
+      "1 varianti con prezzo 0",
+      "1 varianti senza SKU"
+    ],
+    "variant_details": [
+      {
+        "name": "Default Title",
+        "sku": null,
+        "price": "0.00",
+        "stock": 0,
+        "available": true
+      }
+    ]
+  },
+  {
+    "title": "Playa",
+    "vendor": "Piscine Laghetto",
+    "status": "DRAFT",
+    "total_variants": 1,
+    "issues": [
+      "1 varianti con prezzo 0",
+      "1 varianti senza SKU"
+    ],
+    "variant_details": [
+      {
+        "name": "Default Title",
+        "sku": null,
+        "price": "0.00",
+        "stock": 0,
+        "available": true
+      }
+    ]
+  },
+  {
+    "title": "Pop!",
+    "vendor": "Piscine Laghetto",
+    "status": "DRAFT",
+    "total_variants": 1,
+    "issues": [
+      "1 varianti con prezzo 0",
+      "1 varianti senza SKU"
+    ],
+    "variant_details": [
+      {
+        "name": "Default Title",
+        "sku": null,
+        "price": "0.00",
+        "stock": 0,
+        "available": true
+      }
+    ]
+  },
+  {
+    "title": "Antea",
+    "vendor": "Piscine Laghetto",
+    "status": "DRAFT",
+    "total_variants": 1,
+    "issues": [
+      "1 varianti con prezzo 0",
+      "1 varianti senza SKU"
+    ],
+    "variant_details": [
+      {
+        "name": "Default Title",
+        "sku": null,
+        "price": "0.00",
+        "stock": 0,
+        "available": true
+      }
+    ]
+  },
+  {
+    "title": "Ninfea",
+    "vendor": "Piscine Laghetto",
+    "status": "DRAFT",
+    "total_variants": 1,
+    "issues": [
+      "1 varianti con prezzo 0",
+      "1 varianti senza SKU"
+    ],
+    "variant_details": [
+      {
+        "name": "Default Title",
+        "sku": null,
+        "price": "0.00",
+        "stock": 0,
+        "available": true
+      }
+    ]
+  },
+  {
+    "title": "Dolcevita Rattan",
+    "vendor": "Piscine Laghetto",
+    "status": "DRAFT",
+    "total_variants": 1,
+    "issues": [
+      "1 varianti con prezzo 0",
+      "1 varianti senza SKU"
+    ],
+    "variant_details": [
+      {
+        "name": "Default Title",
+        "sku": null,
+        "price": "0.00",
+        "stock": 0,
+        "available": true
+      }
+    ]
+  },
+  {
+    "title": "Professional",
+    "vendor": "Piscine Laghetto",
+    "status": "DRAFT",
+    "total_variants": 1,
+    "issues": [
+      "1 varianti con prezzo 0",
+      "1 varianti senza SKU"
+    ],
+    "variant_details": [
+      {
+        "name": "Default Title",
+        "sku": null,
+        "price": "0.00",
+        "stock": 0,
+        "available": true
+      }
+    ]
+  },
+  {
+    "title": "Musa",
+    "vendor": "Piscine Laghetto",
+    "status": "DRAFT",
+    "total_variants": 1,
+    "issues": [
+      "1 varianti con prezzo 0",
+      "1 varianti senza SKU"
+    ],
+    "variant_details": [
+      {
+        "name": "Default Title",
+        "sku": null,
+        "price": "0.00",
+        "stock": 0,
+        "available": true
+      }
+    ]
+  },
+  {
+    "title": "Dolcevita Diva",
+    "vendor": "Piscine Laghetto",
+    "status": "DRAFT",
+    "total_variants": 1,
+    "issues": [
+      "1 varianti con prezzo 0",
+      "1 varianti senza SKU"
+    ],
+    "variant_details": [
+      {
+        "name": "Default Title",
+        "sku": null,
+        "price": "0.00",
+        "stock": 0,
+        "available": true
+      }
+    ]
+  },
+  {
+    "title": "Piscina Power Steel Rettangolare",
+    "vendor": "Intex",
+    "status": "DRAFT",
+    "total_variants": 1,
+    "issues": [
+      "1 varianti con prezzo 0",
+      "1 varianti senza SKU"
+    ],
+    "variant_details": [
+      {
+        "name": "975x488x132cm",
+        "sku": null,
+        "price": "0.00",
+        "stock": 0,
+        "available": true
+      }
+    ]
+  },
+  {
+    "title": "Piscina Power Steel Rotonda",
+    "vendor": "Intex",
+    "status": "DRAFT",
+    "total_variants": 1,
+    "issues": [
+      "1 varianti con prezzo 0",
+      "1 varianti senza SKU"
+    ],
+    "variant_details": [
+      {
+        "name": "732x132cm",
+        "sku": null,
+        "price": "0.00",
+        "stock": 0,
+        "available": true
+      }
+    ]
+  },
+  {
+    "title": "Piscina Power Steel Rettangolare",
+    "vendor": "Intex",
+    "status": "DRAFT",
+    "total_variants": 1,
+    "issues": [
+      "1 varianti con prezzo 0",
+      "1 varianti senza SKU"
+    ],
+    "variant_details": [
+      {
+        "name": "975x488x132cm",
+        "sku": null,
+        "price": "0.00",
+        "stock": 0,
+        "available": true
+      }
+    ]
+  },
+  {
+    "title": "Piscina Power Steel Rotonda",
+    "vendor": "Intex",
+    "status": "DRAFT",
+    "total_variants": 1,
+    "issues": [
+      "1 varianti con prezzo 0",
+      "1 varianti senza SKU"
+    ],
+    "variant_details": [
+      {
+        "name": "732x132cm",
+        "sku": null,
+        "price": "0.00",
+        "stock": 0,
+        "available": true
+      }
+    ]
+  },
+  {
+    "title": "Piscina Prisma Frame Ovale",
+    "vendor": "Intex",
+    "status": "ACTIVE",
+    "total_variants": 2,
+    "issues": [
+      "2 varianti non vendibili"
+    ],
+    "variant_details": [
+      {
+        "name": "610x305x122cm",
+        "sku": "26798NP",
+        "price": "1206.57",
+        "stock": 0,
+        "available": false
+      },
+      {
+        "name": "503x274",
+        "sku": "26796NP",
+        "price": "1074.04",
+        "stock": 0,
+        "available": false
+      }
+    ]
+  },
+  {
+    "title": "Piscina Prisma Frame Rotonda",
+    "vendor": "Intex",
+    "status": "DRAFT",
+    "total_variants": 1,
+    "issues": [
+      "1 varianti con prezzo 0",
+      "1 varianti senza SKU"
+    ],
+    "variant_details": [
+      {
+        "name": "610x132cm",
+        "sku": null,
+        "price": "0.00",
+        "stock": 0,
+        "available": true
+      }
+    ]
+  },
+  {
+    "title": "Piscina Prisma Frame Rettangolare",
+    "vendor": "Intex",
+    "status": "DRAFT",
+    "total_variants": 1,
+    "issues": [
+      "1 varianti con prezzo 0",
+      "1 varianti senza SKU"
+    ],
+    "variant_details": [
+      {
+        "name": "400x200cm",
+        "sku": null,
+        "price": "0.00",
+        "stock": 0,
+        "available": true
+      }
+    ]
+  },
+  {
+    "title": "Piscina Metallica Rotonda",
+    "vendor": "Intex",
+    "status": "DRAFT",
+    "total_variants": 1,
+    "issues": [
+      "1 varianti con prezzo 0",
+      "1 varianti senza SKU"
+    ],
+    "variant_details": [
+      {
+        "name": "457x122cm",
+        "sku": null,
+        "price": "0.00",
+        "stock": 0,
+        "available": true
+      }
+    ]
+  },
+  {
+    "title": "Piscina Easy Set Idromassaggio",
+    "vendor": "Intex",
+    "status": "ACTIVE",
+    "total_variants": 1,
+    "issues": [
+      "1 varianti non vendibili"
+    ],
+    "variant_details": [
+      {
+        "name": "457x122cm",
+        "sku": "26168NP",
+        "price": "485.56",
+        "stock": 0,
+        "available": false
+      }
+    ]
+  },
+  {
+    "title": "Piscina Metallica Rettangolare",
+    "vendor": "Intex",
+    "status": "ACTIVE",
+    "total_variants": 2,
+    "issues": [
+      "2 varianti non vendibili"
+    ],
+    "variant_details": [
+      {
+        "name": "4,50x2,20x0,84m",
+        "sku": "28274NP",
+        "price": "331.55",
+        "stock": 0,
+        "available": false
+      },
+      {
+        "name": "4,5x2,2x0,84m",
+        "sku": "28273NP",
+        "price": "276.71",
+        "stock": 0,
+        "available": false
+      }
+    ]
+  },
+  {
+    "title": "Piscina Power Metallica Rotonda",
+    "vendor": "Intex",
+    "status": "ACTIVE",
+    "total_variants": 1,
+    "issues": [
+      "1 varianti non vendibili"
+    ],
+    "variant_details": [
+      {
+        "name": "Misura+Struttura",
+        "sku": "28206NP",
+        "price": "164.43",
+        "stock": 0,
+        "available": false
+      }
+    ]
+  },
+  {
+    "title": "Piscina Power Steel Metallica",
+    "vendor": "Intex",
+    "status": "ACTIVE",
+    "total_variants": 1,
+    "issues": [
+      "1 varianti non vendibili"
+    ],
+    "variant_details": [
+      {
+        "name": "Misura+Inflabile",
+        "sku": "28200NP",
+        "price": "151.67",
+        "stock": 0,
+        "available": false
+      }
+    ]
+  },
+  {
+    "title": "Piscina Rectangolare Intex 220x150x60cm 28266NP",
+    "vendor": "Intex",
+    "status": "ACTIVE",
+    "total_variants": 1,
+    "issues": [
+      "1 varianti non vendibili"
+    ],
+    "variant_details": [
+      {
+        "name": "Standard",
+        "sku": "28266NP",
+        "price": "128.63",
+        "stock": 0,
+        "available": false
+      }
+    ]
+  },
+  {
+    "title": "Piscina Power Pietra",
+    "vendor": "Intex",
+    "status": "ACTIVE",
+    "total_variants": 1,
+    "issues": [
+      "1 varianti non vendibili"
+    ],
+    "variant_details": [
+      {
+        "name": "Misura",
+        "sku": "28270NP",
+        "price": "127.68",
+        "stock": 0,
+        "available": false
+      }
+    ]
+  },
+  {
+    "title": "Piscina Prisma Frame",
+    "vendor": "Intex",
+    "status": "ACTIVE",
+    "total_variants": 1,
+    "issues": [
+      "1 varianti non vendibili"
+    ],
+    "variant_details": [
+      {
+        "name": "Rettangolare 4x2m",
+        "sku": "26770NP",
+        "price": "1136.63",
+        "stock": 0,
+        "available": false
+      }
+    ]
+  },
+  {
+    "title": "Piscina Easy Set",
+    "vendor": "Intex",
+    "status": "DRAFT",
+    "total_variants": 1,
+    "issues": [
+      "1 varianti con prezzo 0",
+      "1 varianti senza SKU"
+    ],
+    "variant_details": [
+      {
+        "name": "175x71cm",
+        "sku": null,
+        "price": "0.00",
+        "stock": 0,
+        "available": true
+      }
+    ]
+  },
+  {
+    "title": "Piscina Bestway Solo Struttura",
+    "vendor": "Bestway",
+    "status": "DRAFT",
+    "total_variants": 1,
+    "issues": [
+      "1 varianti non vendibili"
+    ],
+    "variant_details": [
+      {
+        "name": "Grigio Scuro, 956x488x132cm",
+        "sku": "56936-5",
+        "price": "999.00",
+        "stock": 0,
+        "available": false
+      }
+    ]
+  }
+]

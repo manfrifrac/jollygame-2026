@@ -1,0 +1,51 @@
+<div class="max-w-7xl mx-auto px-6 md:px-10 py-12 mb-20 text-primary">
+  <div class="flex flex-col md:flex-row justify-between items-end gap-6 mb-16 border-b border-outline-variant/10 pb-10">
+      <div class="space-y-4">
+          <h1 class="text-5xl md:text-7xl font-black uppercase italic tracking-tighter leading-none">Showroom</h1>
+          <p class="text-on-surface-variant font-medium text-xl text-primary">Esplora l'universo Jolly Care diviso per categorie specialistiche.</p>
+      </div>
+  </div>
+
+  <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8">
+    {%- for collection in collections -%}
+      <a href="{{ collection.url }}" class="group relative rounded-[48px] overflow-hidden shadow-sm hover:shadow-2xl transition-all duration-700 aspect-[4/5] bg-surface-container-low border border-outline-variant/5">
+        {%- if collection.image -%}
+          <img 
+            src="{{ collection.image | image_url: width: 800 }}" 
+            alt="{{ collection.title }}" 
+            class="absolute inset-0 w-full h-full object-cover group-hover:scale-110 transition-transform duration-1000"
+            loading="lazy"
+          >
+        {%- elsif collection.products.first.featured_image -%}
+          <img 
+            src="{{ collection.products.first.featured_image | image_url: width: 800 }}" 
+            alt="{{ collection.title }}" 
+            class="absolute inset-0 w-full h-full object-cover opacity-40 group-hover:scale-110 transition-transform duration-1000"
+            loading="lazy"
+          >
+        {%- endif -%}
+        
+        <div class="absolute inset-0 bg-gradient-to-t from-primary/90 via-primary/20 to-transparent flex flex-col justify-end p-10 text-white">
+            <div class="space-y-2 transform translate-y-4 group-hover:translate-y-0 transition-transform duration-500">
+                <span class="bg-tertiary-fixed text-on-tertiary-fixed px-3 py-1 rounded-full text-[8px] font-black uppercase tracking-widest shadow-lg">
+                    {{ collection.all_products_count }} Prodotti
+                </span>
+                <h3 class="text-3xl font-black uppercase italic tracking-tighter leading-none drop-shadow-lg">
+                    {{ collection.title }}
+                </h3>
+                <p class="text-[10px] font-black uppercase tracking-[0.2em] opacity-0 group-hover:opacity-100 transition-opacity">
+                    Sfoglia Categoria <span class="material-symbols-outlined text-[14px] align-middle">arrow_forward</span>
+                </p>
+            </div>
+        </div>
+      </a>
+    {%- endfor -%}
+  </div>
+</div>
+
+{% schema %}
+{
+  "name": "List Collections Jolly",
+  "settings": []
+}
+{% endschema %}

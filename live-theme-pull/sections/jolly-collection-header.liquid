@@ -1,0 +1,44 @@
+{% comment %}
+  Jolly Collection Header - Versione Marketing Dinamica 2026
+  Banner promozionale in base al ruolo utente
+{% endcomment %}
+
+<div class="max-w-7xl mx-auto mt-8 mb-12 px-4 sm:px-6 lg:px-8">
+    <header class="relative overflow-hidden rounded-[48px] bg-surface-container-low text-primary p-10 md:p-16 border border-outline-variant/10 shadow-sm mb-8">
+        <div class="absolute inset-0 opacity-[0.03] pointer-events-none" style="background-image: radial-gradient(#002366 1px, transparent 1px); background-size: 20px 20px;"></div>
+        
+        <div class="relative z-10 flex flex-col md:flex-row items-center justify-between gap-12">
+            <div class="flex-1 space-y-4 text-center md:text-left">
+                <div class="flex items-center justify-center md:justify-start gap-3">
+                    <span class="bg-tertiary-fixed text-on-tertiary-fixed px-4 py-1 rounded-full text-[10px] font-black tracking-widest uppercase shadow-sm">
+                        Catalogo Tecnico
+                    </span>
+                </div>
+                <h1 class="text-5xl md:text-7xl font-black tracking-tighter uppercase italic leading-none drop-shadow-sm">
+                    {{ collection.title }}
+                </h1>
+                <p class="text-on-surface-variant text-lg font-medium max-w-2xl leading-relaxed italic opacity-70">
+                    {{ collection.description | default: "Soluzioni certificate Jolly Care per la manutenzione professionale." }}
+                </p>
+            </div>
+            
+            {%- if collection.image -%}
+                <div class="relative w-40 h-40 md:w-56 md:h-56 shrink-0 group">
+                    <div class="absolute inset-0 bg-tertiary-fixed/20 rounded-[40px] blur-3xl group-hover:bg-tertiary-fixed/30 transition-colors"></div>
+                    <img 
+                      src="{{ collection.image | image_url: width: 600 }}" 
+                      alt="{{ collection.title }}" 
+                      class="relative z-10 w-full h-full object-cover rounded-[40px] shadow-xl border-4 border-white rotate-3 group-hover:rotate-0 transition-transform duration-700" 
+                    />
+                </div>
+            {%- endif -%}
+        </div>
+    </header>
+</div>
+
+{% schema %}
+{
+  "name": "Jolly Collection Header",
+  "settings": []
+}
+{% endschema %}

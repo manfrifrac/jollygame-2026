@@ -1,0 +1,84 @@
+{% comment %}
+  Renders a Jolly Care style product card (Robust Version)
+  Accepts:
+  - card_product: {Object} Product Liquid object
+{% endcomment %}
+
+{%- liquid
+  # Robust Image Selection
+  assign featured_media = card_product.selected_or_first_available_variant.featured_media | default: card_product.featured_media | default: card_product.featured_image
+  
+  # Robust Price Logic (Values in cents)
+  assign originalPrice = card_product.price
+  assign compareAtPrice = card_product.compare_at_price
+  
+  assign shopifySale = false
+  if compareAtPrice > originalPrice
+    assign shopifySale = true
+  endif
+
+  assign isZeroPrice = false
+  if originalPrice == 0 or originalPrice == nil
+    assign isZeroPrice = true
+  endif
+-%}
+
+<div class="group bg-white rounded-[32px] p-4 flex flex-col justify-between shadow-sm hover:shadow-2xl transition-all duration-500 border border-outline-variant/10 relative overflow-hidden h-full">
+  {% comment %} Image Container {% endcomment %}
+  <a href="{{ card_product.url }}" class="relative aspect-square rounded-[24px] bg-surface-container-low overflow-hidden mb-6 border border-outline-variant/5 shadow-inner block">
+    {%- if featured_media -%}
+      <img
+        src="{{ featured_media | image_url: width: 600 }}"
+        alt="{{ card_product.title | escape }}"
+        class="w-full h-full object-cover transform transition-transform duration-1000 group-hover:scale-110"
+        loading="lazy"
+        width="600"
+        height="600"
+      >
+    {%- else -%}
+      {{ 'product-1' | placeholder_svg_tag: 'w-full h-full object-cover opacity-20' }}
+    {%- endif -%}
+  </a>
+
+  {% comment %} Info {% endcomment %}
+  <div class="px-2 flex-grow text-primary text-left text-primary">
+    <a href="{{ card_product.url }}">
+        <h4 class="text-lg font-black uppercase tracking-tighter leading-tight group-hover:text-tertiary-fixed transition-colors">
+            {{ card_product.title }}
+        </h4>
+    </a>
+    <p class="text-[11px] text-on-surface-variant mt-2 font-bold uppercase tracking-widest opacity-60 italic">
+      {{ card_product.description | strip_html | truncate: 80 | default: 'Selezione Jolly Care' }}
+    </p>
+  </div>
+
+  {% comment %} Pricing {% endcomment %}
+  <div class="mt-6 p-4 bg-surface-container-lowest rounded-2xl border border-outline-variant/5 space-y-4">
+    <div class="flex items-center justify-between gap-2">
+        <div class="flex flex-col text-left">
+            <span class="text-[8px] font-black text-outline uppercase tracking-widest leading-none mb-1">
+                Prezzo
+            </span>
+            <div class="flex items-baseline gap-2">
+                {%- if shopifySale and isZeroPrice == false -%}
+                    <span class="text-[9px] font-bold text-outline line-through opacity-50">
+                        {{ compareAtPrice | money }}
+                    </span>
+                {%- endif -%}
+                <span class="text-lg font-black text-primary font-mono italic">
+                    {% if isZeroPrice %}Su Richiesta{% else %}{{ originalPrice | money }}{% endif %}
+                </span>
+            </div>
+        </div>
+    </div>
+
+    <div class="flex items-center justify-end gap-4">
+        <form method="post" action="/cart/add">
+          <input type="hidden" name="id" value="{{ card_product.selected_or_first_available_variant.id }}" />
+          <button type="submit" class="bg-primary text-white p-2 rounded-xl hover:bg-tertiary-fixed hover:text-on-tertiary-fixed transition-all active:scale-95 flex items-center justify-center">
+            <span class="material-symbols-outlined text-[20px]">add_shopping_cart</span>
+          </button>
+        </form>
+    </div>
+  </div>
+</div>

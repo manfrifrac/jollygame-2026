@@ -1,0 +1,33 @@
+<div class="max-w-4xl mx-auto px-6 py-20 mb-20 text-primary">
+  <div class="space-y-12">
+    <header class="space-y-6 border-b border-outline-variant/10 pb-12">
+        <div class="flex items-center gap-3">
+            <span class="w-12 h-px bg-tertiary-fixed"></span>
+            <span class="text-[10px] font-black uppercase tracking-[0.3em] text-outline">Jolly Care Docs</span>
+        </div>
+        <h1 class="text-5xl md:text-7xl font-black uppercase italic tracking-tighter leading-tight">{{ page.title }}</h1>
+    </header>
+
+    <div class="prose prose-slate prose-lg max-w-none 
+      prose-headings:font-black prose-headings:uppercase prose-headings:italic prose-headings:tracking-tighter prose-headings:text-primary
+      prose-p:text-on-surface-variant prose-p:font-medium prose-p:leading-relaxed
+      prose-a:text-primary prose-a:font-black prose-a:uppercase prose-a:text-xs prose-a:tracking-widest prose-a:border-b-2 prose-a:border-tertiary-fixed prose-a:no-underline hover:prose-a:text-tertiary-fixed transition-all
+      prose-strong:text-primary prose-strong:font-black
+      text-primary">
+      {{ page.content }}
+    </div>
+
+    <footer class="pt-12 border-t border-outline-variant/10 text-center">
+        <p class="text-[10px] font-black uppercase tracking-widest text-outline">
+            Ultimo aggiornamento: {{ page.published_at | date: "%d %B %Y" }}
+        </p>
+    </footer>
+  </div>
+</div>
+
+{% schema %}
+{
+  "name": "Main Page Jolly",
+  "settings": []
+}
+{% endschema %}

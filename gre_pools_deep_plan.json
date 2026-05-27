@@ -1,0 +1,3188 @@
+{
+    "MINT": {
+        "title": "Piscine Gre Serie Mint",
+        "category": "Piscine in legno",
+        "variants": [
+            {
+                "sku": "788032",
+                "ean": "3605217880321",
+                "price": 18385.5,
+                "options": [
+                    {
+                        "name": "75 x 146 cm",
+                        "optionName": "Dimensioni"
+                    },
+                    {
+                        "name": "Sistema Omega (senza gambe)",
+                        "optionName": "Struttura"
+                    },
+                    {
+                        "name": "Legno",
+                        "optionName": "Finitura"
+                    }
+                ],
+                "tech_details": {
+                    "Filtrazione": "SABBIA 10",
+                    "Liner": "BLU 75/100"
+                }
+            }
+        ]
+    },
+    "BRAGA": {
+        "title": "Piscine Gre Serie Braga",
+        "category": "Piscine in legno",
+        "variants": [
+            {
+                "sku": "790207",
+                "ean": "3605217902078",
+                "price": 13307.6,
+                "options": [
+                    {
+                        "name": "75 x 146 cm",
+                        "optionName": "Dimensioni"
+                    },
+                    {
+                        "name": "Sistema Omega (senza gambe)",
+                        "optionName": "Struttura"
+                    },
+                    {
+                        "name": "Legno",
+                        "optionName": "Finitura"
+                    }
+                ],
+                "tech_details": {
+                    "Filtrazione": "SABBIA 10",
+                    "Liner": "BLU 75/100"
+                }
+            }
+        ]
+    },
+    "EVORA": {
+        "title": "Piscine Gre Serie Evora",
+        "category": "Piscine in legno",
+        "variants": [
+            {
+                "sku": "790206",
+                "ean": "3605217902061",
+                "price": 11113.7,
+                "options": [
+                    {
+                        "name": "75 x 133 cm",
+                        "optionName": "Dimensioni"
+                    },
+                    {
+                        "name": "Sistema Omega (senza gambe)",
+                        "optionName": "Struttura"
+                    },
+                    {
+                        "name": "Legno",
+                        "optionName": "Finitura"
+                    }
+                ],
+                "tech_details": {
+                    "Filtrazione": "SABBIA 8",
+                    "Liner": "BLU 75/100"
+                }
+            }
+        ]
+    },
+    "PAPAYA": {
+        "title": "Piscine Gre Serie Papaya",
+        "category": "Piscine in legno",
+        "variants": [
+            {
+                "sku": "WPPAPA",
+                "ean": "8412081993034",
+                "price": 6303.6,
+                "options": [
+                    {
+                        "name": "60 x 133 cm",
+                        "optionName": "Dimensioni"
+                    },
+                    {
+                        "name": "Standard",
+                        "optionName": "Struttura"
+                    },
+                    {
+                        "name": "Legno",
+                        "optionName": "Finitura"
+                    }
+                ],
+                "tech_details": {
+                    "Filtrazione": "SABBIA 6",
+                    "Liner": "BLU 60/100"
+                }
+            }
+        ]
+    },
+    "MARBELLA": {
+        "title": "Piscine Gre Serie Marbella",
+        "category": "Piscine in legno",
+        "variants": [
+            {
+                "sku": "7900962",
+                "ean": "8412081318448",
+                "price": 8394.5,
+                "options": [
+                    {
+                        "name": "2 x 117 cm",
+                        "optionName": "Dimensioni"
+                    },
+                    {
+                        "name": "Sistema Omega (senza gambe)",
+                        "optionName": "Struttura"
+                    },
+                    {
+                        "name": "Legno",
+                        "optionName": "Finitura"
+                    }
+                ],
+                "tech_details": {
+                    "Filtrazione": "SABBIA 4",
+                    "Liner": "BLU 75/100"
+                }
+            }
+        ]
+    },
+    "CARRA": {
+        "title": "Piscine Gre Serie Carra",
+        "category": "Piscine in legno",
+        "variants": [
+            {
+                "sku": "WPCARR3",
+                "ean": "8412081290195",
+                "price": 4985.2,
+                "options": [
+                    {
+                        "name": "3 x 119 cm",
+                        "optionName": "Dimensioni"
+                    },
+                    {
+                        "name": "Standard",
+                        "optionName": "Struttura"
+                    },
+                    {
+                        "name": "Legno",
+                        "optionName": "Finitura"
+                    }
+                ],
+                "tech_details": {
+                    "Filtrazione": "SABBIA 4",
+                    "Liner": "BLU 60/100"
+                }
+            }
+        ]
+    },
+    "LEMON": {
+        "title": "Piscine Gre Serie Lemon",
+        "category": "Piscine in legno",
+        "variants": [
+            {
+                "sku": "790204",
+                "ean": "3605217902047",
+                "price": NaN,
+                "options": [
+                    {
+                        "name": "50 x 68 cm",
+                        "optionName": "Dimensioni"
+                    },
+                    {
+                        "name": "Standard",
+                        "optionName": "Struttura"
+                    },
+                    {
+                        "name": "Legno",
+                        "optionName": "Finitura"
+                    }
+                ],
+                "tech_details": {
+                    "Filtrazione": "Inclusa",
+                    "Liner": "BLU 50/100"
+                }
+            }
+        ]
+    },
+    "CITY": {
+        "title": "Piscine Gre Serie City",
+        "category": "Piscine in legno",
+        "variants": [
+            {
+                "sku": "790000",
+                "ean": "3605217900005",
+                "price": 1725.25,
+                "options": [
+                    {
+                        "name": "50 x 68 cm",
+                        "optionName": "Dimensioni"
+                    },
+                    {
+                        "name": "Standard",
+                        "optionName": "Struttura"
+                    },
+                    {
+                        "name": "Legno",
+                        "optionName": "Finitura"
+                    }
+                ],
+                "tech_details": {
+                    "Filtrazione": "Inclusa",
+                    "Liner": "BLU 50/100"
+                }
+            }
+        ]
+    },
+    "ORANGE": {
+        "title": "Piscine Gre Serie Orange",
+        "category": "Piscine in legno",
+        "variants": [
+            {
+                "sku": "800007",
+                "ean": "8412081313313",
+                "price": NaN,
+                "options": [
+                    {
+                        "name": "75 x 146 cm",
+                        "optionName": "Dimensioni"
+                    },
+                    {
+                        "name": "Sistema Omega (senza gambe)",
+                        "optionName": "Struttura"
+                    },
+                    {
+                        "name": "Legno",
+                        "optionName": "Finitura"
+                    }
+                ],
+                "tech_details": {
+                    "Filtrazione": "SABBIA 10",
+                    "Liner": "BLU 75/100"
+                }
+            }
+        ]
+    },
+    "VERMELA": {
+        "title": "Piscine Gre Serie Vermela",
+        "category": "Piscine in legno",
+        "variants": [
+            {
+                "sku": "790098",
+                "ean": "3605217900982",
+                "price": 9743.8,
+                "options": [
+                    {
+                        "name": "75 x 146 cm",
+                        "optionName": "Dimensioni"
+                    },
+                    {
+                        "name": "Standard",
+                        "optionName": "Struttura"
+                    },
+                    {
+                        "name": "Legno",
+                        "optionName": "Finitura"
+                    }
+                ],
+                "tech_details": {
+                    "Filtrazione": "SABBIA 8",
+                    "Liner": "BLU 75/100"
+                }
+            }
+        ]
+    },
+    "AVOCADO": {
+        "title": "Piscine Gre Serie Avocado",
+        "category": "Piscine in legno",
+        "variants": [
+            {
+                "sku": "790203",
+                "ean": "3605217902030",
+                "price": 8579.9,
+                "options": [
+                    {
+                        "name": "75 x 131 cm",
+                        "optionName": "Dimensioni"
+                    },
+                    {
+                        "name": "Standard",
+                        "optionName": "Struttura"
+                    },
+                    {
+                        "name": "Legno",
+                        "optionName": "Finitura"
+                    }
+                ],
+                "tech_details": {
+                    "Filtrazione": "SABBIA 8",
+                    "Liner": "BLU 75/100"
+                }
+            }
+        ]
+    },
+    "SAFRAN": {
+        "title": "Piscine Gre Serie Safran",
+        "category": "Piscine in legno",
+        "variants": [
+            {
+                "sku": "7900892",
+                "ean": "8412081318455",
+                "price": 8837.4,
+                "options": [
+                    {
+                        "name": "2 x 136 cm",
+                        "optionName": "Dimensioni"
+                    },
+                    {
+                        "name": "Standard",
+                        "optionName": "Struttura"
+                    },
+                    {
+                        "name": "Legno",
+                        "optionName": "Finitura"
+                    }
+                ],
+                "tech_details": {
+                    "Filtrazione": "SABBIA 8",
+                    "Liner": "BLU 75/100"
+                }
+            }
+        ]
+    },
+    "CANNELLE": {
+        "title": "Piscine Gre Serie Cannelle",
+        "category": "Piscine in legno",
+        "variants": [
+            {
+                "sku": "7900872",
+                "ean": "8412081318462",
+                "price": 6808.3,
+                "options": [
+                    {
+                        "name": "2 x 117 cm",
+                        "optionName": "Dimensioni"
+                    },
+                    {
+                        "name": "Standard",
+                        "optionName": "Struttura"
+                    },
+                    {
+                        "name": "Legno",
+                        "optionName": "Finitura"
+                    }
+                ],
+                "tech_details": {
+                    "Filtrazione": "SABBIA 6",
+                    "Liner": "BLU 60/100"
+                }
+            }
+        ]
+    },
+    "GRENADE": {
+        "title": "Piscine Gre Serie Grenade",
+        "category": "Piscine in legno",
+        "variants": [
+            {
+                "sku": "7900862",
+                "ean": "8412081318479",
+                "price": 5943.1,
+                "options": [
+                    {
+                        "name": "2 x 117 cm",
+                        "optionName": "Dimensioni"
+                    },
+                    {
+                        "name": "Standard",
+                        "optionName": "Struttura"
+                    },
+                    {
+                        "name": "Legno",
+                        "optionName": "Finitura"
+                    }
+                ],
+                "tech_details": {
+                    "Filtrazione": "SABBIA 4",
+                    "Liner": "BLU 60/100"
+                }
+            }
+        ]
+    },
+    "MACADAMIA": {
+        "title": "Piscine Gre Serie Macadamia",
+        "category": "Piscine in legno",
+        "variants": [
+            {
+                "sku": "KPBOC632",
+                "ean": "8412081273242",
+                "price": 8085.5,
+                "options": [
+                    {
+                        "name": "60 x 130 cm",
+                        "optionName": "Dimensioni"
+                    },
+                    {
+                        "name": "Sistema Omega (senza gambe)",
+                        "optionName": "Struttura"
+                    },
+                    {
+                        "name": "Legno",
+                        "optionName": "Finitura"
+                    }
+                ],
+                "tech_details": {
+                    "Filtrazione": "SABBIA 6",
+                    "Liner": "BLU 60/100"
+                }
+            }
+        ]
+    },
+    "BAMBU": {
+        "title": "Piscine Gre Serie Bambu",
+        "category": "Piscine in legno",
+        "variants": [
+            {
+                "sku": "WPBAMB2",
+                "ean": "8412081993041",
+                "price": 7045.2,
+                "options": [
+                    {
+                        "name": "2 x 136 cm",
+                        "optionName": "Dimensioni"
+                    },
+                    {
+                        "name": "Sistema Omega (senza gambe)",
+                        "optionName": "Struttura"
+                    },
+                    {
+                        "name": "Legno",
+                        "optionName": "Finitura"
+                    }
+                ],
+                "tech_details": {
+                    "Filtrazione": "SABBIA 6",
+                    "Liner": "BLU 60/100"
+                }
+            }
+        ]
+    },
+    "VIOLETTE": {
+        "title": "Piscine Gre Serie Violette",
+        "category": "Piscine in legno",
+        "variants": [
+            {
+                "sku": "800003",
+                "ean": "8412081313283",
+                "price": 5134.55,
+                "options": [
+                    {
+                        "name": "2 x 127 cm",
+                        "optionName": "Dimensioni"
+                    },
+                    {
+                        "name": "Standard",
+                        "optionName": "Struttura"
+                    },
+                    {
+                        "name": "Legno",
+                        "optionName": "Finitura"
+                    }
+                ],
+                "tech_details": {
+                    "Filtrazione": "SABBIA 6",
+                    "Liner": "BLU 75/100"
+                }
+            }
+        ]
+    },
+    "VASTO": {
+        "title": "Piscine Gre Serie Vasto",
+        "category": "Piscine in legno",
+        "variants": [
+            {
+                "sku": "790302",
+                "ean": "8412081308937",
+                "price": 4506.25,
+                "options": [
+                    {
+                        "name": "75 x 136 cm",
+                        "optionName": "Dimensioni"
+                    },
+                    {
+                        "name": "Standard",
+                        "optionName": "Struttura"
+                    },
+                    {
+                        "name": "Legno",
+                        "optionName": "Finitura"
+                    }
+                ],
+                "tech_details": {
+                    "Filtrazione": "SABBIA 4",
+                    "Liner": "BLU 75/100"
+                }
+            }
+        ]
+    },
+    "VANILLE": {
+        "title": "Piscine Gre Serie Vanille",
+        "category": "Piscine in legno",
+        "variants": [
+            {
+                "sku": "800002",
+                "ean": "8412081313252",
+                "price": 3543.2,
+                "options": [
+                    {
+                        "name": "2 x 119 cm",
+                        "optionName": "Dimensioni"
+                    },
+                    {
+                        "name": "Standard",
+                        "optionName": "Struttura"
+                    },
+                    {
+                        "name": "Legno",
+                        "optionName": "Finitura"
+                    }
+                ],
+                "tech_details": {
+                    "Filtrazione": "SABBIA 4",
+                    "Liner": "BLU 50/100"
+                }
+            }
+        ]
+    },
+    "LILI": {
+        "title": "Piscine Gre Serie Lili",
+        "category": "Piscine in legno",
+        "variants": [
+            {
+                "sku": "800008",
+                "ean": "8412081313221",
+                "price": 2872.67,
+                "options": [
+                    {
+                        "name": "2 x 107 cm",
+                        "optionName": "Dimensioni"
+                    },
+                    {
+                        "name": "Standard",
+                        "optionName": "Struttura"
+                    },
+                    {
+                        "name": "Legno",
+                        "optionName": "Finitura"
+                    }
+                ],
+                "tech_details": {
+                    "Filtrazione": "Inclusa",
+                    "Liner": "BLU 50/100"
+                }
+            }
+        ]
+    },
+    "NORDIC": {
+        "title": "Piscine Gre Serie Nordic",
+        "category": "Piscine in composite",
+        "variants": [
+            {
+                "sku": "KPCOR60LT",
+                "ean": "8412081288109",
+                "price": 10500.85,
+                "options": [
+                    {
+                        "name": "o 60 x 126 cm",
+                        "optionName": "Dimensioni"
+                    },
+                    {
+                        "name": "Standard",
+                        "optionName": "Struttura"
+                    },
+                    {
+                        "name": "Nordic",
+                        "optionName": "Finitura"
+                    }
+                ],
+                "tech_details": {
+                    "Filtrazione": "SABBIA 6",
+                    "Liner": "GRIGIO 60/100"
+                }
+            },
+            {
+                "sku": "KPCOR60T",
+                "ean": "8412081288116",
+                "price": 10397.85,
+                "options": [
+                    {
+                        "name": "o 60 x 126 cm",
+                        "optionName": "Dimensioni"
+                    },
+                    {
+                        "name": "Standard",
+                        "optionName": "Struttura"
+                    },
+                    {
+                        "name": "Nordic",
+                        "optionName": "Finitura"
+                    }
+                ],
+                "tech_details": {
+                    "Filtrazione": "SABBIA 6",
+                    "Liner": "GRIGIO 60/100"
+                }
+            },
+            {
+                "sku": "KPCOR46T",
+                "ean": "8412081288123",
+                "price": 8290.47,
+                "options": [
+                    {
+                        "name": "o 60 x 125 cm",
+                        "optionName": "Dimensioni"
+                    },
+                    {
+                        "name": "Standard",
+                        "optionName": "Struttura"
+                    },
+                    {
+                        "name": "Nordic",
+                        "optionName": "Finitura"
+                    }
+                ],
+                "tech_details": {
+                    "Filtrazione": "SABBIA 6",
+                    "Liner": "GRIGIO 60/100"
+                }
+            },
+            {
+                "sku": "KPCOR28T",
+                "ean": "8412081992761",
+                "price": 5247.85,
+                "options": [
+                    {
+                        "name": "o 60 x 96 cm",
+                        "optionName": "Dimensioni"
+                    },
+                    {
+                        "name": "Standard",
+                        "optionName": "Struttura"
+                    },
+                    {
+                        "name": "Nordic",
+                        "optionName": "Finitura"
+                    }
+                ],
+                "tech_details": {
+                    "Filtrazione": "SABBIA 4",
+                    "Liner": "GRIGIO 60/100"
+                }
+            },
+            {
+                "sku": "KPCOR2814T",
+                "ean": "8412081992778",
+                "price": 4351.75,
+                "options": [
+                    {
+                        "name": "o 60 x 96 cm",
+                        "optionName": "Dimensioni"
+                    },
+                    {
+                        "name": "Standard",
+                        "optionName": "Struttura"
+                    },
+                    {
+                        "name": "Nordic",
+                        "optionName": "Finitura"
+                    }
+                ],
+                "tech_details": {
+                    "Filtrazione": "SABBIA 4",
+                    "Liner": "GRIGIO 60/100"
+                }
+            },
+            {
+                "sku": "KITPROV7388N",
+                "ean": "8412081313665",
+                "price": 4707.1,
+                "options": [
+                    {
+                        "name": "o 40 x 132 cm",
+                        "optionName": "Dimensioni"
+                    },
+                    {
+                        "name": "Sistema Omega (senza gambe)",
+                        "optionName": "Struttura"
+                    },
+                    {
+                        "name": "Nordic",
+                        "optionName": "Finitura"
+                    }
+                ],
+                "tech_details": {
+                    "Filtrazione": "SABBIA 6",
+                    "Liner": "GRIGIO 40/100"
+                }
+            },
+            {
+                "sku": "KITPROV6188N",
+                "ean": "8412081313672",
+                "price": 4006.7,
+                "options": [
+                    {
+                        "name": "o 40 x 132 cm",
+                        "optionName": "Dimensioni"
+                    },
+                    {
+                        "name": "Sistema Omega (senza gambe)",
+                        "optionName": "Struttura"
+                    },
+                    {
+                        "name": "Nordic",
+                        "optionName": "Finitura"
+                    }
+                ],
+                "tech_details": {
+                    "Filtrazione": "SABBIA 6",
+                    "Liner": "GRIGIO 40/100"
+                }
+            },
+            {
+                "sku": "KITPROV738N",
+                "ean": "8412081313689",
+                "price": 3790.4,
+                "options": [
+                    {
+                        "name": "3 x 132 cm",
+                        "optionName": "Dimensioni"
+                    },
+                    {
+                        "name": "Rinforzi laterali (3 per lato)",
+                        "optionName": "Struttura"
+                    },
+                    {
+                        "name": "Nordic",
+                        "optionName": "Finitura"
+                    }
+                ],
+                "tech_details": {
+                    "Filtrazione": "SABBIA 6",
+                    "Liner": "GRIGIO 40/100"
+                }
+            },
+            {
+                "sku": "KITPROV618N",
+                "ean": "8412081313696",
+                "price": 3167.25,
+                "options": [
+                    {
+                        "name": "2 x 132 cm",
+                        "optionName": "Dimensioni"
+                    },
+                    {
+                        "name": "Rinforzi laterali (2 per lato)",
+                        "optionName": "Struttura"
+                    },
+                    {
+                        "name": "Nordic",
+                        "optionName": "Finitura"
+                    }
+                ],
+                "tech_details": {
+                    "Filtrazione": "SABBIA 6",
+                    "Liner": "GRIGIO 40/100"
+                }
+            },
+            {
+                "sku": "KITPROV508N",
+                "ean": "8412081313719",
+                "price": 2863.4,
+                "options": [
+                    {
+                        "name": "2 x 132 cm",
+                        "optionName": "Dimensioni"
+                    },
+                    {
+                        "name": "Rinforzi laterali (2 per lato)",
+                        "optionName": "Struttura"
+                    },
+                    {
+                        "name": "Nordic",
+                        "optionName": "Finitura"
+                    }
+                ],
+                "tech_details": {
+                    "Filtrazione": "SABBIA 6",
+                    "Liner": "GRIGIO 40/100"
+                }
+            },
+            {
+                "sku": "KITPR558N",
+                "ean": "8412081313702",
+                "price": 2811.9,
+                "options": [
+                    {
+                        "name": "o 40 x 132 cm",
+                        "optionName": "Dimensioni"
+                    },
+                    {
+                        "name": "Standard",
+                        "optionName": "Struttura"
+                    },
+                    {
+                        "name": "Nordic",
+                        "optionName": "Finitura"
+                    }
+                ],
+                "tech_details": {
+                    "Filtrazione": "SABBIA 6",
+                    "Liner": "GRIGIO 40/100"
+                }
+            },
+            {
+                "sku": "KITPR458N",
+                "ean": "8412081313726",
+                "price": 2271.15,
+                "options": [
+                    {
+                        "name": "o 40 x 132 cm",
+                        "optionName": "Dimensioni"
+                    },
+                    {
+                        "name": "Standard",
+                        "optionName": "Struttura"
+                    },
+                    {
+                        "name": "Nordic",
+                        "optionName": "Finitura"
+                    }
+                ],
+                "tech_details": {
+                    "Filtrazione": "SABBIA 6",
+                    "Liner": "GRIGIO 40/100"
+                }
+            },
+            {
+                "sku": "KITPR358N",
+                "ean": "8412081313733",
+                "price": 2106.35,
+                "options": [
+                    {
+                        "name": "o 40 x 132 cm",
+                        "optionName": "Dimensioni"
+                    },
+                    {
+                        "name": "Standard",
+                        "optionName": "Struttura"
+                    },
+                    {
+                        "name": "Nordic",
+                        "optionName": "Finitura"
+                    }
+                ],
+                "tech_details": {
+                    "Filtrazione": "SABBIA 6",
+                    "Liner": "GRIGIO 40/100"
+                }
+            },
+            {
+                "sku": "KIT730N",
+                "ean": "8412081313740",
+                "price": 3084.85,
+                "options": [
+                    {
+                        "name": "3 x 120 cm",
+                        "optionName": "Dimensioni"
+                    },
+                    {
+                        "name": "Rinforzi laterali (3 per lato)",
+                        "optionName": "Struttura"
+                    },
+                    {
+                        "name": "Nordic",
+                        "optionName": "Finitura"
+                    }
+                ],
+                "tech_details": {
+                    "Filtrazione": "SABBIA 4",
+                    "Liner": "GRIGIO 40/100"
+                }
+            },
+            {
+                "sku": "KIT610N",
+                "ean": "8412081313757",
+                "price": 2625.47,
+                "options": [
+                    {
+                        "name": "2 x 120 cm",
+                        "optionName": "Dimensioni"
+                    },
+                    {
+                        "name": "Rinforzi laterali (2 per lato)",
+                        "optionName": "Struttura"
+                    },
+                    {
+                        "name": "Nordic",
+                        "optionName": "Finitura"
+                    }
+                ],
+                "tech_details": {
+                    "Filtrazione": "SABBIA 4",
+                    "Liner": "GRIGIO 40/100"
+                }
+            },
+            {
+                "sku": "KIT500N",
+                "ean": "8412081313764",
+                "price": 2106.35,
+                "options": [
+                    {
+                        "name": "2 x 120 cm",
+                        "optionName": "Dimensioni"
+                    },
+                    {
+                        "name": "Rinforzi laterali (2 per lato)",
+                        "optionName": "Struttura"
+                    },
+                    {
+                        "name": "Nordic",
+                        "optionName": "Finitura"
+                    }
+                ],
+                "tech_details": {
+                    "Filtrazione": "SABBIA 4",
+                    "Liner": "GRIGIO 30/100"
+                }
+            },
+            {
+                "sku": "KIT460N",
+                "ean": "8412081313771",
+                "price": 1678.9,
+                "options": [
+                    {
+                        "name": "o 30 x 120 cm",
+                        "optionName": "Dimensioni"
+                    },
+                    {
+                        "name": "Standard",
+                        "optionName": "Struttura"
+                    },
+                    {
+                        "name": "Nordic",
+                        "optionName": "Finitura"
+                    }
+                ],
+                "tech_details": {
+                    "Filtrazione": "SABBIA 4",
+                    "Liner": "GRIGIO 30/100"
+                }
+            },
+            {
+                "sku": "KIT350N",
+                "ean": "8412081313788",
+                "price": 1467.75,
+                "options": [
+                    {
+                        "name": "o 30 x 120 cm",
+                        "optionName": "Dimensioni"
+                    },
+                    {
+                        "name": "Standard",
+                        "optionName": "Struttura"
+                    },
+                    {
+                        "name": "Nordic",
+                        "optionName": "Finitura"
+                    }
+                ],
+                "tech_details": {
+                    "Filtrazione": "SABBIA 4",
+                    "Liner": "GRIGIO 30/100"
+                }
+            },
+            {
+                "sku": "KIT300N",
+                "ean": "8412081313962",
+                "price": 1416.25,
+                "options": [
+                    {
+                        "name": "o 30 x 120 cm",
+                        "optionName": "Dimensioni"
+                    },
+                    {
+                        "name": "Standard",
+                        "optionName": "Struttura"
+                    },
+                    {
+                        "name": "Nordic",
+                        "optionName": "Finitura"
+                    }
+                ],
+                "tech_details": {
+                    "Filtrazione": "SABBIA 4",
+                    "Liner": "GRIGIO 30/100"
+                }
+            },
+            {
+                "sku": "KIT240N",
+                "ean": "8412081313795",
+                "price": 1282.35,
+                "options": [
+                    {
+                        "name": "o 30 x 120 cm",
+                        "optionName": "Dimensioni"
+                    },
+                    {
+                        "name": "Standard",
+                        "optionName": "Struttura"
+                    },
+                    {
+                        "name": "Nordic",
+                        "optionName": "Finitura"
+                    }
+                ],
+                "tech_details": {
+                    "Filtrazione": "SABBIA 4",
+                    "Liner": "GRIGIO 30/100"
+                }
+            }
+        ]
+    },
+    "ANTRACITE SERIES": {
+        "title": "Piscine Gre Serie Antracite series",
+        "category": "Piscine in composite",
+        "variants": [
+            {
+                "sku": "KPCOV80",
+                "ean": "8412081268804",
+                "price": 10866.5,
+                "options": [
+                    {
+                        "name": "o 60 x 124 cm",
+                        "optionName": "Dimensioni"
+                    },
+                    {
+                        "name": "Sistema Omega (senza gambe)",
+                        "optionName": "Struttura"
+                    },
+                    {
+                        "name": "Antracite",
+                        "optionName": "Finitura"
+                    }
+                ],
+                "tech_details": {
+                    "Filtrazione": "SABBIA 6",
+                    "Liner": "GRIGIO 60/100"
+                }
+            },
+            {
+                "sku": "KPCOV66L",
+                "ean": "8412081313108",
+                "price": 9393.6,
+                "options": [
+                    {
+                        "name": "o 60 x 124 cm",
+                        "optionName": "Dimensioni"
+                    },
+                    {
+                        "name": "Sistema Omega (senza gambe)",
+                        "optionName": "Struttura"
+                    },
+                    {
+                        "name": "Antracite",
+                        "optionName": "Finitura"
+                    }
+                ],
+                "tech_details": {
+                    "Filtrazione": "SABBIA 6",
+                    "Liner": "GRIGIO 60/100"
+                }
+            },
+            {
+                "sku": "KPCOV66",
+                "ean": "8412081268798",
+                "price": 9218.5,
+                "options": [
+                    {
+                        "name": "o 60 x 124 cm",
+                        "optionName": "Dimensioni"
+                    },
+                    {
+                        "name": "Sistema Omega (senza gambe)",
+                        "optionName": "Struttura"
+                    },
+                    {
+                        "name": "Antracite",
+                        "optionName": "Finitura"
+                    }
+                ],
+                "tech_details": {
+                    "Filtrazione": "SABBIA 6",
+                    "Liner": "GRIGIO 60/100"
+                }
+            },
+            {
+                "sku": "KPCOV52L",
+                "ean": "8412081318608",
+                "price": 7498.4,
+                "options": [
+                    {
+                        "name": "o 60 x 124 cm",
+                        "optionName": "Dimensioni"
+                    },
+                    {
+                        "name": "Sistema Omega (senza gambe)",
+                        "optionName": "Struttura"
+                    },
+                    {
+                        "name": "Antracite",
+                        "optionName": "Finitura"
+                    }
+                ],
+                "tech_details": {
+                    "Filtrazione": "SABBIA 6",
+                    "Liner": "GRIGIO 60/100"
+                }
+            },
+            {
+                "sku": "KPCOV52",
+                "ean": "8412081268781",
+                "price": 7436.6,
+                "options": [
+                    {
+                        "name": "o 60 x 124 cm",
+                        "optionName": "Dimensioni"
+                    },
+                    {
+                        "name": "Sistema Omega (senza gambe)",
+                        "optionName": "Struttura"
+                    },
+                    {
+                        "name": "Antracite",
+                        "optionName": "Finitura"
+                    }
+                ],
+                "tech_details": {
+                    "Filtrazione": "SABBIA 6",
+                    "Liner": "GRIGIO 60/100"
+                }
+            },
+            {
+                "sku": "KPCO41",
+                "ean": "8412081268774",
+                "price": 5592.9,
+                "options": [
+                    {
+                        "name": "o 60 x 124 cm",
+                        "optionName": "Dimensioni"
+                    },
+                    {
+                        "name": "Standard",
+                        "optionName": "Struttura"
+                    },
+                    {
+                        "name": "Antracite",
+                        "optionName": "Finitura"
+                    }
+                ],
+                "tech_details": {
+                    "Filtrazione": "SABBIA 4",
+                    "Liner": "GRIGIO 60/100"
+                }
+            },
+            {
+                "sku": "KITPROV7388GY",
+                "ean": "8412081315126",
+                "price": 4221.97,
+                "options": [
+                    {
+                        "name": "40 x 132 cm",
+                        "optionName": "Dimensioni"
+                    },
+                    {
+                        "name": "Sistema Omega (senza gambe)",
+                        "optionName": "Struttura"
+                    },
+                    {
+                        "name": "Antracite",
+                        "optionName": "Finitura"
+                    }
+                ],
+                "tech_details": {
+                    "Filtrazione": "SABBIA 6",
+                    "Liner": "BLU 40/100"
+                }
+            },
+            {
+                "sku": "KITPROV6188GY",
+                "ean": "8412081315119",
+                "price": 3605,
+                "options": [
+                    {
+                        "name": "40 x 132 cm",
+                        "optionName": "Dimensioni"
+                    },
+                    {
+                        "name": "Sistema Omega (senza gambe)",
+                        "optionName": "Struttura"
+                    },
+                    {
+                        "name": "Antracite",
+                        "optionName": "Finitura"
+                    }
+                ],
+                "tech_details": {
+                    "Filtrazione": "SABBIA 6",
+                    "Liner": "BLU 40/100"
+                }
+            },
+            {
+                "sku": "KITPROV738GY",
+                "ean": "8412081314471",
+                "price": 3388.7,
+                "options": [
+                    {
+                        "name": "3 x 132 cm",
+                        "optionName": "Dimensioni"
+                    },
+                    {
+                        "name": "Rinforzi laterali (3 per lato)",
+                        "optionName": "Struttura"
+                    },
+                    {
+                        "name": "Antracite",
+                        "optionName": "Finitura"
+                    }
+                ],
+                "tech_details": {
+                    "Filtrazione": "SABBIA 6",
+                    "Liner": "BLU 40/100"
+                }
+            },
+            {
+                "sku": "KITPROV618GY",
+                "ean": "8412081314488",
+                "price": 2935.5,
+                "options": [
+                    {
+                        "name": "2 x 132 cm",
+                        "optionName": "Dimensioni"
+                    },
+                    {
+                        "name": "Rinforzi laterali (2 per lato)",
+                        "optionName": "Struttura"
+                    },
+                    {
+                        "name": "Antracite",
+                        "optionName": "Finitura"
+                    }
+                ],
+                "tech_details": {
+                    "Filtrazione": "SABBIA 6",
+                    "Liner": "BLU 40/100"
+                }
+            },
+            {
+                "sku": "KITPROV508GY",
+                "ean": "8412081314501",
+                "price": 2656.37,
+                "options": [
+                    {
+                        "name": "2 x 132 cm",
+                        "optionName": "Dimensioni"
+                    },
+                    {
+                        "name": "Rinforzi laterali (2 per lato)",
+                        "optionName": "Struttura"
+                    },
+                    {
+                        "name": "Antracite",
+                        "optionName": "Finitura"
+                    }
+                ],
+                "tech_details": {
+                    "Filtrazione": "SABBIA 6",
+                    "Liner": "BLU 40/100"
+                }
+            },
+            {
+                "sku": "KITPR458GY",
+                "ean": "8412081314518",
+                "price": 2142.4,
+                "options": [
+                    {
+                        "name": "40 x 132 cm",
+                        "optionName": "Dimensioni"
+                    },
+                    {
+                        "name": "Standard",
+                        "optionName": "Struttura"
+                    },
+                    {
+                        "name": "Antracite",
+                        "optionName": "Finitura"
+                    }
+                ],
+                "tech_details": {
+                    "Filtrazione": "SABBIA 6",
+                    "Liner": "BLU 40/100"
+                }
+            },
+            {
+                "sku": "KITPR358GY",
+                "ean": "8412081314525",
+                "price": 1895.2,
+                "options": [
+                    {
+                        "name": "40 x 132 cm",
+                        "optionName": "Dimensioni"
+                    },
+                    {
+                        "name": "Standard",
+                        "optionName": "Struttura"
+                    },
+                    {
+                        "name": "Antracite",
+                        "optionName": "Finitura"
+                    }
+                ],
+                "tech_details": {
+                    "Filtrazione": "SABBIA 6",
+                    "Liner": "BLU 40/100"
+                }
+            },
+            {
+                "sku": "KIT730GY",
+                "ean": "8412081314532",
+                "price": 2935.5,
+                "options": [
+                    {
+                        "name": "3 x 120 cm",
+                        "optionName": "Dimensioni"
+                    },
+                    {
+                        "name": "Rinforzi laterali (3 per lato)",
+                        "optionName": "Struttura"
+                    },
+                    {
+                        "name": "Antracite",
+                        "optionName": "Finitura"
+                    }
+                ],
+                "tech_details": {
+                    "Filtrazione": "SABBIA 4",
+                    "Liner": "BLU 40/100"
+                }
+            },
+            {
+                "sku": "KIT610GY",
+                "ean": "8412081314549",
+                "price": 2451.4,
+                "options": [
+                    {
+                        "name": "2 x 120 cm",
+                        "optionName": "Dimensioni"
+                    },
+                    {
+                        "name": "Rinforzi laterali (2 per lato)",
+                        "optionName": "Struttura"
+                    },
+                    {
+                        "name": "Antracite",
+                        "optionName": "Finitura"
+                    }
+                ],
+                "tech_details": {
+                    "Filtrazione": "SABBIA 4",
+                    "Liner": "BLU 40/100"
+                }
+            },
+            {
+                "sku": "KIT500GY",
+                "ean": "8412081314556",
+                "price": 2090.9,
+                "options": [
+                    {
+                        "name": "2 x 120 cm",
+                        "optionName": "Dimensioni"
+                    },
+                    {
+                        "name": "Rinforzi laterali (2 per lato)",
+                        "optionName": "Struttura"
+                    },
+                    {
+                        "name": "Antracite",
+                        "optionName": "Finitura"
+                    }
+                ],
+                "tech_details": {
+                    "Filtrazione": "SABBIA 4",
+                    "Liner": "BLU 30/100"
+                }
+            },
+            {
+                "sku": "KIT460GY",
+                "ean": "8412081314563",
+                "price": 1668.6,
+                "options": [
+                    {
+                        "name": "30 x 120 cm",
+                        "optionName": "Dimensioni"
+                    },
+                    {
+                        "name": "Standard",
+                        "optionName": "Struttura"
+                    },
+                    {
+                        "name": "Antracite",
+                        "optionName": "Finitura"
+                    }
+                ],
+                "tech_details": {
+                    "Filtrazione": "SABBIA 4",
+                    "Liner": "BLU 30/100"
+                }
+            },
+            {
+                "sku": "KIT350GY",
+                "ean": "8412081314570",
+                "price": 1431.7,
+                "options": [
+                    {
+                        "name": "30 x 120 cm",
+                        "optionName": "Dimensioni"
+                    },
+                    {
+                        "name": "Standard",
+                        "optionName": "Struttura"
+                    },
+                    {
+                        "name": "Antracite",
+                        "optionName": "Finitura"
+                    }
+                ],
+                "tech_details": {
+                    "Filtrazione": "SABBIA 4",
+                    "Liner": "BLU 30/100"
+                }
+            },
+            {
+                "sku": "KIT300GY",
+                "ean": "8412081314587",
+                "price": 1390.5,
+                "options": [
+                    {
+                        "name": "30 x 120 cm",
+                        "optionName": "Dimensioni"
+                    },
+                    {
+                        "name": "Standard",
+                        "optionName": "Struttura"
+                    },
+                    {
+                        "name": "Antracite",
+                        "optionName": "Finitura"
+                    }
+                ],
+                "tech_details": {
+                    "Filtrazione": "SABBIA 4",
+                    "Liner": "BLU 30/100"
+                }
+            },
+            {
+                "sku": "KIT610GYQGRE",
+                "ean": "8412081290256",
+                "price": 1914.77,
+                "options": [
+                    {
+                        "name": "2 x 120 cm",
+                        "optionName": "Dimensioni"
+                    },
+                    {
+                        "name": "Rinforzi laterali (2 per lato)",
+                        "optionName": "Struttura"
+                    },
+                    {
+                        "name": "Antracite",
+                        "optionName": "Finitura"
+                    }
+                ],
+                "tech_details": {
+                    "Filtrazione": "Inclusa",
+                    "Liner": "BLU 40/100"
+                }
+            },
+            {
+                "sku": "KIT500GYQGRE",
+                "ean": "8412081290263",
+                "price": 1646.97,
+                "options": [
+                    {
+                        "name": "2 x 120 cm",
+                        "optionName": "Dimensioni"
+                    },
+                    {
+                        "name": "Rinforzi laterali (2 per lato)",
+                        "optionName": "Struttura"
+                    },
+                    {
+                        "name": "Antracite",
+                        "optionName": "Finitura"
+                    }
+                ],
+                "tech_details": {
+                    "Filtrazione": "Inclusa",
+                    "Liner": "BLU 30/100"
+                }
+            },
+            {
+                "sku": "KIT460GYQGRE",
+                "ean": "8412081290270",
+                "price": 1337.97,
+                "options": [
+                    {
+                        "name": "30 x 120 cm",
+                        "optionName": "Dimensioni"
+                    },
+                    {
+                        "name": "Standard",
+                        "optionName": "Struttura"
+                    },
+                    {
+                        "name": "Antracite",
+                        "optionName": "Finitura"
+                    }
+                ],
+                "tech_details": {
+                    "Filtrazione": "Inclusa",
+                    "Liner": "BLU 30/100"
+                }
+            },
+            {
+                "sku": "KIT350GYQGRE",
+                "ean": "8412081290287",
+                "price": 1214.37,
+                "options": [
+                    {
+                        "name": "30 x 120 cm",
+                        "optionName": "Dimensioni"
+                    },
+                    {
+                        "name": "Standard",
+                        "optionName": "Struttura"
+                    },
+                    {
+                        "name": "Antracite",
+                        "optionName": "Finitura"
+                    }
+                ],
+                "tech_details": {
+                    "Filtrazione": "Inclusa",
+                    "Liner": "BLU 30/100"
+                }
+            },
+            {
+                "sku": "KIT300GYQGRE",
+                "ean": "8412081290294",
+                "price": 1080.47,
+                "options": [
+                    {
+                        "name": "30 x 120 cm",
+                        "optionName": "Dimensioni"
+                    },
+                    {
+                        "name": "Standard",
+                        "optionName": "Struttura"
+                    },
+                    {
+                        "name": "Antracite",
+                        "optionName": "Finitura"
+                    }
+                ],
+                "tech_details": {
+                    "Filtrazione": "Inclusa",
+                    "Liner": "BLU 30/100"
+                }
+            }
+        ]
+    },
+    "WOOD SERIES": {
+        "title": "Piscine Gre Serie Wood series",
+        "category": "Piscine in acciaio",
+        "variants": [
+            {
+                "sku": "KITPROV7388WO",
+                "ean": "8412081257334",
+                "price": 4707.1,
+                "options": [
+                    {
+                        "name": "40 x 132 cm",
+                        "optionName": "Dimensioni"
+                    },
+                    {
+                        "name": "Sistema Omega (senza gambe)",
+                        "optionName": "Struttura"
+                    },
+                    {
+                        "name": "Legno",
+                        "optionName": "Finitura"
+                    }
+                ],
+                "tech_details": {
+                    "Filtrazione": "SABBIA 6",
+                    "Liner": "BLU 40/100"
+                }
+            },
+            {
+                "sku": "KITPROV6188WO",
+                "ean": "8412081257341",
+                "price": 4006.7,
+                "options": [
+                    {
+                        "name": "40 x 132 cm",
+                        "optionName": "Dimensioni"
+                    },
+                    {
+                        "name": "Sistema Omega (senza gambe)",
+                        "optionName": "Struttura"
+                    },
+                    {
+                        "name": "Legno",
+                        "optionName": "Finitura"
+                    }
+                ],
+                "tech_details": {
+                    "Filtrazione": "SABBIA 6",
+                    "Liner": "BLU 40/100"
+                }
+            },
+            {
+                "sku": "KITPROV738WO",
+                "ean": "8412081257358",
+                "price": 3790.4,
+                "options": [
+                    {
+                        "name": "3 x 132 cm",
+                        "optionName": "Dimensioni"
+                    },
+                    {
+                        "name": "Rinforzi laterali (3 per lato)",
+                        "optionName": "Struttura"
+                    },
+                    {
+                        "name": "Legno",
+                        "optionName": "Finitura"
+                    }
+                ],
+                "tech_details": {
+                    "Filtrazione": "SABBIA 6",
+                    "Liner": "BLU 40/100"
+                }
+            },
+            {
+                "sku": "KITPROV618WO",
+                "ean": "8412081257365",
+                "price": 3167.25,
+                "options": [
+                    {
+                        "name": "2 x 132 cm",
+                        "optionName": "Dimensioni"
+                    },
+                    {
+                        "name": "Rinforzi laterali (2 per lato)",
+                        "optionName": "Struttura"
+                    },
+                    {
+                        "name": "Legno",
+                        "optionName": "Finitura"
+                    }
+                ],
+                "tech_details": {
+                    "Filtrazione": "SABBIA 6",
+                    "Liner": "BLU 40/100"
+                }
+            },
+            {
+                "sku": "KITPROV508WO",
+                "ean": "8412081258089",
+                "price": 2863.4,
+                "options": [
+                    {
+                        "name": "2 x 132 cm",
+                        "optionName": "Dimensioni"
+                    },
+                    {
+                        "name": "Rinforzi laterali (2 per lato)",
+                        "optionName": "Struttura"
+                    },
+                    {
+                        "name": "Legno",
+                        "optionName": "Finitura"
+                    }
+                ],
+                "tech_details": {
+                    "Filtrazione": "SABBIA 6",
+                    "Liner": "BLU 40/100"
+                }
+            },
+            {
+                "sku": "KITPR558WO",
+                "ean": "8412081257372",
+                "price": 2811.9,
+                "options": [
+                    {
+                        "name": "40 x 132 cm",
+                        "optionName": "Dimensioni"
+                    },
+                    {
+                        "name": "Standard",
+                        "optionName": "Struttura"
+                    },
+                    {
+                        "name": "Legno",
+                        "optionName": "Finitura"
+                    }
+                ],
+                "tech_details": {
+                    "Filtrazione": "SABBIA 6",
+                    "Liner": "BLU 40/100"
+                }
+            },
+            {
+                "sku": "KITPR458WO",
+                "ean": "8412081257389",
+                "price": 2271.15,
+                "options": [
+                    {
+                        "name": "40 x 132 cm",
+                        "optionName": "Dimensioni"
+                    },
+                    {
+                        "name": "Standard",
+                        "optionName": "Struttura"
+                    },
+                    {
+                        "name": "Legno",
+                        "optionName": "Finitura"
+                    }
+                ],
+                "tech_details": {
+                    "Filtrazione": "SABBIA 6",
+                    "Liner": "BLU 40/100"
+                }
+            },
+            {
+                "sku": "KITPR358WO",
+                "ean": "8412081257396",
+                "price": 2106.35,
+                "options": [
+                    {
+                        "name": "40 x 132 cm",
+                        "optionName": "Dimensioni"
+                    },
+                    {
+                        "name": "Standard",
+                        "optionName": "Struttura"
+                    },
+                    {
+                        "name": "Legno",
+                        "optionName": "Finitura"
+                    }
+                ],
+                "tech_details": {
+                    "Filtrazione": "SABBIA 6",
+                    "Liner": "BLU 40/100"
+                }
+            },
+            {
+                "sku": "KIT730W",
+                "ean": "8412081232249",
+                "price": 3084.85,
+                "options": [
+                    {
+                        "name": "3 x 120 cm",
+                        "optionName": "Dimensioni"
+                    },
+                    {
+                        "name": "Rinforzi laterali (3 per lato)",
+                        "optionName": "Struttura"
+                    },
+                    {
+                        "name": "Legno",
+                        "optionName": "Finitura"
+                    }
+                ],
+                "tech_details": {
+                    "Filtrazione": "SABBIA 4",
+                    "Liner": "BLU 40/100"
+                }
+            },
+            {
+                "sku": "KIT610W",
+                "ean": "8412081225104",
+                "price": 2625.47,
+                "options": [
+                    {
+                        "name": "2 x 120 cm",
+                        "optionName": "Dimensioni"
+                    },
+                    {
+                        "name": "Rinforzi laterali (2 per lato)",
+                        "optionName": "Struttura"
+                    },
+                    {
+                        "name": "Legno",
+                        "optionName": "Finitura"
+                    }
+                ],
+                "tech_details": {
+                    "Filtrazione": "SABBIA 4",
+                    "Liner": "BLU 40/100"
+                }
+            },
+            {
+                "sku": "KIT500W",
+                "ean": "8412081231068",
+                "price": 2106.35,
+                "options": [
+                    {
+                        "name": "2 x 120 cm",
+                        "optionName": "Dimensioni"
+                    },
+                    {
+                        "name": "Rinforzi laterali (2 per lato)",
+                        "optionName": "Struttura"
+                    },
+                    {
+                        "name": "Legno",
+                        "optionName": "Finitura"
+                    }
+                ],
+                "tech_details": {
+                    "Filtrazione": "SABBIA 4",
+                    "Liner": "BLU 30/100"
+                }
+            },
+            {
+                "sku": "KIT460W",
+                "ean": "8412081225111",
+                "price": 1678.9,
+                "options": [
+                    {
+                        "name": "30 x 120 cm",
+                        "optionName": "Dimensioni"
+                    },
+                    {
+                        "name": "Standard",
+                        "optionName": "Struttura"
+                    },
+                    {
+                        "name": "Legno",
+                        "optionName": "Finitura"
+                    }
+                ],
+                "tech_details": {
+                    "Filtrazione": "SABBIA 4",
+                    "Liner": "BLU 30/100"
+                }
+            },
+            {
+                "sku": "KIT350W",
+                "ean": "8412081225722",
+                "price": 1467.75,
+                "options": [
+                    {
+                        "name": "30 x 120 cm",
+                        "optionName": "Dimensioni"
+                    },
+                    {
+                        "name": "Standard",
+                        "optionName": "Struttura"
+                    },
+                    {
+                        "name": "Legno",
+                        "optionName": "Finitura"
+                    }
+                ],
+                "tech_details": {
+                    "Filtrazione": "SABBIA 4",
+                    "Liner": "BLU 30/100"
+                }
+            },
+            {
+                "sku": "KIT300W",
+                "ean": "8412081309095",
+                "price": 1416.25,
+                "options": [
+                    {
+                        "name": "30 x 120 cm",
+                        "optionName": "Dimensioni"
+                    },
+                    {
+                        "name": "Standard",
+                        "optionName": "Struttura"
+                    },
+                    {
+                        "name": "Legno",
+                        "optionName": "Finitura"
+                    }
+                ],
+                "tech_details": {
+                    "Filtrazione": "SABBIA 4",
+                    "Liner": "BLU 30/100"
+                }
+            },
+            {
+                "sku": "KIT240W",
+                "ean": "8412081226163",
+                "price": 1282.35,
+                "options": [
+                    {
+                        "name": "30 x 120 cm",
+                        "optionName": "Dimensioni"
+                    },
+                    {
+                        "name": "Standard",
+                        "optionName": "Struttura"
+                    },
+                    {
+                        "name": "Legno",
+                        "optionName": "Finitura"
+                    }
+                ],
+                "tech_details": {
+                    "Filtrazione": "SABBIA 4",
+                    "Liner": "BLU 30/100"
+                }
+            },
+            {
+                "sku": "KIT610WQGRE",
+                "ean": "8412081307596",
+                "price": 1801.47,
+                "options": [
+                    {
+                        "name": "2 x 120 cm",
+                        "optionName": "Dimensioni"
+                    },
+                    {
+                        "name": "Rinforzi laterali (2 per lato)",
+                        "optionName": "Struttura"
+                    },
+                    {
+                        "name": "Legno",
+                        "optionName": "Finitura"
+                    }
+                ],
+                "tech_details": {
+                    "Filtrazione": "Inclusa",
+                    "Liner": "BLU 40/100"
+                }
+            },
+            {
+                "sku": "KIT500WQGRE",
+                "ean": "8412081307602",
+                "price": 1502.77,
+                "options": [
+                    {
+                        "name": "2 x 120 cm",
+                        "optionName": "Dimensioni"
+                    },
+                    {
+                        "name": "Rinforzi laterali (2 per lato)",
+                        "optionName": "Struttura"
+                    },
+                    {
+                        "name": "Legno",
+                        "optionName": "Finitura"
+                    }
+                ],
+                "tech_details": {
+                    "Filtrazione": "Inclusa",
+                    "Liner": "BLU 30/100"
+                }
+            },
+            {
+                "sku": "KIT460WQGRE",
+                "ean": "8412081307619",
+                "price": 1214.37,
+                "options": [
+                    {
+                        "name": "30 x 120 cm",
+                        "optionName": "Dimensioni"
+                    },
+                    {
+                        "name": "Standard",
+                        "optionName": "Struttura"
+                    },
+                    {
+                        "name": "Legno",
+                        "optionName": "Finitura"
+                    }
+                ],
+                "tech_details": {
+                    "Filtrazione": "Inclusa",
+                    "Liner": "BLU 30/100"
+                }
+            },
+            {
+                "sku": "KIT350WQGRE",
+                "ean": "8412081307626",
+                "price": 1111.37,
+                "options": [
+                    {
+                        "name": "30 x 120 cm",
+                        "optionName": "Dimensioni"
+                    },
+                    {
+                        "name": "Standard",
+                        "optionName": "Struttura"
+                    },
+                    {
+                        "name": "Legno",
+                        "optionName": "Finitura"
+                    }
+                ],
+                "tech_details": {
+                    "Filtrazione": "Inclusa",
+                    "Liner": "BLU 30/100"
+                }
+            },
+            {
+                "sku": "KIT300WQGRE",
+                "ean": "8412081307633",
+                "price": 977.47,
+                "options": [
+                    {
+                        "name": "30 x 120 cm",
+                        "optionName": "Dimensioni"
+                    },
+                    {
+                        "name": "Standard",
+                        "optionName": "Struttura"
+                    },
+                    {
+                        "name": "Legno",
+                        "optionName": "Finitura"
+                    }
+                ],
+                "tech_details": {
+                    "Filtrazione": "Inclusa",
+                    "Liner": "BLU 30/100"
+                }
+            },
+            {
+                "sku": "KITPROV503W",
+                "ean": "8412081258164",
+                "price": 1838.55,
+                "options": [
+                    {
+                        "name": "2 x 120 cm",
+                        "optionName": "Dimensioni"
+                    },
+                    {
+                        "name": "Rinforzi laterali (2 per lato)",
+                        "optionName": "Struttura"
+                    },
+                    {
+                        "name": "Legno",
+                        "optionName": "Finitura"
+                    }
+                ],
+                "tech_details": {
+                    "Filtrazione": "Inclusa",
+                    "Liner": "BLU 30/100"
+                }
+            },
+            {
+                "sku": "KITPR453W",
+                "ean": "8412081258171",
+                "price": 1467.75,
+                "options": [
+                    {
+                        "name": "30 x 120 cm",
+                        "optionName": "Dimensioni"
+                    },
+                    {
+                        "name": "Standard",
+                        "optionName": "Struttura"
+                    },
+                    {
+                        "name": "Legno",
+                        "optionName": "Finitura"
+                    }
+                ],
+                "tech_details": {
+                    "Filtrazione": "Inclusa",
+                    "Liner": "BLU 30/100"
+                }
+            },
+            {
+                "sku": "KITPR353W",
+                "ean": "8412081258188",
+                "price": 1261.75,
+                "options": [
+                    {
+                        "name": "30 x 120 cm",
+                        "optionName": "Dimensioni"
+                    },
+                    {
+                        "name": "Standard",
+                        "optionName": "Struttura"
+                    },
+                    {
+                        "name": "Legno",
+                        "optionName": "Finitura"
+                    }
+                ],
+                "tech_details": {
+                    "Filtrazione": "Inclusa",
+                    "Liner": "BLU 30/100"
+                }
+            },
+            {
+                "sku": "KITPR303W",
+                "ean": "8412081265087",
+                "price": 1204.07,
+                "options": [
+                    {
+                        "name": "30 x 120 cm",
+                        "optionName": "Dimensioni"
+                    },
+                    {
+                        "name": "Standard",
+                        "optionName": "Struttura"
+                    },
+                    {
+                        "name": "Legno",
+                        "optionName": "Finitura"
+                    }
+                ],
+                "tech_details": {
+                    "Filtrazione": "Inclusa",
+                    "Liner": "BLU 30/100"
+                }
+            }
+        ]
+    },
+    "WHITE SERIES": {
+        "title": "Piscine Gre Serie White series",
+        "category": "Piscine in acciaio",
+        "variants": [
+            {
+                "sku": "KITPROV10288",
+                "ean": "8412081224626",
+                "price": 6174.85,
+                "options": [
+                    {
+                        "name": "40 x 132 cm",
+                        "optionName": "Dimensioni"
+                    },
+                    {
+                        "name": "Sistema Omega (senza gambe)",
+                        "optionName": "Struttura"
+                    },
+                    {
+                        "name": "Bianca",
+                        "optionName": "Finitura"
+                    }
+                ],
+                "tech_details": {
+                    "Filtrazione": "SABBIA 10",
+                    "Liner": "BLU 40/100"
+                }
+            },
+            {
+                "sku": "KITPROV9188",
+                "ean": "8412081220215",
+                "price": 5721.65,
+                "options": [
+                    {
+                        "name": "40 x 132 cm",
+                        "optionName": "Dimensioni"
+                    },
+                    {
+                        "name": "Sistema Omega (senza gambe)",
+                        "optionName": "Struttura"
+                    },
+                    {
+                        "name": "Bianca",
+                        "optionName": "Finitura"
+                    }
+                ],
+                "tech_details": {
+                    "Filtrazione": "SABBIA 8",
+                    "Liner": "BLU 40/100"
+                }
+            },
+            {
+                "sku": "KITPROV7388",
+                "ean": "8412081220222",
+                "price": 4423.85,
+                "options": [
+                    {
+                        "name": "40 x 132 cm",
+                        "optionName": "Dimensioni"
+                    },
+                    {
+                        "name": "Sistema Omega (senza gambe)",
+                        "optionName": "Struttura"
+                    },
+                    {
+                        "name": "Bianca",
+                        "optionName": "Finitura"
+                    }
+                ],
+                "tech_details": {
+                    "Filtrazione": "SABBIA 6",
+                    "Liner": "BLU 40/100"
+                }
+            },
+            {
+                "sku": "KITPROV6188",
+                "ean": "8412081221328",
+                "price": 3877.95,
+                "options": [
+                    {
+                        "name": "40 x 132 cm",
+                        "optionName": "Dimensioni"
+                    },
+                    {
+                        "name": "Sistema Omega (senza gambe)",
+                        "optionName": "Struttura"
+                    },
+                    {
+                        "name": "Bianca",
+                        "optionName": "Finitura"
+                    }
+                ],
+                "tech_details": {
+                    "Filtrazione": "SABBIA 6",
+                    "Liner": "BLU 40/100"
+                }
+            },
+            {
+                "sku": "KITPROV1028",
+                "ean": "8412081220239",
+                "price": 6051.25,
+                "options": [
+                    {
+                        "name": "4 x 132 cm",
+                        "optionName": "Dimensioni"
+                    },
+                    {
+                        "name": "Rinforzi laterali (4 per lato)",
+                        "optionName": "Struttura"
+                    },
+                    {
+                        "name": "Bianca",
+                        "optionName": "Finitura"
+                    }
+                ],
+                "tech_details": {
+                    "Filtrazione": "SABBIA 10",
+                    "Liner": "BLU 40/100"
+                }
+            },
+            {
+                "sku": "KITPROV918",
+                "ean": "8412081211978",
+                "price": 4629.85,
+                "options": [
+                    {
+                        "name": "4 x 132 cm",
+                        "optionName": "Dimensioni"
+                    },
+                    {
+                        "name": "Rinforzi laterali (4 per lato)",
+                        "optionName": "Struttura"
+                    },
+                    {
+                        "name": "Bianca",
+                        "optionName": "Finitura"
+                    }
+                ],
+                "tech_details": {
+                    "Filtrazione": "SABBIA 8",
+                    "Liner": "BLU 40/100"
+                }
+            },
+            {
+                "sku": "KITPROV818",
+                "ean": "8412081211565",
+                "price": 4006.7,
+                "options": [
+                    {
+                        "name": "3 x 132 cm",
+                        "optionName": "Dimensioni"
+                    },
+                    {
+                        "name": "Rinforzi laterali (3 per lato)",
+                        "optionName": "Struttura"
+                    },
+                    {
+                        "name": "Bianca",
+                        "optionName": "Finitura"
+                    }
+                ],
+                "tech_details": {
+                    "Filtrazione": "SABBIA 8",
+                    "Liner": "BLU 40/100"
+                }
+            },
+            {
+                "sku": "KITPROV738",
+                "ean": "8412081211985",
+                "price": 3342.35,
+                "options": [
+                    {
+                        "name": "3 x 132 cm",
+                        "optionName": "Dimensioni"
+                    },
+                    {
+                        "name": "Rinforzi laterali (3 per lato)",
+                        "optionName": "Struttura"
+                    },
+                    {
+                        "name": "Bianca",
+                        "optionName": "Finitura"
+                    }
+                ],
+                "tech_details": {
+                    "Filtrazione": "SABBIA 6",
+                    "Liner": "BLU 40/100"
+                }
+            },
+            {
+                "sku": "KITPROV618",
+                "ean": "8412081211572",
+                "price": 2811.9,
+                "options": [
+                    {
+                        "name": "2 x 132 cm",
+                        "optionName": "Dimensioni"
+                    },
+                    {
+                        "name": "Rinforzi laterali (2 per lato)",
+                        "optionName": "Struttura"
+                    },
+                    {
+                        "name": "Bianca",
+                        "optionName": "Finitura"
+                    }
+                ],
+                "tech_details": {
+                    "Filtrazione": "SABBIA 6",
+                    "Liner": "BLU 40/100"
+                }
+            },
+            {
+                "sku": "KITPROV508",
+                "ean": "8412081258119",
+                "price": 2518.35,
+                "options": [
+                    {
+                        "name": "2 x 132 cm",
+                        "optionName": "Dimensioni"
+                    },
+                    {
+                        "name": "Rinforzi laterali (2 per lato)",
+                        "optionName": "Struttura"
+                    },
+                    {
+                        "name": "Bianca",
+                        "optionName": "Finitura"
+                    }
+                ],
+                "tech_details": {
+                    "Filtrazione": "SABBIA 6",
+                    "Liner": "BLU 40/100"
+                }
+            },
+            {
+                "sku": "KITPR558",
+                "ean": "8412081211589",
+                "price": 2538.95,
+                "options": [
+                    {
+                        "name": "40 x 132 cm",
+                        "optionName": "Dimensioni"
+                    },
+                    {
+                        "name": "Standard",
+                        "optionName": "Struttura"
+                    },
+                    {
+                        "name": "Bianca",
+                        "optionName": "Finitura"
+                    }
+                ],
+                "tech_details": {
+                    "Filtrazione": "SABBIA 6",
+                    "Liner": "BLU 40/100"
+                }
+            },
+            {
+                "sku": "KITPR458",
+                "ean": "8412081211596",
+                "price": 2209.35,
+                "options": [
+                    {
+                        "name": "40 x 132 cm",
+                        "optionName": "Dimensioni"
+                    },
+                    {
+                        "name": "Standard",
+                        "optionName": "Struttura"
+                    },
+                    {
+                        "name": "Bianca",
+                        "optionName": "Finitura"
+                    }
+                ],
+                "tech_details": {
+                    "Filtrazione": "SABBIA 6",
+                    "Liner": "BLU 40/100"
+                }
+            },
+            {
+                "sku": "KITPR358",
+                "ean": "8412081233864",
+                "price": 1884.9,
+                "options": [
+                    {
+                        "name": "40 x 132 cm",
+                        "optionName": "Dimensioni"
+                    },
+                    {
+                        "name": "Standard",
+                        "optionName": "Struttura"
+                    },
+                    {
+                        "name": "Bianca",
+                        "optionName": "Finitura"
+                    }
+                ],
+                "tech_details": {
+                    "Filtrazione": "SABBIA 6",
+                    "Liner": "BLU 40/100"
+                }
+            },
+            {
+                "sku": "KIT730ECO",
+                "ean": "8412081211398",
+                "price": 2569.85,
+                "options": [
+                    {
+                        "name": "3 x 120 cm",
+                        "optionName": "Dimensioni"
+                    },
+                    {
+                        "name": "Rinforzi laterali (3 per lato)",
+                        "optionName": "Struttura"
+                    },
+                    {
+                        "name": "Bianca",
+                        "optionName": "Finitura"
+                    }
+                ],
+                "tech_details": {
+                    "Filtrazione": "SABBIA 4",
+                    "Liner": "BLU 40/100"
+                }
+            },
+            {
+                "sku": "KIT610ECO",
+                "ean": "8412081211404",
+                "price": 2003.35,
+                "options": [
+                    {
+                        "name": "2 x 120 cm",
+                        "optionName": "Dimensioni"
+                    },
+                    {
+                        "name": "Rinforzi laterali (2 per lato)",
+                        "optionName": "Struttura"
+                    },
+                    {
+                        "name": "Bianca",
+                        "optionName": "Finitura"
+                    }
+                ],
+                "tech_details": {
+                    "Filtrazione": "SABBIA 4",
+                    "Liner": "BLU 40/100"
+                }
+            },
+            {
+                "sku": "KIT500ECO",
+                "ean": "8412081231037",
+                "price": 1848.85,
+                "options": [
+                    {
+                        "name": "2 x 120 cm",
+                        "optionName": "Dimensioni"
+                    },
+                    {
+                        "name": "Rinforzi laterali (2 per lato)",
+                        "optionName": "Struttura"
+                    },
+                    {
+                        "name": "Bianca",
+                        "optionName": "Finitura"
+                    }
+                ],
+                "tech_details": {
+                    "Filtrazione": "SABBIA 4",
+                    "Liner": "BLU 30/100"
+                }
+            },
+            {
+                "sku": "KIT550ECO",
+                "ean": "8412081211411",
+                "price": 1678.9,
+                "options": [
+                    {
+                        "name": "30 x 120 cm",
+                        "optionName": "Dimensioni"
+                    },
+                    {
+                        "name": "Standard",
+                        "optionName": "Struttura"
+                    },
+                    {
+                        "name": "Bianca",
+                        "optionName": "Finitura"
+                    }
+                ],
+                "tech_details": {
+                    "Filtrazione": "SABBIA 4",
+                    "Liner": "BLU 30/100"
+                }
+            },
+            {
+                "sku": "KIT460ECO",
+                "ean": "8412081211428",
+                "price": 1467.75,
+                "options": [
+                    {
+                        "name": "30 x 120 cm",
+                        "optionName": "Dimensioni"
+                    },
+                    {
+                        "name": "Standard",
+                        "optionName": "Struttura"
+                    },
+                    {
+                        "name": "Bianca",
+                        "optionName": "Finitura"
+                    }
+                ],
+                "tech_details": {
+                    "Filtrazione": "SABBIA 4",
+                    "Liner": "BLU 30/100"
+                }
+            },
+            {
+                "sku": "KIT350ECO",
+                "ean": "8412081211435",
+                "price": 1282.35,
+                "options": [
+                    {
+                        "name": "30 x 120 cm",
+                        "optionName": "Dimensioni"
+                    },
+                    {
+                        "name": "Standard",
+                        "optionName": "Struttura"
+                    },
+                    {
+                        "name": "Bianca",
+                        "optionName": "Finitura"
+                    }
+                ],
+                "tech_details": {
+                    "Filtrazione": "SABBIA 4",
+                    "Liner": "BLU 30/100"
+                }
+            },
+            {
+                "sku": "KIT300ECO",
+                "ean": "8412081228754",
+                "price": 1230.85,
+                "options": [
+                    {
+                        "name": "30 x 120 cm",
+                        "optionName": "Dimensioni"
+                    },
+                    {
+                        "name": "Standard",
+                        "optionName": "Struttura"
+                    },
+                    {
+                        "name": "Bianca",
+                        "optionName": "Finitura"
+                    }
+                ],
+                "tech_details": {
+                    "Filtrazione": "SABBIA 4",
+                    "Liner": "BLU 30/100"
+                }
+            },
+            {
+                "sku": "KIT240ECO",
+                "ean": "8412081240831",
+                "price": 1131.97,
+                "options": [
+                    {
+                        "name": "30 x 120 cm",
+                        "optionName": "Dimensioni"
+                    },
+                    {
+                        "name": "Standard",
+                        "optionName": "Struttura"
+                    },
+                    {
+                        "name": "Bianca",
+                        "optionName": "Finitura"
+                    }
+                ],
+                "tech_details": {
+                    "Filtrazione": "SABBIA 4",
+                    "Liner": "BLU 30/100"
+                }
+            },
+            {
+                "sku": "KIT610QGRE",
+                "ean": "8412081307657",
+                "price": 1801.47,
+                "options": [
+                    {
+                        "name": "2 x 120 cm",
+                        "optionName": "Dimensioni"
+                    },
+                    {
+                        "name": "Rinforzi laterali (2 per lato)",
+                        "optionName": "Struttura"
+                    },
+                    {
+                        "name": "Bianca",
+                        "optionName": "Finitura"
+                    }
+                ],
+                "tech_details": {
+                    "Filtrazione": "Inclusa",
+                    "Liner": "BLU 40/100"
+                }
+            },
+            {
+                "sku": "KIT500QGRE",
+                "ean": "8412081307664",
+                "price": 1502.77,
+                "options": [
+                    {
+                        "name": "2 x 120 cm",
+                        "optionName": "Dimensioni"
+                    },
+                    {
+                        "name": "Rinforzi laterali (2 per lato)",
+                        "optionName": "Struttura"
+                    },
+                    {
+                        "name": "Bianca",
+                        "optionName": "Finitura"
+                    }
+                ],
+                "tech_details": {
+                    "Filtrazione": "Inclusa",
+                    "Liner": "BLU 30/100"
+                }
+            },
+            {
+                "sku": "KIT460QGRE",
+                "ean": "8412081319193",
+                "price": 1214.37,
+                "options": [
+                    {
+                        "name": "30 x 120 cm",
+                        "optionName": "Dimensioni"
+                    },
+                    {
+                        "name": "Standard",
+                        "optionName": "Struttura"
+                    },
+                    {
+                        "name": "Bianca",
+                        "optionName": "Finitura"
+                    }
+                ],
+                "tech_details": {
+                    "Filtrazione": "Inclusa",
+                    "Liner": "BLU 30/100"
+                }
+            },
+            {
+                "sku": "KIT350QGRE",
+                "ean": "8412081319209",
+                "price": 1111.37,
+                "options": [
+                    {
+                        "name": "30 x 120 cm",
+                        "optionName": "Dimensioni"
+                    },
+                    {
+                        "name": "Standard",
+                        "optionName": "Struttura"
+                    },
+                    {
+                        "name": "Bianca",
+                        "optionName": "Finitura"
+                    }
+                ],
+                "tech_details": {
+                    "Filtrazione": "Inclusa",
+                    "Liner": "BLU 30/100"
+                }
+            },
+            {
+                "sku": "KIT300QGRE",
+                "ean": "8412081307671",
+                "price": 977.47,
+                "options": [
+                    {
+                        "name": "30 x 120 cm",
+                        "optionName": "Dimensioni"
+                    },
+                    {
+                        "name": "Standard",
+                        "optionName": "Struttura"
+                    },
+                    {
+                        "name": "Bianca",
+                        "optionName": "Finitura"
+                    }
+                ],
+                "tech_details": {
+                    "Filtrazione": "Inclusa",
+                    "Liner": "BLU 30/100"
+                }
+            },
+            {
+                "sku": "KITPROV6270",
+                "ean": "8412081211633",
+                "price": 3284.67,
+                "options": [
+                    {
+                        "name": "40 x 120 cm",
+                        "optionName": "Dimensioni"
+                    },
+                    {
+                        "name": "Sistema Omega (senza gambe)",
+                        "optionName": "Struttura"
+                    },
+                    {
+                        "name": "Bianca",
+                        "optionName": "Finitura"
+                    }
+                ],
+                "tech_details": {
+                    "Filtrazione": "SABBIA 4",
+                    "Liner": "BLU 40/100"
+                }
+            },
+            {
+                "sku": "KITPROV4870",
+                "ean": "8412081231921",
+                "price": 2832.5,
+                "options": [
+                    {
+                        "name": "40 x 120 cm",
+                        "optionName": "Dimensioni"
+                    },
+                    {
+                        "name": "Sistema Omega (senza gambe)",
+                        "optionName": "Struttura"
+                    },
+                    {
+                        "name": "Bianca",
+                        "optionName": "Finitura"
+                    }
+                ],
+                "tech_details": {
+                    "Filtrazione": "SABBIA 4",
+                    "Liner": "BLU 40/100"
+                }
+            },
+            {
+                "sku": "KITPROV613",
+                "ean": "8412081220437",
+                "price": 1890.05,
+                "options": [
+                    {
+                        "name": "2 x 120 cm",
+                        "optionName": "Dimensioni"
+                    },
+                    {
+                        "name": "Rinforzi laterali (2 per lato)",
+                        "optionName": "Struttura"
+                    },
+                    {
+                        "name": "Bianca",
+                        "optionName": "Finitura"
+                    }
+                ],
+                "tech_details": {
+                    "Filtrazione": "Inclusa",
+                    "Liner": "BLU 40/100"
+                }
+            },
+            {
+                "sku": "KITPROV503",
+                "ean": "8412081220260",
+                "price": 1708.77,
+                "options": [
+                    {
+                        "name": "2 x 120 cm",
+                        "optionName": "Dimensioni"
+                    },
+                    {
+                        "name": "Rinforzi laterali (2 per lato)",
+                        "optionName": "Struttura"
+                    },
+                    {
+                        "name": "Bianca",
+                        "optionName": "Finitura"
+                    }
+                ],
+                "tech_details": {
+                    "Filtrazione": "Inclusa",
+                    "Liner": "BLU 30/100"
+                }
+            },
+            {
+                "sku": "KITPR453",
+                "ean": "8412081209005",
+                "price": 1234.97,
+                "options": [
+                    {
+                        "name": "30 x 120 cm",
+                        "optionName": "Dimensioni"
+                    },
+                    {
+                        "name": "Standard",
+                        "optionName": "Struttura"
+                    },
+                    {
+                        "name": "Bianca",
+                        "optionName": "Finitura"
+                    }
+                ],
+                "tech_details": {
+                    "Filtrazione": "Inclusa",
+                    "Liner": "BLU 30/100"
+                }
+            },
+            {
+                "sku": "KITPR353",
+                "ean": "8412081209012",
+                "price": 1049.57,
+                "options": [
+                    {
+                        "name": "30 x 120 cm",
+                        "optionName": "Dimensioni"
+                    },
+                    {
+                        "name": "Standard",
+                        "optionName": "Struttura"
+                    },
+                    {
+                        "name": "Bianca",
+                        "optionName": "Finitura"
+                    }
+                ],
+                "tech_details": {
+                    "Filtrazione": "Inclusa",
+                    "Liner": "BLU 30/100"
+                }
+            },
+            {
+                "sku": "KITPR303",
+                "ean": "8412081233901",
+                "price": 998.07,
+                "options": [
+                    {
+                        "name": "30 x 120 cm",
+                        "optionName": "Dimensioni"
+                    },
+                    {
+                        "name": "Standard",
+                        "optionName": "Struttura"
+                    },
+                    {
+                        "name": "Bianca",
+                        "optionName": "Finitura"
+                    }
+                ],
+                "tech_details": {
+                    "Filtrazione": "Inclusa",
+                    "Liner": "BLU 30/100"
+                }
+            }
+        ]
+    },
+    "ALTRE PISCINE GRE": {
+        "title": "Piscine Gre Serie Altre piscine gre",
+        "category": "Piscine in acciaio",
+        "variants": [
+            {
+                "sku": "KPEOV8059",
+                "ean": "8412081269320",
+                "price": 5036.7,
+                "options": [
+                    {
+                        "name": "75 x 150 cm",
+                        "optionName": "Dimensioni"
+                    },
+                    {
+                        "name": "Standard",
+                        "optionName": "Struttura"
+                    },
+                    {
+                        "name": "Original",
+                        "optionName": "Finitura"
+                    }
+                ],
+                "tech_details": {
+                    "Filtrazione": "SABBIA 10",
+                    "Liner": "BLU 75/100"
+                }
+            },
+            {
+                "sku": "KPEOV7059",
+                "ean": "8412081269337",
+                "price": 4619.55,
+                "options": [
+                    {
+                        "name": "75 x 150 cm",
+                        "optionName": "Dimensioni"
+                    },
+                    {
+                        "name": "Standard",
+                        "optionName": "Struttura"
+                    },
+                    {
+                        "name": "Original",
+                        "optionName": "Finitura"
+                    }
+                ],
+                "tech_details": {
+                    "Filtrazione": "SABBIA 10",
+                    "Liner": "BLU 75/100"
+                }
+            },
+            {
+                "sku": "KPEOV6059",
+                "ean": "8412081269344",
+                "price": 4407.37,
+                "options": [
+                    {
+                        "name": "75 x 150 cm",
+                        "optionName": "Dimensioni"
+                    },
+                    {
+                        "name": "Standard",
+                        "optionName": "Struttura"
+                    },
+                    {
+                        "name": "Original",
+                        "optionName": "Finitura"
+                    }
+                ],
+                "tech_details": {
+                    "Filtrazione": "SABBIA 10",
+                    "Liner": "BLU 75/100"
+                }
+            },
+            {
+                "sku": "KPEOV5059",
+                "ean": "8412081258904",
+                "price": 4201.37,
+                "options": [
+                    {
+                        "name": "75 x 150 cm",
+                        "optionName": "Dimensioni"
+                    },
+                    {
+                        "name": "Standard",
+                        "optionName": "Struttura"
+                    },
+                    {
+                        "name": "Original",
+                        "optionName": "Finitura"
+                    }
+                ],
+                "tech_details": {
+                    "Filtrazione": "SABBIA 10",
+                    "Liner": "BLU 75/100"
+                }
+            },
+            {
+                "sku": "KPE4259",
+                "ean": "8412081269351",
+                "price": 3362.95,
+                "options": [
+                    {
+                        "name": "75 x 150 cm",
+                        "optionName": "Dimensioni"
+                    },
+                    {
+                        "name": "Standard",
+                        "optionName": "Struttura"
+                    },
+                    {
+                        "name": "Original",
+                        "optionName": "Finitura"
+                    }
+                ],
+                "tech_details": {
+                    "Filtrazione": "SABBIA 10",
+                    "Liner": "BLU 75/100"
+                }
+            },
+            {
+                "sku": "KPEOV8027",
+                "ean": "8412081269368",
+                "price": 3986.1,
+                "options": [
+                    {
+                        "name": "60 x 120 cm",
+                        "optionName": "Dimensioni"
+                    },
+                    {
+                        "name": "Standard",
+                        "optionName": "Struttura"
+                    },
+                    {
+                        "name": "Original",
+                        "optionName": "Finitura"
+                    }
+                ],
+                "tech_details": {
+                    "Filtrazione": "SABBIA 10",
+                    "Liner": "BLU 60/100"
+                }
+            },
+            {
+                "sku": "KPEOV7027",
+                "ean": "8412081269375",
+                "price": 3356.77,
+                "options": [
+                    {
+                        "name": "60 x 120 cm",
+                        "optionName": "Dimensioni"
+                    },
+                    {
+                        "name": "Standard",
+                        "optionName": "Struttura"
+                    },
+                    {
+                        "name": "Original",
+                        "optionName": "Finitura"
+                    }
+                ],
+                "tech_details": {
+                    "Filtrazione": "SABBIA 10",
+                    "Liner": "BLU 60/100"
+                }
+            },
+            {
+                "sku": "KPEOV6027",
+                "ean": "8412081269382",
+                "price": 3213.6,
+                "options": [
+                    {
+                        "name": "60 x 120 cm",
+                        "optionName": "Dimensioni"
+                    },
+                    {
+                        "name": "Standard",
+                        "optionName": "Struttura"
+                    },
+                    {
+                        "name": "Original",
+                        "optionName": "Finitura"
+                    }
+                ],
+                "tech_details": {
+                    "Filtrazione": "SABBIA 10",
+                    "Liner": "BLU 60/100"
+                }
+            },
+            {
+                "sku": "KPEOV5027",
+                "ean": "8412081258959",
+                "price": 3047.77,
+                "options": [
+                    {
+                        "name": "60 x 120 cm",
+                        "optionName": "Dimensioni"
+                    },
+                    {
+                        "name": "Standard",
+                        "optionName": "Struttura"
+                    },
+                    {
+                        "name": "Original",
+                        "optionName": "Finitura"
+                    }
+                ],
+                "tech_details": {
+                    "Filtrazione": "SABBIA 10",
+                    "Liner": "BLU 60/100"
+                }
+            },
+            {
+                "sku": "KPE4227",
+                "ean": "8412081269399",
+                "price": 2729.5,
+                "options": [
+                    {
+                        "name": "60 x 120 cm",
+                        "optionName": "Dimensioni"
+                    },
+                    {
+                        "name": "Standard",
+                        "optionName": "Struttura"
+                    },
+                    {
+                        "name": "Original",
+                        "optionName": "Finitura"
+                    }
+                ],
+                "tech_details": {
+                    "Filtrazione": "SABBIA 10",
+                    "Liner": "BLU 60/100"
+                }
+            },
+            {
+                "sku": "KPE3527",
+                "ean": "8412081262635",
+                "price": 2569.85,
+                "options": [
+                    {
+                        "name": "60 x 120 cm",
+                        "optionName": "Dimensioni"
+                    },
+                    {
+                        "name": "Standard",
+                        "optionName": "Struttura"
+                    },
+                    {
+                        "name": "Original",
+                        "optionName": "Finitura"
+                    }
+                ],
+                "tech_details": {
+                    "Filtrazione": "SABBIA 10",
+                    "Liner": "BLU 60/100"
+                }
+            }
+        ]
+    }
+}

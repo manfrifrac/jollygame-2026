@@ -1,0 +1,4512 @@
+[
+  {
+    "title": "Raccordo unione 2 tubi gall. 38/32mm",
+    "status": "ACTIVE",
+    "total_variants": 9,
+    "issues": [
+      "8 varianti a prezzo 0"
+    ],
+    "variant_details": [
+      {
+        "name": "40009",
+        "price": "2.85",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "40012",
+        "price": "0.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "Ø32",
+        "price": "0.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "778196",
+        "price": "0.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "90165",
+        "price": "0.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "Ø38",
+        "price": "0.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "Ø38 (40091)",
+        "price": "0.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "Ø38 (AR509)",
+        "price": "0.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "Ø32 (AR511)",
+        "price": "0.00",
+        "stock": 10,
+        "available": true
+      }
+    ]
+  },
+  {
+    "title": "Manico telescopico 2 sezioni, lunghezza 3,60 m",
+    "status": "ACTIVE",
+    "total_variants": 6,
+    "issues": [
+      "5 varianti a prezzo 0"
+    ],
+    "variant_details": [
+      {
+        "name": "40010",
+        "price": "22.65",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "40011",
+        "price": "0.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "90100",
+        "price": "0.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "40014",
+        "price": "0.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "TPP360",
+        "price": "0.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "40013",
+        "price": "0.00",
+        "stock": 10,
+        "available": true
+      }
+    ]
+  },
+  {
+    "title": "Pulitore manuale in alluminio per piscina",
+    "status": "DRAFT",
+    "total_variants": 14,
+    "issues": [
+      "14 varianti a prezzo 0"
+    ],
+    "variant_details": [
+      {
+        "name": "40022",
+        "price": "0.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "90105",
+        "price": "0.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "90110",
+        "price": "0.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "40016N",
+        "price": "0.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "777573",
+        "price": "0.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "777970",
+        "price": "0.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "770306",
+        "price": "0.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "VHRP40",
+        "price": "0.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "772794",
+        "price": "0.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "40017N",
+        "price": "0.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "VHTP40",
+        "price": "0.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "40018N",
+        "price": "0.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "777584",
+        "price": "0.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "90111",
+        "price": "0.00",
+        "stock": 10,
+        "available": true
+      }
+    ]
+  },
+  {
+    "title": "Termometro a sfera di vetro",
+    "status": "DRAFT",
+    "total_variants": 10,
+    "issues": [
+      "10 varianti a prezzo 0"
+    ],
+    "variant_details": [
+      {
+        "name": "40055",
+        "price": "0.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "BT474",
+        "price": "0.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "40050",
+        "price": "0.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "40051",
+        "price": "0.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "40054",
+        "price": "0.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "90130",
+        "price": "0.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "770326",
+        "price": "0.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "TTUFO",
+        "price": "0.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "90132",
+        "price": "0.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "THP24",
+        "price": "0.00",
+        "stock": 10,
+        "available": true
+      }
+    ]
+  },
+  {
+    "title": "Erogatore Flot 200 g",
+    "status": "ACTIVE",
+    "total_variants": 7,
+    "issues": [
+      "6 varianti a prezzo 0"
+    ],
+    "variant_details": [
+      {
+        "name": "40070",
+        "price": "8.70",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "40071",
+        "price": "0.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "90140",
+        "price": "0.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "90141",
+        "price": "0.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "DCT20",
+        "price": "0.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "FDP20",
+        "price": "0.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "FDP250",
+        "price": "0.00",
+        "stock": 10,
+        "available": true
+      }
+    ]
+  },
+  {
+    "title": "Kit di riparazione liner in gomma",
+    "status": "ACTIVE",
+    "total_variants": 3,
+    "issues": [
+      "2 varianti a prezzo 0"
+    ],
+    "variant_details": [
+      {
+        "name": "40080",
+        "price": "8.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "AR202",
+        "price": "0.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "V12",
+        "price": "0.00",
+        "stock": 10,
+        "available": true
+      }
+    ]
+  },
+  {
+    "title": "Tubo flessibile PVC Cepex",
+    "status": "DRAFT",
+    "total_variants": 12,
+    "issues": [
+      "12 varianti a prezzo 0"
+    ],
+    "variant_details": [
+      {
+        "name": "40557",
+        "price": "0.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "40538",
+        "price": "0.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "Ø50",
+        "price": "0.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "40591",
+        "price": "0.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "40593",
+        "price": "0.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "40592",
+        "price": "0.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "40539",
+        "price": "0.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "40541",
+        "price": "0.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "40555",
+        "price": "0.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "40537",
+        "price": "0.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "40590",
+        "price": "0.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "40543",
+        "price": "0.00",
+        "stock": 10,
+        "available": true
+      }
+    ]
+  },
+  {
+    "title": "Spazzola aspirante 51 cm",
+    "status": "ACTIVE",
+    "total_variants": 15,
+    "issues": [
+      "14 varianti a prezzo 0"
+    ],
+    "variant_details": [
+      {
+        "name": "40802",
+        "price": "16.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "40806",
+        "price": "0.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "90125",
+        "price": "0.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "90127",
+        "price": "0.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "90128",
+        "price": "0.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "CAA25",
+        "price": "0.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "40041SN",
+        "price": "0.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "40040N",
+        "price": "0.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "40046N",
+        "price": "0.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "40041N",
+        "price": "0.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "772876",
+        "price": "0.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "HBP20",
+        "price": "0.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "772877",
+        "price": "0.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "WBP45",
+        "price": "0.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "WBP25",
+        "price": "0.00",
+        "stock": 10,
+        "available": true
+      }
+    ]
+  },
+  {
+    "title": "Raccoglitore di fondo Eco Range",
+    "status": "DRAFT",
+    "total_variants": 7,
+    "issues": [
+      "7 varianti a prezzo 0"
+    ],
+    "variant_details": [
+      {
+        "name": "90120",
+        "price": "0.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "40031F",
+        "price": "0.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "777580",
+        "price": "0.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "RHFALN",
+        "price": "0.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "40032N",
+        "price": "0.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "LRP40",
+        "price": "0.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "772872",
+        "price": "0.00",
+        "stock": 10,
+        "available": true
+      }
+    ]
+  },
+  {
+    "title": "Tubo galleggiante GRE 36,5m sezionabile",
+    "status": "ACTIVE",
+    "total_variants": 2,
+    "issues": [
+      "1 varianti a prezzo 0"
+    ],
+    "variant_details": [
+      {
+        "name": "90160",
+        "price": "149.90",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "90161",
+        "price": "0.00",
+        "stock": 10,
+        "available": true
+      }
+    ]
+  },
+  {
+    "title": "Avvolgitore per coperture piscine interrate",
+    "status": "ACTIVE",
+    "total_variants": 4,
+    "issues": [],
+    "variant_details": [
+      {
+        "name": "90171",
+        "price": "299.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "40135",
+        "price": "215.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "CRP58",
+        "price": "159.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "90172",
+        "price": "259.00",
+        "stock": 10,
+        "available": true
+      }
+    ]
+  },
+  {
+    "title": "Riscaldamento solare per piscine",
+    "status": "ACTIVE",
+    "total_variants": 3,
+    "issues": [],
+    "variant_details": [
+      {
+        "name": "90230",
+        "price": "169.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "AR2069",
+        "price": "229.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "SH70",
+        "price": "129.00",
+        "stock": 10,
+        "available": true
+      }
+    ]
+  },
+  {
+    "title": "Aspiratori idraulici silenziosi Silence Vac",
+    "status": "ACTIVE",
+    "total_variants": 5,
+    "issues": [],
+    "variant_details": [
+      {
+        "name": "90397",
+        "price": "175.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "90399",
+        "price": "102.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "19001",
+        "price": "112.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "AR20682",
+        "price": "88.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "19007",
+        "price": "154.00",
+        "stock": 10,
+        "available": true
+      }
+    ]
+  },
+  {
+    "title": "Copertura per piscina in legno ovale Vermela",
+    "status": "ACTIVE",
+    "total_variants": 20,
+    "issues": [
+      "2 varianti a prezzo 0"
+    ],
+    "variant_details": [
+      {
+        "name": "712 x 512",
+        "price": "619.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "779531",
+        "price": "355.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "786754",
+        "price": "279.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "893 x 496",
+        "price": "829.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "575 x 375",
+        "price": "399.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "675 x 375",
+        "price": "0.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "714 x 436",
+        "price": "449.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "854 x 436",
+        "price": "519.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "1115 x 660",
+        "price": "244.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "610 x 410",
+        "price": "81.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "680 x 460",
+        "price": "121.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "820 x 460",
+        "price": "135.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "930 x 560",
+        "price": "183.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "1030 x 560",
+        "price": "193.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "677 x 452",
+        "price": "285.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "CIKPCO52",
+        "price": "317.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "793 x 496",
+        "price": "0.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "CIPROV501P",
+        "price": "119.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "CIPROV731P",
+        "price": "149.90",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "680 x 460 (CIPROV611P)",
+        "price": "125.00",
+        "stock": 10,
+        "available": true
+      }
+    ]
+  },
+  {
+    "title": "Liner blu per piscina in acciaio rotonda 75/100",
+    "status": "ACTIVE",
+    "total_variants": 19,
+    "issues": [],
+    "variant_details": [
+      {
+        "name": "460 x 120",
+        "price": "639.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "240 x 120",
+        "price": "201.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "300 x 120",
+        "price": "270.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "350 x 120",
+        "price": "282.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "350 x 90",
+        "price": "249.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "350 x 132",
+        "price": "405.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "350 x 132 (FPR358)",
+        "price": "317.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "460 x 120 (FPR451)",
+        "price": "402.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "460 x 132",
+        "price": "529.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "460 x 132 (FPR458)",
+        "price": "475.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "550 x 120",
+        "price": "590.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "550 x 132",
+        "price": "744.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "550 x 132 (FPR558)",
+        "price": "615.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "300 x 90",
+        "price": "98.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "350 x 90 (FSP350)",
+        "price": "115.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "400 x 90",
+        "price": "149.90",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "450 x 90",
+        "price": "176.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "300 x 65",
+        "price": "89.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "350 x 120 (FSPR350)",
+        "price": "152.00",
+        "stock": 10,
+        "available": true
+      }
+    ]
+  },
+  {
+    "title": "Copertura piscina ovale",
+    "status": "ACTIVE",
+    "total_variants": 20,
+    "issues": [
+      "19 varianti a prezzo 0"
+    ],
+    "variant_details": [
+      {
+        "name": "495 x 295",
+        "price": "74.54",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "779530",
+        "price": "0.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "498 x 298",
+        "price": "0.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "585 x 360",
+        "price": "0.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "786634",
+        "price": "0.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "753 x 333",
+        "price": "0.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "1000 x 550",
+        "price": "0.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "472 x 305",
+        "price": "0.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "485 x 335",
+        "price": "0.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "640 x 390",
+        "price": "0.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "710 x 475",
+        "price": "0.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "810 x 470",
+        "price": "0.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "915 x 470",
+        "price": "0.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "482 x 282",
+        "price": "0.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "580 x 282",
+        "price": "0.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "473 x 333",
+        "price": "0.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "495 x 295 (CVPE500)",
+        "price": "0.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "695 x 315",
+        "price": "0.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "700 x 403",
+        "price": "0.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "810 x 470 (CVP800)",
+        "price": "0.00",
+        "stock": 10,
+        "available": true
+      }
+    ]
+  },
+  {
+    "title": "Copertura per piscina rotonda violetta - Mod. 581",
+    "status": "ACTIVE",
+    "total_variants": 13,
+    "issues": [],
+    "variant_details": [
+      {
+        "name": "784801",
+        "price": "239.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "Ø335",
+        "price": "139.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "Ø460",
+        "price": "315.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "Ø330",
+        "price": "57.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "Ø380",
+        "price": "66.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "Ø440",
+        "price": "81.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "Ø440 (CIPR351P)",
+        "price": "84.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "Ø480",
+        "price": "83.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "Ø540",
+        "price": "111.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "Ø640",
+        "price": "112.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "Ø730",
+        "price": "164.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "Ø452",
+        "price": "165.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "Ø540 (CIPR451P)",
+        "price": "127.00",
+        "stock": 10,
+        "available": true
+      }
+    ]
+  },
+  {
+    "title": "Casetta in legno alta 118 cm",
+    "status": "ACTIVE",
+    "total_variants": 3,
+    "issues": [
+      "2 varianti a prezzo 0"
+    ],
+    "variant_details": [
+      {
+        "name": "787247",
+        "price": "379.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "787248",
+        "price": "0.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "787249",
+        "price": "0.00",
+        "stock": 10,
+        "available": true
+      }
+    ]
+  },
+  {
+    "title": "Piscina Ovale Pacific",
+    "status": "ACTIVE",
+    "total_variants": 3,
+    "issues": [],
+    "variant_details": [
+      {
+        "name": "500 x 300",
+        "price": "2045.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "610 x 375",
+        "price": "2549.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "730 x 375",
+        "price": "2995.00",
+        "stock": 10,
+        "available": true
+      }
+    ]
+  },
+  {
+    "title": "Tubo per puliscifondo 8m con 2 terminali",
+    "status": "ACTIVE",
+    "total_variants": 9,
+    "issues": [
+      "8 varianti a prezzo 0"
+    ],
+    "variant_details": [
+      {
+        "name": "Ø38",
+        "price": "42.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "Ø38 (40002)",
+        "price": "0.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "Ø38 (40003)",
+        "price": "0.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "Ø38 (40004)",
+        "price": "0.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "Ø38 (AR210)",
+        "price": "0.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "Ø38 (AR212)",
+        "price": "0.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "Ø32",
+        "price": "0.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "Ø38 (90135)",
+        "price": "0.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "Ø32 (770322)",
+        "price": "0.00",
+        "stock": 10,
+        "available": true
+      }
+    ]
+  },
+  {
+    "title": "Tappo di chiusura invernale 1,5",
+    "status": "ACTIVE",
+    "total_variants": 5,
+    "issues": [
+      "4 varianti a prezzo 0"
+    ],
+    "variant_details": [
+      {
+        "name": "40582",
+        "price": "4.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "40583",
+        "price": "0.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "PIC1",
+        "price": "0.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "40580",
+        "price": "0.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "40581",
+        "price": "0.00",
+        "stock": 10,
+        "available": true
+      }
+    ]
+  },
+  {
+    "title": "Manicotto di giunzione per depuratori, 58cm",
+    "status": "DRAFT",
+    "total_variants": 6,
+    "issues": [
+      "6 varianti a prezzo 0"
+    ],
+    "variant_details": [
+      {
+        "name": "Ø38",
+        "price": "0.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "Ø38 (60205)",
+        "price": "0.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "Ø38 (AR2100)",
+        "price": "0.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "Ø38 (60222)",
+        "price": "0.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "Ø38 (40180)",
+        "price": "0.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "Ø32",
+        "price": "0.00",
+        "stock": 10,
+        "available": true
+      }
+    ]
+  },
+  {
+    "title": "Bromo shock granulato",
+    "status": "ACTIVE",
+    "total_variants": 3,
+    "issues": [
+      "2 varianti a prezzo 0"
+    ],
+    "variant_details": [
+      {
+        "name": "76026",
+        "price": "99.90",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "76027",
+        "price": "0.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "76025",
+        "price": "0.00",
+        "stock": 10,
+        "available": true
+      }
+    ]
+  },
+  {
+    "title": "Anticalcare per la Pulizia",
+    "status": "ACTIVE",
+    "total_variants": 4,
+    "issues": [
+      "3 varianti a prezzo 0"
+    ],
+    "variant_details": [
+      {
+        "name": "76048",
+        "price": "32.90",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "76047",
+        "price": "0.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "76046",
+        "price": "0.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "76049",
+        "price": "0.00",
+        "stock": 10,
+        "available": true
+      }
+    ]
+  },
+  {
+    "title": "Svernante liquido per inverno",
+    "status": "ACTIVE",
+    "total_variants": 4,
+    "issues": [
+      "3 varianti a prezzo 0"
+    ],
+    "variant_details": [
+      {
+        "name": "76050",
+        "price": "14.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "90035",
+        "price": "0.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "76051",
+        "price": "0.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "76080L",
+        "price": "0.00",
+        "stock": 10,
+        "available": true
+      }
+    ]
+  },
+  {
+    "title": "Elevatore di alcalinità",
+    "status": "ACTIVE",
+    "total_variants": 2,
+    "issues": [
+      "1 varianti a prezzo 0"
+    ],
+    "variant_details": [
+      {
+        "name": "76081",
+        "price": "29.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "90147N",
+        "price": "0.00",
+        "stock": 10,
+        "available": true
+      }
+    ]
+  },
+  {
+    "title": "Controllo remoto a 4 azioni con 50 blocchi multi funzioni",
+    "status": "DRAFT",
+    "total_variants": 12,
+    "issues": [
+      "12 varianti a prezzo 0"
+    ],
+    "variant_details": [
+      {
+        "name": "76084",
+        "price": "0.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "76034",
+        "price": "0.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "76058",
+        "price": "0.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "76085",
+        "price": "0.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "76012NB",
+        "price": "0.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "76006NB",
+        "price": "0.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "76007NB",
+        "price": "0.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "76039NB",
+        "price": "0.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "76031NB",
+        "price": "0.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "76032NB",
+        "price": "0.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "76067NB",
+        "price": "0.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "76033NB",
+        "price": "0.00",
+        "stock": 10,
+        "available": true
+      }
+    ]
+  },
+  {
+    "title": "Smart Plug F-F",
+    "status": "DRAFT",
+    "total_variants": 2,
+    "issues": [
+      "2 varianti a prezzo 0"
+    ],
+    "variant_details": [
+      {
+        "name": "76671",
+        "price": "0.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "WA000082",
+        "price": "0.00",
+        "stock": 10,
+        "available": true
+      }
+    ]
+  },
+  {
+    "title": "Regolatore pH ECO",
+    "status": "ACTIVE",
+    "total_variants": 5,
+    "issues": [
+      "4 varianti a prezzo 0"
+    ],
+    "variant_details": [
+      {
+        "name": "90003",
+        "price": "22.99",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "76002",
+        "price": "0.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "76019",
+        "price": "0.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "76018",
+        "price": "0.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "76001",
+        "price": "0.00",
+        "stock": 10,
+        "available": true
+      }
+    ]
+  },
+  {
+    "title": "Liner piscina acciaio blu ovale",
+    "status": "ACTIVE",
+    "total_variants": 20,
+    "issues": [
+      "1 varianti a prezzo 0"
+    ],
+    "variant_details": [
+      {
+        "name": "610 x 370",
+        "price": "769.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "1000 x 550",
+        "price": "1455.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "500 x 300",
+        "price": "494.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "500 x 340",
+        "price": "689.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "500 x 350",
+        "price": "0.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "500 x 300 (FPROV517)",
+        "price": "672.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "610 x 375",
+        "price": "610.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "610 x 375 (FPROV617)",
+        "price": "769.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "610 x 375 (FPROV618)",
+        "price": "683.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "625 x 375",
+        "price": "799.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "700 x 450",
+        "price": "935.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "730 x 375",
+        "price": "695.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "730 x 375 (FPROV737)",
+        "price": "849.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "730 x 375 (FPROV738)",
+        "price": "829.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "800 x 470",
+        "price": "865.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "800 x 470 (FPROV818)",
+        "price": "925.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "800 x 470 (FPROV827)",
+        "price": "995.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "915 x 470",
+        "price": "948.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "915 x 470 (FPROV917)",
+        "price": "1094.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "915 x 470 (FPROV918)",
+        "price": "995.00",
+        "stock": 10,
+        "available": true
+      }
+    ]
+  },
+  {
+    "title": "Copertore per piscine rettangolari in legno Mint",
+    "status": "ACTIVE",
+    "total_variants": 10,
+    "issues": [
+      "3 varianti a prezzo 0"
+    ],
+    "variant_details": [
+      {
+        "name": "1058 x 467",
+        "price": "795.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "467 x 317",
+        "price": "135.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "415 x 240",
+        "price": "0.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "660 x 460",
+        "price": "549.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "855 x 460",
+        "price": "587.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "658 x 360",
+        "price": "0.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "376 x 236",
+        "price": "262.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "516 x 376",
+        "price": "316.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "CIKPCOR60",
+        "price": "369.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "558 x 360",
+        "price": "0.00",
+        "stock": 10,
+        "available": true
+      }
+    ]
+  },
+  {
+    "title": "Liner piscina legno ovale blu",
+    "status": "ACTIVE",
+    "total_variants": 14,
+    "issues": [
+      "4 varianti a prezzo 0"
+    ],
+    "variant_details": [
+      {
+        "name": "436 x 336",
+        "price": "443.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "551 x 351",
+        "price": "494.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "637 x 412",
+        "price": "715.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "637 x 412 (783809)",
+        "price": "650.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "F7900872",
+        "price": "419.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "F7900862",
+        "price": "333.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "672 x 472",
+        "price": "985.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "852 x 455",
+        "price": "1199.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "656 x 456",
+        "price": "0.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "620 x 395",
+        "price": "0.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "F7900892",
+        "price": "558.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "755 x 456",
+        "price": "0.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "672 x 472 (786217)",
+        "price": "998.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "585 x 410",
+        "price": "0.00",
+        "stock": 10,
+        "available": true
+      }
+    ]
+  },
+  {
+    "title": "Liner piscina legno rotonda Blu",
+    "status": "ACTIVE",
+    "total_variants": 9,
+    "issues": [
+      "1 varianti a prezzo 0"
+    ],
+    "variant_details": [
+      {
+        "name": "Ø511",
+        "price": "519.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "786213",
+        "price": "275.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "Ø511 (786214)",
+        "price": "524.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "Ø412",
+        "price": "275.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "Ø343",
+        "price": "275.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "428 x 117",
+        "price": "0.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "Ø442",
+        "price": "515.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "Ø255",
+        "price": "220.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "F790302",
+        "price": "519.00",
+        "stock": 10,
+        "available": true
+      }
+    ]
+  },
+  {
+    "title": "Liner piscina rettangolare in legno blu",
+    "status": "ACTIVE",
+    "total_variants": 9,
+    "issues": [
+      "2 varianti a prezzo 0"
+    ],
+    "variant_details": [
+      {
+        "name": "600 x 400",
+        "price": "744.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "427 x 277",
+        "price": "499.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "815 x 420",
+        "price": "1025.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "6200 x 420",
+        "price": "744.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "375 x 200",
+        "price": "0.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "800 x 400",
+        "price": "1029.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "F7900962",
+        "price": "472.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "486 x 373",
+        "price": "699.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "420 x 270",
+        "price": "0.00",
+        "stock": 10,
+        "available": true
+      }
+    ]
+  },
+  {
+    "title": "Piscina City Quadrata",
+    "status": "ACTIVE",
+    "total_variants": 2,
+    "issues": [],
+    "variant_details": [
+      {
+        "name": "225 x 225",
+        "price": "1640.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "305 x 305",
+        "price": "6225.00",
+        "stock": 10,
+        "available": true
+      }
+    ]
+  },
+  {
+    "title": "Copertura per piscina in legno quadrata City",
+    "status": "ACTIVE",
+    "total_variants": 4,
+    "issues": [
+      "1 varianti a prezzo 0"
+    ],
+    "variant_details": [
+      {
+        "name": "250 x 250",
+        "price": "99.90",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "335 x 335",
+        "price": "239.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "CIKPCOR28",
+        "price": "273.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "282 x 219",
+        "price": "0.00",
+        "stock": 10,
+        "available": true
+      }
+    ]
+  },
+  {
+    "title": "Piscina Rotonda Lili 2",
+    "status": "ACTIVE",
+    "total_variants": 4,
+    "issues": [
+      "1 varianti a prezzo 0"
+    ],
+    "variant_details": [
+      {
+        "name": "Ø280",
+        "price": "2789.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "Ø400",
+        "price": "3395.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "Ø428",
+        "price": "0.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "Ø500",
+        "price": "4890.00",
+        "stock": 10,
+        "available": true
+      }
+    ]
+  },
+  {
+    "title": "Piscina Ovale Grenade 2",
+    "status": "ACTIVE",
+    "total_variants": 8,
+    "issues": [
+      "4 varianti a prezzo 0"
+    ],
+    "variant_details": [
+      {
+        "name": "436 x 336",
+        "price": "5770.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "535 x 335",
+        "price": "6479.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "535 x 335 (WPBAMB2)",
+        "price": "0.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "632 x 335",
+        "price": "0.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "656 x 456",
+        "price": "0.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "620 x 395",
+        "price": "8410.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "755 x 456",
+        "price": "0.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "672 x 472",
+        "price": "9275.00",
+        "stock": 10,
+        "available": true
+      }
+    ]
+  },
+  {
+    "title": "Piscina Marbella 2 Rettangolare",
+    "status": "ACTIVE",
+    "total_variants": 5,
+    "issues": [
+      "1 varianti a prezzo 0"
+    ],
+    "variant_details": [
+      {
+        "name": "420 x 270",
+        "price": "8150.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "520 x 320",
+        "price": "0.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "620 x 420",
+        "price": "10590.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "815 x 420",
+        "price": "12675.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "1010 x 418",
+        "price": "17495.00",
+        "stock": 10,
+        "available": true
+      }
+    ]
+  },
+  {
+    "title": "Piscina in pietra Sumatra ovale",
+    "status": "ACTIVE",
+    "total_variants": 4,
+    "issues": [],
+    "variant_details": [
+      {
+        "name": "500 x 300",
+        "price": "2959.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "600 x 320",
+        "price": "3120.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "700 x 320",
+        "price": "3259.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "800 x 400",
+        "price": "3870.00",
+        "stock": 10,
+        "available": true
+      }
+    ]
+  },
+  {
+    "title": "Piscina Madagascar Ovale",
+    "status": "ACTIVE",
+    "total_variants": 4,
+    "issues": [],
+    "variant_details": [
+      {
+        "name": "500 x 300",
+        "price": "4079.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "600 x 320",
+        "price": "4279.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "700 x 320",
+        "price": "4485.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "800 x 400",
+        "price": "4890.00",
+        "stock": 10,
+        "available": true
+      }
+    ]
+  },
+  {
+    "title": "Piscina Rotonda Sumatra",
+    "status": "ACTIVE",
+    "total_variants": 2,
+    "issues": [],
+    "variant_details": [
+      {
+        "name": "Ø350",
+        "price": "2495.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "Ø420",
+        "price": "2650.00",
+        "stock": 10,
+        "available": true
+      }
+    ]
+  },
+  {
+    "title": "Piscina Bora Bora Rotonda",
+    "status": "ACTIVE",
+    "total_variants": 3,
+    "issues": [],
+    "variant_details": [
+      {
+        "name": "Ø300",
+        "price": "969.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "Ø350",
+        "price": "1019.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "Ø460",
+        "price": "1199.00",
+        "stock": 10,
+        "available": true
+      }
+    ]
+  },
+  {
+    "title": "Piscina Haiti Ovale",
+    "status": "ACTIVE",
+    "total_variants": 4,
+    "issues": [],
+    "variant_details": [
+      {
+        "name": "610 x 375",
+        "price": "3765.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "730 x 375",
+        "price": "4295.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "915 x 470",
+        "price": "5555.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "1000 x 550",
+        "price": "5995.00",
+        "stock": 10,
+        "available": true
+      }
+    ]
+  },
+  {
+    "title": "Piscina Pacific Rotonda",
+    "status": "ACTIVE",
+    "total_variants": 4,
+    "issues": [],
+    "variant_details": [
+      {
+        "name": "Ø240",
+        "price": "1245.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "Ø300",
+        "price": "1375.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "Ø350",
+        "price": "1425.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "Ø460",
+        "price": "1630.00",
+        "stock": 10,
+        "available": true
+      }
+    ]
+  },
+  {
+    "title": "Piscina Mauritius Ovale",
+    "status": "ACTIVE",
+    "total_variants": 3,
+    "issues": [],
+    "variant_details": [
+      {
+        "name": "500 x 300",
+        "price": "2780.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "610 x 375",
+        "price": "3075.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "730 x 375",
+        "price": "3680.00",
+        "stock": 10,
+        "available": true
+      }
+    ]
+  },
+  {
+    "title": "Piscina Anthracite Ovale",
+    "status": "ACTIVE",
+    "total_variants": 3,
+    "issues": [
+      "2 varianti a prezzo 0"
+    ],
+    "variant_details": [
+      {
+        "name": "500 x 300",
+        "price": "2499.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "610 x 375",
+        "price": "0.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "730 x 375",
+        "price": "0.00",
+        "stock": 10,
+        "available": true
+      }
+    ]
+  },
+  {
+    "title": "Piscina Fidji Ovale",
+    "status": "ACTIVE",
+    "total_variants": 3,
+    "issues": [],
+    "variant_details": [
+      {
+        "name": "500 x 300",
+        "price": "1795.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "610 x 375",
+        "price": "1945.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "730 x 375",
+        "price": "2495.00",
+        "stock": 10,
+        "available": true
+      }
+    ]
+  },
+  {
+    "title": "Piscina forma di otto Varadero",
+    "status": "ACTIVE",
+    "total_variants": 2,
+    "issues": [],
+    "variant_details": [
+      {
+        "name": "500 x 340",
+        "price": "2750.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "640 x 390",
+        "price": "3189.00",
+        "stock": 10,
+        "available": true
+      }
+    ]
+  },
+  {
+    "title": "Piscina Fidji Rotonda",
+    "status": "ACTIVE",
+    "total_variants": 5,
+    "issues": [],
+    "variant_details": [
+      {
+        "name": "Ø240",
+        "price": "1099.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "Ø300",
+        "price": "1195.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "Ø350",
+        "price": "1245.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "Ø460",
+        "price": "1425.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "Ø550",
+        "price": "1630.00",
+        "stock": 10,
+        "available": true
+      }
+    ]
+  },
+  {
+    "title": "Piscina Sicilia Rotonda",
+    "status": "ACTIVE",
+    "total_variants": 3,
+    "issues": [],
+    "variant_details": [
+      {
+        "name": "Ø300",
+        "price": "1169.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "Ø350",
+        "price": "1225.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "Ø460",
+        "price": "1425.00",
+        "stock": 10,
+        "available": true
+      }
+    ]
+  },
+  {
+    "title": "Piscina Bora Bora Ovale",
+    "status": "ACTIVE",
+    "total_variants": 2,
+    "issues": [],
+    "variant_details": [
+      {
+        "name": "500 x 300",
+        "price": "1659.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "610 x 375",
+        "price": "1835.00",
+        "stock": 10,
+        "available": true
+      }
+    ]
+  },
+  {
+    "title": "Piscina Atlantis Ovale",
+    "status": "ACTIVE",
+    "total_variants": 6,
+    "issues": [],
+    "variant_details": [
+      {
+        "name": "500 x 300",
+        "price": "2445.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "610 x 375",
+        "price": "2730.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "730 x 375",
+        "price": "3245.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "800 x 470",
+        "price": "3890.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "915 x 470",
+        "price": "4495.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "1000 x 550",
+        "price": "5875.00",
+        "stock": 10,
+        "available": true
+      }
+    ]
+  },
+  {
+    "title": "Piscina Anthracite Rotonda",
+    "status": "ACTIVE",
+    "total_variants": 2,
+    "issues": [
+      "1 varianti a prezzo 0"
+    ],
+    "variant_details": [
+      {
+        "name": "Ø350",
+        "price": "1369.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "Ø460",
+        "price": "0.00",
+        "stock": 10,
+        "available": true
+      }
+    ]
+  },
+  {
+    "title": "Piscina Amazonia Ovale",
+    "status": "ACTIVE",
+    "total_variants": 2,
+    "issues": [],
+    "variant_details": [
+      {
+        "name": "610 x 375",
+        "price": "3890.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "730 x 375",
+        "price": "4570.00",
+        "stock": 10,
+        "available": true
+      }
+    ]
+  },
+  {
+    "title": "Piscina Aqualoon ovale",
+    "status": "ACTIVE",
+    "total_variants": 2,
+    "issues": [
+      "1 varianti a prezzo 0"
+    ],
+    "variant_details": [
+      {
+        "name": "500 x 300",
+        "price": "1549.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "610 x 375",
+        "price": "0.00",
+        "stock": 10,
+        "available": true
+      }
+    ]
+  },
+  {
+    "title": "Piscina Aqualoon rotonda",
+    "status": "ACTIVE",
+    "total_variants": 3,
+    "issues": [
+      "2 varianti a prezzo 0"
+    ],
+    "variant_details": [
+      {
+        "name": "Ø300",
+        "price": "909.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "Ø350",
+        "price": "0.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "Ø460",
+        "price": "0.00",
+        "stock": 10,
+        "available": true
+      }
+    ]
+  },
+  {
+    "title": "Piscina Finlandia Ovale",
+    "status": "ACTIVE",
+    "total_variants": 3,
+    "issues": [],
+    "variant_details": [
+      {
+        "name": "500 x 300",
+        "price": "2045.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "610 x 375",
+        "price": "2549.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "730 x 375",
+        "price": "2995.00",
+        "stock": 10,
+        "available": true
+      }
+    ]
+  },
+  {
+    "title": "Piscina Finlandia Rotonda",
+    "status": "ACTIVE",
+    "total_variants": 4,
+    "issues": [],
+    "variant_details": [
+      {
+        "name": "Ø240",
+        "price": "1245.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "KIT300N",
+        "price": "1375.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "KIT350N",
+        "price": "1425.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "KIT460N",
+        "price": "1630.00",
+        "stock": 10,
+        "available": true
+      }
+    ]
+  },
+  {
+    "title": "Piscina Mauritius Rotonda",
+    "status": "ACTIVE",
+    "total_variants": 3,
+    "issues": [],
+    "variant_details": [
+      {
+        "name": "Ø350",
+        "price": "2045.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "Ø460",
+        "price": "2205.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "Ø550",
+        "price": "2730.00",
+        "stock": 10,
+        "available": true
+      }
+    ]
+  },
+  {
+    "title": "Piscina Atlantis Rotonda",
+    "status": "ACTIVE",
+    "total_variants": 3,
+    "issues": [],
+    "variant_details": [
+      {
+        "name": "Ø350",
+        "price": "1830.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "Ø460",
+        "price": "2145.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "Ø550",
+        "price": "2465.00",
+        "stock": 10,
+        "available": true
+      }
+    ]
+  },
+  {
+    "title": "Piscina Avantgarde Rettangolare",
+    "status": "ACTIVE",
+    "total_variants": 4,
+    "issues": [
+      "3 varianti a prezzo 0"
+    ],
+    "variant_details": [
+      {
+        "name": "315 x 175",
+        "price": "4225.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "455 x 315",
+        "price": "0.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "595 x 315",
+        "price": "0.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "595 x 315 (KPCOR60LT)",
+        "price": "0.00",
+        "stock": 10,
+        "available": true
+      }
+    ]
+  },
+  {
+    "title": "Piscina Avantgarde Ovale",
+    "status": "ACTIVE",
+    "total_variants": 5,
+    "issues": [],
+    "variant_details": [
+      {
+        "name": "524 x 386",
+        "price": "7085.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "524 x 386 (KPCOV52L)",
+        "price": "7135.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "664 x 386",
+        "price": "8765.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "664 x 386 (KPCOV66L)",
+        "price": "8825.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "804 x 386",
+        "price": "10350.00",
+        "stock": 10,
+        "available": true
+      }
+    ]
+  },
+  {
+    "title": "Robot pulitore elettrico",
+    "status": "ACTIVE",
+    "total_variants": 4,
+    "issues": [
+      "1 varianti a prezzo 0"
+    ],
+    "variant_details": [
+      {
+        "name": "WR000501",
+        "price": "649.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "RBR120",
+        "price": "400.66",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "RBR75",
+        "price": "339.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "RBG90",
+        "price": "0.00",
+        "stock": 10,
+        "available": true
+      }
+    ]
+  },
+  {
+    "title": "Aspiratore elettronico per fondo piscina a batteria",
+    "status": "ACTIVE",
+    "total_variants": 10,
+    "issues": [
+      "3 varianti a prezzo 0"
+    ],
+    "variant_details": [
+      {
+        "name": "VCB08",
+        "price": "79.90",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "VCB10",
+        "price": "235.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "VCB50",
+        "price": "379.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "LE75",
+        "price": "0.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "CSPAN",
+        "price": "0.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "VCB10P",
+        "price": "246.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "CSPA",
+        "price": "112.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "ABS3",
+        "price": "59.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "VCB50P",
+        "price": "399.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "TBC60",
+        "price": "0.00",
+        "stock": 10,
+        "available": true
+      }
+    ]
+  },
+  {
+    "title": "Kit testa aspirante con manico e tubo per pulizia fondo",
+    "status": "ACTIVE",
+    "total_variants": 6,
+    "issues": [
+      "2 varianti a prezzo 0"
+    ],
+    "variant_details": [
+      {
+        "name": "AR2064",
+        "price": "69.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "AR20641",
+        "price": "95.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "KMA05",
+        "price": "42.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "784880",
+        "price": "0.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "KMSPA",
+        "price": "41.10",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "08050",
+        "price": "0.00",
+        "stock": 10,
+        "available": true
+      }
+    ]
+  },
+  {
+    "title": "Kit di pulizia piscina autopor, 10M3, aspirazione manuale",
+    "status": "ACTIVE",
+    "total_variants": 3,
+    "issues": [
+      "1 varianti a prezzo 0"
+    ],
+    "variant_details": [
+      {
+        "name": "AR20637",
+        "price": "54.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "08011A",
+        "price": "39.95",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "PFAC17",
+        "price": "0.00",
+        "stock": 10,
+        "available": true
+      }
+    ]
+  },
+  {
+    "title": "Deposito a sabbia per depurazione",
+    "status": "ACTIVE",
+    "total_variants": 6,
+    "issues": [],
+    "variant_details": [
+      {
+        "name": "Ø320",
+        "price": "205.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "Ø320 (FS320)",
+        "price": "199.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "Ø400",
+        "price": "229.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "Ø500",
+        "price": "648.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "Ø500 (FS550)",
+        "price": "679.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "Ø600",
+        "price": "845.00",
+        "stock": 10,
+        "available": true
+      }
+    ]
+  },
+  {
+    "title": "Depuratore Aqualoon - Filtro per acqua, portata 3,5 m³/h",
+    "status": "ACTIVE",
+    "total_variants": 3,
+    "issues": [],
+    "variant_details": [
+      {
+        "name": "CFAQ35",
+        "price": "79.90",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "FAQC40",
+        "price": "164.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "FAQ200",
+        "price": "169.00",
+        "stock": 10,
+        "available": true
+      }
+    ]
+  },
+  {
+    "title": "Deposito per filtri indipendenti",
+    "status": "ACTIVE",
+    "total_variants": 3,
+    "issues": [],
+    "variant_details": [
+      {
+        "name": "Ø600",
+        "price": "405.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "Ø500",
+        "price": "325.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "Ø400",
+        "price": "219.00",
+        "stock": 10,
+        "available": true
+      }
+    ]
+  },
+  {
+    "title": "Casetta tecnica in composito, h:91",
+    "status": "ACTIVE",
+    "total_variants": 2,
+    "issues": [
+      "1 varianti a prezzo 0"
+    ],
+    "variant_details": [
+      {
+        "name": "TRCP96",
+        "price": "459.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "TRCP124",
+        "price": "0.00",
+        "stock": 10,
+        "available": true
+      }
+    ]
+  },
+  {
+    "title": "Pompa autoadescante Comfort - 1/3 CV",
+    "status": "ACTIVE",
+    "total_variants": 3,
+    "issues": [
+      "1 varianti a prezzo 0"
+    ],
+    "variant_details": [
+      {
+        "name": "PP032",
+        "price": "144.90",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "PP077",
+        "price": "172.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "PP052",
+        "price": "0.00",
+        "stock": 10,
+        "available": true
+      }
+    ]
+  },
+  {
+    "title": "Pompa autoadescante premium",
+    "status": "ACTIVE",
+    "total_variants": 4,
+    "issues": [],
+    "variant_details": [
+      {
+        "name": "PP152",
+        "price": "299.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "PP102",
+        "price": "315.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "PP077H",
+        "price": "234.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "PP202",
+        "price": "413.00",
+        "stock": 10,
+        "available": true
+      }
+    ]
+  },
+  {
+    "title": "Cartuccia filtrante X per AR125, AR124, AR121 e AR118",
+    "status": "ACTIVE",
+    "total_variants": 6,
+    "issues": [
+      "5 varianti a prezzo 0"
+    ],
+    "variant_details": [
+      {
+        "name": "AR82",
+        "price": "24.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "CCFS20",
+        "price": "0.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "CAQ70",
+        "price": "0.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "AR79",
+        "price": "0.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "AR86",
+        "price": "0.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "AR89",
+        "price": "0.00",
+        "stock": 10,
+        "available": true
+      }
+    ]
+  },
+  {
+    "title": "Sistema filtrante Aqualoon",
+    "status": "ACTIVE",
+    "total_variants": 4,
+    "issues": [
+      "3 varianti a prezzo 0"
+    ],
+    "variant_details": [
+      {
+        "name": "AQ503",
+        "price": "16.99",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "AQ700",
+        "price": "0.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "AR200",
+        "price": "0.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "VF025",
+        "price": "0.00",
+        "stock": 10,
+        "available": true
+      }
+    ]
+  },
+  {
+    "title": "Clorinatore salino collegato",
+    "status": "ACTIVE",
+    "total_variants": 11,
+    "issues": [
+      "6 varianti a prezzo 0"
+    ],
+    "variant_details": [
+      {
+        "name": "SWGA40",
+        "price": "990.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "SWGA60",
+        "price": "1100.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "SWGA100",
+        "price": "1215.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "GSS25",
+        "price": "249.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "GSS50",
+        "price": "289.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "90367",
+        "price": "0.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "90366",
+        "price": "0.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "90365",
+        "price": "0.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "GOSA25",
+        "price": "0.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "GOSA50",
+        "price": "0.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "GOSA75",
+        "price": "0.00",
+        "stock": 10,
+        "available": true
+      }
+    ]
+  },
+  {
+    "title": "Gel flocculante in monodosi",
+    "status": "ACTIVE",
+    "total_variants": 6,
+    "issues": [
+      "5 varianti a prezzo 0"
+    ],
+    "variant_details": [
+      {
+        "name": "UFG20",
+        "price": "5.50",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "76011",
+        "price": "0.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "76104",
+        "price": "0.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "76010",
+        "price": "0.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "90046",
+        "price": "0.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "90054",
+        "price": "0.00",
+        "stock": 10,
+        "available": true
+      }
+    ]
+  },
+  {
+    "title": "KIT trattamento piscina fuori terra da 5 a 15m³",
+    "status": "ACTIVE",
+    "total_variants": 7,
+    "issues": [
+      "6 varianti a prezzo 0"
+    ],
+    "variant_details": [
+      {
+        "name": "76054L",
+        "price": "55.90",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "76053",
+        "price": "0.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "08099AL",
+        "price": "0.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "08012L",
+        "price": "0.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "08013AL",
+        "price": "0.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "KKP525",
+        "price": "0.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "76110NB",
+        "price": "0.00",
+        "stock": 10,
+        "available": true
+      }
+    ]
+  },
+  {
+    "title": "Kit trattamento acqua spa",
+    "status": "DRAFT",
+    "total_variants": 3,
+    "issues": [
+      "3 varianti a prezzo 0"
+    ],
+    "variant_details": [
+      {
+        "name": "KTSPAIT",
+        "price": "0.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "SCAPEPI20",
+        "price": "0.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "SCAPEPI60",
+        "price": "0.00",
+        "stock": 10,
+        "available": true
+      }
+    ]
+  },
+  {
+    "title": "Pompa di calore mini - 40 m³",
+    "status": "ACTIVE",
+    "total_variants": 3,
+    "issues": [
+      "2 varianti a prezzo 0"
+    ],
+    "variant_details": [
+      {
+        "name": "HPM40",
+        "price": "715.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "HPM30",
+        "price": "0.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "HPM20",
+        "price": "0.00",
+        "stock": 10,
+        "available": true
+      }
+    ]
+  },
+  {
+    "title": "Copertura per piscina rotonda in composite",
+    "status": "ACTIVE",
+    "total_variants": 18,
+    "issues": [
+      "17 varianti a prezzo 0"
+    ],
+    "variant_details": [
+      {
+        "name": "Ø361",
+        "price": "148.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "Ø545",
+        "price": "0.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "Ø635",
+        "price": "0.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "Ø240",
+        "price": "0.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "Ø337",
+        "price": "0.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "Ø360",
+        "price": "0.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "Ø295",
+        "price": "0.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "Ø415",
+        "price": "0.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "Ø345",
+        "price": "0.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "Ø545 (CVPE550)",
+        "price": "0.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "Ø460",
+        "price": "0.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "Ø550",
+        "price": "0.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "Ø455",
+        "price": "0.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "Ø345 (CV350)",
+        "price": "0.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "Ø395",
+        "price": "0.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "Ø295 (CV300)",
+        "price": "0.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "Ø237",
+        "price": "0.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "CV800003",
+        "price": "0.00",
+        "stock": 10,
+        "available": true
+      }
+    ]
+  },
+  {
+    "title": "Piscina quadrata copertura",
+    "status": "DRAFT",
+    "total_variants": 3,
+    "issues": [
+      "3 varianti a prezzo 0"
+    ],
+    "variant_details": [
+      {
+        "name": "275 x 275",
+        "price": "0.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "305 x 305",
+        "price": "0.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "195 x 195",
+        "price": "0.00",
+        "stock": 10,
+        "available": true
+      }
+    ]
+  },
+  {
+    "title": "Doccia solare PVC nero 2 pezzi",
+    "status": "ACTIVE",
+    "total_variants": 18,
+    "issues": [
+      "2 varianti a prezzo 0"
+    ],
+    "variant_details": [
+      {
+        "name": "AR1020P",
+        "price": "178.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "AR1020W",
+        "price": "194.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "AR10250",
+        "price": "215.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "AR1030",
+        "price": "230.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "AR1130",
+        "price": "525.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "DSALR32W",
+        "price": "545.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "DSALC32W",
+        "price": "785.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "SSR25",
+        "price": "297.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "SSAL18",
+        "price": "385.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "SSP40",
+        "price": "262.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "AR1009",
+        "price": "125.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "40664A",
+        "price": "154.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "DSPS35",
+        "price": "266.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "DSALP38",
+        "price": "745.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "AR1009W",
+        "price": "145.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "SS30S",
+        "price": "629.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "RSS30",
+        "price": "0.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "SLS17",
+        "price": "0.00",
+        "stock": 10,
+        "available": true
+      }
+    ]
+  },
+  {
+    "title": "Proiettore LED per piscine interrate, 9 LED, Bianco, 16 W",
+    "status": "ACTIVE",
+    "total_variants": 4,
+    "issues": [],
+    "variant_details": [
+      {
+        "name": "PLREB",
+        "price": "219.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "PLREC",
+        "price": "397.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "LEDP56CE",
+        "price": "125.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "LEDP56WP",
+        "price": "79.90",
+        "stock": 10,
+        "available": true
+      }
+    ]
+  },
+  {
+    "title": "Kit illuminazione piscina fuori terra con 2 proiettori LED",
+    "status": "ACTIVE",
+    "total_variants": 5,
+    "issues": [],
+    "variant_details": [
+      {
+        "name": "PLED2",
+        "price": "51.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "PLED1C",
+        "price": "41.50",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "LEDRC",
+        "price": "39.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "LEDRW",
+        "price": "32.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "PLWPB",
+        "price": "235.00",
+        "stock": 10,
+        "available": true
+      }
+    ]
+  },
+  {
+    "title": "Liner piscina legno quadrata Blu",
+    "status": "ACTIVE",
+    "total_variants": 2,
+    "issues": [],
+    "variant_details": [
+      {
+        "name": "305 x 305",
+        "price": "369.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "225 x 225",
+        "price": "207.00",
+        "stock": 10,
+        "available": true
+      }
+    ]
+  },
+  {
+    "title": "Liner per piscine in composite ovale, 524x386x124 cm",
+    "status": "ACTIVE",
+    "total_variants": 4,
+    "issues": [
+      "1 varianti a prezzo 0"
+    ],
+    "variant_details": [
+      {
+        "name": "SPCO52G",
+        "price": "1045.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "664 x 386",
+        "price": "1290.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "804 x 386",
+        "price": "1520.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "664 x 386 (SPCO6650G)",
+        "price": "0.00",
+        "stock": 10,
+        "available": true
+      }
+    ]
+  },
+  {
+    "title": "Liner Di Ricambio Grigio 60/100 Rettangolare x Piscine in Composito Gre",
+    "status": "ACTIVE",
+    "total_variants": 3,
+    "issues": [],
+    "variant_details": [
+      {
+        "name": "606 x 326 H 124 CM",
+        "price": "990.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "466 x 326 H 124 CM",
+        "price": "949.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "326 X 185 H 96 CM",
+        "price": "490.00",
+        "stock": 10,
+        "available": true
+      }
+    ]
+  },
+  {
+    "title": "Liner Di Ricambio Per Piscine Rotonde Interrate Con Spessore 60/100 Gre",
+    "status": "ACTIVE",
+    "total_variants": 4,
+    "issues": [],
+    "variant_details": [
+      {
+        "name": "Ø 550 x H 120",
+        "price": "990.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "Ø 420 x H 120",
+        "price": "419.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "Ø 350 x H 120",
+        "price": "490.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "Ø 300 x 120",
+        "price": "390.00",
+        "stock": 10,
+        "available": true
+      }
+    ]
+  },
+  {
+    "title": "Liner Di Ricambio Per Piscine Ovali Interrate Con Spessore 75/100 Gre",
+    "status": "ACTIVE",
+    "total_variants": 4,
+    "issues": [],
+    "variant_details": [
+      {
+        "name": "800 x 400 H 150 CM",
+        "price": "1390.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "700 x 320 H 150 CM",
+        "price": "1090.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "600 x 320 H 150 CM",
+        "price": "999.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "500 x 300 H 150 CM",
+        "price": "890.00",
+        "stock": 10,
+        "available": true
+      }
+    ]
+  },
+  {
+    "title": "Skimmer Standard Completo Gre x Piscine Fuoriterra - AR100",
+    "status": "ACTIVE",
+    "total_variants": 3,
+    "issues": [
+      "2 varianti non disponibili alla vendita"
+    ],
+    "variant_details": [
+      {
+        "name": "Bianco",
+        "price": "54.90",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "Marrone",
+        "price": "54.90",
+        "stock": 0,
+        "available": false
+      },
+      {
+        "name": "Grigio",
+        "price": "54.90",
+        "stock": 0,
+        "available": false
+      }
+    ]
+  },
+  {
+    "title": "Tappeti Protettivi Rettangolari In Poliestere Per Piscine Fuoriterra",
+    "status": "ACTIVE",
+    "total_variants": 6,
+    "issues": [],
+    "variant_details": [
+      {
+        "name": "1100 x 600 110g/m2",
+        "price": "240.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "950 x 500 110g/m2",
+        "price": "177.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "825 x 500 110g/m2",
+        "price": "147.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "750 x 400 110g/m2",
+        "price": "119.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "625 x 400 110g/m2",
+        "price": "99.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "525 x 325 110g/m2",
+        "price": "89.00",
+        "stock": 10,
+        "available": true
+      }
+    ]
+  },
+  {
+    "title": "Tappeto Puzzle Protettore Suolo In Etilene",
+    "status": "ACTIVE",
+    "total_variants": 5,
+    "issues": [],
+    "variant_details": [
+      {
+        "name": "81 x 81 x 4,5 mm (5,90 M2)",
+        "price": "37.90",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "50 x 50 8 mm (2,25 M2)",
+        "price": "28.99",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "50 x 50 x 8 mm(2,25 M2)",
+        "price": "28.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "50 x 50 x 8 mm (2,25 M2)",
+        "price": "29.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "50 x 50 x 4,5 mm (2,25 M2)",
+        "price": "17.95",
+        "stock": 10,
+        "available": true
+      }
+    ]
+  },
+  {
+    "title": "Tappeti In Poliestere Protettivi Rotondi Per Fondo Piscine",
+    "status": "ACTIVE",
+    "total_variants": 6,
+    "issues": [],
+    "variant_details": [
+      {
+        "name": "650 x 650",
+        "price": "139.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "550 x 550",
+        "price": "110.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "450 x 450",
+        "price": "78.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "400 x 400",
+        "price": "64.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "350 x 350",
+        "price": "54.00",
+        "stock": 10,
+        "available": true
+      },
+      {
+        "name": "250 x 250",
+        "price": "35.00",
+        "stock": 10,
+        "available": true
+      }
+    ]
+  },
+  {
+    "title": "Piscina Prisma Frame Ovale",
+    "status": "ACTIVE",
+    "total_variants": 2,
+    "issues": [
+      "2 varianti non disponibili alla vendita"
+    ],
+    "variant_details": [
+      {
+        "name": "610x305x122cm",
+        "price": "1206.57",
+        "stock": 0,
+        "available": false
+      },
+      {
+        "name": "503x274",
+        "price": "1074.04",
+        "stock": 0,
+        "available": false
+      }
+    ]
+  },
+  {
+    "title": "Piscina Metallica Rettangolare",
+    "status": "ACTIVE",
+    "total_variants": 2,
+    "issues": [
+      "2 varianti non disponibili alla vendita"
+    ],
+    "variant_details": [
+      {
+        "name": "4,50x2,20x0,84m",
+        "price": "331.55",
+        "stock": 0,
+        "available": false
+      },
+      {
+        "name": "4,5x2,2x0,84m",
+        "price": "276.71",
+        "stock": 0,
+        "available": false
+      }
+    ]
+  },
+  {
+    "title": "Kit Pulizia Intex",
+    "status": "ACTIVE",
+    "total_variants": 2,
+    "issues": [
+      "2 varianti non disponibili alla vendita"
+    ],
+    "variant_details": [
+      {
+        "name": "Modello",
+        "price": "27.94",
+        "stock": 0,
+        "available": false
+      },
+      {
+        "name": "Up to 549 cm",
+        "price": "86.47",
+        "stock": 0,
+        "available": false
+      }
+    ]
+  },
+  {
+    "title": "Aspirapolvere Intex",
+    "status": "ACTIVE",
+    "total_variants": 2,
+    "issues": [
+      "2 varianti non disponibili alla vendita"
+    ],
+    "variant_details": [
+      {
+        "name": "500W Riciclabile per Piscina 10m",
+        "price": "101.54",
+        "stock": 0,
+        "available": false
+      },
+      {
+        "name": "ZR 100",
+        "price": "108.01",
+        "stock": 0,
+        "available": false
+      }
+    ]
+  },
+  {
+    "title": "Piscina Intex Inflabile",
+    "status": "DRAFT",
+    "total_variants": 3,
+    "issues": [
+      "3 varianti non disponibili alla vendita"
+    ],
+    "variant_details": [
+      {
+        "name": "Quadrata",
+        "price": "227.52",
+        "stock": 0,
+        "available": false
+      },
+      {
+        "name": "Pieghevole",
+        "price": "63.22",
+        "stock": 0,
+        "available": false
+      },
+      {
+        "name": "Comfort Plush",
+        "price": "89.02",
+        "stock": 0,
+        "available": false
+      }
+    ]
+  },
+  {
+    "title": "Pompe per Piscine Intex",
+    "status": "ACTIVE",
+    "total_variants": 2,
+    "issues": [
+      "2 varianti non disponibili alla vendita"
+    ],
+    "variant_details": [
+      {
+        "name": "QuickFill",
+        "price": "74.66",
+        "stock": 0,
+        "available": false
+      },
+      {
+        "name": "QuickFill Ricaricabile",
+        "price": "55.98",
+        "stock": 0,
+        "available": false
+      }
+    ]
+  },
+  {
+    "title": "Pompa Elettrica QuickFill",
+    "status": "ACTIVE",
+    "total_variants": 6,
+    "issues": [
+      "6 varianti non disponibili alla vendita"
+    ],
+    "variant_details": [
+      {
+        "name": "Ricaricabile USB200R",
+        "price": "50.56",
+        "stock": 0,
+        "available": false
+      },
+      {
+        "name": "220-240V",
+        "price": "36.42",
+        "stock": 0,
+        "available": false
+      },
+      {
+        "name": "220-240V e 12V",
+        "price": "33.62",
+        "stock": 0,
+        "available": false
+      },
+      {
+        "name": "12V/220-240V",
+        "price": "32.08",
+        "stock": 0,
+        "available": false
+      },
+      {
+        "name": "Azzurro",
+        "price": "26.84",
+        "stock": 0,
+        "available": false
+      },
+      {
+        "name": "12V",
+        "price": "25.78",
+        "stock": 0,
+        "available": false
+      }
+    ]
+  },
+  {
+    "title": "Pompa Filtro Sabbia",
+    "status": "ACTIVE",
+    "total_variants": 2,
+    "issues": [
+      "2 varianti non disponibili alla vendita"
+    ],
+    "variant_details": [
+      {
+        "name": "SF70220-2",
+        "price": "384.85",
+        "stock": 0,
+        "available": false
+      },
+      {
+        "name": "SF60220-2",
+        "price": "409.49",
+        "stock": 0,
+        "available": false
+      }
+    ]
+  },
+  {
+    "title": "Accessori Piscina",
+    "status": "ACTIVE",
+    "total_variants": 12,
+    "issues": [
+      "12 varianti non disponibili alla vendita"
+    ],
+    "variant_details": [
+      {
+        "name": "Telo Termico",
+        "price": "34.95",
+        "stock": 0,
+        "available": false
+      },
+      {
+        "name": "Robot pulitore",
+        "price": "249.00",
+        "stock": 0,
+        "available": false
+      },
+      {
+        "name": "Liner di ricambio",
+        "price": "249.00",
+        "stock": 0,
+        "available": false
+      },
+      {
+        "name": "Aspiratore riciclabile",
+        "price": "109.00",
+        "stock": 0,
+        "available": false
+      },
+      {
+        "name": "Kit pulizia",
+        "price": "79.90",
+        "stock": 0,
+        "available": false
+      },
+      {
+        "name": "Kit Pulizia",
+        "price": "48.90",
+        "stock": 0,
+        "available": false
+      },
+      {
+        "name": "P09984",
+        "price": "139.00",
+        "stock": 0,
+        "available": false
+      },
+      {
+        "name": "62260",
+        "price": "25.90",
+        "stock": 0,
+        "available": false
+      },
+      {
+        "name": "58748",
+        "price": "499.00",
+        "stock": 0,
+        "available": false
+      },
+      {
+        "name": "58515-7",
+        "price": "114.90",
+        "stock": 0,
+        "available": false
+      },
+      {
+        "name": "Pulitore per Cartuccia Filtrante",
+        "price": "24.90",
+        "stock": 0,
+        "available": false
+      },
+      {
+        "name": "Robot Pulitore",
+        "price": "89.90",
+        "stock": 0,
+        "available": false
+      }
+    ]
+  }
+]

@@ -1,0 +1,121 @@
+[
+  {
+    "normalized_key": "ra6300iq",
+    "winner": {
+      "id": "gid://shopify/Product/15546227917148",
+      "title": "Aspirapolvere RA 6300 iQ",
+      "price": "1962.00",
+      "images": 6
+    },
+    "duplicates": [
+      {
+        "id": "gid://shopify/Product/15582263083356",
+        "title": "RA 6300 iQ",
+        "price": "0.00",
+        "images": 6
+      }
+    ]
+  },
+  {
+    "normalized_key": "ra6900iq",
+    "winner": {
+      "id": "gid://shopify/Product/15546242564444",
+      "title": "Aspirapolvere RA 6900 iQ",
+      "price": "2598.00",
+      "images": 6
+    },
+    "duplicates": [
+      {
+        "id": "gid://shopify/Product/15582263148892",
+        "title": "RA 6900 iQ",
+        "price": "0.00",
+        "images": 6
+      }
+    ]
+  },
+  {
+    "normalized_key": "oa6400iq",
+    "winner": {
+      "id": "gid://shopify/Product/15546242761052",
+      "title": "Aspirapolvere OA 6400 iQ",
+      "price": "1349.00",
+      "images": 5
+    },
+    "duplicates": [
+      {
+        "id": "gid://shopify/Product/15582263247196",
+        "title": "OA 6400 iQ",
+        "price": "0.00",
+        "images": 5
+      }
+    ]
+  },
+  {
+    "normalized_key": "ra6500iq",
+    "winner": {
+      "id": "gid://shopify/Product/15546242826588",
+      "title": "Piscina Robot RA 6500 iQ",
+      "price": "2194.00",
+      "images": 6
+    },
+    "duplicates": [
+      {
+        "id": "gid://shopify/Product/15582263345500",
+        "title": "RA 6500 iQ",
+        "price": "0.00",
+        "images": 6
+      }
+    ]
+  },
+  {
+    "normalized_key": "ra6800iq",
+    "winner": {
+      "id": "gid://shopify/Product/15546242924892",
+      "title": "Aspirapolvere Robot RA 6800 iQ",
+      "price": "0.00",
+      "images": 6
+    },
+    "duplicates": [
+      {
+        "id": "gid://shopify/Product/15582263411036",
+        "title": "RA 6800 iQ",
+        "price": "0.00",
+        "images": 6
+      }
+    ]
+  },
+  {
+    "normalized_key": "fr5200",
+    "winner": {
+      "id": "gid://shopify/Product/15546243514716",
+      "title": "Filtro FR 5200",
+      "price": "0.00",
+      "images": 3
+    },
+    "duplicates": [
+      {
+        "id": "gid://shopify/Product/15582264131932",
+        "title": "FR 5200",
+        "price": "0.00",
+        "images": 3
+      }
+    ]
+  },
+  {
+    "normalized_key": "rettangolareultraxtrframe975x488x132cm",
+    "winner": {
+      "id": "gid://shopify/Product/15580613017948",
+      "title": "Piscina Rettangolare Ultra Xtr Frame 975x488x132cm",
+      "price": "0.00",
+      "images": 5
+    },
+    "duplicates": [
+      {
+        "id": "gid://shopify/Product/15580612985180",
+        "title": "Piscina Rettangolare Ultra Xtr Frame 975x4,88x1,32cm",
+        "price": "0.00",
+        "images": 5
+      }
+    ]
+  }
+]

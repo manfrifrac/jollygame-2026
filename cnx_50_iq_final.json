@@ -1,0 +1,51 @@
+{
+    "url": "https://pro.fluidra.com/it_it/1284501-cnx-50-iq.html",
+    "main_info": {
+        "ean": "N/A",
+        "net_price": "N/A",
+        "list_price": "N/A"
+    },
+    "spare_parts": [],
+    "documents": [
+        {
+            "name": "Fogli di garanzia EN ES FR +",
+            "url": "https://fluidra.bynder.com/m/1ac31d4d43162ed/original/warrantysheets_cnx_ALL_2022_01.pdf"
+        },
+        {
+            "name": "Depliant CNX 50 iQ EN",
+            "url": "https://fluidra.bynder.com/m/f40d13b9b7bbc6f/original/leaflet_wr000500_EN_2023_02.pdf"
+        },
+        {
+            "name": "Depliant CNX 50 iQ NL",
+            "url": "https://fluidra.bynder.com/m/516ddc2809a17c16/original/leaflet_wr000500_NL_2023_02.pdf"
+        },
+        {
+            "name": "Depliant CNX 50 iQ FR",
+            "url": "https://fluidra.bynder.com/m/5312b275e9788e78/original/leaflet_wr000500_FR_2023_02.pdf"
+        },
+        {
+            "name": "Depliant CNX 50 iQ PT",
+            "url": "https://fluidra.bynder.com/m/4dd9966e2f0a31dc/original/leaflet_wr000500_PT_2023_02.pdf"
+        },
+        {
+            "name": "Depliant CNX 50 iQ IT",
+            "url": "https://fluidra.bynder.com/m/7354eb307808382f/original/leaflet_wr000500_IT_2023_02.pdf"
+        },
+        {
+            "name": "Depliant CNX 50 iQ DE",
+            "url": "https://fluidra.bynder.com/m/5c91939d7021c8a6/original/leaflet_wr000500_DE_2023_02.pdf"
+        },
+        {
+            "name": "Depliant CNX 50 iQ ES",
+            "url": "https://fluidra.bynder.com/m/1eb32892cbf8feb7/original/leaflet_wr000500_ES_2023_02.pdf"
+        },
+        {
+            "name": "Quick Start Guide CNEXT all 2026 02 H0922600A",
+            "url": "https://dam.fluidra.com/m/a11de5cfe0836647/original/QuickStartGuide_CNEXT__all_2026_02_H0922600A.pdf"
+        },
+        {
+            "name": "User Manual CNEXT all 2026 03 H0700300F",
+            "url": "https://dam.fluidra.com/m/2e790599ebe8c1da/original/usermanual_VoyagerCNXXAType__all_2025_12_H0700300E.pdf"
+        }
+    ]
+}

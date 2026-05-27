@@ -1,0 +1,156 @@
+{% comment %}
+  Custom Jolly Care Facets (Simplified & Tailwind Styled)
+  Retains IDs/Classes for facets.js compatibility.
+{% endcomment %}
+
+{%- liquid
+  assign sort_by = results.sort_by | default: results.default_sort_by
+  assign total_active_values = 0
+  if results.url
+    assign results_url = results.url
+  else
+    assign terms = results.terms | escape
+    assign results_url = '?q=' | append: terms | append: '&options%5Bprefix%5D=last&sort_by=' | append: sort_by
+  endif
+-%}
+
+<div class="facets-container">
+  <facet-filters-form class="facets" data-section-id="{{ section.id }}">
+    <form id="FacetFiltersForm" class="facets__form-vertical space-y-6">
+      {%- if results.terms -%}
+        <input type="hidden" name="q" value="{{ results.terms | escape }}">
+        <input name="options[prefix]" type="hidden" value="last">
+      {%- endif -%}
+
+      {% comment %} Active Facets (Pills) {% endcomment %}
+      <div class="active-facets active-facets-desktop flex flex-wrap gap-2">
+        {%- for filter in results.filters -%}
+          {%- for value in filter.active_values -%}
+            <facet-remove>
+              <a href="{{ value.url_to_remove }}" class="inline-flex items-center gap-2 bg-primary text-white px-3 py-1.5 rounded-full text-[10px] font-black uppercase tracking-widest shadow-sm hover:bg-tertiary-fixed hover:text-on-tertiary-fixed transition-all">
+                {{ filter.label }}: {{ value.label }}
+                <span class="material-symbols-outlined text-[14px]">close</span>
+              </a>
+            </facet-remove>
+          {%- endfor -%}
+          {% if filter.type == 'price_range' %}
+            {%- if filter.min_value.value != nil or filter.max_value.value != nil -%}
+              <facet-remove>
+                <a href="{{ filter.url_to_remove }}" class="inline-flex items-center gap-2 bg-primary text-white px-3 py-1.5 rounded-full text-[10px] font-black uppercase tracking-widest shadow-sm hover:bg-tertiary-fixed hover:text-on-tertiary-fixed transition-all">
+                  {{ filter.min_value.value | default: 0 | money }} - {{ filter.max_value.value | default: filter.range_max | money }}
+                  <span class="material-symbols-outlined text-[14px]">close</span>
+                </a>
+              </facet-remove>
+            {%- endif -%}
+          {% endif %}
+        {%- endfor -%}
+        
+        {%- if results.filters.size > 0 -%}
+          {%- liquid
+            assign has_active = false
+            for filter in results.filters
+              if filter.active_values.size > 0
+                assign has_active = true
+                break
+              endif
+              if filter.type == 'price_range'
+                if filter.min_value.value != nil or filter.max_value.value != nil
+                  assign has_active = true
+                  break
+                endif
+              endif
+            endfor
+          -%}
+          {% if has_active %}
+            <facet-remove>
+              <a href="{{ results_url }}" class="text-[10px] font-black uppercase tracking-widest text-outline border-b border-outline/20 hover:text-primary hover:border-primary transition-all pb-0.5">
+                Rimuovi Filtri
+              </a>
+            </facet-remove>
+          {% endif %}
+        {%- endif -%}
+      </div>
+
+      <div id="FacetsWrapperDesktop" class="space-y-4">
+        {%- for filter in results.filters -%}
+          <details id="Details-{{ filter.param_name | escape }}-{{ section.id }}" class="js-filter border-b border-outline-variant/10 pb-4 group" data-index="{{ forloop.index }}" open>
+            <summary class="facets__summary cursor-pointer list-none">
+              <div class="flex justify-between items-center w-full">
+                <span class="text-[11px] font-black uppercase tracking-[0.2em] text-primary">{{ filter.label | escape }}</span>
+                <span class="material-symbols-outlined text-primary/30 group-open:rotate-180 transition-transform">expand_more</span>
+              </div>
+            </summary>
+            <div id="Facet-{{ forloop.index }}-{{ section.id }}" class="mt-4">
+              {% case filter.type %}
+                {% when 'boolean', 'list' %}
+                  <ul class="space-y-2" role="list">
+                    {%- for value in filter.values -%}
+                      <li class="flex items-center">
+                        <label for="Filter-{{ filter.param_name | escape }}-{{ forloop.index }}" class="flex items-center gap-3 cursor-pointer group/label w-full">
+                          <div class="relative w-5 h-5 shrink-0">
+                            <input
+                              type="checkbox"
+                              name="{{ value.param_name }}"
+                              value="{{ value.value }}"
+                              id="Filter-{{ filter.param_name | escape }}-{{ forloop.index }}"
+                              {% if value.active %}checked{% endif %}
+                              {% if value.count == 0 and value.active == false %}disabled{% endif %}
+                              class="peer absolute inset-0 opacity-0 cursor-pointer z-10"
+                            >
+                            <div class="absolute inset-0 bg-surface-container-low border-2 border-outline-variant/30 rounded-md transition-all peer-checked:bg-primary peer-checked:border-primary group-hover/label:border-primary/50"></div>
+                            <span class="material-symbols-outlined absolute inset-0 text-white text-[16px] flex items-center justify-center opacity-0 peer-checked:opacity-100 transition-opacity pointer-events-none">check</span>
+                          </div>
+                          <span class="text-xs font-bold text-on-surface-variant group-hover/label:text-primary transition-colors {% if value.count == 0 and value.active == false %}opacity-30{% endif %}">
+                            {{ value.label | escape }} <span class="text-[10px] font-medium opacity-40 ml-1">({{ value.count }})</span>
+                          </span>
+                        </label>
+                      </li>
+                    {%- endfor -%}
+                  </ul>
+                {% when 'price_range' %}
+                  <price-range class="facets__price flex items-center gap-4">
+                    <div class="relative flex-1">
+                      <span class="absolute left-4 top-1/2 -translate-y-1/2 text-[10px] font-black text-outline">€</span>
+                      <input
+                        class="w-full pl-8 pr-4 py-3 bg-surface-container-low border-0 rounded-xl font-bold text-primary text-xs outline-none focus:ring-2 focus:ring-primary/10 transition-all"
+                        name="{{ filter.min_value.param_name }}"
+                        id="Filter-{{ filter.label | escape }}-GTE"
+                        {%- if filter.min_value.value -%}
+                          value="{{ filter.min_value.value | money_without_currency | replace: ',', '.' }}"
+                        {%- endif -%}
+                        type="number"
+                        placeholder="Da"
+                        min="0"
+                        max="{{ filter.range_max | money_without_currency | replace: ',', '.' }}"
+                      >
+                    </div>
+                    <div class="w-2 h-px bg-outline-variant/30 shrink-0"></div>
+                    <div class="relative flex-1">
+                      <span class="absolute left-4 top-1/2 -translate-y-1/2 text-[10px] font-black text-outline">€</span>
+                      <input
+                        class="w-full pl-8 pr-4 py-3 bg-surface-container-low border-0 rounded-xl font-bold text-primary text-xs outline-none focus:ring-2 focus:ring-primary/10 transition-all"
+                        name="{{ filter.max_value.param_name }}"
+                        id="Filter-{{ filter.label | escape }}-LTE"
+                        {%- if filter.max_value.value -%}
+                          value="{{ filter.max_value.value | money_without_currency | replace: ',', '.' }}"
+                        {%- endif -%}
+                        type="number"
+                        placeholder="A"
+                        min="0"
+                        max="{{ filter.range_max | money_without_currency | replace: ',', '.' }}"
+                      >
+                    </div>
+                  </price-range>
+                  <p class="mt-2 text-[9px] font-bold text-outline italic">Max: {{ filter.range_max | money }}</p>
+              {% endcase %}
+            </div>
+          </details>
+        {%- endfor -%}
+      </div>
+    </form>
+  </facet-filters-form>
+</div>
+
+<style>
+  summary::-webkit-details-marker { display: none; }
+</style>

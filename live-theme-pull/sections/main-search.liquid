@@ -1,0 +1,206 @@
+{{ 'template-collection.css' | asset_url | stylesheet_tag }}
+{{ 'component-card.css' | asset_url | stylesheet_tag }}
+{{ 'component-price.css' | asset_url | stylesheet_tag }}
+{{ 'component-search.css' | asset_url | stylesheet_tag }}
+
+{%- style -%}
+  .section-{{ section.id }}-padding {
+    padding-top: {{ section.settings.padding_top | times: 0.75 | round: 0 }}px;
+    padding-bottom: {{ section.settings.padding_bottom | times: 0.75 | round: 0 }}px;
+  }
+
+  @media screen and (min-width: 750px) {
+    .section-{{ section.id }}-padding {
+      padding-top: {{ section.settings.padding_top }}px;
+      padding-bottom: {{ section.settings.padding_bottom }}px;
+    }
+  }
+
+  .jolly-search-layout {
+    display: flex;
+    flex-direction: column;
+    gap: 3rem;
+  }
+  
+  @media screen and (min-width: 990px) {
+    .jolly-search-layout {
+      flex-direction: row;
+      align-items: flex-start;
+    }
+    .jolly-search-sidebar {
+      width: 300px;
+      flex-shrink: 0;
+      position: sticky;
+      top: 120px;
+      max-height: calc(100vh - 150px);
+      overflow-y: auto;
+      padding-right: 2rem;
+    }
+    .jolly-search-main {
+      flex-grow: 1;
+    }
+  }
+{%- endstyle -%}
+
+<div class="section-{{ section.id }}-padding gradient color-{{ section.settings.color_scheme }}">
+  <div class="max-w-7xl mx-auto px-6 md:px-10">
+    {% comment %} Search Header {% endcomment %}
+    <div class="mb-12 text-center md:text-left space-y-8">
+        <h1 class="text-5xl md:text-7xl font-black uppercase italic tracking-tighter text-primary">
+          {%- if search.performed -%}
+            Risultati Ricerca
+          {%- else -%}
+            Cerca nel Catalogo
+          {%- endif -%}
+        </h1>
+        
+        <div class="max-w-2xl">
+          <form action="{{ routes.search_url }}" method="get" role="search" class="relative group">
+            <input
+              class="w-full pl-14 pr-6 py-5 rounded-[24px] bg-surface-container-low border-0 font-bold text-primary text-lg focus:ring-4 focus:ring-primary/10 transition-all outline-none"
+              id="Search-In-Template"
+              type="search"
+              name="q"
+              value="{{ search.terms | escape }}"
+              placeholder="Cerca prodotti, guide, interventi..."
+            >
+            <span class="material-symbols-outlined absolute left-6 top-1/2 -translate-y-1/2 text-primary/30 group-focus-within:text-primary transition-colors">search</span>
+            <input name="options[prefix]" type="hidden" value="last">
+          </form>
+        </div>
+
+        {%- if search.performed -%}
+          <p class="text-[10px] font-black uppercase tracking-[0.3em] text-outline">
+            {{ 'templates.search.results_with_count_and_term' | t: terms: search.terms, count: search.results_count }}
+          </p>
+        {%- endif -%}
+    </div>
+
+    {%- if search.performed -%}
+      <div class="jolly-search-layout">
+        {{ 'component-facets.css' | asset_url | stylesheet_tag }}
+        <script src="{{ 'facets.js' | asset_url }}" defer="defer"></script>
+
+        {%- if section.settings.enable_filtering or section.settings.enable_sorting -%}
+          <aside class="jolly-search-sidebar hidden md:block" id="main-search-filters" data-id="{{ section.id }}">
+            {% render 'jolly-facets',
+              results: search,
+              enable_filtering: section.settings.enable_filtering,
+              enable_sorting: section.settings.enable_sorting,
+              filter_type: 'vertical',
+              paginate: paginate
+            %}
+          </aside>
+        {%- endif -%}
+
+        <div class="jolly-search-main" id="ProductGridContainer">
+          {% paginate search.results by 24 %}
+            {%- if search.results.size == 0 -%}
+              <div class="py-32 text-center bg-white rounded-[48px] border border-outline-variant/10 shadow-sm">
+                <span class="material-symbols-outlined text-8xl text-outline mb-6 opacity-10">search_off</span>
+                <h2 class="text-2xl font-black uppercase italic tracking-tighter text-primary mb-4">Nessun Risultato</h2>
+                <p class="text-on-surface-variant font-medium max-w-xs mx-auto">Non abbiamo trovato nulla per "{{ search.terms }}". Prova con termini più generici.</p>
+              </div>
+            {%- else -%}
+              <div class="collection">
+                <ul class="grid grid-cols-{{ section.settings.columns_mobile }} lg:grid-cols-{{ section.settings.columns_desktop }} gap-x-6 gap-y-12 list-none p-0 m-0" role="list">
+                  {%- for item in search.results -%}
+                    <li class="scroll-trigger animate--slide-in">
+                      {%- case item.object_type -%}
+                        {%- when 'product' -%}
+                          {% render 'jolly-card-product', card_product: item %}
+                        {%- when 'article' -%}
+                          <div class="bg-white rounded-[32px] overflow-hidden border border-outline-variant/10 h-full flex flex-col group hover:shadow-xl transition-all">
+                            <div class="aspect-video relative overflow-hidden">
+                                <img src="{{ item.image | image_url: width: 600 }}" alt="{{ item.title }}" class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-700">
+                                <div class="absolute top-4 left-4 bg-tertiary-fixed text-on-tertiary-fixed px-3 py-1 rounded-full text-[8px] font-black uppercase tracking-widest">Articolo</div>
+                            </div>
+                            <div class="p-6 flex-grow flex flex-col justify-between">
+                                <h3 class="text-lg font-black uppercase tracking-tighter leading-tight text-primary">{{ item.title }}</h3>
+                                <a href="{{ item.url }}" class="mt-6 text-[10px] font-black text-primary uppercase tracking-widest border-b-2 border-tertiary-fixed pb-1 w-max">Leggi Guida</a>
+                            </div>
+                          </div>
+                        {%- when 'page' -%}
+                          <div class="bg-surface-container-low rounded-[32px] p-8 border border-outline-variant/10 h-full flex flex-col justify-between group hover:bg-white transition-all">
+                            <div class="space-y-4">
+                                <span class="text-[8px] font-black uppercase tracking-widest text-outline">Pagina Informativa</span>
+                                <h3 class="text-xl font-black uppercase tracking-tighter leading-tight text-primary">{{ item.title }}</h3>
+                            </div>
+                            <a href="{{ item.url }}" class="mt-8 text-[10px] font-black text-primary uppercase tracking-widest border-b-2 border-tertiary-fixed pb-1 w-max">Scopri di più</a>
+                          </div>
+                      {%- endcase -%}
+                    </li>
+                  {%- endfor -%}
+                </ul>
+                {%- if paginate.pages > 1 -%}
+                  <div class="mt-24 pt-12 border-t border-outline-variant/10">
+                    {% render 'pagination', paginate: paginate %}
+                  </div>
+                {%- endif -%}
+              </div>
+            {%- endif -%}
+          {% endpaginate %}
+        </div>
+      </div>
+    {%- endif -%}
+  </div>
+</div>
+
+{% schema %}
+{
+  "name": "Main Search Jolly",
+  "settings": [
+    {
+      "type": "range",
+      "id": "columns_desktop",
+      "min": 1,
+      "max": 4,
+      "step": 1,
+      "default": 3,
+      "label": "Colonne Desktop"
+    },
+    {
+      "type": "select",
+      "id": "columns_mobile",
+      "default": "1",
+      "label": "Colonne Mobile",
+      "options": [
+        { "value": "1", "label": "1" },
+        { "value": "2", "label": "2" }
+      ]
+    },
+    {
+      "type": "checkbox",
+      "id": "enable_filtering",
+      "default": true,
+      "label": "Abilita Filtri"
+    },
+    {
+      "type": "checkbox",
+      "id": "enable_sorting",
+      "default": true,
+      "label": "Abilita Ordinamento"
+    },
+    {
+      "type": "range",
+      "id": "padding_top",
+      "min": 0,
+      "max": 100,
+      "step": 4,
+      "unit": "px",
+      "label": "Padding Top",
+      "default": 36
+    },
+    {
+      "type": "range",
+      "id": "padding_bottom",
+      "min": 0,
+      "max": 100,
+      "step": 4,
+      "unit": "px",
+      "label": "Padding Bottom",
+      "default": 36
+    }
+  ]
+}
+{% endschema %}

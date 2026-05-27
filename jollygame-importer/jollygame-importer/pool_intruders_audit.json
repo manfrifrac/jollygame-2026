@@ -1,0 +1,664 @@
+[
+  {
+    "id": "gid://shopify/Product/15527758561628",
+    "title": "Copertura per piscina rettangolare",
+    "vendor": "Gre",
+    "current_tags": [
+      "Brand:Gre",
+      "Categoria:Coperture",
+      "Categoria:Piscine",
+      "Categoria:Pulitori",
+      "Sottocategoria:Piscine fuori terra",
+      "Sottocategoria:Pulitori elettrico"
+    ],
+    "reason": "Accessorio esplicito"
+  },
+  {
+    "id": "gid://shopify/Product/15527770587484",
+    "title": "Raccordo unione 2 tubi gall. 38/32mm",
+    "vendor": "Gre",
+    "current_tags": [
+      "Brand:Gre",
+      "Categoria:Accessori",
+      "Categoria:Piscine",
+      "Sottocategoria:Altri accessori",
+      "Sottocategoria:Piscine fuori terra",
+      "Tipo: Ricambio"
+    ],
+    "reason": "Keyword intrusa rilevata"
+  },
+  {
+    "id": "gid://shopify/Product/15527770685788",
+    "title": "Pulitore manuale in alluminio per piscina",
+    "vendor": "Gre",
+    "current_tags": [
+      "Brand:Gre",
+      "Categoria:Piscine",
+      "Categoria:Pulitori",
+      "Sottocategoria:Pulitori manuali"
+    ],
+    "reason": "Keyword intrusa rilevata"
+  },
+  {
+    "id": "gid://shopify/Product/15527770882396",
+    "title": "Kit di riparazione liner in gomma",
+    "vendor": "Gre",
+    "current_tags": [
+      "Brand:Gre",
+      "Categoria:Piscine",
+      "Sottocategoria:Liner",
+      "Sottocategoria:Liner e riparatori",
+      "Tipo: Ricambio"
+    ],
+    "reason": "Keyword intrusa rilevata"
+  },
+  {
+    "id": "gid://shopify/Product/15527770915164",
+    "title": "Adesivo specifico per PVC",
+    "vendor": "Gre",
+    "current_tags": [
+      "Brand:Gre",
+      "Categoria:Accessori",
+      "Categoria:Piscine",
+      "Sottocategoria:Altri accessori",
+      "Sottocategoria:Piscine fuori terra"
+    ],
+    "reason": "Keyword intrusa rilevata"
+  },
+  {
+    "id": "gid://shopify/Product/15527770980700",
+    "title": "Tubo flessibile PVC Cepex",
+    "vendor": "Gre",
+    "current_tags": [
+      "Brand:Gre",
+      "Categoria:Accessori",
+      "Categoria:Piscine",
+      "Sottocategoria:Altri accessori",
+      "Sottocategoria:Piscine fuori terra",
+      "Tipo: Ricambio"
+    ],
+    "reason": "Keyword intrusa rilevata"
+  },
+  {
+    "id": "gid://shopify/Product/15527771079004",
+    "title": "Spazzola aspirante 51 cm",
+    "vendor": "Gre",
+    "current_tags": [
+      "Brand:Gre",
+      "Categoria:Piscine",
+      "Categoria:Pulitori",
+      "Sottocategoria:Piscine fuori terra",
+      "Sottocategoria:Pulitori manuali"
+    ],
+    "reason": "Keyword intrusa rilevata"
+  },
+  {
+    "id": "gid://shopify/Product/15527771373916",
+    "title": "Tester digitale AquaChek TruTest con 50 strisce",
+    "vendor": "Gre",
+    "current_tags": [
+      "Brand:Gre",
+      "Categoria:Piscine",
+      "Categoria:Trattamento acqua",
+      "Sottocategoria:Piscine fuori terra",
+      "Sottocategoria:Prodotti chimici"
+    ],
+    "reason": "Keyword intrusa rilevata"
+  },
+  {
+    "id": "gid://shopify/Product/15527774028124",
+    "title": "Tubo galleggiante GRE 36,5m sezionabile",
+    "vendor": "Gre",
+    "current_tags": [
+      "Brand:Gre",
+      "Categoria:Accessori",
+      "Categoria:Piscine",
+      "Sottocategoria:Altri accessori",
+      "Sottocategoria:Piscine fuori terra",
+      "Tipo: Ricambio"
+    ],
+    "reason": "Keyword intrusa rilevata"
+  },
+  {
+    "id": "gid://shopify/Product/15527774421340",
+    "title": "Copertura per piscina in legno ovale Vermela",
+    "vendor": "Gre",
+    "current_tags": [
+      "Brand:Gre",
+      "Categoria:Coperture",
+      "Categoria:Piscine",
+      "Categoria:Pulitori",
+      "Sottocategoria:Piscine in legno",
+      "Sottocategoria:Pulitori elettrico"
+    ],
+    "reason": "Accessorio esplicito"
+  },
+  {
+    "id": "gid://shopify/Product/15527774650716",
+    "title": "Liner blu per piscina in acciaio rotonda 75/100",
+    "vendor": "Gre",
+    "current_tags": [
+      "Brand:Gre",
+      "Categoria:Piscine",
+      "Sottocategoria:Liner",
+      "Sottocategoria:Liner e riparatori",
+      "Sottocategoria:Piscine in acciaio",
+      "Tipo: Ricambio"
+    ],
+    "reason": "Keyword intrusa rilevata"
+  },
+  {
+    "id": "gid://shopify/Product/15527775207772",
+    "title": "Copertura piscina ovale",
+    "vendor": "Gre",
+    "current_tags": [
+      "Brand:Gre",
+      "Categoria:Coperture",
+      "Categoria:Piscine",
+      "Categoria:Pulitori",
+      "Sottocategoria:Piscine fuori terra",
+      "Sottocategoria:Pulitori elettrico"
+    ],
+    "reason": "Accessorio esplicito"
+  },
+  {
+    "id": "gid://shopify/Product/15527777173852",
+    "title": "Copertura per piscina rotonda violetta - Mod. 581",
+    "vendor": "Gre",
+    "current_tags": [
+      "Brand:Gre",
+      "Categoria:Coperture",
+      "Categoria:Piscine",
+      "Categoria:Pulitori",
+      "Sottocategoria:Piscine fuori terra",
+      "Sottocategoria:Pulitori elettrico"
+    ],
+    "reason": "Accessorio esplicito"
+  },
+  {
+    "id": "gid://shopify/Product/15527778189660",
+    "title": "Casetta in legno alta 118 cm",
+    "vendor": "Gre",
+    "current_tags": [
+      "Brand:Gre",
+      "Categoria:Accessori",
+      "Categoria:Piscine",
+      "Sottocategoria:Altri accessori",
+      "Sottocategoria:Piscine in legno"
+    ],
+    "reason": "Keyword intrusa rilevata"
+  },
+  {
+    "id": "gid://shopify/Product/15527815938396",
+    "title": "Tappo di chiusura invernale 1,5",
+    "vendor": "Gre",
+    "current_tags": [
+      "Brand:Gre",
+      "Categoria:Piscine",
+      "Categoria:Pulitori",
+      "Sottocategoria:Piscine fuori terra",
+      "Sottocategoria:Pulitori elettrico",
+      "Tipo: Ricambio"
+    ],
+    "reason": "Keyword intrusa rilevata"
+  },
+  {
+    "id": "gid://shopify/Product/15527816626524",
+    "title": "Anticalcare per la Pulizia",
+    "vendor": "Gre",
+    "current_tags": [
+      "Brand:Gre",
+      "Categoria:Piscine",
+      "Sottocategoria:Piscine fuori terra"
+    ],
+    "reason": "Keyword intrusa rilevata"
+  },
+  {
+    "id": "gid://shopify/Product/15527817347420",
+    "title": "Smart Plug F-F",
+    "vendor": "Gre",
+    "current_tags": [
+      "Brand:Gre",
+      "Categoria:Accessori",
+      "Categoria:Piscine",
+      "Sottocategoria:Altri accessori",
+      "Sottocategoria:Piscine fuori terra"
+    ],
+    "reason": "Keyword intrusa rilevata"
+  },
+  {
+    "id": "gid://shopify/Product/15527819182428",
+    "title": "Liner piscina acciaio blu ovale",
+    "vendor": "Gre",
+    "current_tags": [
+      "Brand:Gre",
+      "Categoria:Piscine",
+      "Sottocategoria:Liner",
+      "Sottocategoria:Liner e riparatori",
+      "Sottocategoria:Piscine in acciaio",
+      "Tipo: Ricambio"
+    ],
+    "reason": "Accessorio esplicito"
+  },
+  {
+    "id": "gid://shopify/Product/15527820099932",
+    "title": "Liner piscina legno ovale blu",
+    "vendor": "Gre",
+    "current_tags": [
+      "Brand:Gre",
+      "Categoria:Piscine",
+      "Sottocategoria:Liner",
+      "Sottocategoria:Liner e riparatori",
+      "Sottocategoria:Piscine in legno",
+      "Tipo: Ricambio"
+    ],
+    "reason": "Accessorio esplicito"
+  },
+  {
+    "id": "gid://shopify/Product/15527820165468",
+    "title": "Liner piscina legno rotonda Blu",
+    "vendor": "Gre",
+    "current_tags": [
+      "Brand:Gre",
+      "Categoria:Piscine",
+      "Sottocategoria:Liner",
+      "Sottocategoria:Liner e riparatori",
+      "Sottocategoria:Piscine in legno",
+      "Tipo: Ricambio"
+    ],
+    "reason": "Accessorio esplicito"
+  },
+  {
+    "id": "gid://shopify/Product/15527820198236",
+    "title": "Liner piscina rettangolare in legno blu",
+    "vendor": "Gre",
+    "current_tags": [
+      "Brand:Gre",
+      "Categoria:Piscine",
+      "Sottocategoria:Liner",
+      "Sottocategoria:Liner e riparatori",
+      "Sottocategoria:Piscine in legno",
+      "Tipo: Ricambio"
+    ],
+    "reason": "Accessorio esplicito"
+  },
+  {
+    "id": "gid://shopify/Product/15527820362076",
+    "title": "Copertura per piscina in legno quadrata City",
+    "vendor": "Gre",
+    "current_tags": [
+      "Brand:Gre",
+      "Categoria:Coperture",
+      "Categoria:Piscine",
+      "Categoria:Pulitori",
+      "Sottocategoria:Piscine in legno",
+      "Sottocategoria:Pulitori elettrico"
+    ],
+    "reason": "Accessorio esplicito"
+  },
+  {
+    "id": "gid://shopify/Product/15527826620764",
+    "title": "Aspiratore elettronico per fondo piscina a batteria",
+    "vendor": "Gre",
+    "current_tags": [
+      "Brand:Gre",
+      "Categoria:Piscine",
+      "Categoria:Pulitori",
+      "Sottocategoria:Piscine fuori terra"
+    ],
+    "reason": "Keyword intrusa rilevata"
+  },
+  {
+    "id": "gid://shopify/Product/15527826751836",
+    "title": "Kit testa aspirante con manico e tubo per pulizia fondo",
+    "vendor": "Gre",
+    "current_tags": [
+      "Brand:Gre",
+      "Categoria:Accessori",
+      "Categoria:Piscine",
+      "Sottocategoria:Altri accessori",
+      "Sottocategoria:Piscine fuori terra",
+      "Tipo: Ricambio"
+    ],
+    "reason": "Keyword intrusa rilevata"
+  },
+  {
+    "id": "gid://shopify/Product/15527826882908",
+    "title": "Kit di pulizia piscina autopor, 10M3, aspirazione manuale",
+    "vendor": "Gre",
+    "current_tags": [
+      "Brand:Gre",
+      "Categoria:Piscine",
+      "Sottocategoria:Piscine fuori terra"
+    ],
+    "reason": "Accessorio esplicito"
+  },
+  {
+    "id": "gid://shopify/Product/15527828095324",
+    "title": "Depuratore Aqualoon - Filtro per acqua, portata 3,5 m³/h",
+    "vendor": "Gre",
+    "current_tags": [
+      "Brand:Gre",
+      "Categoria:Filtraggio",
+      "Categoria:Piscine",
+      "Sottocategoria:Filtri",
+      "Sottocategoria:Piscine fuori terra"
+    ],
+    "reason": "Keyword intrusa rilevata"
+  },
+  {
+    "id": "gid://shopify/Product/15527828980060",
+    "title": "Casetta tecnica in composito, h:91",
+    "vendor": "Gre",
+    "current_tags": [
+      "Brand:Gre",
+      "Categoria:Accessori",
+      "Categoria:Piscine",
+      "Sottocategoria:Altri accessori",
+      "Sottocategoria:Piscine in composito"
+    ],
+    "reason": "Keyword intrusa rilevata"
+  },
+  {
+    "id": "gid://shopify/Product/15527829143900",
+    "title": "Pompa autoadescante Comfort - 1/3 CV",
+    "vendor": "Gre",
+    "current_tags": [
+      "Brand:Gre",
+      "Categoria:Filtraggio",
+      "Categoria:Piscine",
+      "Sottocategoria:Piscine fuori terra",
+      "Sottocategoria:Pompe per piscine"
+    ],
+    "reason": "Keyword intrusa rilevata"
+  },
+  {
+    "id": "gid://shopify/Product/15527829438812",
+    "title": "Pompa autoadescante premium",
+    "vendor": "Gre",
+    "current_tags": [
+      "Brand:Gre",
+      "Categoria:Filtraggio",
+      "Categoria:Piscine",
+      "Sottocategoria:Piscine fuori terra",
+      "Sottocategoria:Pompe per piscine"
+    ],
+    "reason": "Keyword intrusa rilevata"
+  },
+  {
+    "id": "gid://shopify/Product/15527831863644",
+    "title": "KIT trattamento piscina fuori terra da 5 a 15m³",
+    "vendor": "Gre",
+    "current_tags": [
+      "Brand:Gre",
+      "Categoria:Piscine",
+      "Categoria:Pulitori",
+      "Categoria:Trattamento acqua",
+      "Sottocategoria:Piscine fuori terra",
+      "Sottocategoria:Prodotti chimici",
+      "Sottocategoria:Pulitori elettrico"
+    ],
+    "reason": "Accessorio esplicito"
+  },
+  {
+    "id": "gid://shopify/Product/15527831961948",
+    "title": "Kit trattamento acqua spa",
+    "vendor": "Gre",
+    "current_tags": [
+      "Brand:Gre",
+      "Categoria:Piscine",
+      "Categoria:Trattamento acqua",
+      "Sottocategoria:Piscine fuori terra",
+      "Sottocategoria:Prodotti chimici"
+    ],
+    "reason": "Keyword intrusa rilevata"
+  },
+  {
+    "id": "gid://shopify/Product/15527832486236",
+    "title": "Copertura per piscina rotonda in composite",
+    "vendor": "Gre",
+    "current_tags": [
+      "Brand:Gre",
+      "Categoria:Coperture",
+      "Categoria:Piscine",
+      "Categoria:Pulitori",
+      "Sottocategoria:Piscine fuori terra",
+      "Sottocategoria:Piscine in composito",
+      "Sottocategoria:Pulitori elettrico"
+    ],
+    "reason": "Accessorio esplicito"
+  },
+  {
+    "id": "gid://shopify/Product/15527832715612",
+    "title": "Proiettore LED per piscine interrate, 9 LED, Bianco, 16 W",
+    "vendor": "Gre",
+    "current_tags": [
+      "Brand:Gre",
+      "Categoria:Piscine",
+      "Sottocategoria:Illuminazione",
+      "Sottocategoria:Piscine fuori terra"
+    ],
+    "reason": "Keyword intrusa rilevata"
+  },
+  {
+    "id": "gid://shopify/Product/15527832977756",
+    "title": "Kit illuminazione piscina fuori terra con 2 proiettori LED",
+    "vendor": "Gre",
+    "current_tags": [
+      "Brand:Gre",
+      "Categoria:Piscine",
+      "Categoria:Pulitori",
+      "Sottocategoria:Illuminazione",
+      "Sottocategoria:Piscine fuori terra",
+      "Sottocategoria:Pulitori elettrico"
+    ],
+    "reason": "Keyword intrusa rilevata"
+  },
+  {
+    "id": "gid://shopify/Product/15527833010524",
+    "title": "Liner piscina legno quadrata Blu",
+    "vendor": "Gre",
+    "current_tags": [
+      "Brand:Gre",
+      "Categoria:Piscine",
+      "Sottocategoria:Liner",
+      "Sottocategoria:Liner e riparatori",
+      "Sottocategoria:Piscine in legno",
+      "Tipo: Ricambio"
+    ],
+    "reason": "Accessorio esplicito"
+  },
+  {
+    "id": "gid://shopify/Product/15527833076060",
+    "title": "Liner per piscine composite rotonde Grigio 40/100",
+    "vendor": "Gre",
+    "current_tags": [
+      "Brand:Gre",
+      "Categoria:Piscine",
+      "Sottocategoria:Liner",
+      "Sottocategoria:Liner e riparatori",
+      "Tipo: Ricambio"
+    ],
+    "reason": "Keyword intrusa rilevata"
+  },
+  {
+    "id": "gid://shopify/Product/15527833174364",
+    "title": "Liner per piscine in composite ovale, 524x386x124 cm",
+    "vendor": "Gre",
+    "current_tags": [
+      "Brand:Gre",
+      "Categoria:Piscine",
+      "Sottocategoria:Liner",
+      "Sottocategoria:Liner e riparatori",
+      "Tipo: Ricambio"
+    ],
+    "reason": "Keyword intrusa rilevata"
+  },
+  {
+    "id": "gid://shopify/Product/15527833239900",
+    "title": "Liner Di Ricambio Grigio 60/100 Rettangolare x Piscine in Composito Gre",
+    "vendor": "Gre",
+    "current_tags": [
+      "Brand:Gre",
+      "Categoria:Piscine",
+      "Sottocategoria:Liner",
+      "Sottocategoria:Liner e riparatori",
+      "Tipo: Ricambio"
+    ],
+    "reason": "Keyword intrusa rilevata"
+  },
+  {
+    "id": "gid://shopify/Product/15527833338204",
+    "title": "Liner Di Ricambio Per Piscine Rotonde Interrate Con Spessore 60/100 Gre",
+    "vendor": "Gre",
+    "current_tags": [
+      "Brand:Gre",
+      "Categoria:Piscine",
+      "Sottocategoria:Liner",
+      "Sottocategoria:Liner e riparatori",
+      "Tipo: Ricambio"
+    ],
+    "reason": "Keyword intrusa rilevata"
+  },
+  {
+    "id": "gid://shopify/Product/15527833370972",
+    "title": "Liner Di Ricambio Per Piscine Ovali Interrate Con Spessore 75/100 Gre",
+    "vendor": "Gre",
+    "current_tags": [
+      "Brand:Gre",
+      "Categoria:Piscine",
+      "Sottocategoria:Liner",
+      "Sottocategoria:Liner e riparatori",
+      "Tipo: Ricambio"
+    ],
+    "reason": "Keyword intrusa rilevata"
+  },
+  {
+    "id": "gid://shopify/Product/15527833403740",
+    "title": "Liner Grigio Di Ricambio x Piscina In Composito Quadrata 60/100 Gre",
+    "vendor": "Gre",
+    "current_tags": [
+      "Brand:Gre",
+      "Categoria:Piscine",
+      "Sottocategoria:Liner",
+      "Sottocategoria:Liner e riparatori",
+      "Sottocategoria:Piscine in composito",
+      "Tipo: Ricambio"
+    ],
+    "reason": "Keyword intrusa rilevata"
+  },
+  {
+    "id": "gid://shopify/Product/15546243121500",
+    "title": "SWY 3500 Piscina Robot Pulitore Elettrico",
+    "vendor": "Zodiac",
+    "current_tags": [
+      "Brand:Zodiac",
+      "Categoria:Piscine",
+      "Categoria:Pulitori",
+      "Sottocategoria:Pulitori elettrico"
+    ],
+    "reason": "Keyword intrusa rilevata"
+  },
+  {
+    "id": "gid://shopify/Product/15591516438876",
+    "title": "Robot Pulitore",
+    "vendor": "Intex",
+    "current_tags": [
+      "Brand:Intex",
+      "Categoria:Piscine",
+      "Categoria:Pulitori",
+      "Sottocategoria:Pulitori elettrico"
+    ],
+    "reason": "Keyword intrusa rilevata"
+  },
+  {
+    "id": "gid://shopify/Product/15591516602716",
+    "title": "Telo Termico",
+    "vendor": "Intex",
+    "current_tags": [
+      "Brand:Intex",
+      "Categoria:Coperture",
+      "Categoria:Piscine",
+      "Sottocategoria:Coperture isotermiche"
+    ],
+    "reason": "Keyword intrusa rilevata"
+  },
+  {
+    "id": "gid://shopify/Product/15591516832092",
+    "title": "Robot Pulitore Automatico",
+    "vendor": "Intex",
+    "current_tags": [
+      "Brand:Intex",
+      "Categoria:Piscine",
+      "Categoria:Pulitori",
+      "Sottocategoria:Pulitori elettrico"
+    ],
+    "reason": "Keyword intrusa rilevata"
+  },
+  {
+    "id": "gid://shopify/Product/15591517094236",
+    "title": "Luce LED Magnetica",
+    "vendor": "Intex",
+    "current_tags": [
+      "Brand:Intex",
+      "Categoria:Piscine",
+      "Sottocategoria:Illuminazione"
+    ],
+    "reason": "Keyword intrusa rilevata"
+  },
+  {
+    "id": "gid://shopify/Product/15591517290844",
+    "title": "Telo Copri Deluxe",
+    "vendor": "Intex",
+    "current_tags": [
+      "Brand:Intex",
+      "Categoria:Coperture",
+      "Categoria:Piscine"
+    ],
+    "reason": "Keyword intrusa rilevata"
+  },
+  {
+    "id": "gid://shopify/Product/15591517487452",
+    "title": "Luce a LED Galleggiante",
+    "vendor": "Intex",
+    "current_tags": [
+      "Brand:Intex",
+      "Categoria:Piscine",
+      "Sottocategoria:Illuminazione"
+    ],
+    "reason": "Keyword intrusa rilevata"
+  },
+  {
+    "id": "gid://shopify/Product/15591517618524",
+    "title": "Telo Copri Prisma",
+    "vendor": "Intex",
+    "current_tags": [
+      "Brand:Intex",
+      "Categoria:Coperture",
+      "Categoria:Piscine"
+    ],
+    "reason": "Keyword intrusa rilevata"
+  },
+  {
+    "id": "gid://shopify/Product/15591518110044",
+    "title": "Luce LED Intex",
+    "vendor": "Intex",
+    "current_tags": [
+      "Brand:Intex",
+      "Categoria:Piscine",
+      "Sottocategoria:Illuminazione"
+    ],
+    "reason": "Keyword intrusa rilevata"
+  },
+  {
+    "id": "gid://shopify/Product/15591519945052",
+    "title": "Accessori Piscina",
+    "vendor": "Intex",
+    "current_tags": [
+      "Brand:Intex",
+      "Categoria:Coperture",
+      "Categoria:Piscine"
+    ],
+    "reason": "Accessorio esplicito"
+  }
+]

@@ -1,0 +1,266 @@
+{{ 'template-collection.css' | asset_url | stylesheet_tag }}
+{{ 'component-card.css' | asset_url | stylesheet_tag }}
+{{ 'component-price.css' | asset_url | stylesheet_tag }}
+{{ 'component-facets.css' | asset_url | stylesheet_tag }}
+
+<script src="{{ 'facets.js' | asset_url }}" defer="defer"></script>
+
+{%- style -%}
+  .section-{{ section.id }}-padding {
+    padding-top: {{ section.settings.padding_top | times: 0.75 | round: 0 }}px;
+    padding-bottom: {{ section.settings.padding_bottom | times: 0.75 | round: 0 }}px;
+  }
+
+  @media screen and (min-width: 750px) {
+    .section-{{ section.id }}-padding {
+      padding-top: {{ section.settings.padding_top }}px;
+      padding-bottom: {{ section.settings.padding_bottom }}px;
+    }
+  }
+  
+  /* Robust Reset for Jolly Care Collection Layout */
+  .jolly-layout-container {
+    display: flex;
+    flex-direction: column;
+    gap: 3rem;
+  }
+  
+  @media screen and (min-width: 990px) {
+    .jolly-layout-container {
+      flex-direction: row;
+      align-items: flex-start;
+    }
+    .jolly-sidebar {
+      width: 300px;
+      flex-shrink: 0;
+      position: sticky;
+      top: 120px;
+      max-height: calc(100vh - 150px);
+      overflow-y: auto;
+      padding-right: 2.5rem;
+    }
+    .jolly-main-content {
+      flex-grow: 1;
+    }
+  }
+
+  /* Hide Dawn's default facet CSS that we don't want */
+  .facets-container, facet-filters-form.facets {
+    padding: 0 !important;
+  }
+  .facets__form-vertical {
+    width: auto !important;
+  }
+{%- endstyle -%}
+
+<div class="section-{{ section.id }}-padding gradient color-{{ section.settings.color_scheme }}">
+  {%- paginate collection.products by section.settings.products_per_page -%}
+    
+    <div class="max-w-7xl mx-auto px-6 md:px-10">
+      
+      {% comment %} Mobile Filter Trigger {% endcomment %}
+      <div class="md:hidden mb-8">
+          <button id="MobileFilterTrigger" class="w-full bg-white border border-outline-variant/20 py-4 rounded-2xl flex items-center justify-center gap-3 font-black text-[10px] uppercase tracking-[0.2em] text-primary shadow-sm active:scale-95 transition-all">
+              <span class="material-symbols-outlined">filter_list</span>
+              Filtra e Ordina
+          </button>
+      </div>
+
+      <div class="jolly-layout-container">
+        
+        {%- if section.settings.enable_filtering or section.settings.enable_sorting -%}
+          <aside class="jolly-sidebar hidden md:block" id="JollySidebar">
+            {% comment %} Sidebar Header / Sort {% endcomment %}
+            <div class="mb-12 pb-8 border-b border-outline-variant/10 space-y-8">
+                <div class="flex items-center justify-between">
+                    <h3 class="text-[10px] font-black uppercase tracking-[0.2em] text-outline">Navigazione</h3>
+                    <span class="w-2 h-2 bg-tertiary-fixed rounded-full"></span>
+                </div>
+                
+                <div class="space-y-4">
+                    <p class="text-[10px] font-black uppercase tracking-widest text-primary/40">Ordina Risultati</p>
+                    <div class="select relative">
+                      {%- assign sort_by = collection.sort_by | default: collection.default_sort_by -%}
+                      <select name="sort_by" class="w-full bg-surface-container-low border-0 rounded-xl px-5 py-4 font-bold text-primary uppercase text-[10px] tracking-widest outline-none focus:ring-2 focus:ring-primary/10 appearance-none cursor-pointer" id="SortBy-Sidebar" onchange="window.location.href = window.location.pathname + '?sort_by=' + this.value">
+                        {%- for option in collection.sort_options -%}
+                          <option value="{{ option.value | escape }}" {% if option.value == sort_by %}selected="selected"{% endif %}>
+                            {{ option.name | escape }}
+                          </option>
+                        {%- endfor -%}
+                      </select>
+                      <span class="material-symbols-outlined absolute right-4 top-1/2 -translate-y-1/2 text-primary/20 pointer-events-none">expand_more</span>
+                    </div>
+                </div>
+            </div>
+
+            {% render 'jolly-facets',
+              results: collection,
+              enable_filtering: section.settings.enable_filtering,
+              enable_sorting: false,
+              filter_type: 'vertical',
+              paginate: paginate
+            %}
+          </aside>
+        {%- endif -%}
+
+        <div class="jolly-main-content" id="ProductGridContainer">
+          {% comment %} Hidden element to provide section ID to facets.js even when no products are found {% endcomment %}
+          <div id="product-grid" data-id="{{ section.id }}" class="hidden"></div>
+
+          {% comment %} Results info bar {% endcomment %}
+          <div class="flex justify-between items-center mb-12">
+              <div class="flex items-center gap-4">
+                  <span class="w-8 h-px bg-primary/10"></span>
+                  <p id="ProductCount" class="text-[10px] font-black uppercase tracking-[0.3em] text-outline">
+                    {{ collection.products_count }} {{ 'products.facets.product_count_simple' | t: count: collection.products_count }}
+                  </p>
+              </div>
+              <div id="ProductCountDesktop" class="hidden"></div>
+              <div class="hidden md:block">
+                  {%- if collection.sort_by != blank -%}
+                      <a href="{{ collection.url }}" class="text-[9px] font-black uppercase tracking-widest text-tertiary-fixed border border-tertiary-fixed/20 px-3 py-1 rounded-full hover:bg-tertiary-fixed hover:text-on-tertiary-fixed transition-all">Reset Ordinamento</a>
+                  {%- endif -%}
+              </div>
+          </div>
+
+          {%- if collection.products.size == 0 -%}
+            <div class="py-32 text-center bg-white rounded-[48px] border border-outline-variant/10 shadow-sm overflow-hidden relative collection">
+              <div class="absolute inset-0 opacity-[0.02] pointer-events-none" style="background-image: radial-gradient(#002366 1px, transparent 1px); background-size: 30px 30px;"></div>
+              <span class="material-symbols-outlined text-8xl text-outline mb-6 opacity-10">inventory_2</span>
+              <h2 class="text-2xl font-black uppercase italic tracking-tighter text-primary mb-4">
+                Nessun Prodotto Trovato
+              </h2>
+              <p class="text-on-surface-variant font-medium mb-10 max-w-xs mx-auto">Prova a cambiare i filtri o esplora l'intero catalogo Jolly Care.</p>
+              <a href="/collections/all" class="bg-primary text-white px-10 py-4 rounded-2xl font-black text-xs uppercase tracking-widest shadow-xl hover:bg-primary-fixed-variant transition-all">Mostra Tutto</a>
+            </div>
+          {%- else -%}
+            <div class="collection">
+              <ul class="grid grid-cols-{{ section.settings.columns_mobile }} lg:grid-cols-{{ section.settings.columns_desktop }} gap-x-6 gap-y-12 list-none p-0 m-0">
+                {%- for product in collection.products -%}
+                  <li class="{% if settings.animations_reveal_on_scroll %} scroll-trigger animate--slide-in{% endif %}"
+                    {% if settings.animations_reveal_on_scroll %}
+                      data-cascade
+                      style="--animation-order: {{ forloop.index }};"
+                    {% endif %}
+                  >
+                    {% render 'jolly-card-product', card_product: product %}
+                  </li>
+                {%- endfor -%}
+              </ul>
+
+              {%- if paginate.pages > 1 -%}
+                <div class="mt-24 pt-12 border-t border-outline-variant/10">
+                  {% render 'pagination', paginate: paginate, anchor: '' %}
+                </div>
+              {%- endif -%}
+            </div>
+          {%- endif -%}
+        </div>
+      </div>
+    </div>
+  {%- endpaginate -%}
+</div>
+
+{% comment %} Simple Mobile Filter Logic {% endcomment %}
+<script>
+  document.addEventListener('DOMContentLoaded', function() {
+    const trigger = document.getElementById('MobileFilterTrigger');
+    const sidebar = document.getElementById('JollySidebar');
+    if (trigger && sidebar) {
+      trigger.addEventListener('click', () => {
+        sidebar.classList.toggle('hidden');
+        sidebar.classList.toggle('fixed');
+        sidebar.classList.toggle('inset-0');
+        sidebar.classList.toggle('z-[100]');
+        sidebar.classList.toggle('bg-white');
+        sidebar.classList.toggle('p-10');
+        sidebar.classList.toggle('overflow-y-auto');
+      });
+    }
+  });
+</script>
+
+{% schema %}
+{
+  "name": "t:sections.main-collection-product-grid.name",
+  "class": "section",
+  "settings": [
+    {
+      "type": "range",
+      "id": "products_per_page",
+      "min": 8,
+      "max": 36,
+      "step": 4,
+      "default": 16,
+      "label": "t:sections.main-collection-product-grid.settings.products_per_page.label"
+    },
+    {
+      "type": "range",
+      "id": "columns_desktop",
+      "min": 1,
+      "max": 6,
+      "step": 1,
+      "default": 3,
+      "label": "t:sections.main-collection-product-grid.settings.columns_desktop.label"
+    },
+    {
+      "type": "select",
+      "id": "columns_mobile",
+      "default": "1",
+      "label": "t:sections.main-collection-product-grid.settings.columns_mobile.label",
+      "options": [
+        {
+          "value": "1",
+          "label": "t:sections.main-collection-product-grid.settings.columns_mobile.options__1.label"
+        },
+        {
+          "value": "2",
+          "label": "t:sections.main-collection-product-grid.settings.columns_mobile.options__2.label"
+        }
+      ]
+    },    
+    {
+      "type": "color_scheme",
+      "id": "color_scheme",
+      "label": "t:sections.all.colors.label",
+      "default": "scheme-1"
+    },
+    {
+      "type": "checkbox",
+      "id": "enable_filtering",
+      "default": true,
+      "label": "t:sections.main-collection-product-grid.settings.enable_filtering.label"
+    },
+    {
+      "type": "checkbox",
+      "id": "enable_sorting",
+      "default": true,
+      "label": "t:sections.main-collection-product-grid.settings.enable_sorting.label"
+    },
+    {
+      "type": "header",
+      "content": "t:sections.all.padding.section_padding_heading"
+    },
+    {
+      "type": "range",
+      "id": "padding_top",
+      "min": 0,
+      "max": 100,
+      "step": 4,
+      "unit": "px",
+      "label": "t:sections.all.padding.padding_top",
+      "default": 36
+    },
+    {
+      "type": "range",
+      "id": "padding_bottom",
+      "min": 0,
+      "max": 100,
+      "step": 4,
+      "unit": "px",
+      "label": "t:sections.all.padding.padding_bottom",
+      "default": 36
+    }
+  ]
+}
+{% endschema %}

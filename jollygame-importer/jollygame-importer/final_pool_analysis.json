@@ -1,0 +1,532 @@
+[
+  {
+    "title": "Scalette in legno per piscina",
+    "brand": "Gre",
+    "categoria_tecnica": "Gre Acciaio",
+    "materiale": "Acciaio",
+    "forma": "Non definito",
+    "volume": "Non definito",
+    "altezza": "Non definito",
+    "serie": "Non definito"
+  },
+  {
+    "title": "Piscina Ovale Pacific",
+    "brand": "Gre",
+    "categoria_tecnica": "Gre Acciaio",
+    "materiale": "Acciaio",
+    "forma": "Ovale",
+    "volume": "14.55",
+    "altezza": "120",
+    "serie": "Non definito"
+  },
+  {
+    "title": "Piscina Ovale Sicilia",
+    "brand": "Gre",
+    "categoria_tecnica": "Gre Acciaio",
+    "materiale": "Acciaio",
+    "forma": "Ovale",
+    "volume": "14.55",
+    "altezza": "120",
+    "serie": "Non definito"
+  },
+  {
+    "title": "Piscina City Quadrata",
+    "brand": "Gre",
+    "categoria_tecnica": "Gre Legno",
+    "materiale": "Legno",
+    "forma": "Quadrata",
+    "volume": "2.3",
+    "altezza": "68",
+    "serie": "Non definito"
+  },
+  {
+    "title": "Piscina Rotonda Lili 2",
+    "brand": "Gre",
+    "categoria_tecnica": "Gre Legno",
+    "materiale": "Legno",
+    "forma": "Rotonda",
+    "volume": "3.6",
+    "altezza": "107",
+    "serie": "Non definito"
+  },
+  {
+    "title": "Piscina Ovale Grenade 2",
+    "brand": "Gre",
+    "categoria_tecnica": "Gre Acciaio",
+    "materiale": "Acciaio",
+    "forma": "Ovale",
+    "volume": "10.0",
+    "altezza": "117",
+    "serie": "Non definito"
+  },
+  {
+    "title": "Piscina Marbella 2 Rettangolare",
+    "brand": "Gre",
+    "categoria_tecnica": "Gre Acciaio",
+    "materiale": "Acciaio",
+    "forma": "Rettangolare",
+    "volume": "8.6",
+    "altezza": "117",
+    "serie": "Non definito"
+  },
+  {
+    "title": "Piscina in pietra Sumatra ovale",
+    "brand": "Gre",
+    "categoria_tecnica": "Gre Acciaio",
+    "materiale": "Acciaio",
+    "forma": "Ovale",
+    "volume": "12.36",
+    "altezza": "120",
+    "serie": "Non definito"
+  },
+  {
+    "title": "Piscina Madagascar Ovale",
+    "brand": "Gre",
+    "categoria_tecnica": "Gre Acciaio",
+    "materiale": "Acciaio",
+    "forma": "Ovale",
+    "volume": "16.01",
+    "altezza": "150",
+    "serie": "Non definito"
+  },
+  {
+    "title": "Piscina Madagascar Rotonda",
+    "brand": "Gre",
+    "categoria_tecnica": "Gre Acciaio",
+    "materiale": "Acciaio",
+    "forma": "Rotonda",
+    "volume": "18.84",
+    "altezza": "150",
+    "serie": "Non definito"
+  },
+  {
+    "title": "Piscina Rotonda Sumatra",
+    "brand": "Gre",
+    "categoria_tecnica": "Gre Acciaio",
+    "materiale": "Acciaio",
+    "forma": "Rotonda",
+    "volume": "10.1",
+    "altezza": "120",
+    "serie": "Non definito"
+  },
+  {
+    "title": "Piscina Bora Bora Rotonda",
+    "brand": "Gre",
+    "categoria_tecnica": "Gre Acciaio",
+    "materiale": "Acciaio",
+    "forma": "Rotonda",
+    "volume": "7.41",
+    "altezza": "120",
+    "serie": "Non definito"
+  },
+  {
+    "title": "Piscina Haiti Ovale",
+    "brand": "Gre",
+    "categoria_tecnica": "Gre Acciaio",
+    "materiale": "Acciaio",
+    "forma": "Ovale",
+    "volume": "23.28",
+    "altezza": "132",
+    "serie": "Non definito"
+  },
+  {
+    "title": "Piscina Pacific Rotonda",
+    "brand": "Gre",
+    "categoria_tecnica": "Gre Acciaio",
+    "materiale": "Acciaio",
+    "forma": "Rotonda",
+    "volume": "4.75",
+    "altezza": "120",
+    "serie": "Non definito"
+  },
+  {
+    "title": "Piscina Mauritius Ovale",
+    "brand": "Gre",
+    "categoria_tecnica": "Gre Acciaio",
+    "materiale": "Acciaio",
+    "forma": "Ovale",
+    "volume": "16.21",
+    "altezza": "132",
+    "serie": "Non definito"
+  },
+  {
+    "title": "Piscina Anthracite Ovale",
+    "brand": "Gre",
+    "categoria_tecnica": "Gre Acciaio",
+    "materiale": "Acciaio",
+    "forma": "Ovale",
+    "volume": "16.21",
+    "altezza": "132",
+    "serie": "Non definito"
+  },
+  {
+    "title": "Piscina Fidji Ovale",
+    "brand": "Gre",
+    "categoria_tecnica": "Gre Acciaio",
+    "materiale": "Acciaio",
+    "forma": "Ovale",
+    "volume": "14.55",
+    "altezza": "120",
+    "serie": "Non definito"
+  },
+  {
+    "title": "Piscina forma di otto Varadero",
+    "brand": "Gre",
+    "categoria_tecnica": "Gre Acciaio",
+    "materiale": "Acciaio",
+    "forma": "Forma di otto",
+    "volume": "13.69",
+    "altezza": "120",
+    "serie": "Non definito"
+  },
+  {
+    "title": "Piscina Fidji Rotonda",
+    "brand": "Gre",
+    "categoria_tecnica": "Gre Acciaio",
+    "materiale": "Acciaio",
+    "forma": "Rotonda",
+    "volume": "4.75",
+    "altezza": "120",
+    "serie": "Non definito"
+  },
+  {
+    "title": "Piscina Sicilia Rotonda",
+    "brand": "Gre",
+    "categoria_tecnica": "Gre Acciaio",
+    "materiale": "Acciaio",
+    "forma": "Rotonda",
+    "volume": "7.41",
+    "altezza": "120",
+    "serie": "Non definito"
+  },
+  {
+    "title": "Piscina Bora Bora Ovale",
+    "brand": "Gre",
+    "categoria_tecnica": "Gre Acciaio",
+    "materiale": "Acciaio",
+    "forma": "Ovale",
+    "volume": "14.55",
+    "altezza": "120",
+    "serie": "Non definito"
+  },
+  {
+    "title": "Piscina Atlantis Ovale",
+    "brand": "Gre",
+    "categoria_tecnica": "Gre Acciaio",
+    "materiale": "Acciaio",
+    "forma": "Ovale",
+    "volume": "16.21",
+    "altezza": "132",
+    "serie": "Non definito"
+  },
+  {
+    "title": "Piscina Anthracite Rotonda",
+    "brand": "Gre",
+    "categoria_tecnica": "Gre Acciaio",
+    "materiale": "Acciaio",
+    "forma": "Rotonda",
+    "volume": "11.25",
+    "altezza": "132",
+    "serie": "Non definito"
+  },
+  {
+    "title": "Piscina Amazonia Ovale",
+    "brand": "Gre",
+    "categoria_tecnica": "Gre Acciaio",
+    "materiale": "Acciaio",
+    "forma": "Ovale",
+    "volume": "23.28",
+    "altezza": "132",
+    "serie": "Non definito"
+  },
+  {
+    "title": "Piscina Aqualoon ovale",
+    "brand": "Gre",
+    "categoria_tecnica": "Gre Acciaio",
+    "materiale": "Acciaio",
+    "forma": "Ovale",
+    "volume": "14.55",
+    "altezza": "120",
+    "serie": "Non definito"
+  },
+  {
+    "title": "Piscina Aqualoon rotonda",
+    "brand": "Gre",
+    "categoria_tecnica": "Gre Acciaio",
+    "materiale": "Acciaio",
+    "forma": "Rotonda",
+    "volume": "7.41",
+    "altezza": "120",
+    "serie": "Non definito"
+  },
+  {
+    "title": "Piscina Finlandia Ovale",
+    "brand": "Gre",
+    "categoria_tecnica": "Gre Acciaio",
+    "materiale": "Acciaio",
+    "forma": "Ovale",
+    "volume": "14.55",
+    "altezza": "120",
+    "serie": "Non definito"
+  },
+  {
+    "title": "Piscina Finlandia Rotonda",
+    "brand": "Gre",
+    "categoria_tecnica": "Gre Acciaio",
+    "materiale": "Acciaio",
+    "forma": "Rotonda",
+    "volume": "4.75",
+    "altezza": "120",
+    "serie": "Non definito"
+  },
+  {
+    "title": "Piscina Mauritius Rotonda",
+    "brand": "Gre",
+    "categoria_tecnica": "Gre Acciaio",
+    "materiale": "Acciaio",
+    "forma": "Rotonda",
+    "volume": "11.25",
+    "altezza": "132",
+    "serie": "Non definito"
+  },
+  {
+    "title": "Piscina Atlantis Rotonda",
+    "brand": "Gre",
+    "categoria_tecnica": "Gre Acciaio",
+    "materiale": "Acciaio",
+    "forma": "Rotonda",
+    "volume": "11.25",
+    "altezza": "132",
+    "serie": "Non definito"
+  },
+  {
+    "title": "Piscina Avantgarde Rotonda",
+    "brand": "Gre",
+    "categoria_tecnica": "Gre Acciaio",
+    "materiale": "Acciaio",
+    "forma": "Rotonda",
+    "volume": "11.0",
+    "altezza": "124",
+    "serie": "Non definito"
+  },
+  {
+    "title": "Piscina Avantgarde Rettangolare",
+    "brand": "Gre",
+    "categoria_tecnica": "Gre Acciaio",
+    "materiale": "Acciaio",
+    "forma": "Rettangolare",
+    "volume": "3.3",
+    "altezza": "96",
+    "serie": "Non definito"
+  },
+  {
+    "title": "Piscina Avantgarde Quadrata",
+    "brand": "Gre",
+    "categoria_tecnica": "Gre Acciaio",
+    "materiale": "Acciaio",
+    "forma": "Quadrata",
+    "volume": "6.6",
+    "altezza": "96",
+    "serie": "Non definito"
+  },
+  {
+    "title": "Piscina Avantgarde Ovale",
+    "brand": "Gre",
+    "categoria_tecnica": "Gre Acciaio",
+    "materiale": "Acciaio",
+    "forma": "Ovale",
+    "volume": "16.21",
+    "altezza": "124",
+    "serie": "Non definito"
+  },
+  {
+    "title": "Aspiratore elettronico per fondo piscina a batteria",
+    "brand": "Gre",
+    "categoria_tecnica": "Altro",
+    "materiale": "Non definito",
+    "forma": "Non definito",
+    "volume": "Non definito",
+    "altezza": "120",
+    "serie": "Non definito"
+  },
+  {
+    "title": "Kit di pulizia piscina autopor, 10M3, aspirazione manuale",
+    "brand": "Gre",
+    "categoria_tecnica": "Altro",
+    "materiale": "Non definito",
+    "forma": "Non definito",
+    "volume": "Non definito",
+    "altezza": "Non definito",
+    "serie": "Non definito"
+  },
+  {
+    "title": "KIT trattamento piscina fuori terra da 5 a 15m³",
+    "brand": "Gre",
+    "categoria_tecnica": "Altro",
+    "materiale": "Non definito",
+    "forma": "Rotonda",
+    "volume": "15.0",
+    "altezza": "Non definito",
+    "serie": "Non definito"
+  },
+  {
+    "title": "Kit illuminazione piscina fuori terra con 2 proiettori LED",
+    "brand": "Gre",
+    "categoria_tecnica": "Gre Acciaio",
+    "materiale": "Acciaio",
+    "forma": "Non definito",
+    "volume": "Non definito",
+    "altezza": "Non definito",
+    "serie": "Non definito"
+  },
+  {
+    "title": "Bluespring",
+    "brand": "Piscine Laghetto",
+    "categoria_tecnica": "Laghetto Design",
+    "materiale": "Non definito",
+    "forma": "Rettangolare",
+    "volume": "Non definito",
+    "altezza": "Non definito",
+    "serie": "Non definito"
+  },
+  {
+    "title": "Ninfea Thiny",
+    "brand": "Piscine Laghetto",
+    "categoria_tecnica": "Laghetto Design",
+    "materiale": "Non definito",
+    "forma": "Ovale",
+    "volume": "Non definito",
+    "altezza": "Non definito",
+    "serie": "Non definito"
+  },
+  {
+    "title": "Dolcevita Naked",
+    "brand": "Piscine Laghetto",
+    "categoria_tecnica": "Laghetto Design",
+    "materiale": "Non definito",
+    "forma": "Rettangolare",
+    "volume": "Non definito",
+    "altezza": "Non definito",
+    "serie": "Non definito"
+  },
+  {
+    "title": "Divina Skimmer",
+    "brand": "Piscine Laghetto",
+    "categoria_tecnica": "Laghetto Design",
+    "materiale": "Non definito",
+    "forma": "Rettangolare",
+    "volume": "Non definito",
+    "altezza": "Non definito",
+    "serie": "Non definito"
+  },
+  {
+    "title": "City",
+    "brand": "Piscine Laghetto",
+    "categoria_tecnica": "Laghetto Design",
+    "materiale": "Non definito",
+    "forma": "Quadrata",
+    "volume": "Non definito",
+    "altezza": "Non definito",
+    "serie": "Non definito"
+  },
+  {
+    "title": "Dolcevita Diva LTI",
+    "brand": "Piscine Laghetto",
+    "categoria_tecnica": "Laghetto Design",
+    "materiale": "Non definito",
+    "forma": "Rettangolare",
+    "volume": "Non definito",
+    "altezza": "Non definito",
+    "serie": "Non definito"
+  },
+  {
+    "title": "Classic",
+    "brand": "Piscine Laghetto",
+    "categoria_tecnica": "Laghetto Design",
+    "materiale": "Non definito",
+    "forma": "Rettangolare",
+    "volume": "Non definito",
+    "altezza": "Non definito",
+    "serie": "Non definito"
+  },
+  {
+    "title": "Playa",
+    "brand": "Piscine Laghetto",
+    "categoria_tecnica": "Laghetto Design",
+    "materiale": "Non definito",
+    "forma": "Rettangolare",
+    "volume": "Non definito",
+    "altezza": "Non definito",
+    "serie": "Non definito"
+  },
+  {
+    "title": "Pop!",
+    "brand": "Piscine Laghetto",
+    "categoria_tecnica": "Laghetto Design",
+    "materiale": "Non definito",
+    "forma": "Ovale",
+    "volume": "Non definito",
+    "altezza": "Non definito",
+    "serie": "Non definito"
+  },
+  {
+    "title": "Antea",
+    "brand": "Piscine Laghetto",
+    "categoria_tecnica": "Laghetto Design",
+    "materiale": "Non definito",
+    "forma": "Non definito",
+    "volume": "Non definito",
+    "altezza": "Non definito",
+    "serie": "Non definito"
+  },
+  {
+    "title": "Ninfea",
+    "brand": "Piscine Laghetto",
+    "categoria_tecnica": "Laghetto Design",
+    "materiale": "Non definito",
+    "forma": "Ovale",
+    "volume": "Non definito",
+    "altezza": "Non definito",
+    "serie": "Non definito"
+  },
+  {
+    "title": "Dolcevita Rattan",
+    "brand": "Piscine Laghetto",
+    "categoria_tecnica": "Laghetto Design",
+    "materiale": "Non definito",
+    "forma": "Rettangolare",
+    "volume": "Non definito",
+    "altezza": "Non definito",
+    "serie": "Non definito"
+  },
+  {
+    "title": "Professional",
+    "brand": "Piscine Laghetto",
+    "categoria_tecnica": "Laghetto Design",
+    "materiale": "Non definito",
+    "forma": "Non definito",
+    "volume": "Non definito",
+    "altezza": "Non definito",
+    "serie": "Non definito"
+  },
+  {
+    "title": "Musa",
+    "brand": "Piscine Laghetto",
+    "categoria_tecnica": "Laghetto Design",
+    "materiale": "Non definito",
+    "forma": "Non definito",
+    "volume": "Non definito",
+    "altezza": "Non definito",
+    "serie": "Non definito"
+  },
+  {
+    "title": "Dolcevita Diva",
+    "brand": "Piscine Laghetto",
+    "categoria_tecnica": "Laghetto Design",
+    "materiale": "Non definito",
+    "forma": "Rettangolare",
+    "volume": "Non definito",
+    "altezza": "Non definito",
+    "serie": "Non definito"
+  }
+]

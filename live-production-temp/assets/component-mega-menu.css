@@ -1,0 +1,57 @@
+/* 
+  Mega Menu Core Styles (Dawn Overrides)
+  JollyGame 2026 Premium Implementation
+*/
+
+.mega-menu {
+  position: static;
+}
+
+.mega-menu__content {
+  background-color: rgb(var(--color-background));
+  border-left: 0;
+  border-radius: 0;
+  border-right: 0;
+  left: 0;
+  overflow-y: auto;
+  position: absolute;
+  right: 0;
+  top: 100%;
+  z-index: 100;
+}
+
+.shopify-section-header-sticky .mega-menu__content {
+  max-height: calc(100vh - var(--header-bottom-position-desktop, 20rem) - 4rem);
+}
+
+.header-wrapper--border-bottom .mega-menu__content {
+  border-top: 0;
+}
+
+.mega-menu__link {
+  color: rgba(var(--color-foreground), 0.75);
+  display: block;
+  line-height: calc(1 + 0.3 / var(--font-body-scale));
+  text-decoration: none;
+  word-wrap: break-word;
+}
+
+.mega-menu__link:hover {
+  color: rgb(var(--color-foreground));
+}
+
+/* Fix for Material Symbols in Menu */
+.mega-menu summary .material-symbols-outlined {
+  transition: transform 0.3s ease;
+}
+
+details[open] summary .material-symbols-outlined {
+  transform: rotate(180deg);
+}
+
+/* Bento Grid Responsive Adjustments (Tailwind Fallbacks if needed) */
+@media screen and (max-width: 989px) {
+  .mega-menu__content {
+    display: none !important; /* Managed by menu-drawer on mobile */
+  }
+}

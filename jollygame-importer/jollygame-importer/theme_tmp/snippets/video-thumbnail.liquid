@@ -1,0 +1,25 @@
+{%- liquid
+  assign video_id = ''
+  if video_url contains 'youtube.com/watch?v='
+    assign video_id = video_url | split: 'v=' | last | split: '&' | first
+  elsif video_url contains 'youtu.be/'
+    assign video_id = video_url | split: '/' | last | split: '?' | first
+  elsif video_url contains 'youtube.com/embed/'
+    assign video_id = video_url | split: 'embed/' | last | split: '?' | first
+  endif
+-%}
+
+{%- if video_id != '' -%}
+  <button 
+    type="button"
+    class="ProductThumbnail VideoThumbnail relative aspect-square rounded-2xl overflow-hidden border-2 border-outline-variant/10 bg-white cursor-pointer hover:border-red-500/50 transition-all focus:outline-none group"
+    data-video-id="{{ video_id }}"
+  >
+      <img src="https://img.youtube.com/vi/{{ video_id }}/hqdefault.jpg" alt="{{ product_title | escape }}" class="w-full h-full object-cover opacity-60 group-hover:opacity-100 transition-opacity" width="200" height="200" />
+      <div class="absolute inset-0 flex items-center justify-center">
+          <div class="bg-red-600 text-white rounded-full p-2 shadow-lg group-hover:scale-110 transition-transform">
+              <span class="material-symbols-outlined text-2xl">play_arrow</span>
+          </div>
+      </div>
+  </button>
+{%- endif -%}

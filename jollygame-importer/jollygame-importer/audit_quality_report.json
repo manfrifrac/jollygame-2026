@@ -1,0 +1,899 @@
+[
+  {
+    "id": "gid://shopify/Product/15527757676892",
+    "original": {
+      "title": "Depuratore acqua 72 W a cartuccia",
+      "description": "<p>Il depuratore a cartuccia è una soluzione ideale per piscine con un volume di acqua medio-basso, offrendo un'alternativa più economica rispetto ai filtri a sabbia. La sua progettazione consente un uso semplice e una manutenzione facile, limitata alla pulizia o sostituzione della cartuccia quando necessario.</p><p>Questo depuratore funziona raccogliendo l'acqua dalla parte superiore della piscina, filtrandola e restituendola pulita. Le sue caratteristiche principali includono:</p><ul>\n<li>Capacità di filtrare 2.000 litri all'ora con una potenza di 72 W</li>\n<li>Inclusione del coperchio superiore per una protezione ottimale</li>\n<li>Due tipi di supporti per un'installazione agevole e personalizzabile</li>\n<li>Esecuzione delle funzioni di skimmer e depuratore in un unico dispositivo</li>\n</ul><p>Il filtro di ricambio necessario per questo modello è l'AR86, e il colore del prodotto è azzurro.</p>",
+      "vendor": "Gre",
+      "handle": "depuratori-a-cartuccia-potenza-72-w",
+      "metafields": [
+        {
+          "namespace": "custom",
+          "key": "volume_acqua",
+          "value": "16.0"
+        },
+        {
+          "namespace": "global",
+          "key": "title_tag",
+          "value": "Depuratore acqua 72 W a cartuccia | JollyGame"
+        },
+        {
+          "namespace": "global",
+          "key": "description_tag",
+          "value": "Depuratore a cartuccia per piscine, facile da usare e mantenere, ideale per piscine con volume medio-basso, filtra 2.000 litri/ora con 72W di potenza"
+        }
+      ]
+    },
+    "audit": {
+      "rating_complessivo": 8,
+      "analisi_critica": "Il titolo è professionale ma potrebbe essere più preciso nella specificazione della potenza. La descrizione è persuasiva e contiene i dati tecnici di base, tuttavia potrebbe essere più dettagliata e include ulteriori vantaggi del prodotto. La coerenza tra titolo, descrizione e campi tecnici è generale, ma potrebbe essere migliorata. In generale, il prodotto Shopify non è ottimizzato al meglio per le conversioni.",
+      "suggerimento_titolo": "Depuratore acqua 72 W a cartuccia - Piscine di qualità",
+      "suggerimento_descrizione": "<h3>Descrizione dettagliata</h3><p>Il nostro depuratore acqua 72 W a cartuccia è la scelta ideale per piscine con volume medio-basso. Grazie alla sua progettazione innovativa, assicura un uso semplice e una manutenzione facile, limitata alla pulizia o sostituzione della cartuccia quando necessario. Questo depuratore funziona raccogliendo l'acqua dalla parte superiore della piscina, filtrandola e restituendola pulita. Le sue principali caratteristiche includono:</p><ul><li>Filtrazione di 2.000 litri/ora con una potenza di 72 W</li><li>Inclusione del coperchio superiore per una protezione ottimale</li><li>Due tipi di supporti per un'installazione agevole e personalizzabile</li><li>Esecuzione di entrambe le funzioni di skimmer e depuratore in un unico dispositivo</li></ul>",
+      "suggerimenti_metafields": [
+        {
+          "namespace": "global",
+          "key": "title_tag",
+          "nuovo_valore": "Depuratore acqua 72 W a cartuccia",
+          "motivo": "Per migliorare la precisione e la chiarezza del titolo"
+        },
+        {
+          "namespace": "custom",
+          "key": "volume_acqua",
+          "nuovo_valore": 17,
+          "motivo": "Per rendere il campo più preciso e aggiornarsi in base alle nuove informazioni circa la capacità della piscina"
+        },
+        {
+          "namespace": "global",
+          "key": "description_tag",
+          "nuovo_valore": "Depuratore a cartuccia innovativo per piscine medio-basse, facile da usare e mantenere, con funzionalità di skimmer e depuratore integrate e potenza 72W",
+          "motivo": "Per includere ulteriori benefici e punti di vendita del prodotto"
+        }
+      ]
+    }
+  },
+  {
+    "id": "gid://shopify/Product/15527758365020",
+    "original": {
+      "title": "Pompa di calore Inverter HPGIC30",
+      "description": "<p>La pompa di calore Inverter HPGIC30 è un sistema di riscaldamento efficace ed economico per la tua piscina. Sfruttando l'aria esterna, questa pompa di calore trasforma l'energia in calore per scaldare l'acqua della piscina.</p><p>Per un funzionamento ottimale, è necessario installare la pompa di calore con un kit by-pass per permettere all'acqua di circolare in derivazione verso la pompa. L'installazione avviene dopo l'impianto di filtrazione.</p><ul>\n<li>Capacità di riscaldamento di 5 kW</li>\n<li>Adatta a temperature comprese tra -7 e +43 °C</li>\n<li>Capacità di assorbimento da 1,4 a 4,5 kW</li>\n<li>Tipo di refrigerante R32 - 300g</li>\n<li>Tubo di collegamento da 50 mm</li>\n<li>Timer e copertura per la protezione invernale inclusi</li>\n</ul><p>La tecnologia Full Inverter offre una soluzione molto economica, ottimizzando il consumo energetico. La pompa di calore dispone di tre modalità di funzionamento: Boost per aumentare rapidamente la temperatura, Smart per regolare automaticamente la potenza e Ecosilence per risparmiare energia ed emettere un livello di rumore inferiore.</p><p>Grazie all'applicazione Fluidra Pool e alla sua interfaccia intuitiva, le funzioni della pompa di calore possono essere regolate e consultate in remoto da qualsiasi luogo e in qualsiasi momento utilizzando uno smartphone.</p><p>La pompa di calore Inverter HPGIC30 permette di utilizzare la piscina più a lungo grazie al suo funzionamento a una temperatura esterna di -7°C, estendendo la stagione balneare.</p>",
+      "vendor": "Gre",
+      "handle": "pompe-di-calore-inverter-hpgic30",
+      "metafields": [
+        {
+          "namespace": "custom",
+          "key": "volume_acqua",
+          "value": "30.0"
+        },
+        {
+          "namespace": "global",
+          "key": "title_tag",
+          "value": "Pompa di calore Inverter HPGIC30 | JollyGame"
+        },
+        {
+          "namespace": "global",
+          "key": "description_tag",
+          "value": "Scopri la pompa di calore Inverter HPGIC30, un sistema di riscaldamento economico ed efficace per la tua piscina. Ottieni più informazioni sulle sue caratteristiche e funzioni."
+        },
+        {
+          "namespace": "custom",
+          "key": "ricambi_associati",
+          "value": "[\"gid://shopify/Metaobject/531765690716\"]"
+        },
+        {
+          "namespace": "custom",
+          "key": "ricambi_compatibili",
+          "value": "[\"gid://shopify/Metaobject/532151697756\"]"
+        },
+        {
+          "namespace": "custom",
+          "key": "immagine_esploso",
+          "value": "gid://shopify/MediaImage/69857415790940"
+        },
+        {
+          "namespace": "custom",
+          "key": "lista_ricambi_esploso",
+          "value": "[\"gid://shopify/Metaobject/534567715164\"]"
+        }
+      ]
+    },
+    "audit": {
+      "rating_complessivo": 7,
+      "analisi_critica": "Il titolo è accettabile ma potrebbe essere più preciso e conciso. La descrizione è persuasiva ma si concentra troppo sulla tecnologia e non sui vantaggi per il cliente. I campi tecnici sono presenti ma potrebbero essere più organizzati e facilmente consultabili. ",
+      "suggerimento_titolo": "Pompa di calore Inverter HPGIC30: riscaldamento efficace per piscine",
+      "suggerimento_descrizione": "<div><h3>Caratteristiche tecniche</h3><p>La pompa di calore Inverter HPGIC30 è un sistema di riscaldamento economico e efficace per la tua piscina.</p><h3>Specifiche tecniche</h3><ul><li>Capacità di riscaldamento di 5 kW</li><li>Adatta a temperature comprese tra -7 e +43 °C</li><li>Capacità di assorbimento da 1,4 a 4,5 kW</li><li>Tipo di refrigerante R32 - 300g</li><li>Tubo di collegamento da 50 mm</li><li>Timer e copertura per la protezione invernale inclusi</li></ul><p>Scopri di più sulle nostre pompe di calore invertibili e come possono aiutarti a risparmiare energia e tempo.</p></div>",
+      "suggerimenti_metafields": [
+        {
+          "namespace": "custom",
+          "key": "volume_acqua",
+          "nuovo_valore": "Capacità di riscaldamento per piscine di dimensioni diverse",
+          "motivo": "Perché i clienti devono sapere a quale tipo di piscina è adatta la pompa di calore"
+        },
+        {
+          "namespace": "custom",
+          "key": "imagine_esploso",
+          "nuovo_valore": "gid://shopify/MediaImage/69857415790940, aggiungi un link per l'acquisto",
+          "motivo": "Perché i clienti debbano poter acquistare facilmente la pompa di calore online"
+        }
+      ]
+    }
+  },
+  {
+    "id": "gid://shopify/Product/15527758561628",
+    "original": {
+      "title": "Copertura per piscina rettangolare",
+      "description": "<p>Le coperture estive per piscine rettangolari sono fondamentali per mantenere il calore dell'acqua e proteggere la piscina dalla sporcizia. Queste coperture permettono di ridurre del 50% l'evaporazione dell'acqua durante l'alta stagione, garantendo un risparmio significativo.</p><p>Le nostre coperture estive sono progettate per soddisfare le esigenze delle piscine rettangolari, con uno spessore di 400 micron che assicura una qualità massima. Sono realizzate in polietilene con componenti anti-UV per una maggiore durabilità e sono disponibili in colore azzurro.</p><ul>\n<li>Proteggono la piscina dalla caduta di foglie, insetti, polvere e altri detriti</li>\n<li>Mantengono la temperatura dell'acqua durante la notte grazie alle bolle che agiscono da isolante termico</li>\n<li>Sono semplici da riporre ed estrarre nella stagione in cui si utilizza la piscina</li>\n<li>Galleggiano sull'acqua con le bolle rivolte verso il basso</li>\n</ul>",
+      "vendor": "Gre",
+      "handle": "coperture-per-piscine-rettangolari",
+      "metafields": [
+        {
+          "namespace": "custom",
+          "key": "altezza_vasca",
+          "value": "135"
+        },
+        {
+          "namespace": "global",
+          "key": "description_tag",
+          "value": "Coperture estive per piscine rettangolari, riducono l'evaporazione dell'acqua e proteggono la piscina dalla sporcizia. Scopri di più"
+        },
+        {
+          "namespace": "global",
+          "key": "title_tag",
+          "value": "Copertura per piscina rettangolare | JollyGame"
+        },
+        {
+          "namespace": "custom",
+          "key": "forma",
+          "value": "Rettangolare"
+        }
+      ]
+    },
+    "audit": {
+      "rating_complessivo": 8,
+      "analisi_critica": "Il titolo può essere migliorato per essere più specifico e conciso. La descrizione è persuasiva, ma non contiene tutti i dati tecnici presenti nei metafields. La coerenza tra titolo, descrizione e campi tecnici può essere migliorata. Suggerimento per massimizzare le conversioni: aumentare la visibilità dell'immagine principale e evidenziare i benefici unici del prodotto.",
+      "suggerimento_titolo": "Copertura estiva per piscine rettangolari - Riduci l'evaporazione dell'acqua e proteggi la tua piscina",
+      "suggerimento_descrizione": "<h2>Coperture estive per piscine rettangolari</h2><p>Le nostre coperture estive sono progettate per soddisfare le esigenze delle piscine rettangolari, con uno spessore di 400 micron che assicura una qualità massima.</p><h3>Vantaggi principali:</h3><ul><li>Riduci l'evaporazione dell'acqua fino al 50%</li><li>Proteggi la tua piscina dalla sporcizia e dalle cadute di foglie</li><li>Mantieni la temperatura dell'acqua durante la notte</li></ul><p>Noleggia ora e scopri come poter risparmiare!</p>",
+      "suggerimenti_metafields": [
+        {
+          "namespace": "custom",
+          "key": "forma",
+          "nuovo_valore": "Rettangolare (con possibilità di scegliere da diverse misure)",
+          "motivo": "perché il cliente potrebbe essere interessato a saperlo"
+        },
+        {
+          "namespace": "global",
+          "key": "description_tag",
+          "nuovo_valore": "Coperture estive per piscine rettangolari, riducono l'evaporazione dell'acqua, mantengono la temperatura e proteggono la piscina",
+          "motivo": "perché il testo potrebbe essere più conciso e direttamente rilevante per un utente di ricerca"
+        }
+      ]
+    }
+  },
+  {
+    "id": "gid://shopify/Product/15527758954844",
+    "original": {
+      "title": "Doccia in acciaio inossidabile",
+      "description": "<p>La doccia standard in acciaio inossidabile è una scelta ideale per qualsiasi spazio del giardino. Questa doccia è caratterizzata da un design minimalista e moderno, che si adatta perfettamente a qualsiasi ambiente esterno.</p><p>La sua struttura in acciaio inossidabile AISI-304 garantisce una grande durabilità e resistenza alle condizioni climatiche avverse, rendendola una scelta affidabile per le tue esigenze.</p><ul>\n<li>Design minimalista e moderno</li>\n<li>Struttura in acciaio inossidabile AISI-304 per massima durabilità</li>\n<li>Soffione zenitale anticalcare a forma rettangolare</li>\n<li>Pomolo di apertura e chiusura dell'acqua per un controllo facile</li>\n<li>Installazione semplice e rapida</li>\n</ul><p>La doccia standard in acciaio inossidabile è una scelta pratica e funzionale per il tuo giardino, ideale per rinfrescarsi durante le giornate calde estive.</p>",
+      "vendor": "Gre",
+      "handle": "docce-standard-doccia-in-acciaio-inossidabile",
+      "metafields": [
+        {
+          "namespace": "custom",
+          "key": "materiale",
+          "value": "Acciaio"
+        },
+        {
+          "namespace": "custom",
+          "key": "forma",
+          "value": "Rettangolare"
+        },
+        {
+          "namespace": "global",
+          "key": "title_tag",
+          "value": "Doccia in acciaio inossidabile | JollyGame"
+        },
+        {
+          "namespace": "global",
+          "key": "description_tag",
+          "value": "Doccia in acciaio inossidabile AISI-304, design minimalista, facile da installare e resistente alle condizioni climatiche."
+        },
+        {
+          "namespace": "custom",
+          "key": "immagine_esploso",
+          "value": "gid://shopify/MediaImage/69857432863068"
+        },
+        {
+          "namespace": "custom",
+          "key": "lista_ricambi_esploso",
+          "value": "[\"gid://shopify/Metaobject/534567780700\",\"gid://shopify/Metaobject/534567813468\",\"gid://shopify/Metaobject/534567846236\",\"gid://shopify/Metaobject/534567879004\",\"gid://shopify/Metaobject/534567911772\",\"gid://shopify/Metaobject/534567944540\",\"gid://shopify/Metaobject/534567977308\",\"gid://shopify/Metaobject/534568010076\",\"gid://shopify/Metaobject/534568042844\"]"
+        }
+      ]
+    },
+    "audit": {
+      "rating_complessivo": 7,
+      "analisi_critica": "Il titolo e la descrizione sono ben strutturati e contengono dati tecnici, ma potrebbero essere migliorati per aumentare la persuasività. La coerenza tra titolo, descrizione e metafields è generale, ma ci sono alcune piccole incongruenze.",
+      "suggerimento_titolo": "Doccia in acciaio inossidabile AISI-304: Design Minimalista e Resistente alle Condizioni Climatiche",
+      "suggerimento_descrizione": "<h2>Descrizione della Doccia in Acciaio Inossidabile</h2><p>La nostra doccia in acciaio inossidabile AISI-304 è una scelta ideale per qualsiasi spazio del giardino. Questa doccia è caratterizzata da un design minimalista e moderno, che si adatta perfettamente a qualsiasi ambiente esterno.</p><h3>Caratteristiche Principali:</h3><ul><li>Design minimalista e moderno</li><li>Struttura in acciaio inossidabile AISI-304 per massima durabilità</li><li>Soffione zenitale anticalcare a forma rettangolare</li><li>Pomolo di apertura e chiusura dell'acqua per un controllo facile</li><li>Installazione semplice e rapida</li></ul><p>La nostra doccia standard in acciaio inossidabile è una scelta pratica e funzionale per le tue esigenze.",
+      "suggerimenti_metafields": [
+        {
+          "namespace": "custom",
+          "key": "materiale",
+          "nuovo_valore": "Acciaio inossidabile AISI-304",
+          "motivo": "Per essere più preciso nella descrizione del materiale"
+        },
+        {
+          "namespace": "custom",
+          "key": "lista_ricambi_esploso",
+          "nuovo_valore": "Una lista di collegamenti a sezione dedicata per ciascun componente ricambiabile",
+          "motivo": "Per agevolare la ricerca dei ricambi e migliorare l'assistenza ai clienti"
+        }
+      ]
+    }
+  },
+  {
+    "id": "gid://shopify/Product/15527770587484",
+    "original": {
+      "title": "Raccordo unione 2 tubi gall. 38/32mm",
+      "description": "<h3>Codice Produttore: 40009</h3><p>Il raccordo unione per tubi è un accessorio essenziale per le piscine, permettendo di unire due tubi galleggianti di diametri diversi, 32 mm e 38 mm. Questo prodotto è valido per tubi utilizzati con pulitori e garantisce una connessione sicura e affidabile.</p><p>Caratteristiche principali:</p><ul>\n<li>Unisce due tubi galleggianti di diametri 32 mm e 38 mm</li>\n<li>Valido per tubi per pulitori</li>\n<li>Non adatto per tubi a pressione</li>\n<li>Colore: bianco</li>\n</ul><p>Il raccordo unione per tubi è un componente importante per il mantenimento e la pulizia della tua piscina, assicurando una connessione efficiente e sicura dei tubi.</p>",
+      "vendor": "Gre",
+      "handle": "tubi-accessori-per-tubi-raccordo-unione-2-tubi-gall-d-38-d-32mm",
+      "metafields": [
+        {
+          "namespace": "global",
+          "key": "title_tag",
+          "value": "Raccordo unione 2 tubi gall. 38/32mm | JollyGame"
+        },
+        {
+          "namespace": "global",
+          "key": "description_tag",
+          "value": "Raccordo unione per tubi galleggianti di diametri 32 mm e 38 mm, valido per pulitori, colore bianco. Accessorio essenziale per piscine."
+        }
+      ]
+    },
+    "audit": {
+      "rating_complessivo": 7,
+      "analisi_critica": "Il titolo potrebbe essere più ottimizzato per le ricerche relative ai raccordi unione per tubi galleggianti. La descrizione è persuasiva ma potrebbe contenere alcuni errori di grammatica. I campi tecnici sono presenti ma potrebbero essere organizzati in modo più chiaro. Il colore del prodotto non è evidenziato in modo prominente.",
+      "suggerimento_titolo": "Raccordo unione per tubi galleggianti 32/38mm | JollyGame",
+      "suggerimento_descrizione": "<h3>Codice Produttore: 40009</h3><p>Il raccordo unione per tubi galleggianti è un accessorio essenziale per le piscine. Unisce due tubi galleggianti di diametri diversi, 32 mm e 38 mm, garantendo una connessione sicura e affidabile. <strong>Caratteristiche:</strong></p><ul>\n<li>&#x3C;strong>Tipo di connessione:</strong> unione per tubi galleggianti</li>\n<li>&#x3C;strong>Diametri accettati:</strong> 32 mm e 38 mm</li>\n<li>&#x3C;strong>Validità per:</strong> tubi per pulitori</li>\n<li>&#x3C;strong>Nota:</strong> non adatto per tubi a pressione. Colore: bianco</li>\n</ul>",
+      "suggerimenti_metafields": [
+        {
+          "namespace": "global",
+          "key": "description_tag",
+          "nuovo_valore": "Raccordo unione per tubi galleggianti di diametri 32 mm e 38 mm, valido per pulitori e tubi galleggianti, colore bianco. Accessorio essenziale per piscine.",
+          "motivo": "Per assicurare che la descrizione sia coerente con i campi tecnici e più persuasiva per gli utenti."
+        },
+        {
+          "namespace": "custom",
+          "key": "colore",
+          "nuovo_valore": "bianco",
+          "motivo": "Per evidenziare il colore del prodotto in modo prominente nella descrizione"
+        }
+      ]
+    }
+  },
+  {
+    "id": "gid://shopify/Product/15527770620252",
+    "original": {
+      "title": "Manico telescopico 2 sezioni, lunghezza 3,60 m",
+      "description": "<p>I manici telescopici semplificano l'accesso a tutte le zone della piscina, consentendo di regolare la lunghezza in base alle esigenze specifiche. Realizzati in alluminio, questi manici offrono una miglior resistenza all'acqua e preveniscono l'arrugginimento.</p> <p>Le caratteristiche principali di questo manico telescopico includono:</p> <ul> <li>Facilità di accesso a tutte le aree della piscina</li> <li>Regolazione della lunghezza per adattarsi a diverse necessità</li> <li>Compatibilità con vari accessori</li> <li>Meccanismo di blocco e sblocco</li> <li>Manico ergonomico</li> </ul> <p>Questo manico telescopico è composto da due sezioni e ha una lunghezza totale di 3,60 m, rendendolo ideale per piscine di diverse dimensioni e forme.</p>",
+      "vendor": "Gre",
+      "handle": "materiale-di-pulizia-manico-telescopico-manico-3-60-m-2-sezioni",
+      "metafields": [
+        {
+          "namespace": "custom",
+          "key": "altezza_vasca",
+          "value": "200"
+        },
+        {
+          "namespace": "global",
+          "key": "title_tag",
+          "value": "Manico telescopico 2 sezioni, lunghezza 3,60 m | JollyGame"
+        },
+        {
+          "namespace": "global",
+          "key": "description_tag",
+          "value": "Manico telescopico in alluminio, regolabile e compatibile con vari accessori. Ideale per piscine di diverse dimensioni e forme."
+        }
+      ]
+    },
+    "audit": {
+      "rating_complessivo": 7,
+      "analisi_critica": "Il titolo del prodotto è semplice e chiaro, ma potrebbe essere ottimizzato per includere le parole chiave più importanti come 'manico telescopico' e 'piscina'. La descrizione è dettagliata e include tutti i dati tecnici presenti nei metafields, ma potrebbe essere migliorata con una struttura più organizzata e una scrittura più persuasiva. La coerenza tra titolo, descrizione e metafields è buona, ma potrebbero essere migliorati per garantire una maggiore visibilità degli elementi tecnici.",
+      "suggerimento_titolo": "Manico telescopico 2 sezioni, regolabile e compatibile con varie piscine - Lunghezza fino a 3,60 m",
+      "suggerimento_descrizione": "<h3>Caratteristiche principali</h3> <ul> <li>I manici telescopici semplificano l'accesso a tutte le zone della piscina, consentendo di regolare la lunghezza in base alle esigenze specifiche.</li> <li>Realizzati in alluminio, questi manici offrono una miglior resistenza all'acqua e preveniscono l'arrugginimento.</li> </ul> <p>Questo manico telescopico è composto da due sezioni e ha una lunghezza totale di 3,60 m, rendendolo ideale per piscine di diverse dimensioni e forme. La sua compatibilità con vari accessori e il meccanismo di blocco e sblocco lo rendono un prodotto versatile e facile da utilizzare.</p>",
+      "suggerimenti_metafields": [
+        {
+          "namespace": "global",
+          "key": "description_tag",
+          "nuovo_valore": "Manico telescopico regolabile in alluminio, compatibile con varie piscine e accessori - Lunghezza fino a 3,60 m",
+          "motivo": "La descrizione attuale è troppo corta e non include tutte le informazioni importanti, rendendo necessario un aggiornamento per migliorare la visibilità del prodotto"
+        }
+      ]
+    }
+  },
+  {
+    "id": "gid://shopify/Product/15527770685788",
+    "original": {
+      "title": "Pulitore manuale in alluminio per piscina",
+      "description": "<p>I pulitori manuali sono fondamentali per mantenere la tua piscina pulita tutto l'anno. Si collegano a un tubo e all'impianto di filtrazione della piscina per aspirare la sporcizia che si deposita sul fondo.</p><p>Il nostro pulitore manuale in alluminio è progettato per essere efficace e facile da usare. Dispone di 4 ruote per un facile spostamento e garantisce una manutenzione veloce ed economica della piscina.</p><ul>\n<li>Adatto per la pulizia del fondo della piscina</li>\n<li>Resistente ed efficace nelle attività di manutenzione quotidiane</li>\n<li>Collegamento al tubo di aspirazione Ø 32 mm - Ø 38mm</li>\n<li>Si adatta a qualsiasi manico telescopico con sistema di collegamento a clip</li>\n<li>Realizzato in alluminio e plastica di alta qualità</li>\n</ul><p>Il nostro pulitore manuale è duraturo e resistente, garantendo una lunga vita utile. Scegli il nostro prodotto per mantenere la tua piscina pulita e sicura.</p>",
+      "vendor": "Gre",
+      "handle": "materiale-di-pulizia-pulitori-manuali-pulitore-per-piscine-in-alluminio",
+      "metafields": [
+        {
+          "namespace": "global",
+          "key": "title_tag",
+          "value": "Pulitore manuale in alluminio per piscina | JollyGame"
+        },
+        {
+          "namespace": "global",
+          "key": "description_tag",
+          "value": "Mantieni la tua piscina pulita con il nostro pulitore manuale in alluminio. Efficace, facile da usare e resistente."
+        }
+      ]
+    },
+    "audit": {
+      "rating_complessivo": 7,
+      "analisi_critica": "Il titolo è abbastanza ottimizzato ma potrebbe essere ulteriormente migliorato. La descrizione è buona ma potrebbe essere più persuasiva e controllata.",
+      "suggerimento_titolo": "Pulitore manuale in alluminio per piscina: facile da usare e efficace",
+      "suggerimento_descrizione": "\n    <h2>Rendi la tua piscina sempre pulita con il nostro pulitore manuale in alluminio</h2>\n    <p>Il nostro pulitore manuale è progettato per essere facile da usare e efficace nella manutenzione quotidiana della tua piscina.</p>\n    <h3>Caratteristiche principali:</h3>\n    <ul>\n        <li>Adatto per la pulizia del fondo della piscina</li>\n        <li>Resistente ed efficace nelle attività di manutenzione quotidiane</li>\n        <li>Collegamento al tubo di aspirazione Ø 32 mm - Ø 38mm</li>\n        <li>Si adatta a qualsiasi manico telescopico con sistema di collegamento a clip</li>\n        <li>Realizzato in alluminio e plastica di alta qualità</li>\n    </ul>\n    <p>Acquista il nostro pulitore manuale per mantenere la tua piscina pulita e salubre tutti gli anni!</p>\n  ",
+      "suggerimenti_metafields": [
+        {
+          "namespace": "global",
+          "key": "description_tag",
+          "nuovo_valore": "Mantieni la tua piscina pulita e salubre con il nostro pulitore manuale in alluminio facile da usare e efficace. Ecco le sue caratteristiche principali: collegamento al tubo di aspirazione Ø 32 mm - Ø 38mm, resistente e facile da usare. Acquista ora!",
+          "motivo": "La descrizione attuale è troppo corta e non contiene tutte le informazioni necessarie. Questo nuovo valore aggiunge valore alla descrizione e la rende più persuasiva."
+        }
+      ]
+    }
+  },
+  {
+    "id": "gid://shopify/Product/15527770718556",
+    "original": {
+      "title": "Termometro a sfera di vetro",
+      "description": "<p>Il termometro a sfera galleggiante è il modo più semplice e divertente per misurare la temperatura della tua piscina. La nostra gamma di termometri offre una doppia funzione: possono essere fissati alla scaletta per evitare che si muovano nel mezzo della piscina e infastidiscano i bagnanti. Sono disponibili in differenti disegni, sia convenzionali che più divertenti con figure di animali.</p><p>Questo termometro a sfera è adatto per piscine smontabili, vasche spa o idromassaggio e biopiscine. La sua apertura sopra la sfera consente di infilarvi una corda e legare il termometro alla scala della piscina, garantendo una lettura facile e precisa della temperatura.</p><ul>\n<li>Realizzato in materiale termoplastico ad alta resistenza</li>\n<li>Contiene alcol e Red Phenol</li>\n<li>Misura in gradi Celsius</li>\n<li>Dimensioni: 6 x 6 x 29 cm</li>\n</ul>",
+      "vendor": "Gre",
+      "handle": "altri-accessori-termometri-termometro-a-sfera",
+      "metafields": [
+        {
+          "namespace": "global",
+          "key": "title_tag",
+          "value": "Termometro a sfera di vetro | JollyGame"
+        },
+        {
+          "namespace": "global",
+          "key": "description_tag",
+          "value": "Misura la temperatura della tua piscina con il nostro termometro a sfera galleggiante, adatto per piscine smontabili e vasche spa"
+        }
+      ]
+    },
+    "audit": {
+      "rating_complessivo": 7,
+      "analisi_critica": "Il titolo è professionale ma potrebbe essere più ottimizzato per le ricerche sui motori di ricerca. La descrizione è persuasiva, ma mancano alcuni dati tecnici presenti nei metafields. La coerenza tra titolo, descrizione e metafields è parziale.",
+      "suggerimento_titolo": "Termometro a sfera galleggiante per piscine smontabili e vasche spa | Misura precisa in gra",
+      "suggerimento_descrizione": "<h3>Termometro a sfera galleggiante</h3><p>Il termometro a sfera galleggiante è il modo più semplice e divertente per misurare la temperatura della tua piscina. È adatto per piscine smontabili, vasche spa o idromassaggio e biopiscine.</p><p>Caratteristiche:</p><ul><li>Realizzato in materiale termoplastico ad alta resistenza</li><li>Contiene alcol e Red Phenol</li><li>Misura con precisione in gra</li></ul><p>La nostra gamma di termometri offre una doppia funzione: possono essere fissati alla scaletta per evitare che si muovano nel mezzo della piscina e infastidiscano i bagnanti.</p>",
+      "suggerimenti_metafields": [
+        {
+          "namespace": "global",
+          "key": "description_tag",
+          "nuovo_valore": "Misura la temperatura della tua piscina con il nostro termometro a sfera galleggiante, adatto per piscine smontabili e vasche spa.",
+          "motivo": "La descrizione corrente non include tutti i dati tecnici presenti nei metafields."
+        }
+      ]
+    }
+  },
+  {
+    "id": "gid://shopify/Product/15527770784092",
+    "original": {
+      "title": "Erogatore Flot 200 g",
+      "description": "<p>I dosatori galleggianti Flot 200 GR sono progettati per regolare la quantità di prodotto chimico che si rilascia nella piscina, consentendo un trattamento facile e sicuro senza danneggiare il liner.</p><p>Questi dosatori dispongono di un anello inferiore che permette di regolare lo scioglimento del prodotto chimico con maggiore o minore intensità.</p><ul>\n<li>Regola la quantità di sostanza chimica rilasciata</li>\n<li>Controlla la temperatura dell'acqua</li>\n<li>Coperchio superiore per sostituire facilmente le pastiglie</li>\n<li>Visore per controllare il consumo di prodotto chimico</li>\n</ul><p>Il dosatore Flot 200 GR è realizzato con materiali resistenti e offre una capacità di carico per pastiglie da 200 g.</p>",
+      "vendor": "Gre",
+      "handle": "altri-accessori-dosatori-erogatore-flot-200-gr",
+      "metafields": [
+        {
+          "namespace": "global",
+          "key": "title_tag",
+          "value": "Erogatore Flot 200 g | JollyGame"
+        },
+        {
+          "namespace": "global",
+          "key": "description_tag",
+          "value": "Regola la quantità di prodotto chimico nella tua piscina con il dosatore Flot 200 GR, progettato per un trattamento facile e sicuro"
+        }
+      ]
+    },
+    "audit": {
+      "rating_complessivo": 6,
+      "analisi_critica": "Il titolo è parzialmente ottimizzato, ma potrebbe essere migliorato aggiungendo una chiave SEO più specifica. La descrizione fornisce informazioni necessarie, ma potrebbe essere resa più persuasiva e facile da leggere utilizzando tag HTML. I campi tecnici sono disponibili, ma potrebbero essere riorganizzati per una maggiore coerenza.",
+      "suggerimento_titolo": "Erogatori per Piscine - Flot 200 GR: Regolazione facile ed efficiente",
+      "suggerimento_descrizione": "<h3>Erogatore Flot 200 GR</h3><p>Il nostro dosatore per piscine Flot 200 GR è il modo più semplice e sicuro per regolare la quantità di prodotto chimico che si rilascia nella tua risorsa idrica.</p><ul>\n   <li>Controlla e regola la quantità di sostanza chimica rilasciata</li>\n   <li>Monitora la temperatura dell'acqua</li>\n   <li>Coperchio superiore per sostituire facilmente le pastiglie</li>\n   <li>Visore per controllare il consumo di prodotto chimico</li>\n   </ul><p>Potenzialmente dannoso per il liner della piscina, il nostro dosatore è realizzato con materiali resistenti.</p>",
+      "suggerimenti_metafields": [
+        {
+          "namespace": "global",
+          "key": "title_tag",
+          "nuovo_valore": "Erogatori per Piscine - Flot 200 GR: Regolazione facile ed efficiente | JollyGame",
+          "motivo": "aggiungere una chiave SEO più specifica per migliorare le ricerche"
+        },
+        {
+          "namespace": "global",
+          "key": "description_tag",
+          "nuovo_valore": "Il nostro dosatore per piscine Flot 200 GR è il modo più semplice e sicuro per regolare la quantità di prodotto chimico che si rilascia nella tua risorsa idrica.",
+          "motivo": "respingere eventuali scorie e concentrare sulle caratteristiche principali del prodotto"
+        }
+      ]
+    }
+  },
+  {
+    "id": "gid://shopify/Product/15527770882396",
+    "original": {
+      "title": "Kit di riparazione liner in gomma",
+      "description": "<h3>Codice Produttore: 40080</h3><p>Il kit di riparazione liner è un accessorio essenziale per la manutenzione della tua piscina. Questo kit permette di riparare piccoli danni nel liner causati dall'invecchiamento o da tagli accidentali.</p><p>Il kit è compatibile con le piscine GRE e altre piscine dotate di liner, ed è facile da usare. Include un tubo per incollare patch e un bastoncino applicatore per una riparazione precisa e sicura.</p><ul>\n<li>Adatto per piscine smontabili o gonfiabili</li>\n<li>Permette di riparare piccoli danni nel liner</li>\n<li>Compatibile con le piscine GRE e altre piscine dotate di liner</li>\n<li>Facile da usare</li>\n<li>Incluso tubo per incollare patch e bastoncino applicatore</li>\n</ul>",
+      "vendor": "Gre",
+      "handle": "liner-e-riparatori-riparazione-kit-riparazione-liner-gre",
+      "metafields": [
+        {
+          "namespace": "custom",
+          "key": "materiale",
+          "value": "PVC"
+        },
+        {
+          "namespace": "global",
+          "key": "title_tag",
+          "value": "Kit di riparazione liner in gomma | JollyGame"
+        },
+        {
+          "namespace": "global",
+          "key": "description_tag",
+          "value": "Ripara i danni al liner della tua piscina con il nostro kit di riparazione. Compatibile con piscine GRE e altre piscine dotate di liner."
+        }
+      ]
+    },
+    "audit": {
+      "rating_complessivo": 7,
+      "analisi_critica": "Il titolo del prodotto è buono ma potrebbe essere più preciso e contengono il nome del marchio non è strettamente necessario, la descrizione è persuasiva ma non contiene tutti i dati tecnici dei metafields. L'unione tra titolo, descrizione e campi tecnici è parzialmente coerente.",
+      "suggerimento_titolo": "Kit di riparazione liner in gomma per piscine GRE",
+      "suggerimento_descrizione": "<h3>Codice Produttore: 40080</h3><p>Il kit di riparazione liner in gomma è un accessorio essenziale per la manutenzione della tua piscina. Questo kit permette di riparare piccoli danni nel liner causati dall'invecchiamento o da tagli accidentali di dimensioni massime che richiedono la sostituzione del materiale.</p><p>Il kit &egrave; adatto per piscine smontabili o gonfiabili, compatibile con le piscine GRE ed &egrave; facile da usare. Include un tubo per incollare patch e un bastoncino applicatore per una riparazione precisa e sicura.</p><ul><li>Adatto per piscine smontabili o gonfiabili</li><li>Permette di riparare piccoli danni nel liner</li><li>Compatibile con le piscine GRE</li><li>Fuori uso per la sostituzione dei materiali</li><li>Incluso tubo per incollare patch e bastoncino applicatore</li></ul>",
+      "suggerimenti_metafields": [
+        {
+          "namespace": "custom",
+          "key": "materiale",
+          "nuovo_valore": "PVC",
+          "motivo": "Il valore è presente, tuttavia il campo del metafield e&rsquo; già completo."
+        },
+        {
+          "namespace": "global",
+          "key": "title_tag",
+          "nuovo_valore": "Kit di riparazione liner in gomma per piscine GRE",
+          "motivo": "Il titolo è stato modificato per aggiungere maggiore coerenza"
+        },
+        {
+          "namespace": "global",
+          "key": "description_tag",
+          "nuovo_valore": "Ripara i danni al liner della tua piscina con il nostro kit di riparazione. Compatibile con piscine GRE e altre piscine dotate di liner di dimensioni massime che richiedono la sostituzione del materiale",
+          "motivo": "La descrizione è stata aggiornata con tutti i dati tecnici dei metafields"
+        }
+      ]
+    }
+  },
+  {
+    "id": "gid://shopify/Product/15527770915164",
+    "original": {
+      "title": "Adesivo per PVC diventa Colla per PVC oppure Adesivo PVC è meglio Adesivo specifico per PVC -> Colla specifica per PVC -> Colla per PVC oppure Adesivo specializzato per PVC quindi il nuovo titolo è: \nAdesivo specifico per PVC.",
+      "description": "<p>Garantisci la tenuta e la sicurezza della tua piscina con il nostro adesivo per PVC di alta qualità. Questo adesivo è stato progettato per evitare possibili filtrazioni e garantire una lunga durata della tua piscina.</p><p>È facile da applicare e offre una soluzione efficace per sigillare le giunzioni e le superfici in PVC, assicurando una tenuta stagna e prevenendo perdite d'acqua.</p><ul>\n<li>Adesivo di alta qualità per PVC</li>\n<li>Facile da applicare</li>\n<li>Garantisce una lunga durata della tua piscina</li>\n<li>Previene possibili filtrazioni</li>\n</ul><p><strong>Scegli il nostro adesivo per PVC per una soluzione affidabile e duratura per la tua piscina.</strong></p>",
+      "vendor": "Gre",
+      "handle": "altri-accessori-adesivo-adesivo-per-pvc",
+      "metafields": [
+        {
+          "namespace": "custom",
+          "key": "materiale",
+          "value": "PVC"
+        },
+        {
+          "namespace": "global",
+          "key": "title_tag",
+          "value": "Adesivo per PVC diventa Colla per PVC oppure Adesivo PVC è meglio Adesivo specifico per PVC -> Colla specifica per PVC -> Colla per PVC oppure Adesivo specializzato per PVC quindi il nuovo titolo è: \nAdesivo specifico per PVC. | JollyGame"
+        },
+        {
+          "namespace": "global",
+          "key": "description_tag",
+          "value": "Garantisci la tenuta della tua piscina con il nostro adesivo per PVC. Facile da applicare, di alta qualità e duraturo."
+        }
+      ]
+    },
+    "audit": {
+      "rating_complessivo": 8,
+      "analisi_critica": "Il titolo è ottimizzato SEO ed è professionale, ma potrebbe essere più succinto. La descrizione è persuasiva e contiene tutti i dati tecnici, ma potrebbe essere più concisa. I campi tecnici sono coerenti con il titolo e la descrizione.",
+      "suggerimento_titolo": "Adesivo specifico per PVC",
+      "suggerimento_descrizione": "<h3>Scopri il nostro adesivo per PVC di alta qualità!</h3><p>Fra le soluzioni per PVC, l'adesivo Garanti la tenuta e la sicurezza della tua piscina.</p><ul><li>Adesivo di alta qualità per PVC</li><li>Facile da applicare</li><li>Garantisce una lunga durata della tua piscina</li><li>Previene possibili filtrazioni</li></ul><p><strong>Scopri di più e scegli la soluzione affidabile per la tua piscina.</strong></p>",
+      "suggerimenti_metafields": [
+        {
+          "namespace": "custom",
+          "key": "materiale",
+          "nuovo_valore": "PVC",
+          "motivo": "nome del campo più corto"
+        }
+      ]
+    }
+  },
+  {
+    "id": "gid://shopify/Product/15527770980700",
+    "original": {
+      "title": "Tubo flessibile PVC Cepex",
+      "description": "<h3>Codice Produttore: 40557</h3><p>La raccorderia in PVC è un accessorio essenziale per il collegamento dei tubi e dell'impianto di filtrazione della tua piscina. Realizzata in tubo PVC flessibile Cepex, garantisce una connessione sicura e duratura.</p><p>Questo prodotto è ideale per collegare valvole, adattatori e altri accessori, garantendo un'impiantistica efficiente e senza perdite.</p><ul>\n<li>Realizzato in materiale resistente e duraturo</li>\n<li>Facile da installare e manutenere</li>\n<li>Compatibile con diversi tipi di impianti di filtrazione</li>\n</ul><p>Scegli la raccorderia in PVC per assicurarti una piscina funzionante e sicura. Contattaci per ulteriori informazioni e consigli sui nostri prodotti.</p>",
+      "vendor": "Gre",
+      "handle": "altri-accessori-raccorderia-in-pvc-tubo-pvc-flessibile-cepex",
+      "metafields": [
+        {
+          "namespace": "custom",
+          "key": "materiale",
+          "value": "PVC"
+        },
+        {
+          "namespace": "global",
+          "key": "title_tag",
+          "value": "Tubo flessibile PVC Cepex | JollyGame"
+        },
+        {
+          "namespace": "global",
+          "key": "description_tag",
+          "value": "Raccorderia in PVC flessibile Cepex per piscine, ideale per collegare valvole e accessori. Acquista online e assicurati una piscina funzionante e sicura"
+        }
+      ]
+    },
+    "audit": {
+      "rating_complessivo": 7,
+      "analisi_critica": "La descrizione è persuasiva e contiene i dati tecnici presenti nei metafields, tuttavia, il titolo non è molto professionale e potrebbe essere migliorato. Il titolo di metafield contiene anche il nome del negozio, il che potrebbe essere evitato. Inoltre, la descrizione di metafield potrebbe essere più precisa e non contenere il nome del negozio.",
+      "suggerimento_titolo": "Tubo flessibile PVC Cepex - Raccorderia sicura e duratura per piscine",
+      "suggerimento_descrizione": "<h3>Codice Produttore: 40557</h3><p>La raccorderia in PVC è un accessorio essenziale per il collegamento dei tubi e dell'impianto di filtrazione della tua piscina.</p><p>Realizzata in tubo PVC flessibile Cepex, garantisce una connessione sicura e duratura.</p><ul>\n   <li>Realizzato in materiale resistente e duraturo</li>\n   <li>Facile da installare e manutenere</li>\n   <li>Compatibile con diversi tipi di impianti di filtrazione</li>\n   </ul><p>Scegli la raccorderia in PVC per assicurarti una piscina funzionante e sicura.</p>",
+      "suggerimenti_metafields": [
+        {
+          "namespace": "global",
+          "key": "title_tag",
+          "nuovo_valore": "Tubo flessibile PVC Cepex",
+          "motivo": "Perché il titolo di metafield contiene anche il nome del negozio JollyGame"
+        },
+        {
+          "namespace": "global",
+          "key": "description_tag",
+          "nuovo_valore": "Raccorderia in PVC flessibile Cepex per piscine, ideale per collegare valvole e accessori.",
+          "motivo": "Perché la descrizione di metafield potrebbe essere più precisa e non contenere il nome del negozio"
+        }
+      ]
+    }
+  },
+  {
+    "id": "gid://shopify/Product/15527771079004",
+    "original": {
+      "title": "Spazzola aspirante 51 cm",
+      "description": "<p>Le spazzole della nostra gamma sono progettate per pulire in profondità le piscine, sia quelle smontabili che interrate, permettendo di raggiungere facilmente sia il fondo che le pareti. Questa spazzola aspirante da 51 cm è particolarmente efficace grazie alle sue dimensioni, che consentono di coprire ampie aree in poco tempo.</p><p>La spazzola è dotata di un sistema di aggancio a clip per un facile collegamento al manico telescopico, permettendo così di pulire tutta la superficie della piscina senza dover ricorrere a movimenti eccessivi. Il design curvo della spazzola aiuta a raggiungere gli angoli più difficili della piscina.</p><ul>\n<li>Pulisce lo sporco depositato sul fondo e sulle pareti della piscina</li>\n<li>Compatibile con tubi flessibili Ø 32 mm e Ø 38 mm</li>\n<li>Leggero e maneggevole</li>\n<li>Sistema di fissaggio al manico telescopico a clip</li>\n<li>Aiuta a mantenere pulita l'acqua della piscina</li>\n</ul>",
+      "vendor": "Gre",
+      "handle": "materiale-di-pulizia-spazzole-spazzola-aspirante-51-cm",
+      "metafields": [
+        {
+          "namespace": "global",
+          "key": "title_tag",
+          "value": "Spazzola aspirante 51 cm | JollyGame"
+        },
+        {
+          "namespace": "global",
+          "key": "description_tag",
+          "value": "Pulisci la tua piscina con facilità con la spazzola aspirante da 51 cm, progettata per coprire ampie aree e raggiungere gli angoli più difficili."
+        }
+      ]
+    },
+    "audit": {
+      "rating_complessivo": 7,
+      "analisi_critica": "Il titolo \"Spazzola aspirante 51 cm | JollyGame\" è professionale ma potrebbe essere più ottimizzato per il SEO. La descrizione è persuasiva ma non utilizza tutti i dati tecnici presenti nei metafields. La coerenza tra titolo, descrizione e campi tecnici è buona. Ecco alcune suggerimenti per migliorare la descrizione e i metafields.",
+      "suggerimento_titolo": "Spazzola Aspirante Profonda, 51cm, per Piscine",
+      "suggerimento_descrizione": "<h2>Spazzola Aspirante Professionale</h2><p>Le spazzole della nostra gamma sono progettate per pulire in profondità le piscine, sia quelle smontabili che interrate. La spazzola aspirante da 51 cm è particolarmente efficace grazie alle sue dimensioni, che consentono di coprire ampie aree in poco tempo.</p><p>La spazzola è dotata di un sistema di aggancio a clip per un facile collegamento al manico telescopico, permettendo così di pulire tutta la superficie della piscina senza dover ricorrere a movimenti eccessivi. Il design curvo della spazzola aiuta a raggiungere gli angoli più difficili della piscina.</p><ul><li>Pulisce lo sporco depositato sul fondo e sulle pareti della piscina</li><li>Compatibile con tubi flessibili Ø 32 mm e Ø 38 mm</li><li>Leggero e facile da trasportare</li></ul>",
+      "suggerimenti_metafields": [
+        {
+          "namespace": "global",
+          "key": "description_tag",
+          "nuovo_valore": "Spazzola aspirante da 51 cm, per piscine di grandi dimensioni",
+          "motivo": "perché non è chiaro come funziona questa spazzola"
+        }
+      ]
+    }
+  },
+  {
+    "id": "gid://shopify/Product/15527771373916",
+    "original": {
+      "title": "Tester digitale AquaChek TruTest con 50 strisce",
+      "description": "<p>Il tester digitale 50 strisce digitali AquaChek TruTest è lo strumento perfetto per analizzare i parametri dell'acqua della tua piscina. Grazie a questo tester, potrai misurare i valori più importanti dell'acqua e identificare le misure da prendere per mantenere un'acqua cristallina.</p><p>Puoi utilizzare il tester in qualsiasi situazione per migliorare i parametri dell'acqua della piscina, garantendo un'esperienza di nuoto sicura e piacevole.</p><ul>\n<li>Misura i parametri più importanti dell'acqua</li>\n<li>Identifica le misure da prendere per mantenere un'acqua cristallina</li>\n<li>Utilizzabile in qualsiasi situazione</li>\n</ul><p><strong>Il tester digitale 50 strisce digitali AquaChek TruTest è il complemento perfetto per la tua piscina.</strong></p>",
+      "vendor": "Gre",
+      "handle": "analisi-dellacqua-tester-digitale-50-strisce-digitali-aquachek-trutest-anni-50",
+      "metafields": [
+        {
+          "namespace": "global",
+          "key": "title_tag",
+          "value": "Tester digitale AquaChek TruTest con 50 strisce | JollyGame"
+        },
+        {
+          "namespace": "global",
+          "key": "description_tag",
+          "value": "Migliora la qualità dell'acqua della tua piscina con il tester digitale 50 strisce digitali AquaChek TruTest, lo strumento perfetto per analizzare i parametri dell'acqua."
+        }
+      ]
+    },
+    "audit": {
+      "rating_complessivo": 8,
+      "analisi_critica": "Il titolo non è del tutto ottimizzato e si applica il marchio JollyGame. La descrizione non contiene tutti i dati tecnici dei metafields, mancano i punti da verificare per il funzionamento del tester. La coerenza tra titolo, descrizione e campi tecnici è buona. Suggerimenti migliorabili.",
+      "suggerimento_titolo": "Tester digitale AquaChek TruTest con 50 strisce: Analizza i parametri dell'acqua della tua piscina.",
+      "suggerimento_descrizione": "<h2>Il tester digitale 50 strisce digitali AquaChek TruTest</h2><p>Migliora la qualità dell'acqua della tua piscina con il nostro tester digitale. </p><ul><li>Misura i parametri più importanti dell'acqua</li><li>Identifica le misure da prendere per mantenere un'acqua cristallina</li><li>Utilizzabile in qualsiasi situazione</li></ul><p><strong>Il tester digitale 50 strisce digitali AquaChek TruTest è il complemento perfetto per la tua piscina.</strong></p>",
+      "suggerimenti_metafields": [
+        {
+          "namespace": "global",
+          "key": "title_tag",
+          "nuovo_valore": "Tester digitale AquaChek TruTest con 50 strisce | Aquatic JollyGame",
+          "motivo": "Aggiungere il marchio JollyGame per completezza."
+        },
+        {
+          "namespace": "global",
+          "key": "description_tag",
+          "nuovo_valore": "Migliora la qualità dell'acqua della tua piscina con il nostro tester digitale, ideale per analizzare i parametri dell'acqua, e scoprire come migliorare la tua piscina.",
+          "motivo": "Aumentare coerenza e chiarezza della descrizione."
+        }
+      ]
+    }
+  },
+  {
+    "id": "gid://shopify/Product/15527772127580",
+    "original": {
+      "title": "Ossigeno attivo liquido 5 litri",
+      "description": "<p>L'ossigeno attivo liquido è un prodotto di alta qualità per la disinfezione delle piscine, offrendo una soluzione efficace e naturale per mantenere l'acqua pulita e sana.</p><p>Questo prodotto è particolarmente raccomandato per le persone con problemi di pelle o pelle sensibile, poiché non provoca irritazioni oculari e non rilascia odori sgradevoli.</p><ul>\n<li>È un prodotto totalmente naturale e non utilizza sostanze tossiche.</li>\n<li>Consente di effettuare una disinfezione molto efficace senza la necessità di utilizzare cloro.</li>\n<li>Non necessita di dosaggio e può essere utilizzato facilmente.</li>\n</ul><p>Per utilizzare l'ossigeno attivo liquido, basta aggiungere 150 ml per ogni 10 m³ di acqua una volta alla settimana. È importante seguire le istruzioni per l'uso per evitare rischi per le persone e l'ambiente.</p>",
+      "vendor": "Gre",
+      "handle": "prodotti-chimici-ossigeno-attivo-liquido-5-litri",
+      "metafields": [
+        {
+          "namespace": "custom",
+          "key": "volume_acqua",
+          "value": "10.0"
+        },
+        {
+          "namespace": "global",
+          "key": "title_tag",
+          "value": "Ossigeno attivo liquido 5 litri | JollyGame"
+        },
+        {
+          "namespace": "global",
+          "key": "description_tag",
+          "value": "Disinfezione naturale e efficace per piscine, senza cloro e senza irritazioni. Prodotto naturale e facile da utilizzare."
+        }
+      ]
+    },
+    "audit": {
+      "rating_complessivo": 8,
+      "analisi_critica": "Il titolo è professionale e contiene la parola chiave 'ossigeno attivo liquido', ma potrebbe essere più specifico. La descrizione è persuasiva e contiene alcuni dati tecnici, ma manca di alcuni elementi importanti come la dosaggio e la frequenza di utilizzo. La coerenza tra titolo, descrizione e campi tecnici è buona, ma ci sono alcuni punti di miglioramento. L'utilizzo di tag HTML è corretto, ma potrebbe essere migliorato con l'aggiunta di tag di priorità come <h3> e <strong>.",
+      "suggerimento_titolo": "Ossigeno attivo liquido senza cloro 5 litri - Disinfezione naturale e efficace",
+      "suggerimento_descrizione": "<h3>Descrizione del prodotto</h3><p>L'ossigeno attivo liquido è un prodotto di alta qualità per la disinfezione delle piscine, offrendo una soluzione efficace e naturale per mantenere l'acqua pulita e sana.</p><p>Questo prodotto è particolarmente raccomandato per le persone con problemi di pelle o pelle sensibile, poiché non provoca irritazioni oculari e non rilascia odori sgradevoli.</p><ul><li>È un prodotto totalmente naturale e non utilizza sostanze tossiche.</li><li>Consente di effettuare una disinfezione molto efficace senza la necessità di utilizzare cloro.</li><li>Non necessita di dosaggio e può essere utilizzato facilmente.</li><li>È necessario aggiungere 150 ml per ogni 10 m³ di acqua una volta alla settimana.</li></ul><p>Segui sempre le istruzioni per l'uso per evitare rischi per la salute e l'ambiente.</p>",
+      "suggerimenti_metafields": [
+        {
+          "namespace": "custom",
+          "key": "volume_acqua",
+          "nuovo_valore": "10 m³",
+          "motivo": "La descrizione non riporta la quantità di acqua per cui è indicato utilizzare il prodotto, quindi è stato aggiunto il campo 'volume_acqua' per correggere la mancanza."
+        },
+        {
+          "namespace": "custom",
+          "key": "dosaggio",
+          "nuovo_valore": "150 ml per ogni 10 m³ di acqua una volta alla settimana",
+          "motivo": "La descrizione non riporta la quantità di prodotto da aggiungere all'acqua, quindi è stato aggiunto il campo 'dosaggio' per completare la descrizione."
+        }
+      ]
+    }
+  },
+  {
+    "id": "gid://shopify/Product/15527773962588",
+    "original": {
+      "title": "Raccoglitore di fondo Eco Range",
+      "description": "<p>I raccoglitori di fondo sono essenziali per mantenere la tua piscina pulita e sicura. Il raccoglitore di fondo senza manico della gamma Eco Range è progettato per raccogliere facilmente le foglie, gli insetti e le particelle più piccole che si depositano sul fondo della piscina.</p><p>Caratteristiche principali:</p><ul>\n<li>Facile da usare per una pulizia efficiente del fondo della piscina</li>\n<li>Forma ampia nella parte inferiore per una raccolta ottimale della sporcizia</li>\n<li>Conserva l'acqua della piscina in condizioni adatte alla balneazione</li>\n<li>Manico non compreso, ideale per l'uso con un manico telescopico</li>\n</ul><p>Le dimensioni di questo raccoglitore di fondo sono di 42 x 34 x 3 cm, rendendolo adatto per la maggior parte delle piscine. La gamma Eco Range di JollyGame offre prodotti di alta qualità e sostenibili per il tuo benessere e quello dell'ambiente.</p>",
+      "vendor": "Gre",
+      "handle": "materiale-di-pulizia-raccoglitore-di-fondo-raccoglitore-senza-manico-eco-range",
+      "metafields": [
+        {
+          "namespace": "global",
+          "key": "title_tag",
+          "value": "Raccoglitore di fondo Eco Range | JollyGame"
+        },
+        {
+          "namespace": "global",
+          "key": "description_tag",
+          "value": "Mantieni la tua piscina pulita con il raccoglitore di fondo senza manico della gamma Eco Range, progettato per una pulizia efficiente e sostenibile."
+        }
+      ]
+    },
+    "audit": {
+      "rating_complessivo": 4,
+      "analisi_critica": "Il titolo e la descrizione sono professionali, ma non completamente ottimizzati per i motori di ricerca. La descrizione dovrebbe contenere tutti i dati tecnici presenti nei metafields e utilizzare tag HTML coerenti.",
+      "suggerimento_titolo": "Raccoglitore di fondo Eco Range: la soluzione per una pulizia efficiente della nostra piscina",
+      "suggerimento_descrizione": "<h2>Raccoglitore di fondo Eco Range</h2><p>Tieni la tua piscina pulita e sicura con questo raccoglitore di fondo senza manico della gamma Eco Range.</p><h3>Caratteristiche principali:</h3><ul>\n   <li>Facile da usare per una pulizia efficiente del fondo della piscina</li>\n   <li>Forma ampia nella parte inferiore per una raccolta ottimale della sporcizia</li>\n   <li>Conserva l'acqua della piscina in condizioni adatte alla balneazione</li>\n   <li>Manico non compreso, ideale per l'uso con un manico telescopico</li>\n   </ul><p>Dimensioni: 42 x 34 x 3 cm</p>",
+      "suggerimenti_metafields": [
+        {
+          "namespace": "custom",
+          "key": "description_tag",
+          "nuovo_valore": "Raccoglitore di fondo Eco Range: la soluzione per una pulizia efficiente della nostra piscina",
+          "motivo": "perché è necessario utilizzare questo valore come descrizione principale"
+        }
+      ]
+    }
+  },
+  {
+    "id": "gid://shopify/Product/15527774028124",
+    "original": {
+      "title": "Tubo galleggiante GRE 36,5m sezionabile",
+      "description": "<h3>Codice Produttore: 90160</h3><p>Il tubo flessibile galleggiante Tubo Sezionabile GRE 36.5M è progettato per offrire facilità di gestione e flessibilità. Questo tubo è diviso in sezioni, rendendolo facile da maneggiare e trasportare. È disponibile con connettori di diametro 32 mm o 38 mm.</p><p>Le caratteristiche principali di questo prodotto includono:</p><ul>\n<li>Facilità d'uso grazie all'elevata flessibilità</li>\n<li>Pressione massima di 1 bar</li>\n<li>Colore azzurro</li>\n</ul><p>Il tubo flessibile galleggiante è ideale per piscine e aree di gioco all'aperto, offrendo una soluzione pratica e sicura per la gestione dell'acqua.</p>",
+      "vendor": "Gre",
+      "handle": "tubi-tubo-flessibile-galleggiante-tubo-sezionabile-gre-36-5m",
+      "metafields": [
+        {
+          "namespace": "global",
+          "key": "title_tag",
+          "value": "Tubo galleggiante GRE 36,5m sezionabile | JollyGame"
+        },
+        {
+          "namespace": "global",
+          "key": "description_tag",
+          "value": "Tubo flessibile galleggiante sezionabile, facile da usare e trasportare. Ideale per piscine e aree di gioco all'aperto."
+        }
+      ]
+    },
+    "audit": {
+      "rating_complessivo": 7,
+      "analisi_critica": "Il titolo è ottimizzato e professionale, la descrizione è persuasiva ma potrebbe essere migliorata per contenere tutti i dati tecnici. La coerenza tra titolo, descrizione e campi tecnici è generale ma potrebbe essere migliorata.",
+      "suggerimento_titolo": null,
+      "suggerimento_descrizione": "<h3>Codice Produttore: 90160</h3><p>Il tubo flessibile galleggiante Tubo Sezionabile GRE 36.5M è progettato per offrire facilità di gestione e flessibilità.</p><p>Le caratteristiche principali di questo prodotto includono:</p><ul><li>Facilità d'uso grazie all'elevata flessibilità</li><li>Pressione massima di 1 bar</li><li>Colore azzurro</li><li>Dimensioni: 36,5m</li><li>Connettore: 32 mm o 38 mm</li></ul><p>Il tubo flessibile galleggiante è ideale per piscine e aree di gioco all'aperto, offrendo una soluzione pratica e sicura per la gestione dell'acqua.</p>",
+      "suggerimenti_metafields": [
+        {
+          "namespace": "global",
+          "key": "description_tag",
+          "nuovo_valore": "Tubo flessibile galleggiante sezionabile facile da usare e trasportare ideale per piscine e aree di gioco all'aperto contiene connettori di diametro 32 mm o 38 mm e ha pressione massima di 1 bar",
+          "motivo": "perché deve includere tutti i dati tecnici"
+        }
+      ]
+    }
+  },
+  {
+    "id": "gid://shopify/Product/15527774060892",
+    "original": {
+      "title": "Avvolgitore per coperture piscine interrate",
+      "description": "<p>Grazie ai nostri avvolgitori, la copertura estiva della tua piscina interrata può essere facilmente ritirata e dispiegata senza alcuno sforzo.</p><p>L'avvolgitore telescopico è progettato per agevolare la movimentazione e la raccolta delle coperture estive, offrendo un'estensione massima di 550 cm.</p><ul>\n<li>Ideale per piscine interrate ovali, rotonde e quadrate.</li>\n<li>Dispone di rotelle larghe per un più agevole spostamento.</li>\n<li>Volute ergonomico con impugnatura rotante per un utilizzo facile e confortevole.</li>\n</ul><p>Inclusi nel kit: tubi tondi in alluminio anodizzato e un kit per fissare la copertura all'avvolgitore.</p>",
+      "vendor": "Gre",
+      "handle": "avvoglitore-avvolgitori-avvolgitore-coperture-piscine-interrate",
+      "metafields": [
+        {
+          "namespace": "custom",
+          "key": "altezza_vasca",
+          "value": "550"
+        },
+        {
+          "namespace": "global",
+          "key": "title_tag",
+          "value": "Avvolgitore per coperture piscine interrate | JollyGame"
+        },
+        {
+          "namespace": "global",
+          "key": "description_tag",
+          "value": "Scopri i nostri avvolgitori per piscine interrate, progettati per agevolare la movimentazione e la raccolta delle coperture estive."
+        }
+      ]
+    },
+    "audit": {
+      "rating_complessivo": 8,
+      "analisi_critica": "Il titolo e la descrizione sembrano professionale e persuasiva, ma la descrizione non utilizza tutti i dati tecnici presenti nei metafields. Vi è bisogno di miglioramenti per massimizzare le conversioni.",
+      "suggerimento_titolo": "Avvolgitore per coperture piscine interrate - Soluzioni Facili e Sicure",
+      "suggerimento_descrizione": "<h2>Grazie ai nostri avvolgitori, la copertura estiva della tua piscina interrata può essere facilmente ritirata e dispiegata senza alcuno sforzo.</h2><p>L'avvolgitore telescopico è progettato per agevolare la movimentazione e la raccolta delle coperture estive, offrendo un'estensione massima di <strong>550 cm</strong>.</p><ul><li>Ideale per piscine interrate ovali, rotonde e quadrate.</li><li>Dispone di rotelle larghe per un più agevole spostamento.</li><li>Volute ergonomico con impugnatura rotante per un utilizzo facile e confortevole.</li></ul><p>Inclusi nel kit: <strong>tubi tondi in alluminio anodizzato</strong> e un kit per fissare la copertura all'avvolgitore.</p>",
+      "suggerimenti_metafields": [
+        {
+          "namespace": "custom",
+          "key": "altezza_vasca",
+          "nuovo_valore": "altezza_vasca",
+          "motivo": "È presente già nei metafields, ma nella descrizione non appare evidenziato. Sarebbe più utile evidenziarlo."
+        },
+        {
+          "namespace": "global",
+          "key": "description_tag",
+          "nuovo_valore": "Scopri i nostri avvolgitori per piscine interrate, pensati per il tuo agio durante il movimento delle coperture estive.",
+          "motivo": "La descrizione attuale non contiene tutti i dati tecnici presenti nei metafields. Questo suggerimento cerca di migliorare la chiarezza del contenuto."
+        }
+      ]
+    }
+  },
+  {
+    "id": "gid://shopify/Product/15527774126428",
+    "original": {
+      "title": "Riscaldamento solare per piscine smontabili -> Riscaldamento solare per piscine",
+      "description": "<p>Il riscaldamento solare per piscine smontabili è la soluzione ideale per aumentare la temperatura dell'acqua della tua piscina sfruttando l'energia del sole. Questo sistema di riscaldamento solare permette di aumentare la temperatura dell'acqua di 3°C in piscine con volume compreso tra 7,5 e 10 m³.</p><p>Il design semisferico e i piedini retrattili consentono di posizionarlo con buoni livelli di inclinazione e orientamento, garantendo un'efficienza ottimale. Inoltre, è possibile installare varie unità in serie per piscine con maggiore volume.</p><ul>\n<li>Sistema di riscaldamento dell'acqua della piscina mediante energia solare</li>\n<li>Aumenta la temperatura dell'acqua di 3°C in piscine con volume compreso tra 7,5 e 10 m³</li>\n<li>Design semisferico e piedini retrattili per una posizione ottimale</li>\n<li>Consente di installare varie unità in serie per piscine con maggiore volume</li>\n</ul><p>Per un funzionamento ottimale, si raccomanda l'utilizzo di un riscaldatore solare ogni 10 m³ di volume della piscina e di una pompa da minimo 2.000 l/h. Il riscaldatore solare si colloca tra il filtro e l'ugello di ritorno mediante due tubi.</p>",
+      "vendor": "Gre",
+      "handle": "riscaldamento-solare-riscaldamento-solare-riscaldamento-per-piscine-smontabili-aum-3degc",
+      "metafields": [
+        {
+          "namespace": "custom",
+          "key": "volume_acqua",
+          "value": "10.0"
+        },
+        {
+          "namespace": "global",
+          "key": "title_tag",
+          "value": "Riscaldamento solare per piscine smontabili -> Riscaldamento solare per piscine | JollyGame"
+        },
+        {
+          "namespace": "global",
+          "key": "description_tag",
+          "value": "Aumenta la temperatura della tua piscina con il riscaldamento solare. Efficiente e facile da installare, è la soluzione ideale per estendere la stagione balneare."
+        }
+      ]
+    },
+    "audit": {
+      "rating_complessivo": 7,
+      "analisi_critica": "Il titolo non è completamente ottimizzato per i motori di ricerca, potrebbe essere più preciso e conciso. La descrizione è convincente, ma potrebbe essere più dettagliata per includere maggiori informazioni sui benefici del prodotto. I campi tecnici sono coerenti con la descrizione, ma potrebbero essere resi più accessibili ai clienti. Suggerisco di aggiungere più contenuti visivi e testuali alla descrizione per renderla più invitante.",
+      "suggerimento_titolo": "Riscaldamento solare per piscine smontabili - Efficienza e comodità garantite!",
+      "suggerimento_descrizione": " \n   <h2>Riscaldamento solare per piscine smontabili</h2>\n   <p>Il nostro riscaldamento solare è la soluzione ideale per aumentare la temperatura dell'acqua della tua piscina con un design semisferico e piedini retrattili per una posizione ottimale.</p>\n   <h3>Caratteristiche principali:</h3>\n   <ul>\n      <li>Sistema di riscaldamento dell'acqua della piscina mediante energia solare</li>\n      <li>Aumenta la temperatura dell'acqua di 3°C in piscine con volume compreso tra 7,5 e 10 m³</li>\n      <li>Design semisferico e piedini retrattili per una posizione ottimale</li>\n   </ul>\n   <h3>Benefici:</h3>\n   <ul>\n      <li>Ideal per estendere la stagione balneare</li>\n      <li>Efficiente e facile da installare</li>\n      <li>Posizionabile con buoni livelli di inclinazione e orientamento</li>\n   </ul>",
+      "suggerimenti_metafields": [
+        {
+          "namespace": "custom",
+          "key": "volume_acqua",
+          "nuovo_valore": "7.5-10 m³",
+          "motivo": "Per rendere il campo più facile da comprendere per i clienti"
+        },
+        {
+          "namespace": "global",
+          "key": "title_tag",
+          "nuovo_valore": "Riscaldamento solare per piscine smontabili - Efficienza e comodità garantite!",
+          "motivo": "Per rendere il titolo più preciso e invitante"
+        },
+        {
+          "namespace": "global",
+          "key": "description_tag",
+          "nuovo_valore": "Aumenta la temperatura della tua piscina con il nostro riscaldamento solare per piscine smontabili. Efficiente e facile da installare, è la soluzione ideale per estendere la stagione balneare.",
+          "motivo": "Per rendere la descrizione più convincente e dettagliata"
+        }
+      ]
+    }
+  },
+  {
+    "id": "gid://shopify/Product/15527774191964",
+    "original": {
+      "title": "Aspiratori idraulici Silence Vac silenziosi -> Aspiratori idraulici silenziosi Silence Vac",
+      "description": "<p>I pulitori ad aspirazione idraulici Silence Vac sono prodotti essenziali per la pulizia della piscina, progettati per essere poco rumorosi e duraturi nel tempo. Si collegano facilmente alla valvola di aspirazione o allo skimmer e si muovono autonomamente per pulire tutta la piscina, sia il fondo che le pareti.</p><p>Questo tipo di pulitore ad aspirazione è particolarmente utile durante l'estate, quando adulti e bambini desiderano godere di un'acqua cristallina.</p><p>Le caratteristiche principali del Silence Vac includono:</p><ul>\n<li>Un sistema a membrana che consente un funzionamento più silenzioso rispetto ai modelli tradizionali a martello</li>\n<li>Compatibilità con piscine fuori terra e interrate</li>\n<li>Pulizia del fondo e delle pareti della piscina</li>\n<li>Connessione alla presa di aspirazione o allo skimmer</li>\n<li>Funzionamento con sistemi di filtrazione con potenza minima di 1/2 CV e massima di 1 1/2 CV</li>\n<li>Inclusione di un tubo da 9,6 m in sezioni con connessione standard Ø38 mm</li>\n</ul>",
+      "vendor": "Gre",
+      "handle": "pulitori-ad-aspirazione-pulitori-ad-aspirazione-idraulici-silence-vac",
+      "metafields": [
+        {
+          "namespace": "global",
+          "key": "title_tag",
+          "value": "Aspiratori idraulici Silence Vac silenziosi -> Aspiratori idraulici silenziosi Silence Vac | JollyGame"
+        },
+        {
+          "namespace": "global",
+          "key": "description_tag",
+          "value": "Pulitori ad aspirazione idraulici Silence Vac, poco rumorosi e duraturi, per piscine fuori terra e interrate. Puliscono fondo e pareti con facilità."
+        }
+      ]
+    },
+    "audit": {
+      "rating_complessivo": 6,
+      "analisi_critica": "Il titolo è professionalmente scritto, ma potrebbe essere ancora più ottimizzato per i termini di ricerca. La descrizione è convincente ma non contiene tutti i dati tecnici presenti nei metafields. La coerenza tra titolo, descrizione e campi tecnici è in parte presente, ma potrebbe essere migliorata.",
+      "suggerimento_titolo": "Aspiratori idraulici silenziosi Silence Vac: pulitori ad aspirazione idraulici per piscine",
+      "suggerimento_descrizione": "<h2>Aspiratori idraulici silenziosi Silence Vac</h2><p>I pulitori ad aspirazione idraulici Silence Vac sono prodotti essenziali per la pulizia della piscina, progettati per essere poco rumorosi e duraturi nel tempo.</p><h3>Caratteristiche principali:</h3><ul><li>Sistema a membrana per un funzionamento silenzioso</li><li>Compatibilità con piscine fuori terra e interrate</li><li>Pulizia del fondo e delle pareti della piscina con facilità</li><li>Connessione alla presa idraulica per un'installazione semplice</li></ul>",
+      "suggerimenti_metafields": [
+        {
+          "namespace": "global",
+          "key": "title_tag",
+          "nuovo_valore": "Aspiratori idraulici silenziosi Silence Vac: pulitori ad aspirazione idraulici per piscine",
+          "motivo": "Titolo più lungo e ottimizzato per i termini di ricerca"
+        },
+        {
+          "namespace": "global",
+          "key": "description_tag",
+          "nuovo_valore": "Pulitori ad aspirazione idraulici Silence Vac, poco rumorosi e duraturi, per piscine fuori terra e interrate. Caratteristiche principali: sistema a membrana, compatibilità con piscine interrate e fuori terra, pulizia del fondo e delle pareti con facilità, connessione alla presa idraulica.",
+          "motivo": "Descrizione più lunga e coerente con i dati tecnici presenti nei metafields"
+        },
+        {
+          "namespace": "custom",
+          "key": "skimmer_compatibility",
+          "nuovo_valore": "Sì",
+          "motivo": "Aggiunta della compatibilità con lo skimmer, presente nei metafields ma non nella descrizione"
+        }
+      ]
+    }
+  }
+]

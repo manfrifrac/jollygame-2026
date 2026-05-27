@@ -1,0 +1,713 @@
+[
+  {
+    "title": "Depuratore acqua 72 W a cartuccia",
+    "vendor": "Gre",
+    "price": 0,
+    "sku": null,
+    "issues": [
+      "MISSING_PRICE",
+      "MISSING_SKU"
+    ]
+  },
+  {
+    "title": "Copertura per piscina rettangolare",
+    "vendor": "Gre",
+    "price": 0,
+    "sku": null,
+    "issues": [
+      "MISSING_PRICE",
+      "MISSING_SKU"
+    ]
+  },
+  {
+    "title": "Pulitore manuale in alluminio per piscina",
+    "vendor": "Gre",
+    "price": 0,
+    "sku": "40022",
+    "issues": [
+      "MISSING_PRICE",
+      "MISSING_TECH_SPECS"
+    ]
+  },
+  {
+    "title": "Termometro a sfera di vetro",
+    "vendor": "Gre",
+    "price": 0,
+    "sku": "40055",
+    "issues": [
+      "MISSING_PRICE",
+      "MISSING_TECH_SPECS"
+    ]
+  },
+  {
+    "title": "Tubo flessibile PVC Cepex",
+    "vendor": "Gre",
+    "price": 0,
+    "sku": "40557",
+    "issues": [
+      "MISSING_PRICE"
+    ]
+  },
+  {
+    "title": "Raccoglitore di fondo Eco Range",
+    "vendor": "Gre",
+    "price": 0,
+    "sku": "90120",
+    "issues": [
+      "MISSING_PRICE",
+      "MISSING_TECH_SPECS"
+    ]
+  },
+  {
+    "title": "Manicotto di giunzione per depuratori, 58cm",
+    "vendor": "Gre",
+    "price": 0,
+    "sku": "60218",
+    "issues": [
+      "MISSING_PRICE"
+    ]
+  },
+  {
+    "title": "Controllo remoto a 4 azioni con 50 blocchi multi funzioni",
+    "vendor": "Gre",
+    "price": 0,
+    "sku": "76084",
+    "issues": [
+      "MISSING_PRICE"
+    ]
+  },
+  {
+    "title": "Smart Plug F-F",
+    "vendor": "Gre",
+    "price": 0,
+    "sku": "76671",
+    "issues": [
+      "MISSING_PRICE"
+    ]
+  },
+  {
+    "title": "Kit trattamento acqua spa",
+    "vendor": "Gre",
+    "price": 0,
+    "sku": "KTSPAIT",
+    "issues": [
+      "MISSING_PRICE"
+    ]
+  },
+  {
+    "title": "Piscina quadrata copertura",
+    "vendor": "Gre",
+    "price": 0,
+    "sku": "CVKPCOR28",
+    "issues": [
+      "MISSING_PRICE"
+    ]
+  },
+  {
+    "title": "Prodotto Minimal",
+    "vendor": "Zodiac",
+    "price": 0,
+    "sku": null,
+    "issues": [
+      "MISSING_PRICE",
+      "MISSING_SKU",
+      "MISSING_IMAGES"
+    ]
+  },
+  {
+    "title": "Linea Rossa",
+    "vendor": "Zodiac",
+    "price": 0,
+    "sku": null,
+    "issues": [
+      "MISSING_PRICE",
+      "MISSING_SKU"
+    ]
+  },
+  {
+    "title": "Filtro FR 5200",
+    "vendor": "Zodiac",
+    "price": 0,
+    "sku": null,
+    "issues": [
+      "MISSING_PRICE",
+      "MISSING_SKU"
+    ]
+  },
+  {
+    "title": "Sirocco²",
+    "vendor": "Zodiac",
+    "price": 0,
+    "sku": null,
+    "issues": [
+      "MISSING_PRICE",
+      "MISSING_SKU"
+    ]
+  },
+  {
+    "title": "Heat Line",
+    "vendor": "Zodiac",
+    "price": 0,
+    "sku": null,
+    "issues": [
+      "MISSING_PRICE",
+      "MISSING_SKU"
+    ]
+  },
+  {
+    "title": "RE/U",
+    "vendor": "Zodiac",
+    "price": 0,
+    "sku": null,
+    "issues": [
+      "MISSING_PRICE",
+      "MISSING_SKU"
+    ]
+  },
+  {
+    "title": "FloPro™ VS",
+    "vendor": "Zodiac",
+    "price": 0,
+    "sku": null,
+    "issues": [
+      "MISSING_PRICE",
+      "MISSING_SKU"
+    ]
+  },
+  {
+    "title": "RE/L",
+    "vendor": "Zodiac",
+    "price": 0,
+    "sku": null,
+    "issues": [
+      "MISSING_PRICE",
+      "MISSING_SKU"
+    ]
+  },
+  {
+    "title": "RE/I",
+    "vendor": "Zodiac",
+    "price": 0,
+    "sku": null,
+    "issues": [
+      "MISSING_PRICE",
+      "MISSING_SKU"
+    ]
+  },
+  {
+    "title": "CAE con condotti",
+    "vendor": "Zodiac",
+    "price": 0,
+    "sku": null,
+    "issues": [
+      "MISSING_PRICE",
+      "MISSING_SKU"
+    ]
+  },
+  {
+    "title": "PX25",
+    "vendor": "Zodiac",
+    "price": 0,
+    "sku": null,
+    "issues": [
+      "MISSING_PRICE",
+      "MISSING_SKU"
+    ]
+  },
+  {
+    "title": "CS",
+    "vendor": "Zodiac",
+    "price": 0,
+    "sku": null,
+    "issues": [
+      "MISSING_PRICE",
+      "MISSING_SKU"
+    ]
+  },
+  {
+    "title": "Crystal Clear",
+    "vendor": "Zodiac",
+    "price": 0,
+    "sku": null,
+    "issues": [
+      "MISSING_PRICE",
+      "MISSING_SKU"
+    ]
+  },
+  {
+    "title": "Dual Link",
+    "vendor": "Zodiac",
+    "price": 0,
+    "sku": null,
+    "issues": [
+      "MISSING_PRICE",
+      "MISSING_SKU"
+    ]
+  },
+  {
+    "title": "pH Link",
+    "vendor": "Zodiac",
+    "price": 0,
+    "sku": null,
+    "issues": [
+      "MISSING_PRICE",
+      "MISSING_SKU"
+    ]
+  },
+  {
+    "title": "eXPERT pH/ORP",
+    "vendor": "Zodiac",
+    "price": 0,
+    "sku": null,
+    "issues": [
+      "MISSING_PRICE",
+      "MISSING_SKU"
+    ]
+  },
+  {
+    "title": "eXPERT",
+    "vendor": "Zodiac",
+    "price": 0,
+    "sku": null,
+    "issues": [
+      "MISSING_PRICE",
+      "MISSING_SKU"
+    ]
+  },
+  {
+    "title": "Blue Connect Silver",
+    "vendor": "Zodiac",
+    "price": 0,
+    "sku": null,
+    "issues": [
+      "MISSING_PRICE",
+      "MISSING_SKU"
+    ]
+  },
+  {
+    "title": "Blue Connect Gold",
+    "vendor": "Zodiac",
+    "price": 0,
+    "sku": null,
+    "issues": [
+      "MISSING_PRICE",
+      "MISSING_SKU"
+    ]
+  },
+  {
+    "title": "Uranus",
+    "vendor": "Zodiac",
+    "price": 0,
+    "sku": null,
+    "issues": [
+      "MISSING_PRICE",
+      "MISSING_SKU"
+    ]
+  },
+  {
+    "title": "FloPro™",
+    "vendor": "Zodiac",
+    "price": 0,
+    "sku": null,
+    "issues": [
+      "MISSING_PRICE",
+      "MISSING_SKU"
+    ]
+  },
+  {
+    "title": "DT 850 E",
+    "vendor": "Zodiac",
+    "price": 0,
+    "sku": null,
+    "issues": [
+      "MISSING_PRICE",
+      "MISSING_SKU"
+    ]
+  },
+  {
+    "title": "Bluespring",
+    "vendor": "Piscine Laghetto",
+    "price": 0,
+    "sku": null,
+    "issues": [
+      "MISSING_PRICE",
+      "MISSING_SKU"
+    ]
+  },
+  {
+    "title": "Ninfea Thiny",
+    "vendor": "Piscine Laghetto",
+    "price": 0,
+    "sku": null,
+    "issues": [
+      "MISSING_PRICE",
+      "MISSING_SKU"
+    ]
+  },
+  {
+    "title": "Dolcevita Naked",
+    "vendor": "Piscine Laghetto",
+    "price": 0,
+    "sku": null,
+    "issues": [
+      "MISSING_PRICE",
+      "MISSING_SKU"
+    ]
+  },
+  {
+    "title": "Divina Skimmer",
+    "vendor": "Piscine Laghetto",
+    "price": 0,
+    "sku": null,
+    "issues": [
+      "MISSING_PRICE",
+      "MISSING_SKU"
+    ]
+  },
+  {
+    "title": "City",
+    "vendor": "Piscine Laghetto",
+    "price": 0,
+    "sku": null,
+    "issues": [
+      "MISSING_PRICE",
+      "MISSING_SKU"
+    ]
+  },
+  {
+    "title": "Dolcevita Diva LTI",
+    "vendor": "Piscine Laghetto",
+    "price": 0,
+    "sku": null,
+    "issues": [
+      "MISSING_PRICE",
+      "MISSING_SKU"
+    ]
+  },
+  {
+    "title": "Classic",
+    "vendor": "Piscine Laghetto",
+    "price": 0,
+    "sku": null,
+    "issues": [
+      "MISSING_PRICE",
+      "MISSING_SKU"
+    ]
+  },
+  {
+    "title": "Playa",
+    "vendor": "Piscine Laghetto",
+    "price": 0,
+    "sku": null,
+    "issues": [
+      "MISSING_PRICE",
+      "MISSING_SKU"
+    ]
+  },
+  {
+    "title": "Pop!",
+    "vendor": "Piscine Laghetto",
+    "price": 0,
+    "sku": null,
+    "issues": [
+      "MISSING_PRICE",
+      "MISSING_SKU"
+    ]
+  },
+  {
+    "title": "Antea",
+    "vendor": "Piscine Laghetto",
+    "price": 0,
+    "sku": null,
+    "issues": [
+      "MISSING_PRICE",
+      "MISSING_SKU"
+    ]
+  },
+  {
+    "title": "Ninfea",
+    "vendor": "Piscine Laghetto",
+    "price": 0,
+    "sku": null,
+    "issues": [
+      "MISSING_PRICE",
+      "MISSING_SKU"
+    ]
+  },
+  {
+    "title": "Dolcevita Rattan",
+    "vendor": "Piscine Laghetto",
+    "price": 0,
+    "sku": null,
+    "issues": [
+      "MISSING_PRICE",
+      "MISSING_SKU"
+    ]
+  },
+  {
+    "title": "Professional",
+    "vendor": "Piscine Laghetto",
+    "price": 0,
+    "sku": null,
+    "issues": [
+      "MISSING_PRICE",
+      "MISSING_SKU",
+      "MISSING_TECH_SPECS"
+    ]
+  },
+  {
+    "title": "Musa",
+    "vendor": "Piscine Laghetto",
+    "price": 0,
+    "sku": null,
+    "issues": [
+      "MISSING_PRICE",
+      "MISSING_SKU",
+      "MISSING_TECH_SPECS"
+    ]
+  },
+  {
+    "title": "Dolcevita Diva",
+    "vendor": "Piscine Laghetto",
+    "price": 0,
+    "sku": null,
+    "issues": [
+      "MISSING_PRICE",
+      "MISSING_SKU"
+    ]
+  },
+  {
+    "title": "MS",
+    "vendor": "Zodiac",
+    "price": 0,
+    "sku": null,
+    "issues": [
+      "MISSING_PRICE",
+      "MISSING_SKU"
+    ]
+  },
+  {
+    "title": "eXPERT pH",
+    "vendor": "Zodiac",
+    "price": 0,
+    "sku": null,
+    "issues": [
+      "MISSING_PRICE",
+      "MISSING_SKU"
+    ]
+  },
+  {
+    "title": "Red Line",
+    "vendor": "Zodiac",
+    "price": 0,
+    "sku": null,
+    "issues": [
+      "MISSING_PRICE",
+      "MISSING_SKU"
+    ]
+  },
+  {
+    "title": "OA 6600 iQ",
+    "vendor": "Zodiac",
+    "price": 0,
+    "sku": null,
+    "issues": [
+      "MISSING_PRICE",
+      "MISSING_SKU"
+    ]
+  },
+  {
+    "title": "SWY 3500",
+    "vendor": "Zodiac",
+    "price": 0,
+    "sku": null,
+    "issues": [
+      "MISSING_PRICE",
+      "MISSING_SKU"
+    ]
+  },
+  {
+    "title": "OV 5390",
+    "vendor": "Zodiac",
+    "price": 0,
+    "sku": null,
+    "issues": [
+      "MISSING_PRICE",
+      "MISSING_SKU"
+    ]
+  },
+  {
+    "title": "OV 5200",
+    "vendor": "Zodiac",
+    "price": 0,
+    "sku": null,
+    "issues": [
+      "MISSING_PRICE",
+      "MISSING_SKU"
+    ]
+  },
+  {
+    "title": "GV 5220",
+    "vendor": "Zodiac",
+    "price": 0,
+    "sku": null,
+    "issues": [
+      "MISSING_PRICE",
+      "MISSING_SKU"
+    ]
+  },
+  {
+    "title": "Piscina Power Steel Rettangolare",
+    "vendor": "Intex",
+    "price": 0,
+    "sku": null,
+    "issues": [
+      "MISSING_PRICE",
+      "MISSING_SKU",
+      "MISSING_TECH_SPECS"
+    ]
+  },
+  {
+    "title": "Piscina Power Steel Rotonda",
+    "vendor": "Intex",
+    "price": 0,
+    "sku": null,
+    "issues": [
+      "MISSING_PRICE",
+      "MISSING_SKU",
+      "MISSING_TECH_SPECS"
+    ]
+  },
+  {
+    "title": "Piscina Power Steel Rettangolare",
+    "vendor": "Intex",
+    "price": 0,
+    "sku": null,
+    "issues": [
+      "MISSING_PRICE",
+      "MISSING_SKU",
+      "MISSING_TECH_SPECS"
+    ]
+  },
+  {
+    "title": "Piscina Power Steel Rotonda",
+    "vendor": "Intex",
+    "price": 0,
+    "sku": null,
+    "issues": [
+      "MISSING_PRICE",
+      "MISSING_SKU",
+      "MISSING_TECH_SPECS"
+    ]
+  },
+  {
+    "title": "Piscina Prisma Frame Rotonda",
+    "vendor": "Intex",
+    "price": 0,
+    "sku": null,
+    "issues": [
+      "MISSING_PRICE",
+      "MISSING_SKU",
+      "MISSING_TECH_SPECS"
+    ]
+  },
+  {
+    "title": "Piscina Prisma Frame Rettangolare",
+    "vendor": "Intex",
+    "price": 0,
+    "sku": null,
+    "issues": [
+      "MISSING_PRICE",
+      "MISSING_SKU",
+      "MISSING_TECH_SPECS"
+    ]
+  },
+  {
+    "title": "Piscina Metallica Rotonda",
+    "vendor": "Intex",
+    "price": 0,
+    "sku": null,
+    "issues": [
+      "MISSING_PRICE",
+      "MISSING_SKU",
+      "MISSING_TECH_SPECS"
+    ]
+  },
+  {
+    "title": "Telo Termico",
+    "vendor": "Intex",
+    "price": 0,
+    "sku": null,
+    "issues": [
+      "MISSING_PRICE",
+      "MISSING_SKU",
+      "MISSING_TECH_SPECS"
+    ]
+  },
+  {
+    "title": "Telo Copri",
+    "vendor": "Intex",
+    "price": 0,
+    "sku": null,
+    "issues": [
+      "MISSING_PRICE",
+      "MISSING_SKU",
+      "MISSING_TECH_SPECS"
+    ]
+  },
+  {
+    "title": "Telo Copri Prisma",
+    "vendor": "Intex",
+    "price": 0,
+    "sku": null,
+    "issues": [
+      "MISSING_PRICE",
+      "MISSING_SKU",
+      "MISSING_TECH_SPECS"
+    ]
+  },
+  {
+    "title": "Pompa Filtro Krystal Clear",
+    "vendor": "Intex",
+    "price": 0,
+    "sku": null,
+    "issues": [
+      "MISSING_PRICE",
+      "MISSING_SKU",
+      "MISSING_TECH_SPECS"
+    ]
+  },
+  {
+    "title": "Piscine Intex",
+    "vendor": "Intex",
+    "price": 0,
+    "sku": null,
+    "issues": [
+      "MISSING_PRICE",
+      "MISSING_SKU",
+      "MISSING_TECH_SPECS"
+    ]
+  },
+  {
+    "title": "Piscina Easy Set",
+    "vendor": "Intex",
+    "price": 0,
+    "sku": null,
+    "issues": [
+      "MISSING_PRICE",
+      "MISSING_SKU",
+      "SHORT_DESCRIPTION",
+      "MISSING_TECH_SPECS"
+    ]
+  },
+  {
+    "title": "Piscina Bestway Solo Struttura",
+    "vendor": "Bestway",
+    "price": 999,
+    "sku": "56936-5",
+    "issues": [
+      "MISSING_IMAGES",
+      "MISSING_TECH_SPECS"
+    ]
+  }
+]

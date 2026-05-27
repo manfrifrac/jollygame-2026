@@ -1,0 +1,63 @@
+<section class="relative w-full h-screen min-h-[700px] flex items-center overflow-hidden bg-primary">
+    <video 
+        autoplay 
+        muted 
+        loop 
+        playsinline 
+        class="absolute inset-0 w-full h-full object-cover z-0"
+    >
+        <source src="{{ 'hero-bg.mp4' | asset_url }}" type="video/mp4" />
+        Il tuo browser non supporta il video.
+    </video>
+    {% comment %} Overlay scuro per leggere i testi {% endcomment %}
+    <div class="absolute inset-0 bg-black/40 z-10"></div>
+
+    <div class="relative z-20 w-full max-w-7xl mx-auto px-6 md:px-12 lg:px-24 text-left text-white">
+        <span class="inline-flex items-center gap-2 bg-[#FFDEA5] text-[#00578E] px-6 py-2 rounded-full text-[10px] font-black mb-8 tracking-[0.3em] uppercase shadow-xl animate-bounce-slow">
+            <span class="material-symbols-outlined text-[18px]">pool</span>
+            Tutto per la tua Piscina
+        </span>
+        
+        <h1 class="text-7xl md:text-[10rem] font-headline font-extrabold tracking-tighter mb-8 leading-[0.8] text-white drop-shadow-2xl">
+            Jolly <br/><span class="text-[#FFDEA5] italic">Game.</span>
+        </h1>
+        
+        <p class="text-xl md:text-3xl font-light leading-relaxed mb-12 max-w-2xl drop-shadow-lg opacity-90 italic">
+            Scopri il nostro catalogo di prodotti, accessori e soluzioni complete per vivere al meglio la tua piscina.
+        </p>
+        
+        <div class="flex flex-col sm:flex-row gap-6">
+            <a href="/collections/all" class="bg-white text-[#00578E] px-12 py-5 rounded-2xl font-black text-xs uppercase tracking-widest hover:bg-[#FFDEA5] hover:text-[#00578E] transition-all active:scale-95 shadow-2xl flex items-center justify-center gap-3">
+                <span class="material-symbols-outlined">shopping_bag</span>
+                Esplora il Catalogo
+            </a>
+        </div>
+    </div>
+    
+    {% comment %} Scroll Indicator {% endcomment %}
+    <div class="absolute bottom-10 left-1/2 -translate-x-1/2 z-10 flex flex-col items-center gap-2 text-white/50">
+        <span class="text-[10px] font-black uppercase tracking-[0.3em]">Scopri l'Ecosistema</span>
+        <span class="material-symbols-outlined animate-bounce">expand_more</span>
+    </div>
+</section>
+
+<script>
+  document.addEventListener('DOMContentLoaded', function() {
+    const openHeroLoginBtn = document.getElementById('OpenHeroLogin');
+    const loginModal = document.getElementById('LoginModal');
+    
+    if (openHeroLoginBtn && loginModal) {
+      openHeroLoginBtn.addEventListener('click', () => {
+        loginModal.classList.remove('hidden');
+        loginModal.classList.add('flex');
+      });
+    }
+  });
+</script>
+
+{% schema %}
+{
+  "name": "Hero Home",
+  "settings": []
+}
+{% endschema %}

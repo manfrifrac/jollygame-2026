@@ -1,0 +1,506 @@
+[
+  {
+    "id": "gid://shopify/Product/15527757676892",
+    "title": "Depuratore acqua 72 W a cartuccia",
+    "handle": "depuratori-a-cartuccia-potenza-72-w",
+    "sku": null,
+    "current_price": "0.00",
+    "gre_url": null,
+    "match_method": "none"
+  },
+  {
+    "id": "gid://shopify/Product/15527758561628",
+    "title": "Copertura per piscina rettangolare",
+    "handle": "coperture-per-piscine-rettangolari",
+    "sku": null,
+    "current_price": "0.00",
+    "gre_url": null,
+    "match_method": "none"
+  },
+  {
+    "id": "gid://shopify/Product/15527770587484",
+    "title": "Raccordo unione 2 tubi gall. 38/32mm",
+    "handle": "tubi-accessori-per-tubi-raccordo-unione-2-tubi-gall-d-38-d-32mm",
+    "sku": "40009",
+    "current_price": "0.00",
+    "gre_url": null,
+    "match_method": "none"
+  },
+  {
+    "id": "gid://shopify/Product/15527770620252",
+    "title": "Manico telescopico 2 sezioni, lunghezza 3,60 m",
+    "handle": "materiale-di-pulizia-manico-telescopico-manico-3-60-m-2-sezioni",
+    "sku": "40010",
+    "current_price": "19.90",
+    "gre_url": null,
+    "match_method": "none"
+  },
+  {
+    "id": "gid://shopify/Product/15527770685788",
+    "title": "Pulitore manuale in alluminio per piscina",
+    "handle": "materiale-di-pulizia-pulitori-manuali-pulitore-per-piscine-in-alluminio",
+    "sku": "40022",
+    "current_price": "0.00",
+    "gre_url": null,
+    "match_method": "none"
+  },
+  {
+    "id": "gid://shopify/Product/15527770718556",
+    "title": "Termometro a sfera di vetro",
+    "handle": "altri-accessori-termometri-termometro-a-sfera",
+    "sku": "40055",
+    "current_price": "0.00",
+    "gre_url": null,
+    "match_method": "none"
+  },
+  {
+    "id": "gid://shopify/Product/15527770784092",
+    "title": "Erogatore Flot 200 g",
+    "handle": "altri-accessori-dosatori-erogatore-flot-200-gr",
+    "sku": "40070",
+    "current_price": "0.00",
+    "gre_url": null,
+    "match_method": "none"
+  },
+  {
+    "id": "gid://shopify/Product/15527770882396",
+    "title": "Kit di riparazione liner in gomma",
+    "handle": "liner-e-riparatori-riparazione-kit-riparazione-liner-gre",
+    "sku": "40080",
+    "current_price": "8.00",
+    "gre_url": null,
+    "match_method": "none"
+  },
+  {
+    "id": "gid://shopify/Product/15527770980700",
+    "title": "Tubo flessibile PVC Cepex",
+    "handle": "altri-accessori-raccorderia-in-pvc-tubo-pvc-flessibile-cepex",
+    "sku": "40557",
+    "current_price": "0.00",
+    "gre_url": null,
+    "match_method": "none"
+  },
+  {
+    "id": "gid://shopify/Product/15527771079004",
+    "title": "Spazzola aspirante 51 cm",
+    "handle": "materiale-di-pulizia-spazzole-spazzola-aspirante-51-cm",
+    "sku": "40802",
+    "current_price": "17.90",
+    "gre_url": null,
+    "match_method": "none"
+  },
+  {
+    "id": "gid://shopify/Product/15527773962588",
+    "title": "Raccoglitore di fondo Eco Range",
+    "handle": "materiale-di-pulizia-raccoglitore-di-fondo-raccoglitore-senza-manico-eco-range",
+    "sku": "90120",
+    "current_price": "0.00",
+    "gre_url": null,
+    "match_method": "none"
+  },
+  {
+    "id": "gid://shopify/Product/15527774028124",
+    "title": "Tubo galleggiante GRE 36,5m sezionabile",
+    "handle": "tubi-tubo-flessibile-galleggiante-tubo-sezionabile-gre-36-5m",
+    "sku": "90160",
+    "current_price": "0.00",
+    "gre_url": null,
+    "match_method": "none"
+  },
+  {
+    "id": "gid://shopify/Product/15527774421340",
+    "title": "Copertura per piscina in legno ovale Vermela",
+    "handle": "copertura-invernale-coperture-per-piscine-ovali-per-piscine-in-legno-vermela-712-x-512-cm",
+    "sku": "621103",
+    "current_price": "629.00",
+    "gre_url": null,
+    "match_method": "none"
+  },
+  {
+    "id": "gid://shopify/Product/15527774912860",
+    "title": "Protezione Delta MS per pareti in legno",
+    "handle": "tappeti-delta-ms-delta-ms-protezione-per-pareti-f-t-legno",
+    "sku": "772060",
+    "current_price": "0.00",
+    "gre_url": null,
+    "match_method": "none"
+  },
+  {
+    "id": "gid://shopify/Product/15527775207772",
+    "title": "Copertura piscina ovale",
+    "handle": "coperture-isotermiche-coperture-per-piscine-ovali-1-495-x-295-cm",
+    "sku": "773322",
+    "current_price": "0.00",
+    "gre_url": null,
+    "match_method": "none"
+  },
+  {
+    "id": "gid://shopify/Product/15527778189660",
+    "title": "Casetta in legno alta 118 cm",
+    "handle": "casette-per-filtri-casette-di-legno-altezza-118-cm",
+    "sku": "787247",
+    "current_price": "420.00",
+    "gre_url": null,
+    "match_method": "none"
+  },
+  {
+    "id": "gid://shopify/Product/15527815643484",
+    "title": "Tubo per puliscifondo 8m con 2 terminali",
+    "handle": "tubi-tubo-per-puliscifondo-tubo-8m-2-terminali-o38-mm",
+    "sku": "40001",
+    "current_price": "42.00",
+    "gre_url": null,
+    "match_method": "none"
+  },
+  {
+    "id": "gid://shopify/Product/15527815938396",
+    "title": "Tappo di chiusura invernale 1,5",
+    "handle": "altri-accessori-accessori-per-linverno-tappo-chiusura-invernale-1-5",
+    "sku": "40582",
+    "current_price": "4.00",
+    "gre_url": null,
+    "match_method": "none"
+  },
+  {
+    "id": "gid://shopify/Product/15527816102236",
+    "title": "Manicotto di giunzione per depuratori, 58cm",
+    "handle": "tubi-tubo-di-giunzione-per-depuratori-manicotto-58cm-o38mm",
+    "sku": "60218",
+    "current_price": "0.00",
+    "gre_url": null,
+    "match_method": "none"
+  },
+  {
+    "id": "gid://shopify/Product/15527816298844",
+    "title": "Bromo shock granulato",
+    "handle": "prodotti-chimici-bromo-bromo-shock-granulato-5-kg",
+    "sku": "76026",
+    "current_price": "99.90",
+    "gre_url": null,
+    "match_method": "none"
+  },
+  {
+    "id": "gid://shopify/Product/15527816626524",
+    "title": "Anticalcare per la Pulizia",
+    "handle": "prodotti-chimici-pulizia-anticalcare-5-litro",
+    "sku": "76048",
+    "current_price": "32.90",
+    "gre_url": null,
+    "match_method": "none"
+  },
+  {
+    "id": "gid://shopify/Product/15527816823132",
+    "title": "Svernante liquido per inverno",
+    "handle": "prodotti-chimici-prodotti-chimici-per-linverno-svernante-liquido-1-litro",
+    "sku": "76050",
+    "current_price": "19.90",
+    "gre_url": null,
+    "match_method": "none"
+  },
+  {
+    "id": "gid://shopify/Product/15527816888668",
+    "title": "Elevatore di alcalinità",
+    "handle": "prodotti-chimici-problema-soluzione-elevatore-di-alcalinita-5-kg",
+    "sku": "76081",
+    "current_price": "29.00",
+    "gre_url": null,
+    "match_method": "none"
+  },
+  {
+    "id": "gid://shopify/Product/15527816921436",
+    "title": "Controllo remoto a 4 azioni con 50 blocchi multi funzioni",
+    "handle": "prodotti-chimici-multi-funzioni-4-azioni-50-blocchi-500-gr",
+    "sku": "76084",
+    "current_price": "0.00",
+    "gre_url": null,
+    "match_method": "none"
+  },
+  {
+    "id": "gid://shopify/Product/15527817347420",
+    "title": "Smart Plug F-F",
+    "handle": "altri-accessori-connettivita-smart-plug-f-f",
+    "sku": "76671",
+    "current_price": "0.00",
+    "gre_url": null,
+    "match_method": "none"
+  },
+  {
+    "id": "gid://shopify/Product/15527817511260",
+    "title": "Regolatore pH ECO",
+    "handle": "prodotti-chimici-controllo-del-ph-eco-riduttore-ph-5-l",
+    "sku": "90003",
+    "current_price": "22.99",
+    "gre_url": null,
+    "match_method": "none"
+  },
+  {
+    "id": "gid://shopify/Product/15527819182428",
+    "title": "Liner piscina acciaio blu ovale",
+    "handle": "liner-e-riparatori-liner-per-piscine-in-acciaio-ovali-blu-75-100-610-x-370-x-120-cm",
+    "sku": "773486",
+    "current_price": "769.00",
+    "gre_url": null,
+    "match_method": "none"
+  },
+  {
+    "id": "gid://shopify/Product/15527819837788",
+    "title": "Copertore per piscine rettangolari in legno Mint",
+    "handle": "copertura-invernale-copertore-per-piscine-rettangolari-per-piscine-in-legno-mint-1058-x-467-cm",
+    "sku": "778041",
+    "current_price": "795.00",
+    "gre_url": null,
+    "match_method": "none"
+  },
+  {
+    "id": "gid://shopify/Product/15527820099932",
+    "title": "Liner piscina legno ovale blu",
+    "handle": "liner-e-riparatori-liner-per-piscine-di-legno-ovali-blu-436-x-336-x-119-cm-piscina-grenade",
+    "sku": "778767",
+    "current_price": "443.00",
+    "gre_url": null,
+    "match_method": "none"
+  },
+  {
+    "id": "gid://shopify/Product/15527820165468",
+    "title": "Liner piscina legno rotonda Blu",
+    "handle": "liner-e-riparatori-liner-per-piscine-di-legno-rotonde-blu-o511-x-124-cm-piscina-violette",
+    "sku": "783885",
+    "current_price": "519.00",
+    "gre_url": null,
+    "match_method": "none"
+  },
+  {
+    "id": "gid://shopify/Product/15527820198236",
+    "title": "Liner piscina rettangolare in legno blu",
+    "handle": "liner-e-riparatori-liner-per-piscine-di-legno-rettangolari-blu-600-x-400-x-133-cm-piscina-evora",
+    "sku": "785939",
+    "current_price": "744.00",
+    "gre_url": null,
+    "match_method": "none"
+  },
+  {
+    "id": "gid://shopify/Product/15527820362076",
+    "title": "Copertura per piscina in legno quadrata City",
+    "handle": "copertura-invernale-coperture-per-piscine-quadrate-per-piscine-in-legno-city-250-x-250-cm",
+    "sku": "790001",
+    "current_price": "99.90",
+    "gre_url": null,
+    "match_method": "none"
+  },
+  {
+    "id": "gid://shopify/Product/15527820427612",
+    "title": "Piscina Rotonda Lili 2",
+    "handle": "piscine-in-legno-rotonda-lili-2-o280-x-107-cm",
+    "sku": "800008",
+    "current_price": "2745.00",
+    "gre_url": "https://www.grepool.com/it/piscine-in-legno/rotonda/lili-2-o280-x-107-cm",
+    "match_method": "SKU exact"
+  },
+  {
+    "id": "gid://shopify/Product/15527820820828",
+    "title": "Piscina Ovale Grenade 2",
+    "handle": "piscine-in-legno-ovale-grenade-2-436-x-336-x-117-cm",
+    "sku": "7900862",
+    "current_price": "5665.00",
+    "gre_url": "https://www.grepool.com/it/piscine-in-legno/ovale/grenade-2-436-x-336-x-117-cm",
+    "match_method": "SKU exact"
+  },
+  {
+    "id": "gid://shopify/Product/15527821017436",
+    "title": "Piscina Marbella 2 Rettangolare",
+    "handle": "piscina-fuori-terra-in-legno-rettangolare-evora-790206-gre-sunbay-travi-metalliche-pino",
+    "sku": "7900962",
+    "current_price": "7995.00",
+    "gre_url": "https://www.grepool.com/it/piscine-in-legno/rettangolare/marbella-2-420-x-270-x-117cm",
+    "match_method": "SKU exact"
+  },
+  {
+    "id": "gid://shopify/Product/15527822393692",
+    "title": "Piscina Anthracite Ovale",
+    "handle": "piscine-in-acciaio-anthracite-ovale-paletti-laterali-500-x-300-x-132-cm-5",
+    "sku": "KITPROV508GY",
+    "current_price": "2499.00",
+    "gre_url": "https://www.grepool.com/it/piscine-in-acciaio/anthracite-ovale-paletti-laterali/500-x-300-x-132-cm-5",
+    "match_method": "SKU exact"
+  },
+  {
+    "id": "gid://shopify/Product/15527823540572",
+    "title": "Piscina Anthracite Rotonda",
+    "handle": "piscine-in-acciaio-anthracite-rotonda-o350-x-132-cm-4",
+    "sku": "KITPR358GY",
+    "current_price": "1369.00",
+    "gre_url": "https://www.grepool.com/it/piscine-in-acciaio/anthracite-rotonda/o350-x-132-cm-4",
+    "match_method": "SKU exact"
+  },
+  {
+    "id": "gid://shopify/Product/15527823966556",
+    "title": "Piscina Aqualoon ovale",
+    "handle": "piscine-in-acciaio-aqualoon-ovale-anthracite-500-x-300-x-120-cm-8",
+    "sku": "KIT500GYQGRE",
+    "current_price": "1549.00",
+    "gre_url": "https://www.grepool.com/it/piscine-in-acciaio/aqualoon-ovale-anthracite/500-x-300-x-120-cm-8",
+    "match_method": "SKU exact"
+  },
+  {
+    "id": "gid://shopify/Product/15527824195932",
+    "title": "Piscina Aqualoon rotonda",
+    "handle": "piscine-in-acciaio-aqualoon-rotonda-anthracite-o300-x-120-cm-6",
+    "sku": "KIT300GYQGRE",
+    "current_price": "909.00",
+    "gre_url": "https://www.grepool.com/it/piscine-in-acciaio/aqualoon-rotonda-anthracite/o300-x-120-cm-6",
+    "match_method": "SKU exact"
+  },
+  {
+    "id": "gid://shopify/Product/15527825703260",
+    "title": "Piscina Avantgarde Rettangolare",
+    "handle": "piscine-in-composito-avantgarde-rettangolare-315-x-175-x-96-cm",
+    "sku": "KPCOR2814T",
+    "current_price": "4225.00",
+    "gre_url": null,
+    "match_method": "none"
+  },
+  {
+    "id": "gid://shopify/Product/15527826587996",
+    "title": "Robot pulitore elettrico",
+    "handle": "pulitori-elettrico-robots-robot-pulitore-elettrico-er-230",
+    "sku": "WR000501",
+    "current_price": "649.00",
+    "gre_url": null,
+    "match_method": "none"
+  },
+  {
+    "id": "gid://shopify/Product/15527826620764",
+    "title": "Aspiratore elettronico per fondo piscina a batteria",
+    "handle": "pulitori-elettrico-pulitori-elettrici-manuali-a-batteria-per-fondo-piscina-aspiratore-elettronico",
+    "sku": "VCB08",
+    "current_price": "79.88",
+    "gre_url": null,
+    "match_method": "none"
+  },
+  {
+    "id": "gid://shopify/Product/15527826751836",
+    "title": "Kit testa aspirante con manico e tubo per pulizia fondo",
+    "handle": "pulitori-manuali-kit-pulitore-fondo-kit-testa-aspirante-con-manico-e-tubo",
+    "sku": "AR2064",
+    "current_price": "69.00",
+    "gre_url": null,
+    "match_method": "none"
+  },
+  {
+    "id": "gid://shopify/Product/15527826882908",
+    "title": "Kit di pulizia piscina autopor, 10M3, aspirazione manuale",
+    "handle": "pulitori-manuali-pulitori-ad-aspirazione-manuali-kit-limpieza-piscinas-autopor-10m3-para",
+    "sku": "AR20637",
+    "current_price": "54.00",
+    "gre_url": null,
+    "match_method": "none"
+  },
+  {
+    "id": "gid://shopify/Product/15527828980060",
+    "title": "Casetta tecnica in composito, h:91",
+    "handle": "casette-per-filtri-casetta-di-composito-local-tecnico-de-composite-h-91",
+    "sku": "TRCP96",
+    "current_price": "459.00",
+    "gre_url": null,
+    "match_method": "none"
+  },
+  {
+    "id": "gid://shopify/Product/15527829143900",
+    "title": "Pompa autoadescante Comfort - 1/3 CV",
+    "handle": "pompe-per-piscine-pompe-comfort-pompa-autoadescante-1-3-cv",
+    "sku": "PP032",
+    "current_price": "144.90",
+    "gre_url": null,
+    "match_method": "none"
+  },
+  {
+    "id": "gid://shopify/Product/15527829733724",
+    "title": "Cartuccia filtrante X per AR125, AR124, AR121 e AR118",
+    "handle": "accessori-per-filtro-cartuccia-filtrante-cartuccia-x-ar125-ar124-ar121-e-ar118",
+    "sku": "AR82",
+    "current_price": "24.00",
+    "gre_url": null,
+    "match_method": "none"
+  },
+  {
+    "id": "gid://shopify/Product/15527830389084",
+    "title": "Sistema filtrante Aqualoon",
+    "handle": "accessori-per-filtro-mezzi-filtranti-sistema-filtrante-aqualoon-500g",
+    "sku": "AQ503",
+    "current_price": "16.99",
+    "gre_url": null,
+    "match_method": "none"
+  },
+  {
+    "id": "gid://shopify/Product/15527830978908",
+    "title": "Clorinatore salino collegato",
+    "handle": "elettrolisi-del-sale-clorinatore-salino-cloratore-salino-collegato-40-m3",
+    "sku": "SWGA40",
+    "current_price": "990.00",
+    "gre_url": null,
+    "match_method": "none"
+  },
+  {
+    "id": "gid://shopify/Product/15527831634268",
+    "title": "Gel flocculante in monodosi",
+    "handle": "prodotti-chimici-flocculante-gel-flocculante-in-monodosi-28-gr",
+    "sku": "UFG20",
+    "current_price": "5.50",
+    "gre_url": null,
+    "match_method": "none"
+  },
+  {
+    "id": "gid://shopify/Product/15527831863644",
+    "title": "KIT trattamento piscina fuori terra da 5 a 15m³",
+    "handle": "prodotti-chimici-trattamento-per-piscine-fuori-terra-kit-trattamento-piscina-da-5-a-15m3",
+    "sku": "76054L",
+    "current_price": "55.90",
+    "gre_url": null,
+    "match_method": "none"
+  },
+  {
+    "id": "gid://shopify/Product/15527831961948",
+    "title": "Kit trattamento acqua spa",
+    "handle": "prodotti-chimici-kit-trattamento-spa-kit-trattamento-acqua-spa",
+    "sku": "KTSPAIT",
+    "current_price": "0.00",
+    "gre_url": null,
+    "match_method": "none"
+  },
+  {
+    "id": "gid://shopify/Product/15527832387932",
+    "title": "Pompa di calore mini - 40 m³",
+    "handle": "pompe-di-calore-pompa-di-calore-mini-pompa-di-calore-mini-volume-di-40-m3-1",
+    "sku": "HPM40",
+    "current_price": "715.00",
+    "gre_url": null,
+    "match_method": "none"
+  },
+  {
+    "id": "gid://shopify/Product/15527832486236",
+    "title": "Copertura per piscina rotonda in composite",
+    "handle": "coperture-isotermiche-coperture-per-piscine-rotonde-1-per-piscina-in-composite-o361-cm",
+    "sku": "CVKPCO41",
+    "current_price": "148.00",
+    "gre_url": null,
+    "match_method": "none"
+  },
+  {
+    "id": "gid://shopify/Product/15527832519004",
+    "title": "Piscina quadrata copertura",
+    "handle": "coperture-isotermiche-coperture-per-piscine-quadrate-1-275-x-275-cm",
+    "sku": "CVKPCOR28",
+    "current_price": "0.00",
+    "gre_url": null,
+    "match_method": "none"
+  },
+  {
+    "id": "gid://shopify/Product/15527833174364",
+    "title": "Liner per piscine in composite ovale, 524x386x124 cm",
+    "handle": "liner-e-riparatori-liner-per-piscine-in-composite-ovali-liner-ovale-pisc-comp-524x386x124cm",
+    "sku": "SPCO52G",
+    "current_price": "1045.00",
+    "gre_url": null,
+    "match_method": "none"
+  }
+]

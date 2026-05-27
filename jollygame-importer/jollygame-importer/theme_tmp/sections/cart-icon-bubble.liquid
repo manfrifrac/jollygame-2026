@@ -1,0 +1,5 @@
+<span class="material-symbols-outlined text-primary text-2xl">shopping_cart</span>
+{%- if cart.item_count > 0 -%}
+  <span class="absolute top-0 right-0 bg-error text-white text-[9px] font-black rounded-full w-4 h-4 flex items-center justify-center translate-x-1/2 -translate-y-1/2 border-2 border-white">{{ cart.item_count }}</span>
+{%- endif -%}
+<span class="sr-only">{{ 'templates.cart.cart' | t }}</span>

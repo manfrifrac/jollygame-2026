@@ -1,0 +1,24 @@
+# Learn more about configuring your app at https://shopify.dev/docs/apps/tools/cli/configuration
+
+name = "JollyGame-Importer"
+application_url = "https://jollygamepiscine.myshopify.com"
+embedded = true
+
+[build]
+automatically_update_urls_on_dev = true
+
+[webhooks]
+api_version = "2024-10"
+
+  [[webhooks.subscriptions]]
+  topics = [ "app/uninstalled" ]
+  uri = "/webhooks/app/uninstalled"
+
+[access_scopes]
+# Permessi necessari per prodotti e contenuti (redirect)
+scopes = "write_products,read_products,write_content,read_content"
+
+[auth]
+redirect_urls = [
+  "http://localhost:3000/auth/callback"
+]

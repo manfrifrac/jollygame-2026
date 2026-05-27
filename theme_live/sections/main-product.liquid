@@ -1,0 +1,289 @@
+<script src="https://unpkg.com/alpinejs@3.x.x/dist/cdn.min.js" defer></script>
+<script src="{{ 'pubsub.js' | asset_url }}" defer="defer"></script>
+<script src="{{ 'product-info.js' | asset_url }}" defer="defer"></script>
+<script src="{{ 'product-form.js' | asset_url }}" defer="defer"></script>
+
+<div class="product-page-v4 py-12 px-4 max-w-7xl mx-auto font-sans">
+    
+    <!-- TOP SECTION: MEDIA & CORE INFO -->
+    <div class="grid grid-cols-1 md:grid-cols-12 gap-12 mb-12">
+        
+        <!-- LEFT COLUMN: MEDIA TABS -->
+        <div class="md:col-span-7">
+            <div x-data="{ activeMedia: 'product' }" class="space-y-6">
+                <!-- TABS SELECTOR FOR MEDIA -->
+                <div class="flex gap-2 p-1 bg-surface-container-low rounded-2xl border border-outline-variant/10 w-fit">
+                    <button @click="activeMedia = 'product'" 
+                            :class="activeMedia === 'product' ? 'bg-[#00578E] text-white shadow-md' : 'text-outline hover:bg-white/50'"
+                            class="px-6 py-2.5 rounded-xl text-xs font-black uppercase tracking-widest transition-all">
+                        Foto Prodotto
+                    </button>
+                    {%- if product.metafields.custom.immagine_esploso.value != blank -%}
+                        <button @click="activeMedia = 'diagram'" 
+                                :class="activeMedia === 'diagram' ? 'bg-[#00578E] text-white shadow-md' : 'text-outline hover:bg-white/50'"
+                                class="px-6 py-2.5 rounded-xl text-xs font-black uppercase tracking-widest transition-all">
+                            Schema Esploso
+                        </button>
+                    {%- endif -%}
+                </div>
+
+                <!-- MEDIA DISPLAY -->
+                <div class="rounded-[40px] overflow-hidden border border-outline-variant/10 shadow-2xl bg-white aspect-square flex items-center justify-center p-4">
+                    <div x-show="activeMedia === 'product'" class="w-full h-full">
+                        {%- if product.featured_media != blank -%}
+                            <img src="{{ product.featured_media | image_url: width: 1200 }}" 
+                                 alt="{{ product.title }}" 
+                                 class="w-full h-full object-contain"
+                                 loading="eager">
+                        {%- endif -%}
+                    </div>
+                    <div x-show="activeMedia === 'diagram'" x-cloak class="w-full h-full">
+                        {%- if product.metafields.custom.immagine_esploso.value != blank -%}
+                            <img src="{{ product.metafields.custom.immagine_esploso.value | image_url: width: 1200 }}" 
+                                 alt="Esploso {{ product.title }}" 
+                                 class="w-full h-full object-contain"
+                                 loading="lazy">
+                        {%- endif -%}
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- RIGHT COLUMN: INFO & BUY BOX -->
+        <div class="md:col-span-5">
+            <div class="sticky top-8 space-y-10">
+                <product-info id="ProductInfo-{{ section.id }}" class="flex flex-col space-y-10">
+                    <div>
+                        <div class="flex items-center gap-3 mb-4">
+                            <span class="bg-primary-fixed text-on-primary-fixed px-4 py-1.5 rounded-full text-[10px] font-black tracking-widest uppercase inline-block">{{ product.type }}</span>
+                            <span class="text-[10px] font-black text-outline uppercase tracking-widest border-l border-outline-variant/20 pl-3">{{ product.vendor }}</span>
+                        </div>
+                        <h1 class="text-5xl md:text-6xl font-black text-[#00578E] uppercase tracking-tighter italic leading-[0.85]">{{ product.title }}</h1>
+                        
+                        {%- if product.metafields.custom.short_description != blank -%}
+                            <p class="text-xl font-medium text-on-surface-variant mt-6 leading-snug">{{ product.metafields.custom.short_description }}</p>
+                        {%- endif -%}
+                    </div>
+
+                    <div class="space-y-6">
+                        <div class="flex items-baseline gap-3">
+                            <span class="text-5xl font-black text-primary italic">{{ product.selected_or_first_available_variant.price | money }}</span>
+                            {%- if product.selected_or_first_available_variant.compare_at_price > product.selected_or_first_available_variant.price -%}
+                                <span class="text-2xl text-outline line-through opacity-40">{{ product.selected_or_first_available_variant.compare_at_price | money }}</span>
+                            {%- endif -%}
+                        </div>
+
+                        {%- form 'product', product, class: 'form' -%}
+                            <input type="hidden" name="id" value="{{ product.selected_or_first_available_variant.id }}">
+                            
+                            <div class="flex flex-col gap-8">
+                                {%- if product.variants.size > 1 -%}
+                                    <div class="variant-pickers space-y-6">
+                                        {%- for option in product.options_with_values -%}
+                                            <div class="option-wrapper space-y-3">
+                                                <label class="text-[10px] font-black text-outline uppercase tracking-widest pl-1" for="Option-{{ section.id }}-{{ forloop.index0 }}">
+                                                    {{ option.name }}
+                                                </label>
+                                                <div class="relative group">
+                                                    <select
+                                                        id="Option-{{ section.id }}-{{ forloop.index0 }}"
+                                                        class="w-full bg-surface-container-low border border-outline-variant/10 rounded-2xl px-6 py-4 text-sm font-bold text-[#00578E] appearance-none focus:ring-2 focus:ring-[#00578E]/20 transition-all cursor-pointer hover:bg-white/80"
+                                                        onchange="updateVariant(this)"
+                                                    >
+                                                        {%- for value in option.values -%}
+                                                            <option value="{{ value | escape }}" {% if option.selected_value == value %}selected="selected"{% endif %}>
+                                                                {{ value }}
+                                                            </option>
+                                                        {%- endfor -%}
+                                                    </select>
+                                                    <span class="material-symbols-outlined absolute right-4 top-1/2 -translate-y-1/2 pointer-events-none text-outline-variant opacity-40 group-hover:opacity-100 transition-opacity">expand_more</span>
+                                                </div>
+                                            </div>
+                                        {%- endfor -%}
+                                    </div>
+
+                                    <script>
+                                        function updateVariant(el) {
+                                            const form = el.closest('form');
+                                            const selects = Array.from(form.querySelectorAll('select'));
+                                            const options = selects.map(s => s.value);
+                                            
+                                            // Trova la variante che corrisponde a tutte le opzioni selezionate
+                                            const variants = {{ product.variants | json }};
+                                            const found = variants.find(v => {
+                                                return v.options.every((opt, i) => opt === options[i]);
+                                            });
+
+                                            if (found) {
+                                                // Aggiorna l'ID nel form
+                                                form.querySelector('input[name="id"]').value = found.id;
+                                                // Opzionale: aggiorna URL per riflettere la variante
+                                                window.history.replaceState({}, '', `${window.location.pathname}?variant=${found.id}`);
+                                                // Forza refresh per mostrare prezzo corretto (semplice) o usa JS per aggiornare il DOM
+                                                window.location.reload(); 
+                                            }
+                                        }
+                                    </script>
+                                {%- endif -%}
+
+                                <button type="submit" name="add" class="w-full bg-[#00578E] text-white py-7 rounded-[32px] font-black uppercase italic tracking-widest text-lg hover:bg-[#003D66] active:scale-[0.97] transition-all shadow-2xl shadow-[#00578E]/20">
+                                    Aggiungi al Carrello
+                                </button>
+                            </div>
+                        {%- endform -%}
+                    </div>
+
+                    <!-- ACCORDIONS -->
+                    <div class="border-t border-outline-variant/10 pt-8 space-y-4">
+                        {%- if product.metafields.custom.additional_specs != blank -%}
+                        <details class="group bg-surface-container-low rounded-3xl overflow-hidden" open>
+                            <summary class="flex items-center justify-between p-6 cursor-pointer list-none">
+                                <span class="text-xs font-black uppercase tracking-widest text-primary flex items-center gap-3">
+                                    <span class="material-symbols-outlined text-sm">settings</span>
+                                    Caratteristiche
+                                </span>
+                                <span class="material-symbols-outlined transition-transform group-open:rotate-180 text-outline">expand_more</span>
+                            </summary>
+                            <div class="px-6 pb-6 pt-0">
+                                <ul class="space-y-3">
+                                    {%- for spec in product.metafields.custom.additional_specs.value -%}
+                                        <li class="flex items-start gap-3 text-sm font-bold text-primary/70">
+                                            <span class="material-symbols-outlined text-[#00578E] text-lg shrink-0">check_circle</span>
+                                            {{ spec }}
+                                        </li>
+                                    {%- endfor -%}
+                                </ul>
+                            </div>
+                        </details>
+                        {%- endif -%}
+
+                        {%- assign docs = product.metafields.custom.documentazione_tecnica.value -%}
+                        {%- if docs != blank -%}
+                        <details class="group bg-surface-container-low rounded-3xl overflow-hidden">
+                            <summary class="flex items-center justify-between p-6 cursor-pointer list-none">
+                                <span class="text-xs font-black uppercase tracking-widest text-primary flex items-center gap-3">
+                                    <span class="material-symbols-outlined text-sm">description</span>
+                                    Manuali e PDF
+                                </span>
+                                <span class="material-symbols-outlined transition-transform group-open:rotate-180 text-outline">expand_more</span>
+                            </summary>
+                            <div class="px-6 pb-6 pt-0 space-y-2">
+                                {%- for doc in docs -%}
+                                    {%- if doc.titolo.value contains "Esploso" and product.metafields.custom.immagine_esploso.value != blank -%}
+                                        {%- continue -%}
+                                    {%- endif -%}
+                                    <a href="{{ doc.url_file.value }}" target="_blank" class="flex items-center justify-between p-4 bg-white rounded-2xl border border-outline-variant/10 hover:border-[#00578E] transition-all group/doc">
+                                        <span class="text-xs font-bold text-primary truncate pr-4">{{ doc.titolo.value }}</span>
+                                        <span class="material-symbols-outlined text-outline group-hover/doc:text-[#00578E] transition-colors">download</span>
+                                    </a>
+                                {%- endfor -%}
+                            </div>
+                        </details>
+                        {%- endif -%}
+                    </div>
+                </product-info>
+            </div>
+        </div>
+    </div>
+
+    <!-- TABS SECTION: DESCRIPTION & SPARE PARTS -->
+    <div x-data="{ activeTab: 'description' }" class="border-t border-outline-variant/10 pt-16 mt-12">
+        <div class="flex gap-8 mb-12 border-b border-outline-variant/10">
+            <button @click="activeTab = 'description'" 
+                    :class="activeTab === 'description' ? 'border-[#00578E] text-primary' : 'border-transparent text-outline hover:text-primary'"
+                    class="pb-4 border-b-4 text-sm font-black uppercase tracking-widest transition-all">
+                Descrizione Prodotto
+            </button>
+            <button @click="activeTab = 'ricambi'" 
+                    :class="activeTab === 'ricambi' ? 'border-[#00578E] text-primary' : 'border-transparent text-outline hover:text-primary'"
+                    class="pb-4 border-b-4 text-sm font-black uppercase tracking-widest transition-all">
+                Ricambi Compatibili
+            </button>
+        </div>
+
+        <!-- TAB CONTENT: DESCRIPTION -->
+        <div x-show="activeTab === 'description'" class="prose prose-slate max-w-none prose-p:text-lg prose-p:leading-relaxed prose-headings:font-black prose-headings:uppercase prose-headings:italic">
+            {%- if product.description != blank -%}
+                {{ product.description }}
+            {%- else -%}
+                <p class="italic text-outline">Nessuna descrizione dettagliata disponibile per questo prodotto.</p>
+            {%- endif -%}
+        </div>
+
+        <!-- TAB CONTENT: RICAMBI -->
+        <div x-show="activeTab === 'ricambi'" x-cloak>
+            <div class="flex flex-col md:flex-row md:items-center justify-between gap-6 mb-10 bg-[#00578E]/5 p-8 rounded-[32px] border border-[#00578E]/10">
+                <div class="flex items-center gap-6">
+                    {%- assign vendor_handle = product.vendor | handleize -%}
+                    {%- assign logo_name = vendor_handle | append: '-logo.png' -%}
+                    <div class="w-24 h-24 shrink-0 bg-white rounded-2xl border border-outline-variant/10 p-4 flex items-center justify-center shadow-sm">
+                        <img src="{{ logo_name | asset_url }}" 
+                             alt="{{ product.vendor }}" 
+                             class="max-w-full max-h-full object-contain"
+                             onerror="this.parentElement.style.display='none'">
+                    </div>
+                    <div>
+                        <h3 class="text-3xl font-black uppercase italic tracking-tighter text-[#00578E] mb-2">Ricambi & Assistenza {{ product.vendor }}</h3>
+                        <p class="text-sm font-medium text-outline">Hai bisogno di supporto tecnico per il tuo <strong>{{ product.title }}</strong>? Qui trovi tutti i ricambi originali e l'accesso diretto all'assistenza ufficiale.</p>
+                    </div>
+                </div>
+                <div class="flex flex-col sm:flex-row gap-4 w-full md:w-auto">
+                    <a href="/pages/brand-ricambi/{{ product.vendor | handleize }}" class="w-full sm:w-auto text-center bg-white text-[#00578E] border border-[#00578E]/20 px-8 py-4 rounded-2xl font-black uppercase tracking-widest text-xs hover:bg-[#00578E] hover:text-white transition-all shadow-sm">
+                        Esplosi {{ product.vendor }}
+                    </a>
+                    {%- assign wa_phone = shop.phone | default: '390774345316' | replace: '+', '' | replace: ' ', '' | replace: '-', '' | replace: '(', '' | replace: ')', '' -%}
+                    {%- assign wa_message = "Ciao! Richiedo assistenza per il prodotto: " | append: product.title | append: " (Brand: " | append: product.vendor | append: ")" -%}
+                    <a href="https://wa.me/{{ wa_phone }}?text={{ wa_message | url_param_escape }}" target="_blank" class="w-full sm:w-auto text-center bg-[#25D366] text-white px-8 py-4 rounded-2xl font-black uppercase tracking-widest text-xs hover:bg-[#128C7E] transition-all shadow-lg shadow-[#25D366]/20 flex items-center justify-center gap-2">
+                        <span class="material-symbols-outlined text-sm text-white">chat</span>
+                        Richiedi Assistenza
+                    </a>
+                </div>
+            </div>
+            
+            {%- assign ricambi = product.metafields.custom.lista_ricambi_esploso.value -%}
+            {%- if ricambi != blank -%}
+                <ul class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-4" role="list">
+                    {%- for ricambio in ricambi -%}
+                        <li class="bg-surface-container-low/30 p-3 rounded-2xl border border-outline-variant/10 flex items-center gap-4 group">
+                            <div class="w-12 h-12 shrink-0 bg-white rounded-xl border border-outline-variant/10 flex items-center justify-center relative overflow-hidden">
+                                {%- if ricambio.immagine.value != blank -%}
+                                    <img src="{{ ricambio.immagine.reference.image.url | image_url: width: 100 }}" alt="{{ ricambio.nome.value | escape }}" class="w-full h-full object-contain" loading="lazy">
+                                {%- else -%}
+                                    <span class="text-[8px] font-black text-outline opacity-40">N/A</span>
+                                {%- endif -%}
+                                {%- if ricambio.riferimento_esploso.value != blank -%}
+                                    <div class="absolute inset-0 bg-[#00578E]/10 flex items-center justify-center opacity-0 group-hover:opacity-100 transition-opacity">
+                                        <span class="text-[10px] font-black text-[#00578E]">#{{ ricambio.riferimento_esploso.value }}</span>
+                                    </div>
+                                {%- endif -%}
+                            </div>
+                            <div class="flex-1 min-w-0">
+                                <div class="flex items-baseline gap-2">
+                                    {% if ricambio.riferimento_esploso.value != blank %}
+                                        <span class="text-[10px] font-black text-[#00578E] shrink-0">[{{ ricambio.riferimento_esploso.value }}]</span>
+                                    {% endif %}
+                                    <p class="font-bold text-[11px] text-primary truncate">{{ ricambio.nome.value }}</p>
+                                </div>
+                                <p class="text-[9px] text-outline font-bold mt-0.5 uppercase tracking-tighter">{{ ricambio.sku_originale.value }}</p>
+                            </div>
+                        </li>
+                    {%- endfor -%}
+                </ul>
+            {%- else -%}
+                <div class="bg-surface-container-low p-8 rounded-3xl text-center border-2 border-dashed border-outline-variant/30">
+                    <p class="text-outline font-black uppercase tracking-widest text-xs">Nessun ricambio associato trovato.</p>
+                </div>
+            {%- endif -%}
+        </div>
+    </div>
+
+</div>
+
+{% schema %}
+{
+  "name": "Product V4 Tabbed",
+  "tag": "section",
+  "class": "section",
+  "settings": []
+}
+{% endschema %}

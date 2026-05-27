@@ -1,0 +1,118 @@
+<!-- JSON-LD SEO Schema per Motori di Ricerca & LLM -->
+
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "Organization",
+  "name": "{{ shop.name }}",
+  {% if shop.brand.logo != blank %}
+  "logo": "{{ shop.brand.logo | image_url: width: 500 }}",
+  {% endif %}
+  "url": "{{ request.origin }}"
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "WebSite",
+  "name": "{{ shop.name }}",
+  "url": "{{ request.origin }}",
+  "potentialAction": {
+    "@type": "SearchAction",
+    "target": "{{ request.origin }}/search?q={search_term_string}",
+    "query-input": "required name=search_term_string"
+  }
+}
+</script>
+
+{% if request.page_type == 'product' %}
+<script type="application/ld+json">
+  {{ product | structured_data }}
+</script>
+{% endif %}
+
+{% if request.page_type == 'article' %}
+<script type="application/ld+json">
+  {{ article | structured_data }}
+</script>
+{% endif %}
+
+{% if request.page_type == 'collection' and collection.products.size > 0 %}
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "CollectionPage",
+  "name": "{{ collection.title | escape }}",
+  "description": "{{ collection.description | strip_html | escape }}",
+  "url": "{{ request.origin }}{{ collection.url }}"
+}
+</script>
+{% endif %}
+
+{%- if request.page_type == 'index' or request.page_type == 'product' or request.page_type == 'collection' or request.page_type == 'article' or request.page_type == 'page' -%}
+  <script type="application/ld+json">
+  {
+    "@context": "http://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home",
+        "item": "{{ request.origin }}"
+      }
+      {%- if request.page_type == 'product' -%}
+        {%- if collection -%}
+        ,{
+          "@type": "ListItem",
+          "position": 2,
+          "name": "{{ collection.title | escape }}",
+          "item": "{{ request.origin }}{{ collection.url }}"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "{{ product.title | escape }}",
+          "item": "{{ request.origin }}{{ product.url }}"
+        }
+        {%- else -%}
+        ,{
+          "@type": "ListItem",
+          "position": 2,
+          "name": "{{ product.title | escape }}",
+          "item": "{{ request.origin }}{{ product.url }}"
+        }
+        {%- endif -%}
+      {%- elsif request.page_type == 'collection' -%}
+        ,{
+          "@type": "ListItem",
+          "position": 2,
+          "name": "{{ collection.title | escape }}",
+          "item": "{{ request.origin }}{{ collection.url }}"
+        }
+      {%- elsif request.page_type == 'article' -%}
+        ,{
+          "@type": "ListItem",
+          "position": 2,
+          "name": "{{ blog.title | escape }}",
+          "item": "{{ request.origin }}{{ blog.url }}"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "{{ article.title | escape }}",
+          "item": "{{ request.origin }}{{ article.url }}"
+        }
+      {%- elsif request.page_type == 'page' -%}
+        ,{
+          "@type": "ListItem",
+          "position": 2,
+          "name": "{{ page.title | escape }}",
+          "item": "{{ request.origin }}{{ page.url }}"
+        }
+      {%- endif -%}
+    ]
+  }
+  </script>
+{%- endif -%}

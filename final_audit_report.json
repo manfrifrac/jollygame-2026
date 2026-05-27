@@ -1,0 +1,1474 @@
+[
+  {
+    "title": "Piscina Gre Serie Islanda (Nordic Omega)",
+    "id": "gid://shopify/Product/15598207992156",
+    "variants_count": 2,
+    "images_count": 1,
+    "variants": [
+      {
+        "sku": "KITPROV7388N",
+        "price": "4707.10",
+        "expected": "4707.10",
+        "status": "OK"
+      },
+      {
+        "sku": "KITPROV6188N",
+        "price": "4006.70",
+        "expected": "4006.70",
+        "status": "OK"
+      }
+    ]
+  },
+  {
+    "title": "Piscina Gre Serie Amazonia (Legno Omega)",
+    "id": "gid://shopify/Product/15598208123228",
+    "variants_count": 2,
+    "images_count": 0,
+    "variants": [
+      {
+        "sku": "KITPROV7388WO",
+        "price": "4707.10",
+        "expected": "4707.10",
+        "status": "OK"
+      },
+      {
+        "sku": "KITPROV6188WO",
+        "price": "4006.70",
+        "expected": "4006.70",
+        "status": "OK"
+      }
+    ]
+  },
+  {
+    "title": "Piscina Gre Serie Atlantis (Bianca Omega)",
+    "id": "gid://shopify/Product/15598208188764",
+    "variants_count": 6,
+    "images_count": 0,
+    "variants": [
+      {
+        "sku": "KITPROV10288",
+        "price": "6174.85",
+        "expected": "6174.85",
+        "status": "OK"
+      },
+      {
+        "sku": "KITPROV9188",
+        "price": "5721.65",
+        "expected": "5721.65",
+        "status": "OK"
+      },
+      {
+        "sku": "KITPROV7388",
+        "price": "4423.85",
+        "expected": "4423.85",
+        "status": "OK"
+      },
+      {
+        "sku": "KITPROV6188",
+        "price": "3877.95",
+        "expected": "3877.95",
+        "status": "OK"
+      },
+      {
+        "sku": "KITPROV6270",
+        "price": "3284.67",
+        "expected": "3284.67",
+        "status": "OK"
+      },
+      {
+        "sku": "KITPROV4870",
+        "price": "2832.50",
+        "expected": "2832.50",
+        "status": "OK"
+      }
+    ]
+  },
+  {
+    "title": "Piscina Gre Serie Greenland (Nordic Pali)",
+    "id": "gid://shopify/Product/15598208680284",
+    "variants_count": 18,
+    "images_count": 1,
+    "variants": [
+      {
+        "sku": "KPCOR60LT",
+        "price": "10500.85",
+        "expected": "10500.85",
+        "status": "OK"
+      },
+      {
+        "sku": "KPCOR60T",
+        "price": "10397.85",
+        "expected": "10397.85",
+        "status": "OK"
+      },
+      {
+        "sku": "KPCOR46T",
+        "price": "8290.47",
+        "expected": "8290.47",
+        "status": "OK"
+      },
+      {
+        "sku": "KPCOR28T",
+        "price": "5247.85",
+        "expected": "5247.85",
+        "status": "OK"
+      },
+      {
+        "sku": "KPCOR2814T",
+        "price": "4351.75",
+        "expected": "4351.75",
+        "status": "OK"
+      },
+      {
+        "sku": "KITPROV738N",
+        "price": "3790.40",
+        "expected": "3790.40",
+        "status": "OK"
+      },
+      {
+        "sku": "KITPROV618N",
+        "price": "3167.25",
+        "expected": "3167.25",
+        "status": "OK"
+      },
+      {
+        "sku": "KITPROV508N",
+        "price": "2863.40",
+        "expected": "2863.40",
+        "status": "OK"
+      },
+      {
+        "sku": "KITPR558N",
+        "price": "2811.90",
+        "expected": "2811.90",
+        "status": "OK"
+      },
+      {
+        "sku": "KITPR458N",
+        "price": "2271.15",
+        "expected": "2271.15",
+        "status": "OK"
+      },
+      {
+        "sku": "KITPR358N",
+        "price": "2106.35",
+        "expected": "2106.35",
+        "status": "OK"
+      },
+      {
+        "sku": "KIT730N",
+        "price": "3084.85",
+        "expected": "3084.85",
+        "status": "OK"
+      },
+      {
+        "sku": "KIT610N",
+        "price": "2625.47",
+        "expected": "2625.47",
+        "status": "OK"
+      },
+      {
+        "sku": "KIT500N",
+        "price": "2106.35",
+        "expected": "2106.35",
+        "status": "OK"
+      },
+      {
+        "sku": "KIT460N",
+        "price": "1678.90",
+        "expected": "1678.90",
+        "status": "OK"
+      },
+      {
+        "sku": "KIT350N",
+        "price": "1467.75",
+        "expected": "1467.75",
+        "status": "OK"
+      },
+      {
+        "sku": "KIT300N",
+        "price": "1416.25",
+        "expected": "1416.25",
+        "status": "OK"
+      },
+      {
+        "sku": "KIT240N",
+        "price": "1282.35",
+        "expected": "1282.35",
+        "status": "OK"
+      }
+    ]
+  },
+  {
+    "title": "Piscina Gre Serie Skyathos (Antracite Omega)",
+    "id": "gid://shopify/Product/15598208745820",
+    "variants_count": 7,
+    "images_count": 1,
+    "variants": [
+      {
+        "sku": "KPCOV80",
+        "price": "10866.50",
+        "expected": "10866.50",
+        "status": "OK"
+      },
+      {
+        "sku": "KPCOV66L",
+        "price": "9393.60",
+        "expected": "9393.60",
+        "status": "OK"
+      },
+      {
+        "sku": "KPCOV66",
+        "price": "9218.50",
+        "expected": "9218.50",
+        "status": "OK"
+      },
+      {
+        "sku": "KPCOV52L",
+        "price": "7498.40",
+        "expected": "7498.40",
+        "status": "OK"
+      },
+      {
+        "sku": "KPCOV52",
+        "price": "7436.60",
+        "expected": "7436.60",
+        "status": "OK"
+      },
+      {
+        "sku": "KITPROV7388GY",
+        "price": "4221.97",
+        "expected": "4221.97",
+        "status": "OK"
+      },
+      {
+        "sku": "KITPROV6188GY",
+        "price": "3605.00",
+        "expected": "3605.00",
+        "status": "OK"
+      }
+    ]
+  },
+  {
+    "title": "Piscina Gre Serie Kea (Antracite Pali)",
+    "id": "gid://shopify/Product/15598208811356",
+    "variants_count": 27,
+    "images_count": 1,
+    "variants": [
+      {
+        "sku": "KPCO41",
+        "price": "5592.90",
+        "expected": "5592.90",
+        "status": "OK"
+      },
+      {
+        "sku": "KITPROV738GY",
+        "price": "3388.70",
+        "expected": "3388.70",
+        "status": "OK"
+      },
+      {
+        "sku": "KITPROV618GY",
+        "price": "2935.50",
+        "expected": "2935.50",
+        "status": "OK"
+      },
+      {
+        "sku": "KITPROV508GY",
+        "price": "2656.37",
+        "expected": "2656.37",
+        "status": "OK"
+      },
+      {
+        "sku": "KITPR458GY",
+        "price": "2142.40",
+        "expected": "2142.40",
+        "status": "OK"
+      },
+      {
+        "sku": "KITPR358GY",
+        "price": "1895.20",
+        "expected": "1895.20",
+        "status": "OK"
+      },
+      {
+        "sku": "KIT730GY",
+        "price": "2935.50",
+        "expected": "2935.50",
+        "status": "OK"
+      },
+      {
+        "sku": "KIT610GY",
+        "price": "2451.40",
+        "expected": "2451.40",
+        "status": "OK"
+      },
+      {
+        "sku": "KIT500GY",
+        "price": "2090.90",
+        "expected": "2090.90",
+        "status": "OK"
+      },
+      {
+        "sku": "KIT460GY",
+        "price": "1668.60",
+        "expected": "1668.60",
+        "status": "OK"
+      },
+      {
+        "sku": "KIT350GY",
+        "price": "1431.70",
+        "expected": "1431.70",
+        "status": "OK"
+      },
+      {
+        "sku": "KIT300GY",
+        "price": "1390.50",
+        "expected": "1390.50",
+        "status": "OK"
+      },
+      {
+        "sku": "KIT610GYQGRE",
+        "price": "1914.77",
+        "expected": "1914.77",
+        "status": "OK"
+      },
+      {
+        "sku": "KIT500GYQGRE",
+        "price": "1646.97",
+        "expected": "1646.97",
+        "status": "OK"
+      },
+      {
+        "sku": "KIT460GYQGRE",
+        "price": "1337.97",
+        "expected": "1337.97",
+        "status": "OK"
+      },
+      {
+        "sku": "KIT350GYQGRE",
+        "price": "1214.37",
+        "expected": "1214.37",
+        "status": "OK"
+      },
+      {
+        "sku": "KIT300GYQGRE",
+        "price": "1080.47",
+        "expected": "1080.47",
+        "status": "OK"
+      },
+      {
+        "sku": "MPF509GY",
+        "price": "29.87",
+        "expected": "29.87",
+        "status": "OK"
+      },
+      {
+        "sku": "SPCO80G",
+        "price": "1581.05",
+        "expected": "1581.05",
+        "status": "OK"
+      },
+      {
+        "sku": "SPCO66G",
+        "price": "1341.06",
+        "expected": "1341.06",
+        "status": "OK"
+      },
+      {
+        "sku": "SPCO52G",
+        "price": "1086.65",
+        "expected": "1086.65",
+        "status": "OK"
+      },
+      {
+        "sku": "SPCOR60G",
+        "price": "972.32",
+        "expected": "972.32",
+        "status": "OK"
+      },
+      {
+        "sku": "SPCOR46G",
+        "price": "951.72",
+        "expected": "951.72",
+        "status": "OK"
+      },
+      {
+        "sku": "SPCO41G",
+        "price": "852.84",
+        "expected": "852.84",
+        "status": "OK"
+      },
+      {
+        "sku": "SPCOR28G",
+        "price": "655.08",
+        "expected": "655.08",
+        "status": "OK"
+      },
+      {
+        "sku": "SPCOR2814G",
+        "price": "452.17",
+        "expected": "452.17",
+        "status": "OK"
+      },
+      {
+        "sku": "AR100G",
+        "price": "52.53",
+        "expected": "52.53",
+        "status": "OK"
+      }
+    ]
+  },
+  {
+    "title": "Piscina Gre Serie Mauritius (Legno Pali)",
+    "id": "gid://shopify/Product/15598208876892",
+    "variants_count": 23,
+    "images_count": 1,
+    "variants": [
+      {
+        "sku": "KITPROV738WO",
+        "price": "3790.40",
+        "expected": "3790.40",
+        "status": "OK"
+      },
+      {
+        "sku": "KITPROV618WO",
+        "price": "3167.25",
+        "expected": "3167.25",
+        "status": "OK"
+      },
+      {
+        "sku": "KITPROV508WO",
+        "price": "2863.40",
+        "expected": "2863.40",
+        "status": "OK"
+      },
+      {
+        "sku": "KITPR558WO",
+        "price": "2811.90",
+        "expected": "2811.90",
+        "status": "OK"
+      },
+      {
+        "sku": "KITPR458WO",
+        "price": "2271.15",
+        "expected": "2271.15",
+        "status": "OK"
+      },
+      {
+        "sku": "KITPR358WO",
+        "price": "2106.35",
+        "expected": "2106.35",
+        "status": "OK"
+      },
+      {
+        "sku": "KIT730W",
+        "price": "3084.85",
+        "expected": "3084.85",
+        "status": "OK"
+      },
+      {
+        "sku": "KIT610W",
+        "price": "2625.47",
+        "expected": "2625.47",
+        "status": "OK"
+      },
+      {
+        "sku": "KIT500W",
+        "price": "2106.35",
+        "expected": "2106.35",
+        "status": "OK"
+      },
+      {
+        "sku": "KIT460W",
+        "price": "1678.90",
+        "expected": "1678.90",
+        "status": "OK"
+      },
+      {
+        "sku": "KIT350W",
+        "price": "1467.75",
+        "expected": "1467.75",
+        "status": "OK"
+      },
+      {
+        "sku": "KIT300W",
+        "price": "1416.25",
+        "expected": "1416.25",
+        "status": "OK"
+      },
+      {
+        "sku": "KIT240W",
+        "price": "1282.35",
+        "expected": "1282.35",
+        "status": "OK"
+      },
+      {
+        "sku": "KIT610WQGRE",
+        "price": "1801.47",
+        "expected": "1801.47",
+        "status": "OK"
+      },
+      {
+        "sku": "KIT500WQGRE",
+        "price": "1502.77",
+        "expected": "1502.77",
+        "status": "OK"
+      },
+      {
+        "sku": "KIT460WQGRE",
+        "price": "1214.37",
+        "expected": "1214.37",
+        "status": "OK"
+      },
+      {
+        "sku": "KIT350WQGRE",
+        "price": "1111.37",
+        "expected": "1111.37",
+        "status": "OK"
+      },
+      {
+        "sku": "KIT300WQGRE",
+        "price": "977.47",
+        "expected": "977.47",
+        "status": "OK"
+      },
+      {
+        "sku": "KITPROV503W",
+        "price": "1838.55",
+        "expected": "1838.55",
+        "status": "OK"
+      },
+      {
+        "sku": "KITPR453W",
+        "price": "1467.75",
+        "expected": "1467.75",
+        "status": "OK"
+      },
+      {
+        "sku": "KITPR353W",
+        "price": "1261.75",
+        "expected": "1261.75",
+        "status": "OK"
+      },
+      {
+        "sku": "KITPR303W",
+        "price": "1204.07",
+        "expected": "1204.07",
+        "status": "OK"
+      },
+      {
+        "sku": "CRP58",
+        "price": "163.77",
+        "expected": "163.77",
+        "status": "OK"
+      }
+    ]
+  },
+  {
+    "title": "Piscina Gre Serie Fidji (Bianca Pali)",
+    "id": "gid://shopify/Product/15598208975196",
+    "variants_count": 27,
+    "images_count": 1,
+    "variants": [
+      {
+        "sku": "KITPROV1028",
+        "price": "6051.25",
+        "expected": "6051.25",
+        "status": "OK"
+      },
+      {
+        "sku": "KITPROV918",
+        "price": "4629.85",
+        "expected": "4629.85",
+        "status": "OK"
+      },
+      {
+        "sku": "KITPROV818",
+        "price": "4006.70",
+        "expected": "4006.70",
+        "status": "OK"
+      },
+      {
+        "sku": "KITPROV738",
+        "price": "3342.35",
+        "expected": "3342.35",
+        "status": "OK"
+      },
+      {
+        "sku": "KITPROV618",
+        "price": "2811.90",
+        "expected": "2811.90",
+        "status": "OK"
+      },
+      {
+        "sku": "KITPROV508",
+        "price": "2518.35",
+        "expected": "2518.35",
+        "status": "OK"
+      },
+      {
+        "sku": "KITPR558",
+        "price": "2538.95",
+        "expected": "2538.95",
+        "status": "OK"
+      },
+      {
+        "sku": "KITPR458",
+        "price": "2209.35",
+        "expected": "2209.35",
+        "status": "OK"
+      },
+      {
+        "sku": "KITPR358",
+        "price": "1884.90",
+        "expected": "1884.90",
+        "status": "OK"
+      },
+      {
+        "sku": "KIT730ECO",
+        "price": "2569.85",
+        "expected": "2569.85",
+        "status": "OK"
+      },
+      {
+        "sku": "KIT610ECO",
+        "price": "2003.35",
+        "expected": "2003.35",
+        "status": "OK"
+      },
+      {
+        "sku": "KIT500ECO",
+        "price": "1848.85",
+        "expected": "1848.85",
+        "status": "OK"
+      },
+      {
+        "sku": "KIT550ECO",
+        "price": "1678.90",
+        "expected": "1678.90",
+        "status": "OK"
+      },
+      {
+        "sku": "KIT460ECO",
+        "price": "1467.75",
+        "expected": "1467.75",
+        "status": "OK"
+      },
+      {
+        "sku": "KIT350ECO",
+        "price": "1282.35",
+        "expected": "1282.35",
+        "status": "OK"
+      },
+      {
+        "sku": "KIT300ECO",
+        "price": "1230.85",
+        "expected": "1230.85",
+        "status": "OK"
+      },
+      {
+        "sku": "KIT240ECO",
+        "price": "1131.97",
+        "expected": "1131.97",
+        "status": "OK"
+      },
+      {
+        "sku": "KIT610QGRE",
+        "price": "1801.47",
+        "expected": "1801.47",
+        "status": "OK"
+      },
+      {
+        "sku": "KIT500QGRE",
+        "price": "1502.77",
+        "expected": "1502.77",
+        "status": "OK"
+      },
+      {
+        "sku": "KIT460QGRE",
+        "price": "1214.37",
+        "expected": "1214.37",
+        "status": "OK"
+      },
+      {
+        "sku": "KIT350QGRE",
+        "price": "1111.37",
+        "expected": "1111.37",
+        "status": "OK"
+      },
+      {
+        "sku": "KIT300QGRE",
+        "price": "977.47",
+        "expected": "977.47",
+        "status": "OK"
+      },
+      {
+        "sku": "KITPROV613",
+        "price": "1890.05",
+        "expected": "1890.05",
+        "status": "OK"
+      },
+      {
+        "sku": "KITPROV503",
+        "price": "1708.77",
+        "expected": "1708.77",
+        "status": "OK"
+      },
+      {
+        "sku": "KITPR453",
+        "price": "1234.97",
+        "expected": "1234.97",
+        "status": "OK"
+      },
+      {
+        "sku": "KITPR353",
+        "price": "1049.57",
+        "expected": "1049.57",
+        "status": "OK"
+      },
+      {
+        "sku": "KITPR303",
+        "price": "998.07",
+        "expected": "998.07",
+        "status": "OK"
+      }
+    ]
+  },
+  {
+    "title": "Piscina Gre Serie Islanda (Nordic Omega)",
+    "id": "gid://shopify/Product/15598210646364",
+    "variants_count": 2,
+    "images_count": 1,
+    "variants": [
+      {
+        "sku": "KITPROV7388N",
+        "price": "4707.10",
+        "expected": "4707.10",
+        "status": "OK"
+      },
+      {
+        "sku": "KITPROV6188N",
+        "price": "4006.70",
+        "expected": "4006.70",
+        "status": "OK"
+      }
+    ]
+  },
+  {
+    "title": "Piscina Gre Serie Greenland (Nordic Pali)",
+    "id": "gid://shopify/Product/15598210679132",
+    "variants_count": 18,
+    "images_count": 1,
+    "variants": [
+      {
+        "sku": "KPCOR60LT",
+        "price": "10500.85",
+        "expected": "10500.85",
+        "status": "OK"
+      },
+      {
+        "sku": "KPCOR60T",
+        "price": "10397.85",
+        "expected": "10397.85",
+        "status": "OK"
+      },
+      {
+        "sku": "KPCOR46T",
+        "price": "8290.47",
+        "expected": "8290.47",
+        "status": "OK"
+      },
+      {
+        "sku": "KPCOR28T",
+        "price": "5247.85",
+        "expected": "5247.85",
+        "status": "OK"
+      },
+      {
+        "sku": "KPCOR2814T",
+        "price": "4351.75",
+        "expected": "4351.75",
+        "status": "OK"
+      },
+      {
+        "sku": "KITPROV738N",
+        "price": "3790.40",
+        "expected": "3790.40",
+        "status": "OK"
+      },
+      {
+        "sku": "KITPROV618N",
+        "price": "3167.25",
+        "expected": "3167.25",
+        "status": "OK"
+      },
+      {
+        "sku": "KITPROV508N",
+        "price": "2863.40",
+        "expected": "2863.40",
+        "status": "OK"
+      },
+      {
+        "sku": "KITPR558N",
+        "price": "2811.90",
+        "expected": "2811.90",
+        "status": "OK"
+      },
+      {
+        "sku": "KITPR458N",
+        "price": "2271.15",
+        "expected": "2271.15",
+        "status": "OK"
+      },
+      {
+        "sku": "KITPR358N",
+        "price": "2106.35",
+        "expected": "2106.35",
+        "status": "OK"
+      },
+      {
+        "sku": "KIT730N",
+        "price": "3084.85",
+        "expected": "3084.85",
+        "status": "OK"
+      },
+      {
+        "sku": "KIT610N",
+        "price": "2625.47",
+        "expected": "2625.47",
+        "status": "OK"
+      },
+      {
+        "sku": "KIT500N",
+        "price": "2106.35",
+        "expected": "2106.35",
+        "status": "OK"
+      },
+      {
+        "sku": "KIT460N",
+        "price": "1678.90",
+        "expected": "1678.90",
+        "status": "OK"
+      },
+      {
+        "sku": "KIT350N",
+        "price": "1467.75",
+        "expected": "1467.75",
+        "status": "OK"
+      },
+      {
+        "sku": "KIT300N",
+        "price": "1416.25",
+        "expected": "1416.25",
+        "status": "OK"
+      },
+      {
+        "sku": "KIT240N",
+        "price": "1282.35",
+        "expected": "1282.35",
+        "status": "OK"
+      }
+    ]
+  },
+  {
+    "title": "Piscina Gre Serie Skyathos (Antracite Omega)",
+    "id": "gid://shopify/Product/15598210711900",
+    "variants_count": 7,
+    "images_count": 1,
+    "variants": [
+      {
+        "sku": "KPCOV80",
+        "price": "10866.50",
+        "expected": "10866.50",
+        "status": "OK"
+      },
+      {
+        "sku": "KPCOV66L",
+        "price": "9393.60",
+        "expected": "9393.60",
+        "status": "OK"
+      },
+      {
+        "sku": "KPCOV66",
+        "price": "9218.50",
+        "expected": "9218.50",
+        "status": "OK"
+      },
+      {
+        "sku": "KPCOV52L",
+        "price": "7498.40",
+        "expected": "7498.40",
+        "status": "OK"
+      },
+      {
+        "sku": "KPCOV52",
+        "price": "7436.60",
+        "expected": "7436.60",
+        "status": "OK"
+      },
+      {
+        "sku": "KITPROV7388GY",
+        "price": "4221.97",
+        "expected": "4221.97",
+        "status": "OK"
+      },
+      {
+        "sku": "KITPROV6188GY",
+        "price": "3605.00",
+        "expected": "3605.00",
+        "status": "OK"
+      }
+    ]
+  },
+  {
+    "title": "Piscina Gre Serie Kea (Antracite Pali)",
+    "id": "gid://shopify/Product/15598210744668",
+    "variants_count": 27,
+    "images_count": 1,
+    "variants": [
+      {
+        "sku": "KPCO41",
+        "price": "5592.90",
+        "expected": "5592.90",
+        "status": "OK"
+      },
+      {
+        "sku": "KITPROV738GY",
+        "price": "3388.70",
+        "expected": "3388.70",
+        "status": "OK"
+      },
+      {
+        "sku": "KITPROV618GY",
+        "price": "2935.50",
+        "expected": "2935.50",
+        "status": "OK"
+      },
+      {
+        "sku": "KITPROV508GY",
+        "price": "2656.37",
+        "expected": "2656.37",
+        "status": "OK"
+      },
+      {
+        "sku": "KITPR458GY",
+        "price": "2142.40",
+        "expected": "2142.40",
+        "status": "OK"
+      },
+      {
+        "sku": "KITPR358GY",
+        "price": "1895.20",
+        "expected": "1895.20",
+        "status": "OK"
+      },
+      {
+        "sku": "KIT730GY",
+        "price": "2935.50",
+        "expected": "2935.50",
+        "status": "OK"
+      },
+      {
+        "sku": "KIT610GY",
+        "price": "2451.40",
+        "expected": "2451.40",
+        "status": "OK"
+      },
+      {
+        "sku": "KIT500GY",
+        "price": "2090.90",
+        "expected": "2090.90",
+        "status": "OK"
+      },
+      {
+        "sku": "KIT460GY",
+        "price": "1668.60",
+        "expected": "1668.60",
+        "status": "OK"
+      },
+      {
+        "sku": "KIT350GY",
+        "price": "1431.70",
+        "expected": "1431.70",
+        "status": "OK"
+      },
+      {
+        "sku": "KIT300GY",
+        "price": "1390.50",
+        "expected": "1390.50",
+        "status": "OK"
+      },
+      {
+        "sku": "KIT610GYQGRE",
+        "price": "1914.77",
+        "expected": "1914.77",
+        "status": "OK"
+      },
+      {
+        "sku": "KIT500GYQGRE",
+        "price": "1646.97",
+        "expected": "1646.97",
+        "status": "OK"
+      },
+      {
+        "sku": "KIT460GYQGRE",
+        "price": "1337.97",
+        "expected": "1337.97",
+        "status": "OK"
+      },
+      {
+        "sku": "KIT350GYQGRE",
+        "price": "1214.37",
+        "expected": "1214.37",
+        "status": "OK"
+      },
+      {
+        "sku": "KIT300GYQGRE",
+        "price": "1080.47",
+        "expected": "1080.47",
+        "status": "OK"
+      },
+      {
+        "sku": "MPF509GY",
+        "price": "29.87",
+        "expected": "29.87",
+        "status": "OK"
+      },
+      {
+        "sku": "SPCO80G",
+        "price": "1581.05",
+        "expected": "1581.05",
+        "status": "OK"
+      },
+      {
+        "sku": "SPCO66G",
+        "price": "1341.06",
+        "expected": "1341.06",
+        "status": "OK"
+      },
+      {
+        "sku": "SPCO52G",
+        "price": "1086.65",
+        "expected": "1086.65",
+        "status": "OK"
+      },
+      {
+        "sku": "SPCOR60G",
+        "price": "972.32",
+        "expected": "972.32",
+        "status": "OK"
+      },
+      {
+        "sku": "SPCOR46G",
+        "price": "951.72",
+        "expected": "951.72",
+        "status": "OK"
+      },
+      {
+        "sku": "SPCO41G",
+        "price": "852.84",
+        "expected": "852.84",
+        "status": "OK"
+      },
+      {
+        "sku": "SPCOR28G",
+        "price": "655.08",
+        "expected": "655.08",
+        "status": "OK"
+      },
+      {
+        "sku": "SPCOR2814G",
+        "price": "452.17",
+        "expected": "452.17",
+        "status": "OK"
+      },
+      {
+        "sku": "AR100G",
+        "price": "52.53",
+        "expected": "52.53",
+        "status": "OK"
+      }
+    ]
+  },
+  {
+    "title": "Piscina Gre Serie Amazonia (Legno Omega)",
+    "id": "gid://shopify/Product/15598210777436",
+    "variants_count": 2,
+    "images_count": 0,
+    "variants": [
+      {
+        "sku": "KITPROV7388WO",
+        "price": "4707.10",
+        "expected": "4707.10",
+        "status": "OK"
+      },
+      {
+        "sku": "KITPROV6188WO",
+        "price": "4006.70",
+        "expected": "4006.70",
+        "status": "OK"
+      }
+    ]
+  },
+  {
+    "title": "Piscina Gre Serie Mauritius (Legno Pali)",
+    "id": "gid://shopify/Product/15598210842972",
+    "variants_count": 23,
+    "images_count": 1,
+    "variants": [
+      {
+        "sku": "KITPROV738WO",
+        "price": "3790.40",
+        "expected": "3790.40",
+        "status": "OK"
+      },
+      {
+        "sku": "KITPROV618WO",
+        "price": "3167.25",
+        "expected": "3167.25",
+        "status": "OK"
+      },
+      {
+        "sku": "KITPROV508WO",
+        "price": "2863.40",
+        "expected": "2863.40",
+        "status": "OK"
+      },
+      {
+        "sku": "KITPR558WO",
+        "price": "2811.90",
+        "expected": "2811.90",
+        "status": "OK"
+      },
+      {
+        "sku": "KITPR458WO",
+        "price": "2271.15",
+        "expected": "2271.15",
+        "status": "OK"
+      },
+      {
+        "sku": "KITPR358WO",
+        "price": "2106.35",
+        "expected": "2106.35",
+        "status": "OK"
+      },
+      {
+        "sku": "KIT730W",
+        "price": "3084.85",
+        "expected": "3084.85",
+        "status": "OK"
+      },
+      {
+        "sku": "KIT610W",
+        "price": "2625.47",
+        "expected": "2625.47",
+        "status": "OK"
+      },
+      {
+        "sku": "KIT500W",
+        "price": "2106.35",
+        "expected": "2106.35",
+        "status": "OK"
+      },
+      {
+        "sku": "KIT460W",
+        "price": "1678.90",
+        "expected": "1678.90",
+        "status": "OK"
+      },
+      {
+        "sku": "KIT350W",
+        "price": "1467.75",
+        "expected": "1467.75",
+        "status": "OK"
+      },
+      {
+        "sku": "KIT300W",
+        "price": "1416.25",
+        "expected": "1416.25",
+        "status": "OK"
+      },
+      {
+        "sku": "KIT240W",
+        "price": "1282.35",
+        "expected": "1282.35",
+        "status": "OK"
+      },
+      {
+        "sku": "KIT610WQGRE",
+        "price": "1801.47",
+        "expected": "1801.47",
+        "status": "OK"
+      },
+      {
+        "sku": "KIT500WQGRE",
+        "price": "1502.77",
+        "expected": "1502.77",
+        "status": "OK"
+      },
+      {
+        "sku": "KIT460WQGRE",
+        "price": "1214.37",
+        "expected": "1214.37",
+        "status": "OK"
+      },
+      {
+        "sku": "KIT350WQGRE",
+        "price": "1111.37",
+        "expected": "1111.37",
+        "status": "OK"
+      },
+      {
+        "sku": "KIT300WQGRE",
+        "price": "977.47",
+        "expected": "977.47",
+        "status": "OK"
+      },
+      {
+        "sku": "KITPROV503W",
+        "price": "1838.55",
+        "expected": "1838.55",
+        "status": "OK"
+      },
+      {
+        "sku": "KITPR453W",
+        "price": "1467.75",
+        "expected": "1467.75",
+        "status": "OK"
+      },
+      {
+        "sku": "KITPR353W",
+        "price": "1261.75",
+        "expected": "1261.75",
+        "status": "OK"
+      },
+      {
+        "sku": "KITPR303W",
+        "price": "1204.07",
+        "expected": "1204.07",
+        "status": "OK"
+      },
+      {
+        "sku": "CRP58",
+        "price": "163.77",
+        "expected": "163.77",
+        "status": "OK"
+      }
+    ]
+  },
+  {
+    "title": "Piscina Gre Serie Atlantis (Bianca Omega)",
+    "id": "gid://shopify/Product/15598210875740",
+    "variants_count": 6,
+    "images_count": 0,
+    "variants": [
+      {
+        "sku": "KITPROV10288",
+        "price": "6174.85",
+        "expected": "6174.85",
+        "status": "OK"
+      },
+      {
+        "sku": "KITPROV9188",
+        "price": "5721.65",
+        "expected": "5721.65",
+        "status": "OK"
+      },
+      {
+        "sku": "KITPROV7388",
+        "price": "4423.85",
+        "expected": "4423.85",
+        "status": "OK"
+      },
+      {
+        "sku": "KITPROV6188",
+        "price": "3877.95",
+        "expected": "3877.95",
+        "status": "OK"
+      },
+      {
+        "sku": "KITPROV6270",
+        "price": "3284.67",
+        "expected": "3284.67",
+        "status": "OK"
+      },
+      {
+        "sku": "KITPROV4870",
+        "price": "2832.50",
+        "expected": "2832.50",
+        "status": "OK"
+      }
+    ]
+  },
+  {
+    "title": "Piscina Gre Serie Fidji (Bianca Pali)",
+    "id": "gid://shopify/Product/15598210908508",
+    "variants_count": 27,
+    "images_count": 1,
+    "variants": [
+      {
+        "sku": "KITPROV1028",
+        "price": "6051.25",
+        "expected": "6051.25",
+        "status": "OK"
+      },
+      {
+        "sku": "KITPROV918",
+        "price": "4629.85",
+        "expected": "4629.85",
+        "status": "OK"
+      },
+      {
+        "sku": "KITPROV818",
+        "price": "4006.70",
+        "expected": "4006.70",
+        "status": "OK"
+      },
+      {
+        "sku": "KITPROV738",
+        "price": "3342.35",
+        "expected": "3342.35",
+        "status": "OK"
+      },
+      {
+        "sku": "KITPROV618",
+        "price": "2811.90",
+        "expected": "2811.90",
+        "status": "OK"
+      },
+      {
+        "sku": "KITPROV508",
+        "price": "2518.35",
+        "expected": "2518.35",
+        "status": "OK"
+      },
+      {
+        "sku": "KITPR558",
+        "price": "2538.95",
+        "expected": "2538.95",
+        "status": "OK"
+      },
+      {
+        "sku": "KITPR458",
+        "price": "2209.35",
+        "expected": "2209.35",
+        "status": "OK"
+      },
+      {
+        "sku": "KITPR358",
+        "price": "1884.90",
+        "expected": "1884.90",
+        "status": "OK"
+      },
+      {
+        "sku": "KIT730ECO",
+        "price": "2569.85",
+        "expected": "2569.85",
+        "status": "OK"
+      },
+      {
+        "sku": "KIT610ECO",
+        "price": "2003.35",
+        "expected": "2003.35",
+        "status": "OK"
+      },
+      {
+        "sku": "KIT500ECO",
+        "price": "1848.85",
+        "expected": "1848.85",
+        "status": "OK"
+      },
+      {
+        "sku": "KIT550ECO",
+        "price": "1678.90",
+        "expected": "1678.90",
+        "status": "OK"
+      },
+      {
+        "sku": "KIT460ECO",
+        "price": "1467.75",
+        "expected": "1467.75",
+        "status": "OK"
+      },
+      {
+        "sku": "KIT350ECO",
+        "price": "1282.35",
+        "expected": "1282.35",
+        "status": "OK"
+      },
+      {
+        "sku": "KIT300ECO",
+        "price": "1230.85",
+        "expected": "1230.85",
+        "status": "OK"
+      },
+      {
+        "sku": "KIT240ECO",
+        "price": "1131.97",
+        "expected": "1131.97",
+        "status": "OK"
+      },
+      {
+        "sku": "KIT610QGRE",
+        "price": "1801.47",
+        "expected": "1801.47",
+        "status": "OK"
+      },
+      {
+        "sku": "KIT500QGRE",
+        "price": "1502.77",
+        "expected": "1502.77",
+        "status": "OK"
+      },
+      {
+        "sku": "KIT460QGRE",
+        "price": "1214.37",
+        "expected": "1214.37",
+        "status": "OK"
+      },
+      {
+        "sku": "KIT350QGRE",
+        "price": "1111.37",
+        "expected": "1111.37",
+        "status": "OK"
+      },
+      {
+        "sku": "KIT300QGRE",
+        "price": "977.47",
+        "expected": "977.47",
+        "status": "OK"
+      },
+      {
+        "sku": "KITPROV613",
+        "price": "1890.05",
+        "expected": "1890.05",
+        "status": "OK"
+      },
+      {
+        "sku": "KITPROV503",
+        "price": "1708.77",
+        "expected": "1708.77",
+        "status": "OK"
+      },
+      {
+        "sku": "KITPR453",
+        "price": "1234.97",
+        "expected": "1234.97",
+        "status": "OK"
+      },
+      {
+        "sku": "KITPR353",
+        "price": "1049.57",
+        "expected": "1049.57",
+        "status": "OK"
+      },
+      {
+        "sku": "KITPR303",
+        "price": "998.07",
+        "expected": "998.07",
+        "status": "OK"
+      }
+    ]
+  }
+]

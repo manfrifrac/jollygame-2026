@@ -1,0 +1,39 @@
+<div class="max-w-7xl mx-auto px-6 md:px-10 py-32 mb-20 text-center">
+    <div class="space-y-12">
+        <div class="relative inline-block">
+            <h1 class="text-[12rem] md:text-[20rem] font-black text-primary/5 italic leading-none select-none">404</h1>
+            <div class="absolute inset-0 flex items-center justify-center">
+                <div class="w-32 h-32 bg-surface-container-low rounded-[40px] flex items-center justify-center text-primary shadow-inner">
+                    <span class="material-symbols-outlined text-7xl opacity-20">explore_off</span>
+                </div>
+            </div>
+        </div>
+        
+        <div class="space-y-4 max-w-xl mx-auto">
+            <h2 class="text-4xl md:text-5xl font-black uppercase italic tracking-tighter text-primary">Rotta Smarrita</h2>
+            <p class="text-on-surface-variant font-medium text-lg leading-relaxed">La pagina che cerchi è svanita come cloro al sole. Ma non temere, i nostri tecnici hanno mappato l'intero ecosistema.</p>
+        </div>
+
+        <div class="flex flex-col sm:flex-row justify-center gap-6 pt-8">
+            <a href="{{ routes.root_url }}" class="bg-primary text-white px-12 py-5 rounded-2xl font-black text-xs uppercase tracking-widest shadow-xl hover:bg-primary-fixed-variant transition-all active:scale-95">
+                Torna in Superficie
+            </a>
+            <a href="/collections/all" class="bg-surface-container-low text-primary px-12 py-5 rounded-2xl font-black text-xs uppercase tracking-widest hover:bg-surface-container transition-all active:scale-95">
+                Esplora lo Shop
+            </a>
+        </div>
+    </div>
+</div>
+
+<!-- MO DEBUG
+{% for mo in shop.metaobjects.brand_ricambi.values %}
+URL: {{ mo.system.url }}
+{% endfor %}
+-->
+
+{% schema %}
+{
+  "name": "Main 404 Jolly",
+  "settings": []
+}
+{% endschema %}

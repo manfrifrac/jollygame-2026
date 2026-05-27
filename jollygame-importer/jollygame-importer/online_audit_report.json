@@ -1,0 +1,1199 @@
+{
+  "online": [
+    {
+      "title": "Pompa di calore Inverter HPGIC30",
+      "handle": "pompe-di-calore-inverter-hpgic30",
+      "vendor": "Gre",
+      "price": 999,
+      "issues": []
+    },
+    {
+      "title": "Doccia in acciaio inossidabile",
+      "handle": "docce-standard-doccia-in-acciaio-inossidabile",
+      "vendor": "Gre",
+      "price": 269,
+      "issues": []
+    },
+    {
+      "title": "Adesivo specifico per PVC",
+      "handle": "altri-accessori-adesivo-adesivo-per-pvc",
+      "vendor": "Gre",
+      "price": 18.5,
+      "issues": [
+        "POOR_TECHNICAL_SPECS"
+      ]
+    },
+    {
+      "title": "Tester digitale AquaChek TruTest con 50 strisce",
+      "handle": "analisi-dellacqua-tester-digitale-50-strisce-digitali-aquachek-trutest-anni-50",
+      "vendor": "Gre",
+      "price": 19.9,
+      "issues": [
+        "POOR_TECHNICAL_SPECS"
+      ]
+    },
+    {
+      "title": "Ossigeno attivo liquido 5 litri",
+      "handle": "prodotti-chimici-ossigeno-attivo-liquido-5-litri",
+      "vendor": "Gre",
+      "price": 65,
+      "issues": [
+        "POOR_TECHNICAL_SPECS"
+      ]
+    },
+    {
+      "title": "Avvolgitore per coperture piscine interrate",
+      "handle": "avvoglitore-avvolgitori-avvolgitore-coperture-piscine-interrate",
+      "vendor": "Gre",
+      "price": 299,
+      "issues": [
+        "POOR_TECHNICAL_SPECS"
+      ]
+    },
+    {
+      "title": "Riscaldamento solare per piscine",
+      "handle": "riscaldamento-solare-riscaldamento-solare-riscaldamento-per-piscine-smontabili-aum-3degc",
+      "vendor": "Gre",
+      "price": 169,
+      "issues": [
+        "POOR_TECHNICAL_SPECS"
+      ]
+    },
+    {
+      "title": "Aspiratori idraulici silenziosi Silence Vac",
+      "handle": "pulitori-ad-aspirazione-pulitori-ad-aspirazione-idraulici-silence-vac",
+      "vendor": "Gre",
+      "price": 175,
+      "issues": [
+        "POOR_TECHNICAL_SPECS"
+      ]
+    },
+    {
+      "title": "Scalette in legno per piscina",
+      "handle": "scalette-scalette-per-piscine-di-legno-scalette-per-piscine-di-legno-3-gradini-acciaio-inossidabile",
+      "vendor": "Gre",
+      "price": 269,
+      "issues": [
+        "POOR_TECHNICAL_SPECS"
+      ]
+    },
+    {
+      "title": "Liner blu per piscina in acciaio rotonda 75/100",
+      "handle": "liner-e-riparatori-liner-per-piscine-in-acciaio-rotonde-blu-75-100-o460-x-120-cm",
+      "vendor": "Gre",
+      "price": 639,
+      "issues": []
+    },
+    {
+      "title": "Copertura per piscina rotonda violetta - Mod. 581",
+      "handle": "copertura-invernale-coperture-per-piscine-rotonde-copert-inv-d-581-violette",
+      "vendor": "Gre",
+      "price": 239,
+      "issues": []
+    },
+    {
+      "title": "Piscina Ovale Pacific",
+      "handle": "piscine-in-acciaio-pacific-ovale-500-x-300-x-120-cm-1",
+      "vendor": "Gre",
+      "price": 2045,
+      "issues": []
+    },
+    {
+      "title": "Piscina Ovale Sicilia",
+      "handle": "piscine-in-acciaio-sicilia-ovale-500-x-300-x-120-cm-3",
+      "vendor": "Gre",
+      "price": 1785,
+      "issues": []
+    },
+    {
+      "title": "Piscina City Quadrata",
+      "handle": "piscina-quadrata-in-legno-gre-city-225x225x65-cm-790000",
+      "vendor": "Gre",
+      "price": 1640,
+      "issues": []
+    },
+    {
+      "title": "Piscina in pietra Sumatra ovale",
+      "handle": "kpeov5027-sumatra-piscine-interrate-in-acciaio-dim-500x300-altezza-120",
+      "vendor": "Gre",
+      "price": 2959,
+      "issues": []
+    },
+    {
+      "title": "Piscina Madagascar Ovale",
+      "handle": "piscine-interrate-madagascar-ovale-500-x-300-x-150-cm",
+      "vendor": "Gre",
+      "price": 4079,
+      "issues": []
+    },
+    {
+      "title": "Piscina Madagascar Rotonda",
+      "handle": "piscine-interrate-madagascar-rotonda-o420-x-150-cm",
+      "vendor": "Gre",
+      "price": 3265,
+      "issues": []
+    },
+    {
+      "title": "Piscina Rotonda Sumatra",
+      "handle": "piscine-interrate-sumatra-rotonda-o350-x-120-cm-5",
+      "vendor": "Gre",
+      "price": 2495,
+      "issues": []
+    },
+    {
+      "title": "Piscina Bora Bora Rotonda",
+      "handle": "piscine-in-acciaio-bora-bora-rotonda-o300-x-120-cm-2",
+      "vendor": "Gre",
+      "price": 969,
+      "issues": []
+    },
+    {
+      "title": "Piscina Haiti Ovale",
+      "handle": "piscine-in-acciaio-haiti-ovale-610-x-375-x-132-cm-1",
+      "vendor": "Gre",
+      "price": 3765,
+      "issues": []
+    },
+    {
+      "title": "Piscina Pacific Rotonda",
+      "handle": "piscine-in-acciaio-pacific-rotonda-o240-x-120-cm-1",
+      "vendor": "Gre",
+      "price": 1245,
+      "issues": []
+    },
+    {
+      "title": "Piscina Mauritius Ovale",
+      "handle": "piscine-in-acciaio-mauritius-ovale-500-x-300-x-132-cm-4",
+      "vendor": "Gre",
+      "price": 2780,
+      "issues": []
+    },
+    {
+      "title": "Piscina Fidji Ovale",
+      "handle": "piscine-in-acciaio-fidji-ovale-500-x-300-x-120-cm",
+      "vendor": "Gre",
+      "price": 1795,
+      "issues": []
+    },
+    {
+      "title": "Piscina forma di otto Varadero",
+      "handle": "piscine-in-acciaio-varadero-forma-di-otto-500-x-340-x-120cm",
+      "vendor": "Gre",
+      "price": 2750,
+      "issues": []
+    },
+    {
+      "title": "Piscina Fidji Rotonda",
+      "handle": "piscine-in-acciaio-fidji-rotonda-o240-x-120-cm",
+      "vendor": "Gre",
+      "price": 1099,
+      "issues": []
+    },
+    {
+      "title": "Piscina Sicilia Rotonda",
+      "handle": "piscine-in-acciaio-sicilia-rotonda-o300-x-120-cm-3",
+      "vendor": "Gre",
+      "price": 1169,
+      "issues": []
+    },
+    {
+      "title": "Piscina Bora Bora Ovale",
+      "handle": "piscine-in-acciaio-bora-bora-ovale-500-x-300-x-120-cm-2",
+      "vendor": "Gre",
+      "price": 1659,
+      "issues": []
+    },
+    {
+      "title": "Piscina Atlantis Ovale",
+      "handle": "piscine-in-acciaio-atlantis-ovale-500-x-300-x-132-cm",
+      "vendor": "Gre",
+      "price": 2445,
+      "issues": []
+    },
+    {
+      "title": "Piscina Amazonia Ovale",
+      "handle": "piscine-in-acciaio-amazonia-ovale-610-x-375-x-132-cm-3",
+      "vendor": "Gre",
+      "price": 3890,
+      "issues": []
+    },
+    {
+      "title": "Piscina Finlandia Ovale",
+      "handle": "piscine-in-acciaio-finlandia-ovale-500-x-300-x-120-cm-6",
+      "vendor": "Gre",
+      "price": 2045,
+      "issues": []
+    },
+    {
+      "title": "Piscina Finlandia Rotonda",
+      "handle": "piscine-in-acciaio-finlandia-rotonda-o240-x-120-cm-3",
+      "vendor": "Gre",
+      "price": 1245,
+      "issues": []
+    },
+    {
+      "title": "Piscina Mauritius Rotonda",
+      "handle": "piscine-in-acciaio-mauritius-rotonda-o350-x-132-cm-3",
+      "vendor": "Gre",
+      "price": 2045,
+      "issues": []
+    },
+    {
+      "title": "Piscina Atlantis Rotonda",
+      "handle": "piscine-in-acciaio-atlantis-rotonda-o350-x-132-cm",
+      "vendor": "Gre",
+      "price": 1830,
+      "issues": []
+    },
+    {
+      "title": "Piscina Avantgarde Rotonda",
+      "handle": "piscine-in-composito-avantgarde-rotonda-o410-x-124-cm",
+      "vendor": "Gre",
+      "price": 5325,
+      "issues": []
+    },
+    {
+      "title": "Piscina Avantgarde Quadrata",
+      "handle": "piscine-in-composito-avantgarde-quadrata-315-x-315-x-96-cm",
+      "vendor": "Gre",
+      "price": 5095,
+      "issues": []
+    },
+    {
+      "title": "Piscina Avantgarde Ovale",
+      "handle": "piscine-in-composito-avantgarde-ovale-524-x-386-x-124-cm",
+      "vendor": "Gre",
+      "price": 7085,
+      "issues": []
+    },
+    {
+      "title": "Deposito a sabbia per depurazione",
+      "handle": "filtri-depuratori-a-sabbia-deposito-o320-mm-4-m3-h-senza-prefiltro",
+      "vendor": "Gre",
+      "price": 205,
+      "issues": []
+    },
+    {
+      "title": "Depuratore Aqualoon - Filtro per acqua, portata 3,5 m³/h",
+      "handle": "filtri-depuratore-aqualoon-filtro-aqualoon-filtraione-3-5-m3-h",
+      "vendor": "Gre",
+      "price": 79.9,
+      "issues": []
+    },
+    {
+      "title": "Deposito per filtri indipendenti",
+      "handle": "filtri-filtri-indipendenti-deposito-o600-mm-senza-pompa",
+      "vendor": "Gre",
+      "price": 405,
+      "issues": [
+        "POOR_TECHNICAL_SPECS"
+      ]
+    },
+    {
+      "title": "Pompa autoadescante premium",
+      "handle": "pompe-per-piscine-pompe-premium-pompa-autoadescante-1-5-cv",
+      "vendor": "Gre",
+      "price": 299,
+      "issues": []
+    },
+    {
+      "title": "Sistema di disinfezione UV per piscine",
+      "handle": "disinfezione-per-uv-attrezzatura-di-disinfezione-uv-sistema-di-disinfezione-uv-per-piscine",
+      "vendor": "Gre",
+      "price": 243.99,
+      "issues": [
+        "POOR_TECHNICAL_SPECS"
+      ]
+    },
+    {
+      "title": "Batteria per Blue Connect",
+      "handle": "analisi-dellacqua-batteria-per-il-blue-connect-blue-battery",
+      "vendor": "Gre",
+      "price": 28.9,
+      "issues": [
+        "POOR_TECHNICAL_SPECS"
+      ]
+    },
+    {
+      "title": "Estensore WiFi Bluetooth Blue",
+      "handle": "analisi-dellacqua-connessione-wifi-bluetooth-blue-extender",
+      "vendor": "Gre",
+      "price": 68,
+      "issues": [
+        "POOR_TECHNICAL_SPECS"
+      ]
+    },
+    {
+      "title": "Sonda sensore Blue Connect Blue Sensor Au",
+      "handle": "analisi-dellacqua-sensore-sonda-blue-connect-blue-sensor-au",
+      "vendor": "Gre",
+      "price": 155,
+      "issues": [
+        "POOR_TECHNICAL_SPECS"
+      ]
+    },
+    {
+      "title": "Blue Fit 50",
+      "handle": "analisi-dellacqua-blue-fit-50-blue-fit50",
+      "vendor": "Gre",
+      "price": 34,
+      "issues": [
+        "POOR_TECHNICAL_SPECS"
+      ]
+    },
+    {
+      "title": "Kit By Pass",
+      "handle": "pompe-di-calore-kit-bypass-kit-by-pass",
+      "vendor": "Gre",
+      "price": 143,
+      "issues": [
+        "POOR_TECHNICAL_SPECS"
+      ]
+    },
+    {
+      "title": "Doccia solare PVC nero 2 pezzi",
+      "handle": "docce-docce-solari-doccia-solare-pvc-nero-2-pezzi-20l",
+      "vendor": "Gre",
+      "price": 178,
+      "issues": []
+    },
+    {
+      "title": "Proiettore LED per piscine interrate, 9 LED, Bianco, 16 W",
+      "handle": "illuminazione-illuminazione-per-piscine-interrate-proiettore-9-led-bianco-16-w",
+      "vendor": "Gre",
+      "price": 219,
+      "issues": [
+        "POOR_TECHNICAL_SPECS"
+      ]
+    },
+    {
+      "title": "Kit illuminazione piscina fuori terra con 2 proiettori LED",
+      "handle": "illuminazione-illuminazione-per-piscine-fuori-terra-2-proiettori-led-potenza-08-w",
+      "vendor": "Gre",
+      "price": 51,
+      "issues": [
+        "POOR_TECHNICAL_SPECS"
+      ]
+    },
+    {
+      "title": "Liner piscina legno quadrata Blu",
+      "handle": "liner-e-riparatori-liner-per-piscine-di-legno-quadrate-blu-305-x-305-x-119-cm-piscina-carra",
+      "vendor": "Gre",
+      "price": 369,
+      "issues": []
+    },
+    {
+      "title": "Liner per piscine composite rotonde Grigio 40/100",
+      "handle": "liner-e-riparatori-liner-per-piscine-di-composite-rotonde-grigio-40-100-o410-x-124-cm",
+      "vendor": "Gre",
+      "price": 820,
+      "issues": []
+    },
+    {
+      "title": "Liner Di Ricambio Grigio 60/100 Rettangolare x Piscine in Composito Gre",
+      "handle": "liner-e-riparatori-liner-per-piscine-di-composite-rettangolari-grigio-60-100-326-x-186-x-96-cm",
+      "vendor": "Gre",
+      "price": 990,
+      "issues": []
+    },
+    {
+      "title": "Liner Di Ricambio Per Piscine Rotonde Interrate Con Spessore 60/100 Gre",
+      "handle": "liner-e-riparatori-liner-per-piscine-interrate-rotonde-blu-60-100-o420-x-120-cm",
+      "vendor": "Gre",
+      "price": 990,
+      "issues": []
+    },
+    {
+      "title": "Liner Di Ricambio Per Piscine Ovali Interrate Con Spessore 75/100 Gre",
+      "handle": "liner-e-riparatori-liner-per-piscine-interrate-ovali-blu-60-100-500-x-300-x-120-cm",
+      "vendor": "Gre",
+      "price": 1390,
+      "issues": []
+    },
+    {
+      "title": "Liner Grigio Di Ricambio x Piscina In Composito Quadrata 60/100 Gre",
+      "handle": "liner-e-riparatori-liner-per-piscine-di-composite-quadrate-grigio-60-100-326-x-326-x-96-cm",
+      "vendor": "Gre",
+      "price": 636,
+      "issues": []
+    },
+    {
+      "title": "Scaletta Da 2 gradini Per SPA H 34 cm Gre - SPAL2",
+      "handle": "scalette-scala-per-spa-2-gradini-hdpe",
+      "vendor": "Gre",
+      "price": 83,
+      "issues": []
+    },
+    {
+      "title": "Scaletta Sintetica HDPE Per Piscine Interrate a 4 Gradini H206 cm Gre - EPE30",
+      "handle": "scalette-scaletta-per-piscine-interrate-scalette-4-gradini-polietilene",
+      "vendor": "Gre",
+      "price": 399,
+      "issues": [
+        "POOR_TECHNICAL_SPECS"
+      ]
+    },
+    {
+      "title": "Scaletta Per Piscine Fuoriterra 2x2 Gradini H 98 cm Gre - AR109",
+      "handle": "scalette-scaletta-per-piscine-fuori-terra-scalette-2x2-gradini-acciaio-zincato",
+      "vendor": "Gre",
+      "price": 80,
+      "issues": []
+    },
+    {
+      "title": "Spugne Magiche Per Linea Di Galleggiamento, 4 Unità - PGL4",
+      "handle": "materiale-di-pulizia-altro-materiale-per-pulizia-spugne-magiche-per-la-linea-di-galleggiamento-4-unita",
+      "vendor": "Gre",
+      "price": 7.8,
+      "issues": [
+        "POOR_TECHNICAL_SPECS"
+      ]
+    },
+    {
+      "title": "Skimmer Standard Completo Gre x Piscine Fuoriterra - AR100",
+      "handle": "skimmer-skimmer-gre-skimmer-color-grigio",
+      "vendor": "Gre",
+      "price": 54.9,
+      "issues": [
+        "POOR_TECHNICAL_SPECS"
+      ]
+    },
+    {
+      "title": "Adattatore Puliscifondo x Tubo Pulitore e Skimmer - AR505",
+      "handle": "skimmer-accessori-per-skimmer-adattatore-tubo-pulitore-skimmer",
+      "vendor": "Gre",
+      "price": 14.9,
+      "issues": [
+        "POOR_TECHNICAL_SPECS"
+      ]
+    },
+    {
+      "title": "Tappeti Protettivi Rettangolari In Poliestere Per Piscine Fuoriterra",
+      "handle": "tappeti-tappeti-protettori-rettangolari-950-x-500-cm",
+      "vendor": "Gre",
+      "price": 240,
+      "issues": [
+        "POOR_TECHNICAL_SPECS"
+      ]
+    },
+    {
+      "title": "Tappeto Puzzle Protettore Suolo In Etilene",
+      "handle": "tappeti-tappeti-per-suolo-protettore-suolo-verde-9-un-81-x-81-cm",
+      "vendor": "Gre",
+      "price": 37.9,
+      "issues": [
+        "POOR_TECHNICAL_SPECS"
+      ]
+    },
+    {
+      "title": "Tappeti In Poliestere Protettivi Rotondi Per Fondo Piscine",
+      "handle": "tappeti-tappeti-protettori-quadrati-650-x-650-cm",
+      "vendor": "Gre",
+      "price": 139,
+      "issues": [
+        "POOR_TECHNICAL_SPECS"
+      ]
+    },
+    {
+      "title": "Barriera Di Protezione Flessibile Per Piscine - SF133",
+      "handle": "altri-accessori-sicurezza-barriera-flessibile-per-piscine",
+      "vendor": "Gre",
+      "price": 199,
+      "issues": [
+        "POOR_TECHNICAL_SPECS"
+      ]
+    },
+    {
+      "title": "Bicicletta Acquatica in Acciaio Inox Aquabike Per Aquafitness - AQB2",
+      "handle": "altri-accessori-aquafitness-aquabike",
+      "vendor": "Gre",
+      "price": 837,
+      "issues": [
+        "POOR_TECHNICAL_SPECS"
+      ]
+    },
+    {
+      "title": "Aspirapolvere RA 6300 iQ",
+      "handle": "ra-6300-iq",
+      "vendor": "Zodiac",
+      "price": 1962,
+      "issues": [
+        "POOR_TECHNICAL_SPECS"
+      ]
+    },
+    {
+      "title": "Aspirapolvere RA 6900 iQ",
+      "handle": "ra-6900-iq",
+      "vendor": "Zodiac",
+      "price": 2598,
+      "issues": []
+    },
+    {
+      "title": "Pulitore a vuoto OA 6600 iQ",
+      "handle": "oa-6600-iq",
+      "vendor": "Zodiac",
+      "price": 1459,
+      "issues": []
+    },
+    {
+      "title": "Aspirapolvere OA 6400 iQ",
+      "handle": "oa-6400-iq",
+      "vendor": "Zodiac",
+      "price": 1349,
+      "issues": []
+    },
+    {
+      "title": "Piscina Robot RA 6500 iQ",
+      "handle": "ra-6500-iq",
+      "vendor": "Zodiac",
+      "price": 2194,
+      "issues": []
+    },
+    {
+      "title": "Aspirapolvere Robot RA 6800 iQ",
+      "handle": "ra-6800-iq",
+      "vendor": "Zodiac",
+      "price": 1849,
+      "issues": []
+    },
+    {
+      "title": "SWY 3520",
+      "handle": "swy-3520",
+      "vendor": "Zodiac",
+      "price": 649,
+      "issues": []
+    },
+    {
+      "title": "SWY 3500 Piscina Robot Pulitore Elettrico",
+      "handle": "swy-3500",
+      "vendor": "Zodiac",
+      "price": 649,
+      "issues": []
+    },
+    {
+      "title": "Ovale 5390",
+      "handle": "ov-5390",
+      "vendor": "Zodiac",
+      "price": 999,
+      "issues": []
+    },
+    {
+      "title": "OV 5200 Sistema di Filtrazione",
+      "handle": "ov-5200",
+      "vendor": "Zodiac",
+      "price": 999,
+      "issues": []
+    },
+    {
+      "title": "GV 5220 Pulitore a Vapore",
+      "handle": "gv-5220",
+      "vendor": "Zodiac",
+      "price": 999,
+      "issues": []
+    },
+    {
+      "title": "OT 3290 Tile",
+      "handle": "ot-3290-tile",
+      "vendor": "Zodiac",
+      "price": 499,
+      "issues": []
+    },
+    {
+      "title": "OT 3200",
+      "handle": "ot-3200",
+      "vendor": "Zodiac",
+      "price": 499,
+      "issues": []
+    },
+    {
+      "title": "GT 3220",
+      "handle": "gt-3220",
+      "vendor": "Zodiac",
+      "price": 499,
+      "issues": []
+    },
+    {
+      "title": "RT 3200",
+      "handle": "rt-3200",
+      "vendor": "Zodiac",
+      "price": 829,
+      "issues": []
+    },
+    {
+      "title": "XA 3010 iQ",
+      "handle": "xa-3010-iq",
+      "vendor": "Zodiac",
+      "price": 999,
+      "issues": []
+    },
+    {
+      "title": "40 XA iQ",
+      "handle": "40-xa-iq",
+      "vendor": "Zodiac",
+      "price": 1099,
+      "issues": []
+    },
+    {
+      "title": "XA 4010 IQ",
+      "handle": "xa-4010-iq",
+      "vendor": "Zodiac",
+      "price": 1099,
+      "issues": []
+    },
+    {
+      "title": "pH Expert",
+      "handle": "ph-expert",
+      "vendor": "Zodiac",
+      "price": 420,
+      "issues": []
+    },
+    {
+      "title": "RE 4200",
+      "handle": "re-4200",
+      "vendor": "Zodiac",
+      "price": 1165,
+      "issues": []
+    },
+    {
+      "title": "RE 4700 iQ",
+      "handle": "re-4700-iq",
+      "vendor": "Zodiac",
+      "price": 1769,
+      "issues": []
+    },
+    {
+      "title": "RE 4400 iQ",
+      "handle": "re-4400-iq",
+      "vendor": "Zodiac",
+      "price": 1476,
+      "issues": []
+    },
+    {
+      "title": "RE 4300",
+      "handle": "re-4300",
+      "vendor": "Zodiac",
+      "price": 1232,
+      "issues": []
+    },
+    {
+      "title": "RE 4600 iQ",
+      "handle": "re-4600-iq",
+      "vendor": "Zodiac",
+      "price": 1671,
+      "issues": []
+    },
+    {
+      "title": "CNX 25",
+      "handle": "cnx-25",
+      "vendor": "Zodiac",
+      "price": 879,
+      "issues": []
+    },
+    {
+      "title": "CNX 20",
+      "handle": "cnx-20",
+      "vendor": "Zodiac",
+      "price": 799,
+      "issues": []
+    },
+    {
+      "title": "CNX 30 iQ",
+      "handle": "cnx-30-iq",
+      "vendor": "Zodiac",
+      "price": 999,
+      "issues": []
+    },
+    {
+      "title": "CNX 40 iQ",
+      "handle": "cnx-40-iq",
+      "vendor": "Zodiac",
+      "price": 1099,
+      "issues": []
+    },
+    {
+      "title": "CNX 50 iQ",
+      "handle": "cnx-50-iq",
+      "vendor": "Zodiac",
+      "price": 1199,
+      "issues": []
+    },
+    {
+      "title": "Z350iQ",
+      "handle": "z350iq",
+      "vendor": "Zodiac",
+      "price": 1950,
+      "issues": []
+    },
+    {
+      "title": "Power Force Inverter",
+      "handle": "power-force-inverter",
+      "vendor": "Zodiac",
+      "price": 6900,
+      "issues": []
+    },
+    {
+      "title": "Z950 Inverter",
+      "handle": "z950-inverter",
+      "vendor": "Zodiac",
+      "price": 5500,
+      "issues": []
+    },
+    {
+      "title": "Z250iQ",
+      "handle": "z250iq",
+      "vendor": "Zodiac",
+      "price": 1450,
+      "issues": []
+    },
+    {
+      "title": "Z650iQ",
+      "handle": "z650iq",
+      "vendor": "Zodiac",
+      "price": 4200,
+      "issues": []
+    },
+    {
+      "title": "Z400iQ",
+      "handle": "z400iq",
+      "vendor": "Zodiac",
+      "price": 3200,
+      "issues": []
+    },
+    {
+      "title": "eXO® iQ",
+      "handle": "exo®-iq",
+      "vendor": "Zodiac",
+      "price": 1550,
+      "issues": []
+    },
+    {
+      "title": "eXO® iQ LS",
+      "handle": "exo®-iq-ls",
+      "vendor": "Zodiac",
+      "price": 1550,
+      "issues": []
+    },
+    {
+      "title": "Ei² iQ",
+      "handle": "ei-iq",
+      "vendor": "Zodiac",
+      "price": 990,
+      "issues": []
+    },
+    {
+      "title": "EiSalt",
+      "handle": "eisalt",
+      "vendor": "Zodiac",
+      "price": 750,
+      "issues": []
+    },
+    {
+      "title": "TRX 8500 iQ",
+      "handle": "trx-8500-iq",
+      "vendor": "Zodiac",
+      "price": 3990,
+      "issues": []
+    },
+    {
+      "title": "TRX 8700 iQ",
+      "handle": "trx-8700-iq",
+      "vendor": "Zodiac",
+      "price": 4790,
+      "issues": []
+    },
+    {
+      "title": "Chlor Expert",
+      "handle": "chlor-expert",
+      "vendor": "Zodiac",
+      "price": 480,
+      "issues": []
+    },
+    {
+      "title": "iQPump",
+      "handle": "iqpump",
+      "vendor": "Zodiac",
+      "price": 1050,
+      "issues": []
+    },
+    {
+      "title": "E30iQ",
+      "handle": "e30iq",
+      "vendor": "Zodiac",
+      "price": 1249,
+      "issues": []
+    },
+    {
+      "title": "OP 3220",
+      "handle": "op-3220",
+      "vendor": "Zodiac",
+      "price": 499,
+      "issues": []
+    },
+    {
+      "title": "OP 32",
+      "handle": "op-32",
+      "vendor": "Zodiac",
+      "price": 499,
+      "issues": []
+    },
+    {
+      "title": "RF 5400 iQ",
+      "handle": "rf-5400-iq",
+      "vendor": "Zodiac",
+      "price": 1645,
+      "issues": []
+    },
+    {
+      "title": "RF 5200 iQ",
+      "handle": "rf-5200-iq",
+      "vendor": "Zodiac",
+      "price": 1462,
+      "issues": []
+    },
+    {
+      "title": "RF 42 iQ",
+      "handle": "rf-42-iq",
+      "vendor": "Zodiac",
+      "price": 1304,
+      "issues": []
+    },
+    {
+      "title": "RF 5600 iQ",
+      "handle": "rf-5600-iq",
+      "vendor": "Zodiac",
+      "price": 1828,
+      "issues": []
+    },
+    {
+      "title": "OF 42 iQ",
+      "handle": "of-42-iq",
+      "vendor": "Zodiac",
+      "price": 849,
+      "issues": []
+    },
+    {
+      "title": "Freedom+ Control",
+      "handle": "freedom-control",
+      "vendor": "Zodiac",
+      "price": 1299,
+      "issues": []
+    },
+    {
+      "title": "CNX-Li 5220 iQ",
+      "handle": "cnx-li-5220-iq",
+      "vendor": "Zodiac",
+      "price": 1299,
+      "issues": []
+    },
+    {
+      "title": "OF 4220 iQ",
+      "handle": "of-4220-iq",
+      "vendor": "Zodiac",
+      "price": 849,
+      "issues": []
+    },
+    {
+      "title": "CNX-Li 52 iQ",
+      "handle": "cnx-li-52-iq",
+      "vendor": "Zodiac",
+      "price": 999,
+      "issues": []
+    },
+    {
+      "title": "Pompa di calore Z550 IQ MD4",
+      "handle": "z550iq-1",
+      "vendor": "Zodiac",
+      "price": 5142,
+      "issues": []
+    },
+    {
+      "title": "Freedom Lite",
+      "handle": "freedom-lite",
+      "vendor": "Zodiac",
+      "price": 649,
+      "issues": []
+    },
+    {
+      "title": "Z550iQ",
+      "handle": "z550iq",
+      "vendor": "Zodiac",
+      "price": 2800,
+      "issues": []
+    },
+    {
+      "title": "Piscina Prisma Frame Ovale",
+      "handle": "piscina-prisma-frame-ovale",
+      "vendor": "Intex",
+      "price": 1206.57,
+      "issues": [
+        "POOR_TECHNICAL_SPECS"
+      ]
+    },
+    {
+      "title": "Piscina Easy Set Idromassaggio",
+      "handle": "piscina-easy-set-idromassaggio",
+      "vendor": "Intex",
+      "price": 485.56,
+      "issues": [
+        "POOR_TECHNICAL_SPECS"
+      ]
+    },
+    {
+      "title": "Piscina Metallica Rettangolare",
+      "handle": "piscina-metallica-rettangolare",
+      "vendor": "Intex",
+      "price": 331.55,
+      "issues": [
+        "POOR_TECHNICAL_SPECS"
+      ]
+    },
+    {
+      "title": "Piscina Power Metallica Rotonda",
+      "handle": "piscina-power-metallica-rotonda",
+      "vendor": "Intex",
+      "price": 164.43,
+      "issues": [
+        "POOR_TECHNICAL_SPECS"
+      ]
+    },
+    {
+      "title": "Piscina Power Steel Metallica",
+      "handle": "piscina-power-steel-metallica",
+      "vendor": "Intex",
+      "price": 151.67,
+      "issues": [
+        "POOR_TECHNICAL_SPECS"
+      ]
+    },
+    {
+      "title": "Piscina Rectangolare Intex 220x150x60cm 28266NP",
+      "handle": "piscina-rectangolare-intex-220x150x60cm-28266np-in-alternativa-se-puoi-considerare-unopzione-piu-concisa-piscina-rectangolare-intex-2-2x1-5x0-6m-28266np",
+      "vendor": "Intex",
+      "price": 128.63,
+      "issues": [
+        "POOR_TECHNICAL_SPECS"
+      ]
+    },
+    {
+      "title": "Piscina Power Pietra",
+      "handle": "piscina-power-pietra",
+      "vendor": "Intex",
+      "price": 127.68,
+      "issues": [
+        "POOR_TECHNICAL_SPECS"
+      ]
+    },
+    {
+      "title": "Robot Pulitore",
+      "handle": "robot-pulitore",
+      "vendor": "Intex",
+      "price": 476.81,
+      "issues": [
+        "POOR_TECHNICAL_SPECS"
+      ]
+    },
+    {
+      "title": "Robot Pulitore Automatico",
+      "handle": "robot-pulitore-automatico",
+      "vendor": "Intex",
+      "price": 111.68,
+      "issues": [
+        "POOR_TECHNICAL_SPECS"
+      ]
+    },
+    {
+      "title": "Telo Copri Dura+",
+      "handle": "telo-copri-dura",
+      "vendor": "Intex",
+      "price": 106.69,
+      "issues": [
+        "POOR_TECHNICAL_SPECS"
+      ]
+    },
+    {
+      "title": "Luce LED Magnetica",
+      "handle": "luce-led-magnetica",
+      "vendor": "Intex",
+      "price": 105.82,
+      "issues": [
+        "POOR_TECHNICAL_SPECS"
+      ]
+    },
+    {
+      "title": "Telo Copri Deluxe",
+      "handle": "telo-copri-deluxe",
+      "vendor": "Intex",
+      "price": 103.39,
+      "issues": [
+        "POOR_TECHNICAL_SPECS"
+      ]
+    },
+    {
+      "title": "Luce a LED Galleggiante",
+      "handle": "luce-a-led-galleggiante",
+      "vendor": "Intex",
+      "price": 46.75,
+      "issues": [
+        "POOR_TECHNICAL_SPECS"
+      ]
+    },
+    {
+      "title": "Tela Copri Piscina Intex per Piscine Rettangolari 450x220 cm",
+      "handle": "tela-copri-piscina-intex-per-piscine-rettangolari-450x220-cm-sku-inseriscisku",
+      "vendor": "Intex",
+      "price": 33.72,
+      "issues": [
+        "POOR_TECHNICAL_SPECS"
+      ]
+    },
+    {
+      "title": "Kit Pulizia Intex",
+      "handle": "kit-pulizia-intex",
+      "vendor": "Intex",
+      "price": 27.94,
+      "issues": [
+        "POOR_TECHNICAL_SPECS"
+      ]
+    },
+    {
+      "title": "Aspirapolvere Intex",
+      "handle": "aspirapolvere-intex",
+      "vendor": "Intex",
+      "price": 101.54,
+      "issues": [
+        "POOR_TECHNICAL_SPECS"
+      ]
+    },
+    {
+      "title": "Luce LED Intex",
+      "handle": "luce-led-intex",
+      "vendor": "Intex",
+      "price": 29.62,
+      "issues": [
+        "POOR_TECHNICAL_SPECS"
+      ]
+    },
+    {
+      "title": "Cartuccie Chlorinanti Intex",
+      "handle": "cartuccie-chlorinanti-intex",
+      "vendor": "Intex",
+      "price": 15.93,
+      "issues": [
+        "POOR_TECHNICAL_SPECS"
+      ]
+    },
+    {
+      "title": "Cartuccia per Piscina Intex PureSpa",
+      "handle": "cartuccia-per-piscina-intex-purespa",
+      "vendor": "Intex",
+      "price": 12.36,
+      "issues": [
+        "POOR_TECHNICAL_SPECS"
+      ]
+    },
+    {
+      "title": "Piscina Rettangolare per Cani Intex",
+      "handle": "piscina-rettangolare-per-cani-intex",
+      "vendor": "Intex",
+      "price": 393.89,
+      "issues": [
+        "POOR_TECHNICAL_SPECS"
+      ]
+    },
+    {
+      "title": "Piscina Intex Inflabile",
+      "handle": "piscina-intex-inflabile",
+      "vendor": "Intex",
+      "price": 227.52,
+      "issues": [
+        "POOR_TECHNICAL_SPECS"
+      ]
+    },
+    {
+      "title": "Piscina Intex Anelli",
+      "handle": "piscina-intex-anelli",
+      "vendor": "Intex",
+      "price": 26.61,
+      "issues": [
+        "POOR_TECHNICAL_SPECS"
+      ]
+    },
+    {
+      "title": "Piscine e Coperture Intex",
+      "handle": "piscine-e-coperture-intex",
+      "vendor": "Intex",
+      "price": 112.93,
+      "issues": [
+        "POOR_TECHNICAL_SPECS"
+      ]
+    },
+    {
+      "title": "Gonfiabile Piscina a Shaped Paradise 6 Personne - Intex IPRS300F-01.",
+      "handle": "gonfiabile-piscina-a-shaped-paradise-6-personne-intex-iprs300f-01",
+      "vendor": "Intex",
+      "price": 56.85,
+      "issues": [
+        "POOR_TECHNICAL_SPECS"
+      ]
+    },
+    {
+      "title": "Pompe per Piscine Intex",
+      "handle": "pompe-per-piscine-intex",
+      "vendor": "Intex",
+      "price": 74.66,
+      "issues": [
+        "POOR_TECHNICAL_SPECS"
+      ]
+    },
+    {
+      "title": "Pompa Elettrica QuickFill",
+      "handle": "pompa-elettrica-quickfill",
+      "vendor": "Intex",
+      "price": 50.56,
+      "issues": [
+        "POOR_TECHNICAL_SPECS"
+      ]
+    },
+    {
+      "title": "Piscina Prisma Frame",
+      "handle": "piscina-prisma-frame",
+      "vendor": "Intex",
+      "price": 1136.63,
+      "issues": [
+        "SHORT_OR_MISSING_DESCRIPTION",
+        "POOR_TECHNICAL_SPECS"
+      ]
+    },
+    {
+      "title": "Pompa Filtro Sabbia",
+      "handle": "pompa-filtro-sabbia",
+      "vendor": "Intex",
+      "price": 384.85,
+      "issues": [
+        "SHORT_OR_MISSING_DESCRIPTION",
+        "POOR_TECHNICAL_SPECS"
+      ]
+    },
+    {
+      "title": "Accessori Piscina",
+      "handle": "accessori-piscina",
+      "vendor": "Intex",
+      "price": 34.95,
+      "issues": [
+        "SHORT_OR_MISSING_DESCRIPTION",
+        "POOR_TECHNICAL_SPECS"
+      ]
+    },
+    {
+      "title": "Piscina Bestway Solo Struttura",
+      "handle": "piscina-bestway-solo-struttura",
+      "vendor": "Bestway",
+      "price": 999,
+      "issues": [
+        "MISSING_IMAGES",
+        "POOR_TECHNICAL_SPECS"
+      ]
+    }
+  ],
+  "anomalies": []
+}

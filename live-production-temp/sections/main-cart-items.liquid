@@ -1,0 +1,134 @@
+<div class="max-w-7xl mx-auto px-6 md:px-10 py-12 mb-20 text-primary">
+  <div class="flex flex-col md:flex-row justify-between items-end gap-6 mb-12 border-b border-outline-variant/10 pb-10">
+      <div class="space-y-4">
+          <h1 class="text-5xl md:text-7xl font-black uppercase italic tracking-tighter leading-none">Il Tuo Carrello</h1>
+          <p class="text-on-surface-variant font-medium text-xl">Stai preparando il prossimo intervento per la tua piscina.</p>
+      </div>
+      <a href="/collections/all" class="text-primary font-black uppercase text-xs tracking-widest border-b-4 border-tertiary-fixed pb-1 hover:text-tertiary-fixed transition-all">Continua lo Shopping</a>
+  </div>
+
+  {%- if cart.item_count > 0 -%}
+    <div class="grid grid-cols-1 lg:grid-cols-12 gap-16">
+      {% comment %} Items List {% endcomment %}
+      <div class="lg:col-span-8 space-y-8">
+        <form action="{{ routes.cart_url }}" method="post" id="cart">
+          <div class="bg-white rounded-[40px] border border-outline-variant/10 shadow-sm overflow-hidden">
+            <table class="w-full border-collapse">
+              <thead class="bg-surface-container-low text-[10px] font-black uppercase tracking-[0.2em] text-outline">
+                <tr>
+                  <th class="px-8 py-6 text-left">Prodotto</th>
+                  <th class="px-8 py-6 text-center hidden md:table-cell">Quantità</th>
+                  <th class="px-8 py-6 text-right">Totale</th>
+                </tr>
+              </thead>
+              <tbody class="divide-y divide-outline-variant/10">
+                {%- for item in cart.items -%}
+                  <tr class="group">
+                    <td class="px-8 py-8">
+                      <div class="flex items-center gap-6">
+                        <div class="w-24 h-24 rounded-2xl bg-surface-container-low overflow-hidden border border-outline-variant/5 shrink-0 shadow-inner">
+                          {%- if item.image -%}
+                            <img src="{{ item.image | image_url: width: 200 }}" alt="{{ item.product.title }}" class="w-full h-full object-cover group-hover:scale-110 transition-transform duration-700">
+                          {%- elsif item.product.featured_image -%}
+                            <img src="{{ item.product.featured_image | image_url: width: 200 }}" alt="{{ item.product.title }}" class="w-full h-full object-cover group-hover:scale-110 transition-transform duration-700">
+                          {%- else -%}
+                            {{ 'product-1' | placeholder_svg_tag: 'w-full h-full object-cover opacity-20' }}
+                          {%- endif -%}
+                        </div>
+                        <div class="space-y-1">
+                          <a href="{{ item.url }}" class="text-lg font-black uppercase tracking-tighter hover:text-tertiary-fixed transition-colors block leading-tight">{{ item.product.title }}</a>
+                          {%- if item.variant.title != 'Default Title' -%}
+                            <p class="text-[10px] font-bold text-outline uppercase tracking-widest">{{ item.variant.title }}</p>
+                          {%- endif -%}
+                          <p class="text-sm font-bold text-primary/60 mt-2">{{ item.price | money }}</p>
+                          <a href="{{ item.url_to_remove }}" class="inline-flex items-center gap-1 text-[9px] font-black text-error uppercase tracking-widest pt-2 hover:opacity-70 transition-opacity">
+                            <span class="material-symbols-outlined text-[14px]">delete</span> Rimuovi
+                          </a>
+                        </div>
+                      </div>
+                    </td>
+                    <td class="px-8 py-8 text-center hidden md:table-cell">
+                      <div class="inline-flex items-center bg-surface-container-low rounded-xl p-1 border border-outline-variant/10">
+                        <a href="{{ routes.cart_change_url }}?id={{ item.key }}&quantity={{ item.quantity | minus: 1 }}" class="w-10 h-10 flex items-center justify-center text-primary/40 hover:text-primary transition-colors">
+                          <span class="material-symbols-outlined text-[18px]">remove</span>
+                        </a>
+                        <input type="text" value="{{ item.quantity }}" class="w-12 text-center bg-transparent border-none font-black text-sm outline-none" readonly>
+                        <a href="{{ routes.cart_change_url }}?id={{ item.key }}&quantity={{ item.quantity | plus: 1 }}" class="w-10 h-10 flex items-center justify-center text-primary/40 hover:text-primary transition-colors">
+                          <span class="material-symbols-outlined text-[18px]">add</span>
+                        </a>
+                      </div>
+                    </td>
+                    <td class="px-8 py-8 text-right">
+                      <p class="text-xl font-black text-primary font-mono italic">{{ item.final_line_price | money }}</p>
+                    </td>
+                  </tr>
+                {%- endfor -%}
+              </tbody>
+            </table>
+          </div>
+        </form>
+      </div>
+
+      {% comment %} Summary Sidebar {% endcomment %}
+      <div class="lg:col-span-4">
+        <div class="bg-primary text-white p-10 rounded-[48px] shadow-2xl space-y-10 relative overflow-hidden sticky top-32">
+          <div class="absolute inset-0 opacity-10 bg-[radial-gradient(circle_at_top_right,_var(--tw-gradient-stops))] from-tertiary-fixed to-transparent pointer-events-none"></div>
+          
+          <div class="relative z-10 space-y-6">
+            <h3 class="text-2xl font-black uppercase italic tracking-tighter border-b border-white/10 pb-6">Riepilogo Ordine</h3>
+            
+            <div class="space-y-4">
+              <div class="flex justify-between items-center">
+                <span class="text-[10px] font-black uppercase tracking-widest opacity-60">Subtotale</span>
+                <span class="text-lg font-bold font-mono">{{ cart.total_price | money }}</span>
+              </div>
+              <div class="flex justify-between items-center">
+                <span class="text-[10px] font-black uppercase tracking-widest opacity-60">Spedizione</span>
+                <span class="text-[10px] font-black uppercase tracking-widest text-tertiary-fixed animate-pulse italic">Calcolata al checkout</span>
+              </div>
+            </div>
+
+            <div class="pt-6 border-t border-white/10">
+              <div class="flex justify-between items-end">
+                <span class="text-sm font-black uppercase tracking-widest">Totale Stimato</span>
+                <span class="text-4xl font-black font-mono italic">{{ cart.total_price | money }}</span>
+              </div>
+              <p class="text-[9px] font-medium opacity-40 mt-4 italic">IVA inclusa. Il pagamento verrà processato in modo sicuro tramite Shopify.</p>
+            </div>
+          </div>
+
+          <div class="relative z-10 space-y-4">
+            <form action="{{ routes.cart_url }}" method="post">
+              <button name="checkout" type="submit" class="w-full bg-tertiary-fixed text-on-tertiary-fixed py-6 rounded-3xl font-black text-xs uppercase tracking-[0.2em] shadow-xl hover:scale-[1.02] transition-all active:scale-95 flex items-center justify-center gap-3">
+                Procedi al Checkout
+                <span class="material-symbols-outlined">arrow_forward</span>
+              </button>
+            </form>
+            <div class="flex items-center justify-center gap-4 grayscale opacity-40 mt-6">
+                {%- for type in shop.enabled_payment_types -%}
+                    {{ type | payment_type_svg_tag: class: 'h-5 w-auto' }}
+                {%- endfor -%}
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  {%- else -%}
+    <div class="py-32 text-center bg-white rounded-[56px] border border-outline-variant/10 shadow-sm relative overflow-hidden">
+        <div class="absolute inset-0 opacity-[0.02] pointer-events-none" style="background-image: radial-gradient(#002366 1px, transparent 1px); background-size: 30px 30px;"></div>
+        <div class="w-24 h-24 bg-surface-container-low rounded-[32px] flex items-center justify-center text-outline/30 mx-auto mb-8 shadow-inner">
+            <span class="material-symbols-outlined text-6xl">shopping_cart_off</span>
+        </div>
+        <h2 class="text-3xl font-black uppercase italic tracking-tighter text-primary mb-4">Carrello Vuoto</h2>
+        <p class="text-on-surface-variant font-medium text-lg mb-12 max-w-sm mx-auto leading-relaxed">Il tuo carrello è pronto per essere popolato con i migliori prodotti per la tua piscina.</p>
+        <a href="/collections/all" class="bg-primary text-white px-12 py-5 rounded-2xl font-black text-xs uppercase tracking-widest shadow-xl hover:bg-primary-fixed-variant transition-all inline-block active:scale-95">Inizia lo Shopping</a>
+    </div>
+  {%- endif -%}
+</div>
+
+{% schema %}
+{
+  "name": "Main Cart Items Jolly",
+  "settings": []
+}
+{% endschema %}

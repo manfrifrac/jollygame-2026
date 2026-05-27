@@ -1,0 +1,130 @@
+<div class="max-w-7xl mx-auto px-6 md:px-10 py-12 mb-20 text-primary">
+  <div class="flex flex-col md:flex-row justify-between items-end gap-6 mb-12 border-b border-outline-variant/10 pb-10">
+      <div class="space-y-4">
+          <div class="flex items-center gap-3">
+              <a href="{{ routes.account_url }}" class="w-10 h-10 rounded-full bg-surface-container-low flex items-center justify-center text-primary hover:bg-primary hover:text-white transition-all">
+                  <span class="material-symbols-outlined text-[20px]">arrow_back</span>
+              </a>
+              <span class="text-[10px] font-black uppercase tracking-[0.2em] text-outline">Dettaglio Ordine</span>
+          </div>
+          <h1 class="text-5xl md:text-7xl font-black uppercase italic tracking-tighter leading-none">{{ order.name }}</h1>
+          <p class="text-on-surface-variant font-medium text-xl">Effettuato il {{ order.created_at | date: "%d %B %Y" }} alle {{ order.created_at | date: "%H:%M" }}</p>
+      </div>
+      <div class="flex gap-4">
+          <span class="px-6 py-2 rounded-full text-[10px] font-black uppercase tracking-widest bg-primary-fixed text-on-primary-fixed shadow-sm">
+              {{ order.financial_status_label }}
+          </span>
+          <span class="px-6 py-2 rounded-full text-[10px] font-black uppercase tracking-widest bg-tertiary-fixed text-on-tertiary-fixed shadow-sm">
+              {{ order.fulfillment_status_label }}
+          </span>
+      </div>
+  </div>
+
+  <div class="grid grid-cols-1 lg:grid-cols-12 gap-16">
+    {% comment %} Items List {% endcomment %}
+    <div class="lg:col-span-8 space-y-12">
+      <div class="bg-white rounded-[40px] border border-outline-variant/10 shadow-sm overflow-hidden">
+        <table class="w-full border-collapse">
+          <thead class="bg-surface-container-low text-[10px] font-black uppercase tracking-[0.2em] text-outline">
+            <tr>
+              <th class="px-8 py-6 text-left">Prodotto</th>
+              <th class="px-8 py-6 text-center">Quantità</th>
+              <th class="px-8 py-6 text-right">Totale</th>
+            </tr>
+          </thead>
+          <tbody class="divide-y divide-outline-variant/10">
+            {%- for line_item in order.line_items -%}
+              <tr>
+                <td class="px-8 py-8">
+                  <div class="flex items-center gap-6">
+                    <div class="w-20 h-20 rounded-2xl bg-surface-container-low overflow-hidden border border-outline-variant/5 shrink-0 shadow-inner">
+                      {%- if line_item.image -%}
+                        <img src="{{ line_item.image | image_url: width: 200 }}" alt="{{ line_item.title }}" class="w-full h-full object-cover">
+                      {%- else -%}
+                        {{ 'product-1' | placeholder_svg_tag: 'w-full h-full object-cover opacity-20' }}
+                      {%- endif -%}
+                    </div>
+                    <div class="space-y-1">
+                      <p class="text-lg font-black uppercase tracking-tighter leading-tight text-primary">{{ line_item.product.title | default: line_item.title }}</p>
+                      {%- if line_item.variant.title != 'Default Title' -%}
+                        <p class="text-[10px] font-bold text-outline uppercase tracking-widest">{{ line_item.variant.title }}</p>
+                      {%- endif -%}
+                      <p class="text-sm font-bold text-primary/60 mt-2">{{ line_item.original_price | money }}</p>
+                    </div>
+                  </div>
+                </td>
+                <td class="px-8 py-8 text-center font-black text-primary">
+                  {{ line_item.quantity }}
+                </td>
+                <td class="px-8 py-8 text-right">
+                  <p class="text-xl font-black text-primary font-mono italic">{{ line_item.final_line_price | money }}</p>
+                </td>
+              </tr>
+            {%- endfor -%}
+          </tbody>
+        </table>
+      </div>
+
+      {% comment %} Order Footer / Totals {% endcomment %}
+      <div class="bg-surface-container-low rounded-[40px] p-10 space-y-6 border border-outline-variant/5">
+          <div class="flex justify-between items-center">
+            <span class="text-[10px] font-black uppercase tracking-widest text-outline">Subtotale</span>
+            <span class="text-lg font-bold font-mono text-primary">{{ order.line_items_subtotal_price | money }}</span>
+          </div>
+          {%- for shipping_method in order.shipping_methods -%}
+            <div class="flex justify-between items-center">
+              <span class="text-[10px] font-black uppercase tracking-widest text-outline">Spedizione ({{ shipping_method.title }})</span>
+              <span class="text-lg font-bold font-mono text-primary">{{ shipping_method.price | money }}</span>
+            </div>
+          {%- endfor -%}
+          {%- for tax_line in order.tax_lines -%}
+            <div class="flex justify-between items-center">
+              <span class="text-[10px] font-black uppercase tracking-widest text-outline">Tasse ({{ tax_line.title }} {{ tax_line.rate | times: 100 }}%)</span>
+              <span class="text-lg font-bold font-mono text-primary">{{ tax_line.price | money }}</span>
+            </div>
+          {%- endfor -%}
+          <div class="pt-6 border-t border-outline-variant/10 flex justify-between items-end">
+            <span class="text-sm font-black uppercase tracking-widest text-primary">Totale Ordine</span>
+            <span class="text-5xl font-black text-primary font-mono italic">{{ order.total_price | money }}</span>
+          </div>
+      </div>
+    </div>
+
+    {% comment %} Addresses Sidebar {% endcomment %}
+    <div class="lg:col-span-4 space-y-8">
+      <div class="bg-white p-10 rounded-[40px] border border-outline-variant/10 shadow-sm space-y-10">
+          <div class="space-y-6">
+              <div class="flex items-center gap-3 text-primary">
+                  <span class="material-symbols-outlined">local_shipping</span>
+                  <h3 class="text-xl font-black uppercase italic tracking-tighter">Indirizzo Spedizione</h3>
+              </div>
+              <div class="text-sm font-medium text-on-surface-variant leading-relaxed uppercase tracking-wider">
+                  {{ order.shipping_address | format_address }}
+              </div>
+          </div>
+
+          <div class="pt-10 border-t border-outline-variant/10 space-y-6">
+              <div class="flex items-center gap-3 text-primary">
+                  <span class="material-symbols-outlined">receipt</span>
+                  <h3 class="text-xl font-black uppercase italic tracking-tighter">Fatturazione</h3>
+              </div>
+              <div class="text-sm font-medium text-on-surface-variant leading-relaxed uppercase tracking-wider">
+                  {{ order.billing_address | format_address }}
+              </div>
+          </div>
+      </div>
+
+      {% comment %} Help Card {% endcomment %}
+      <div class="bg-tertiary-fixed text-on-tertiary-fixed p-10 rounded-[40px] shadow-xl space-y-6 relative overflow-hidden group">
+          <div class="absolute -right-6 -top-6 opacity-10 group-hover:rotate-12 transition-transform duration-700">
+              <span class="material-symbols-outlined text-[150px]">help_outline</span>
+          </div>
+          <h4 class="text-2xl font-black uppercase italic tracking-tighter relative z-10">Serve Aiuto?</h4>
+          <p class="text-sm font-medium opacity-80 leading-relaxed relative z-10 uppercase tracking-wide">Se hai domande su questo ordine o vuoi richiedere un intervento per questi prodotti, contatta il team Jolly Care.</p>
+          <a href="/pages/assistance" class="inline-flex items-center gap-3 bg-white text-primary px-8 py-4 rounded-2xl font-black text-[10px] uppercase tracking-widest shadow-lg hover:scale-105 transition-all relative z-10">
+              Apri Ticket Assistenza
+          </a>
+      </div>
+    </div>
+  </div>
+</div>

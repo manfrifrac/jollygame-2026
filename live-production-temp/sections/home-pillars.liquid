@@ -1,0 +1,106 @@
+<div class="max-w-7xl mx-auto px-6 md:px-10 space-y-20 py-16 font-sans">
+    
+    {% comment %} Top Pillars: Support & Benefits {% endcomment %}
+    <div class="grid grid-cols-1 md:grid-cols-2 gap-8">
+        {% comment %} Pillar 1: Assistance {% endcomment %}
+        <div class="bg-white p-10 md:p-12 rounded-[48px] border border-outline-variant/15 flex flex-col justify-between group hover:shadow-2xl transition-all duration-700 relative overflow-hidden shadow-sm">
+            <div class="absolute -right-12 -bottom-12 opacity-5 group-hover:scale-110 transition-transform duration-1000 pointer-events-none text-[#00578E]">
+                <span class="material-symbols-outlined text-[200px]" style="font-variation-settings: 'FILL' 1">support_agent</span>
+            </div>
+            <div class="relative z-10 space-y-8">
+                <div class="w-16 h-16 bg-[#00578E]/5 text-[#00578E] rounded-2xl flex items-center justify-center shadow-inner border border-[#00578E]/10">
+                    <span class="material-symbols-outlined text-3xl">support_agent</span>
+                </div>
+                <div>
+                    <h2 class="text-4xl font-black text-[#00578E] leading-none uppercase italic tracking-tighter mb-4">Assistenza <br/>Specialistica</h2>
+                    <p class="text-on-surface-variant text-lg font-medium opacity-70 leading-relaxed max-w-sm italic">
+                        SOS rapido e supporto tecnico diretto. La tua piscina sempre in salute, monitorata dai nostri professionisti.
+                    </p>
+                </div>
+            </div>
+            <a href="/pages/assistance" class="relative z-10 mt-10 bg-[#00578E] text-white px-8 py-4 rounded-2xl font-black text-[10px] uppercase tracking-widest w-max flex items-center gap-3 hover:gap-5 transition-all shadow-xl active:scale-95">
+                Richiedi Supporto <span class="material-symbols-outlined text-sm">arrow_forward</span>
+            </a>
+        </div>
+
+        {% comment %} Pillar 2: Benefits {% endcomment %}
+        <div class="bg-[#001945] text-white p-10 md:p-12 rounded-[48px] flex flex-col justify-between group hover:shadow-2xl transition-all duration-700 relative overflow-hidden border border-white/5 shadow-xl">
+            <div class="absolute -right-8 -top-8 opacity-10 group-hover:rotate-12 transition-transform duration-1000 pointer-events-none text-white">
+                <span class="material-symbols-outlined text-[150px]" style="font-variation-settings: 'FILL' 1">shield</span>
+            </div>
+            <div class="relative z-10 space-y-10">
+                <h2 class="text-4xl font-black leading-none uppercase italic tracking-tighter text-[#FFDEA5]">Jolly <br/>Care Hub</h2>
+                <div class="grid grid-cols-1 gap-4">
+                    <div class="flex items-center gap-4 bg-white/5 p-4 rounded-2xl border border-white/10 backdrop-blur-md">
+                        <span class="material-symbols-outlined text-[#FFDEA5] text-2xl">check_circle</span>
+                        <p class="font-black text-[10px] uppercase tracking-[0.2em]">Sincronizzazione Cloud</p>
+                    </div>
+                    <div class="flex items-center gap-4 bg-white/5 p-4 rounded-2xl border border-white/10 backdrop-blur-md">
+                        <span class="material-symbols-outlined text-[#FFDEA5] text-2xl">check_circle</span>
+                        <p class="font-black text-[10px] uppercase tracking-[0.2em]">WhatsApp Direct Line</p>
+                    </div>
+                    <div class="flex items-center gap-4 bg-white/5 p-4 rounded-2xl border border-white/10 backdrop-blur-md">
+                        <span class="material-symbols-outlined text-[#FFDEA5] text-2xl">check_circle</span>
+                        <p class="font-black text-[10px] uppercase tracking-[0.2em]">Refill Automatico</p>
+                    </div>
+                </div>
+            </div>
+            <a href="/pages/club" class="relative z-10 mt-10 bg-[#FFDEA5] text-[#00578E] px-10 py-5 rounded-2xl font-black text-[10px] uppercase tracking-[0.2em] text-center hover:brightness-110 transition-all shadow-xl active:scale-95">
+                Entra nel Hub
+            </a>
+        </div>
+    </div>
+
+    {% comment %} Specialized Shop Section {% endcomment %}
+    <section class="space-y-12">
+        <div class="flex flex-col lg:flex-row justify-between items-center gap-10">
+            <div class="space-y-4 flex-1 text-center lg:text-left">
+                <span class="inline-flex items-center gap-2 text-[#00578E] text-[10px] font-black uppercase tracking-[0.4em] opacity-50">
+                    <span class="material-symbols-outlined text-[18px]">shopping_bag</span>
+                    Eccellenza Jolly Game
+                </span>
+                <h2 class="text-5xl md:text-7xl font-black text-[#00578E] leading-tight uppercase italic tracking-tighter">
+                    Shop <br/><span class="text-[#FFDEA5] drop-shadow-sm bg-[#00578E] px-4 py-1 rounded-2xl not-italic">Specializzato.</span>
+                </h2>
+                <p class="text-on-surface-variant text-xl font-medium max-w-lg leading-relaxed opacity-80 mx-auto lg:mx-0 italic">
+                    I migliori componenti e prodotti chimici selezionati dai nostri tecnici per la tua piscina.
+                </p>
+            </div>
+        </div>
+
+        {% comment %} Collections Grid (Placeholder aware) {% endcomment %}
+        <div class="grid grid-cols-2 lg:grid-cols-4 gap-6">
+            {%- for collection in collections limit: 4 -%}
+                <a href="{{ collection.url }}" class="group relative rounded-[40px] overflow-hidden aspect-[3/4] bg-[#00578E]/5 border border-outline-variant/10 shadow-sm hover:shadow-2xl transition-all duration-700">
+                    {%- if collection.image -%}
+                        <img src="{{ collection.image | image_url: width: 600 }}" class="absolute inset-0 w-full h-full object-cover group-hover:scale-110 transition-transform duration-1000" alt="{{ collection.title }}">
+                    {%- else -%}
+                        <div class="absolute inset-0 bg-[#00578E] flex flex-col items-center justify-center p-8 text-center space-y-6">
+                            <span class="material-symbols-outlined text-6xl text-[#FFDEA5] opacity-40 group-hover:scale-110 transition-transform duration-700">pool</span>
+                            <div class="h-px w-12 bg-[#FFDEA5]/20"></div>
+                        </div>
+                    {%- endif -%}
+                    
+                    <div class="absolute inset-0 bg-gradient-to-t from-[#001945]/90 via-[#001945]/20 to-transparent flex flex-col justify-end p-8 text-white translate-y-2 group-hover:translate-y-0 transition-transform duration-500">
+                        <div class="space-y-2">
+                            <span class="bg-[#FFDEA5] text-[#00578E] px-3 py-1 rounded-full text-[8px] font-black uppercase tracking-widest shadow-lg inline-block mb-2">
+                                Catalogo
+                            </span>
+                            <h3 class="text-2xl font-black uppercase italic tracking-tighter leading-tight">{{ collection.title }}</h3>
+                            <p class="text-[9px] font-black uppercase tracking-[0.2em] opacity-60 group-hover:opacity-100 transition-opacity flex items-center gap-2">
+                                Scopri <span class="material-symbols-outlined text-[14px]">arrow_forward</span>
+                            </p>
+                        </div>
+                    </div>
+                </a>
+            {%- endfor -%}
+        </div>
+    </section>
+</div>
+
+{% schema %}
+{
+  "name": "Home Pillars",
+  "settings": []
+}
+{% endschema %}

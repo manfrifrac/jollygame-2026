@@ -1,0 +1,5274 @@
+[
+  {
+    "product_id": "gid://shopify/Product/15527770587484",
+    "variant_id": "gid://shopify/ProductVariant/57298392219996",
+    "sku": "40009",
+    "old_price": 2.85,
+    "new_price": 2.85,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527770587484",
+    "variant_id": "gid://shopify/ProductVariant/57298392252764",
+    "sku": "40012",
+    "old_price": 0.0,
+    "new_price": 0.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527770587484",
+    "variant_id": "gid://shopify/ProductVariant/57298392285532",
+    "sku": "40095",
+    "old_price": 0.0,
+    "new_price": 0.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527770587484",
+    "variant_id": "gid://shopify/ProductVariant/57298392318300",
+    "sku": "778196",
+    "old_price": 0.0,
+    "new_price": 0.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527770587484",
+    "variant_id": "gid://shopify/ProductVariant/57298392351068",
+    "sku": "90165",
+    "old_price": 0.0,
+    "new_price": 0.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527770587484",
+    "variant_id": "gid://shopify/ProductVariant/57298392383836",
+    "sku": "787104",
+    "old_price": 0.0,
+    "new_price": 0.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527770587484",
+    "variant_id": "gid://shopify/ProductVariant/57298392416604",
+    "sku": "40091",
+    "old_price": 0.0,
+    "new_price": 0.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527770587484",
+    "variant_id": "gid://shopify/ProductVariant/57298392449372",
+    "sku": "AR509",
+    "old_price": 0.0,
+    "new_price": 0.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527770587484",
+    "variant_id": "gid://shopify/ProductVariant/57298392482140",
+    "sku": "AR511",
+    "old_price": 0.0,
+    "new_price": 0.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527770620252",
+    "variant_id": "gid://shopify/ProductVariant/57298392580444",
+    "sku": "40010",
+    "old_price": 22.65,
+    "new_price": 22.65,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527770620252",
+    "variant_id": "gid://shopify/ProductVariant/57298392613212",
+    "sku": "40011",
+    "old_price": 0.0,
+    "new_price": 0.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527770620252",
+    "variant_id": "gid://shopify/ProductVariant/57298392645980",
+    "sku": "90100",
+    "old_price": 0.0,
+    "new_price": 0.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527770620252",
+    "variant_id": "gid://shopify/ProductVariant/57298392678748",
+    "sku": "40014",
+    "old_price": 0.0,
+    "new_price": 0.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527770620252",
+    "variant_id": "gid://shopify/ProductVariant/57298392711516",
+    "sku": "TPP360",
+    "old_price": 0.0,
+    "new_price": 0.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527770620252",
+    "variant_id": "gid://shopify/ProductVariant/57298392744284",
+    "sku": "40013",
+    "old_price": 0.0,
+    "new_price": 0.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527770685788",
+    "variant_id": "gid://shopify/ProductVariant/57298392973660",
+    "sku": "40022",
+    "old_price": 0.0,
+    "new_price": 0.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527770685788",
+    "variant_id": "gid://shopify/ProductVariant/57298393006428",
+    "sku": "90105",
+    "old_price": 0.0,
+    "new_price": 0.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527770685788",
+    "variant_id": "gid://shopify/ProductVariant/57298393039196",
+    "sku": "90110",
+    "old_price": 0.0,
+    "new_price": 0.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527770685788",
+    "variant_id": "gid://shopify/ProductVariant/57298393071964",
+    "sku": "40016N",
+    "old_price": 0.0,
+    "new_price": 0.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527770685788",
+    "variant_id": "gid://shopify/ProductVariant/57298393104732",
+    "sku": "777573",
+    "old_price": 0.0,
+    "new_price": 0.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527770685788",
+    "variant_id": "gid://shopify/ProductVariant/57298393137500",
+    "sku": "777970",
+    "old_price": 0.0,
+    "new_price": 0.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527770685788",
+    "variant_id": "gid://shopify/ProductVariant/57298393170268",
+    "sku": "770306",
+    "old_price": 0.0,
+    "new_price": 0.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527770685788",
+    "variant_id": "gid://shopify/ProductVariant/57298393203036",
+    "sku": "VHRP40",
+    "old_price": 0.0,
+    "new_price": 0.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527770685788",
+    "variant_id": "gid://shopify/ProductVariant/57298393235804",
+    "sku": "772794",
+    "old_price": 0.0,
+    "new_price": 0.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527770685788",
+    "variant_id": "gid://shopify/ProductVariant/57298393268572",
+    "sku": "40017N",
+    "old_price": 0.0,
+    "new_price": 0.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527770685788",
+    "variant_id": "gid://shopify/ProductVariant/57298393301340",
+    "sku": "VHTP40",
+    "old_price": 0.0,
+    "new_price": 0.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527770685788",
+    "variant_id": "gid://shopify/ProductVariant/57298393334108",
+    "sku": "40018N",
+    "old_price": 0.0,
+    "new_price": 0.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527770685788",
+    "variant_id": "gid://shopify/ProductVariant/57298393366876",
+    "sku": "777584",
+    "old_price": 0.0,
+    "new_price": 0.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527770685788",
+    "variant_id": "gid://shopify/ProductVariant/57298393399644",
+    "sku": "90111",
+    "old_price": 0.0,
+    "new_price": 0.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527770718556",
+    "variant_id": "gid://shopify/ProductVariant/57298393497948",
+    "sku": "40055",
+    "old_price": 0.0,
+    "new_price": 0.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527770718556",
+    "variant_id": "gid://shopify/ProductVariant/57298393530716",
+    "sku": "BT474",
+    "old_price": 0.0,
+    "new_price": 0.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527770718556",
+    "variant_id": "gid://shopify/ProductVariant/57298393563484",
+    "sku": "40050",
+    "old_price": 0.0,
+    "new_price": 59.16,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527770718556",
+    "variant_id": "gid://shopify/ProductVariant/57298393596252",
+    "sku": "40051",
+    "old_price": 0.0,
+    "new_price": 0.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527770718556",
+    "variant_id": "gid://shopify/ProductVariant/57298393629020",
+    "sku": "40054",
+    "old_price": 0.0,
+    "new_price": 0.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527770718556",
+    "variant_id": "gid://shopify/ProductVariant/57298393661788",
+    "sku": "90130",
+    "old_price": 0.0,
+    "new_price": 0.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527770718556",
+    "variant_id": "gid://shopify/ProductVariant/57298393694556",
+    "sku": "770326",
+    "old_price": 0.0,
+    "new_price": 0.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527770718556",
+    "variant_id": "gid://shopify/ProductVariant/57298393727324",
+    "sku": "TTUFO",
+    "old_price": 0.0,
+    "new_price": 0.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527770718556",
+    "variant_id": "gid://shopify/ProductVariant/57298393760092",
+    "sku": "90132",
+    "old_price": 0.0,
+    "new_price": 0.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527770718556",
+    "variant_id": "gid://shopify/ProductVariant/57298393792860",
+    "sku": "THP24",
+    "old_price": 0.0,
+    "new_price": 0.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527770784092",
+    "variant_id": "gid://shopify/ProductVariant/57298394218844",
+    "sku": "40070",
+    "old_price": 8.7,
+    "new_price": 8.7,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527770784092",
+    "variant_id": "gid://shopify/ProductVariant/57298394251612",
+    "sku": "40071",
+    "old_price": 0.0,
+    "new_price": 0.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527770784092",
+    "variant_id": "gid://shopify/ProductVariant/57298394284380",
+    "sku": "90140",
+    "old_price": 0.0,
+    "new_price": 0.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527770784092",
+    "variant_id": "gid://shopify/ProductVariant/57298394317148",
+    "sku": "90141",
+    "old_price": 0.0,
+    "new_price": 0.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527770784092",
+    "variant_id": "gid://shopify/ProductVariant/57298394349916",
+    "sku": "DCT20",
+    "old_price": 0.0,
+    "new_price": 0.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527770784092",
+    "variant_id": "gid://shopify/ProductVariant/57298394382684",
+    "sku": "FDP20",
+    "old_price": 0.0,
+    "new_price": 0.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527770784092",
+    "variant_id": "gid://shopify/ProductVariant/57298394415452",
+    "sku": "FDP250",
+    "old_price": 0.0,
+    "new_price": 0.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527770882396",
+    "variant_id": "gid://shopify/ProductVariant/57298394579292",
+    "sku": "40080",
+    "old_price": 8.0,
+    "new_price": 8.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527770882396",
+    "variant_id": "gid://shopify/ProductVariant/57298394612060",
+    "sku": "AR202",
+    "old_price": 0.0,
+    "new_price": 0.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527770882396",
+    "variant_id": "gid://shopify/ProductVariant/57298394644828",
+    "sku": "V12",
+    "old_price": 0.0,
+    "new_price": 0.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527770915164",
+    "variant_id": "gid://shopify/ProductVariant/57298394906972",
+    "sku": "40553",
+    "old_price": 18.5,
+    "new_price": 18.5,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527770980700",
+    "variant_id": "gid://shopify/ProductVariant/57298396971356",
+    "sku": "40557",
+    "old_price": 0.0,
+    "new_price": 0.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527770980700",
+    "variant_id": "gid://shopify/ProductVariant/57298397004124",
+    "sku": "40538",
+    "old_price": 0.0,
+    "new_price": 0.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527770980700",
+    "variant_id": "gid://shopify/ProductVariant/57298397036892",
+    "sku": "40646",
+    "old_price": 0.0,
+    "new_price": 0.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527770980700",
+    "variant_id": "gid://shopify/ProductVariant/57298397069660",
+    "sku": "40591",
+    "old_price": 0.0,
+    "new_price": 0.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527770980700",
+    "variant_id": "gid://shopify/ProductVariant/57298397102428",
+    "sku": "40593",
+    "old_price": 0.0,
+    "new_price": 0.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527770980700",
+    "variant_id": "gid://shopify/ProductVariant/57298397135196",
+    "sku": "40592",
+    "old_price": 0.0,
+    "new_price": 0.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527770980700",
+    "variant_id": "gid://shopify/ProductVariant/57298397167964",
+    "sku": "40539",
+    "old_price": 0.0,
+    "new_price": 0.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527770980700",
+    "variant_id": "gid://shopify/ProductVariant/57298397200732",
+    "sku": "40541",
+    "old_price": 0.0,
+    "new_price": 0.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527770980700",
+    "variant_id": "gid://shopify/ProductVariant/57298397233500",
+    "sku": "40555",
+    "old_price": 0.0,
+    "new_price": 0.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527770980700",
+    "variant_id": "gid://shopify/ProductVariant/57298397266268",
+    "sku": "40537",
+    "old_price": 0.0,
+    "new_price": 0.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527770980700",
+    "variant_id": "gid://shopify/ProductVariant/57298397299036",
+    "sku": "40590",
+    "old_price": 0.0,
+    "new_price": 0.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527770980700",
+    "variant_id": "gid://shopify/ProductVariant/57298397331804",
+    "sku": "40543",
+    "old_price": 0.0,
+    "new_price": 0.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527771079004",
+    "variant_id": "gid://shopify/ProductVariant/57298398675292",
+    "sku": "40802",
+    "old_price": 16.0,
+    "new_price": 16.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527771079004",
+    "variant_id": "gid://shopify/ProductVariant/57298398740828",
+    "sku": "40806",
+    "old_price": 0.0,
+    "new_price": 61.73,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527771079004",
+    "variant_id": "gid://shopify/ProductVariant/57298398773596",
+    "sku": "90125",
+    "old_price": 0.0,
+    "new_price": 0.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527771079004",
+    "variant_id": "gid://shopify/ProductVariant/57298398806364",
+    "sku": "90127",
+    "old_price": 0.0,
+    "new_price": 0.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527771079004",
+    "variant_id": "gid://shopify/ProductVariant/57298398839132",
+    "sku": "90128",
+    "old_price": 0.0,
+    "new_price": 0.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527771079004",
+    "variant_id": "gid://shopify/ProductVariant/57298398871900",
+    "sku": "CAA25",
+    "old_price": 0.0,
+    "new_price": 0.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527771079004",
+    "variant_id": "gid://shopify/ProductVariant/57298398904668",
+    "sku": "40041SN",
+    "old_price": 0.0,
+    "new_price": 0.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527771079004",
+    "variant_id": "gid://shopify/ProductVariant/57298398937436",
+    "sku": "40040N",
+    "old_price": 0.0,
+    "new_price": 0.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527771079004",
+    "variant_id": "gid://shopify/ProductVariant/57298399002972",
+    "sku": "40046N",
+    "old_price": 0.0,
+    "new_price": 0.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527771079004",
+    "variant_id": "gid://shopify/ProductVariant/57298399035740",
+    "sku": "40041N",
+    "old_price": 0.0,
+    "new_price": 0.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527771079004",
+    "variant_id": "gid://shopify/ProductVariant/57298399068508",
+    "sku": "772876",
+    "old_price": 0.0,
+    "new_price": 0.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527771079004",
+    "variant_id": "gid://shopify/ProductVariant/57298399101276",
+    "sku": "HBP20",
+    "old_price": 0.0,
+    "new_price": 0.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527771079004",
+    "variant_id": "gid://shopify/ProductVariant/57298399134044",
+    "sku": "772877",
+    "old_price": 0.0,
+    "new_price": 0.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527771079004",
+    "variant_id": "gid://shopify/ProductVariant/57298399166812",
+    "sku": "WBP45",
+    "old_price": 0.0,
+    "new_price": 0.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527771079004",
+    "variant_id": "gid://shopify/ProductVariant/57298399199580",
+    "sku": "WBP25",
+    "old_price": 0.0,
+    "new_price": 0.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527771373916",
+    "variant_id": "gid://shopify/ProductVariant/57298400510300",
+    "sku": "40817",
+    "old_price": 19.9,
+    "new_price": 19.9,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527772127580",
+    "variant_id": "gid://shopify/ProductVariant/57298402705756",
+    "sku": "76028",
+    "old_price": 65.0,
+    "new_price": 65.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527773962588",
+    "variant_id": "gid://shopify/ProductVariant/57298409455964",
+    "sku": "90120",
+    "old_price": 0.0,
+    "new_price": 0.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527773962588",
+    "variant_id": "gid://shopify/ProductVariant/57298409488732",
+    "sku": "40031F",
+    "old_price": 0.0,
+    "new_price": 0.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527773962588",
+    "variant_id": "gid://shopify/ProductVariant/57298409521500",
+    "sku": "777580",
+    "old_price": 0.0,
+    "new_price": 0.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527773962588",
+    "variant_id": "gid://shopify/ProductVariant/57298409554268",
+    "sku": "RHFALN",
+    "old_price": 0.0,
+    "new_price": 0.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527773962588",
+    "variant_id": "gid://shopify/ProductVariant/57298409587036",
+    "sku": "40032N",
+    "old_price": 0.0,
+    "new_price": 0.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527773962588",
+    "variant_id": "gid://shopify/ProductVariant/57298409619804",
+    "sku": "LRP40",
+    "old_price": 0.0,
+    "new_price": 0.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527773962588",
+    "variant_id": "gid://shopify/ProductVariant/57298409652572",
+    "sku": "772872",
+    "old_price": 0.0,
+    "new_price": 0.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527774028124",
+    "variant_id": "gid://shopify/ProductVariant/57298410045788",
+    "sku": "90160",
+    "old_price": 149.9,
+    "new_price": 149.9,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527774028124",
+    "variant_id": "gid://shopify/ProductVariant/57298410078556",
+    "sku": "90161",
+    "old_price": 0.0,
+    "new_price": 0.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527774060892",
+    "variant_id": "gid://shopify/ProductVariant/57298410570076",
+    "sku": "90171",
+    "old_price": 299.0,
+    "new_price": 299.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527774060892",
+    "variant_id": "gid://shopify/ProductVariant/57298410602844",
+    "sku": "40135",
+    "old_price": 215.0,
+    "new_price": 215.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527774060892",
+    "variant_id": "gid://shopify/ProductVariant/57298410635612",
+    "sku": "CRP58",
+    "old_price": 159.0,
+    "new_price": 159.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527774060892",
+    "variant_id": "gid://shopify/ProductVariant/57298410668380",
+    "sku": "90172",
+    "old_price": 259.0,
+    "new_price": 259.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527774126428",
+    "variant_id": "gid://shopify/ProductVariant/57298410864988",
+    "sku": "90230",
+    "old_price": 169.0,
+    "new_price": 169.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527774126428",
+    "variant_id": "gid://shopify/ProductVariant/57298410897756",
+    "sku": "AR2069",
+    "old_price": 229.0,
+    "new_price": 229.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527774126428",
+    "variant_id": "gid://shopify/ProductVariant/57298410930524",
+    "sku": "SH70",
+    "old_price": 129.0,
+    "new_price": 129.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527774191964",
+    "variant_id": "gid://shopify/ProductVariant/57298411094364",
+    "sku": "90397",
+    "old_price": 175.0,
+    "new_price": 175.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527774191964",
+    "variant_id": "gid://shopify/ProductVariant/57298411127132",
+    "sku": "90399",
+    "old_price": 102.0,
+    "new_price": 102.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527774191964",
+    "variant_id": "gid://shopify/ProductVariant/57298411159900",
+    "sku": "19001",
+    "old_price": 112.0,
+    "new_price": 112.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527774191964",
+    "variant_id": "gid://shopify/ProductVariant/57298411192668",
+    "sku": "AR20682",
+    "old_price": 88.0,
+    "new_price": 88.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527774191964",
+    "variant_id": "gid://shopify/ProductVariant/57298411225436",
+    "sku": "19007",
+    "old_price": 154.0,
+    "new_price": 154.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527774290268",
+    "variant_id": "gid://shopify/ProductVariant/57298412208476",
+    "sku": "126674",
+    "old_price": 269.0,
+    "new_price": 269.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527774421340",
+    "variant_id": "gid://shopify/ProductVariant/57298413027676",
+    "sku": "621103",
+    "old_price": 619.0,
+    "new_price": 619.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527774421340",
+    "variant_id": "gid://shopify/ProductVariant/57298413060444",
+    "sku": "779531",
+    "old_price": 355.0,
+    "new_price": 355.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527774421340",
+    "variant_id": "gid://shopify/ProductVariant/57298413093212",
+    "sku": "786754",
+    "old_price": 279.0,
+    "new_price": 279.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527774421340",
+    "variant_id": "gid://shopify/ProductVariant/57298413125980",
+    "sku": "CI790208",
+    "old_price": 829.0,
+    "new_price": 829.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527774421340",
+    "variant_id": "gid://shopify/ProductVariant/57298413158748",
+    "sku": "CIKPBOC535",
+    "old_price": 399.0,
+    "new_price": 399.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527774421340",
+    "variant_id": "gid://shopify/ProductVariant/57298413191516",
+    "sku": "CIKPBOC632",
+    "old_price": 0.0,
+    "new_price": 0.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527774421340",
+    "variant_id": "gid://shopify/ProductVariant/57298413224284",
+    "sku": "CIKPCO66",
+    "old_price": 449.0,
+    "new_price": 449.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527774421340",
+    "variant_id": "gid://shopify/ProductVariant/57298413257052",
+    "sku": "CIKPCO80",
+    "old_price": 519.0,
+    "new_price": 519.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527774421340",
+    "variant_id": "gid://shopify/ProductVariant/57298413289820",
+    "sku": "CIPROV1001",
+    "old_price": 244.0,
+    "new_price": 244.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527774421340",
+    "variant_id": "gid://shopify/ProductVariant/57298413322588",
+    "sku": "CIPROV501",
+    "old_price": 81.0,
+    "new_price": 81.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527774421340",
+    "variant_id": "gid://shopify/ProductVariant/57298413355356",
+    "sku": "CIPROV611",
+    "old_price": 121.0,
+    "new_price": 121.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527774421340",
+    "variant_id": "gid://shopify/ProductVariant/57298413388124",
+    "sku": "CIPROV731",
+    "old_price": 135.0,
+    "new_price": 135.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527774421340",
+    "variant_id": "gid://shopify/ProductVariant/57298413420892",
+    "sku": "CIPROV821",
+    "old_price": 183.0,
+    "new_price": 183.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527774421340",
+    "variant_id": "gid://shopify/ProductVariant/57298413453660",
+    "sku": "CIPROV911",
+    "old_price": 193.0,
+    "new_price": 193.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527774421340",
+    "variant_id": "gid://shopify/ProductVariant/57298413486428",
+    "sku": "779537",
+    "old_price": 285.0,
+    "new_price": 285.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527774421340",
+    "variant_id": "gid://shopify/ProductVariant/57298413519196",
+    "sku": "CIKPCO52",
+    "old_price": 317.0,
+    "new_price": 317.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527774421340",
+    "variant_id": "gid://shopify/ProductVariant/57298413551964",
+    "sku": "CI800007",
+    "old_price": 0.0,
+    "new_price": 0.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527774421340",
+    "variant_id": "gid://shopify/ProductVariant/57298413584732",
+    "sku": "CIPROV501P",
+    "old_price": 119.0,
+    "new_price": 119.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527774421340",
+    "variant_id": "gid://shopify/ProductVariant/57298413617500",
+    "sku": "CIPROV731P",
+    "old_price": 149.9,
+    "new_price": 149.9,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527774421340",
+    "variant_id": "gid://shopify/ProductVariant/57298413650268",
+    "sku": "CIPROV611P",
+    "old_price": 125.0,
+    "new_price": 125.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527774421340",
+    "variant_id": "gid://shopify/ProductVariant/57298413683036",
+    "sku": "CI790209",
+    "old_price": 0.0,
+    "new_price": 0.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527774650716",
+    "variant_id": "gid://shopify/ProductVariant/57298414338396",
+    "sku": "770398",
+    "old_price": 639.0,
+    "new_price": 639.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527774650716",
+    "variant_id": "gid://shopify/ProductVariant/57298414371164",
+    "sku": "FPR241",
+    "old_price": 201.0,
+    "new_price": 201.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527774650716",
+    "variant_id": "gid://shopify/ProductVariant/57298414403932",
+    "sku": "FPR301",
+    "old_price": 270.0,
+    "new_price": 270.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527774650716",
+    "variant_id": "gid://shopify/ProductVariant/57298414469468",
+    "sku": "FPR352",
+    "old_price": 282.0,
+    "new_price": 282.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527774650716",
+    "variant_id": "gid://shopify/ProductVariant/57298414502236",
+    "sku": "FPR354",
+    "old_price": 249.0,
+    "new_price": 249.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527774650716",
+    "variant_id": "gid://shopify/ProductVariant/57298414535004",
+    "sku": "FPR357",
+    "old_price": 405.0,
+    "new_price": 405.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527774650716",
+    "variant_id": "gid://shopify/ProductVariant/57298414567772",
+    "sku": "FPR358",
+    "old_price": 317.0,
+    "new_price": 317.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527774650716",
+    "variant_id": "gid://shopify/ProductVariant/57298414600540",
+    "sku": "FPR451",
+    "old_price": 402.0,
+    "new_price": 402.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527774650716",
+    "variant_id": "gid://shopify/ProductVariant/57298414633308",
+    "sku": "FPR457",
+    "old_price": 529.0,
+    "new_price": 529.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527774650716",
+    "variant_id": "gid://shopify/ProductVariant/57298414666076",
+    "sku": "FPR458",
+    "old_price": 475.0,
+    "new_price": 475.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527774650716",
+    "variant_id": "gid://shopify/ProductVariant/57298414698844",
+    "sku": "FPR551",
+    "old_price": 590.0,
+    "new_price": 590.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527774650716",
+    "variant_id": "gid://shopify/ProductVariant/57298414731612",
+    "sku": "FPR557",
+    "old_price": 744.0,
+    "new_price": 744.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527774650716",
+    "variant_id": "gid://shopify/ProductVariant/57298414764380",
+    "sku": "FPR558",
+    "old_price": 615.0,
+    "new_price": 615.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527774650716",
+    "variant_id": "gid://shopify/ProductVariant/57298414797148",
+    "sku": "FSP300",
+    "old_price": 98.0,
+    "new_price": 98.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527774650716",
+    "variant_id": "gid://shopify/ProductVariant/57298414829916",
+    "sku": "FSP350",
+    "old_price": 115.0,
+    "new_price": 115.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527774650716",
+    "variant_id": "gid://shopify/ProductVariant/57298414862684",
+    "sku": "FSP400",
+    "old_price": 149.9,
+    "new_price": 149.9,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527774650716",
+    "variant_id": "gid://shopify/ProductVariant/57298414895452",
+    "sku": "FSP450",
+    "old_price": 176.0,
+    "new_price": 176.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527774650716",
+    "variant_id": "gid://shopify/ProductVariant/57298414928220",
+    "sku": "FWPR30",
+    "old_price": 89.0,
+    "new_price": 89.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527774650716",
+    "variant_id": "gid://shopify/ProductVariant/57298414960988",
+    "sku": "FSPR350",
+    "old_price": 152.0,
+    "new_price": 152.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527774912860",
+    "variant_id": "gid://shopify/ProductVariant/57298415485276",
+    "sku": "772060",
+    "old_price": 211.9,
+    "new_price": 211.9,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527775207772",
+    "variant_id": "gid://shopify/ProductVariant/57298416795996",
+    "sku": "773322",
+    "old_price": 74.54,
+    "new_price": 74.54,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527775207772",
+    "variant_id": "gid://shopify/ProductVariant/57298416828764",
+    "sku": "779530",
+    "old_price": 0.0,
+    "new_price": 0.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527775207772",
+    "variant_id": "gid://shopify/ProductVariant/57298416861532",
+    "sku": "779532",
+    "old_price": 0.0,
+    "new_price": 0.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527775207772",
+    "variant_id": "gid://shopify/ProductVariant/57298416894300",
+    "sku": "784800",
+    "old_price": 0.0,
+    "new_price": 0.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527775207772",
+    "variant_id": "gid://shopify/ProductVariant/57298416927068",
+    "sku": "786634",
+    "old_price": 0.0,
+    "new_price": 0.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527775207772",
+    "variant_id": "gid://shopify/ProductVariant/57298416959836",
+    "sku": "CVKPCO80",
+    "old_price": 0.0,
+    "new_price": 0.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527775207772",
+    "variant_id": "gid://shopify/ProductVariant/57298416992604",
+    "sku": "CPROV1020",
+    "old_price": 0.0,
+    "new_price": 0.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527775207772",
+    "variant_id": "gid://shopify/ProductVariant/57298417025372",
+    "sku": "CPROV500",
+    "old_price": 0.0,
+    "new_price": 0.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527775207772",
+    "variant_id": "gid://shopify/ProductVariant/57298417058140",
+    "sku": "CPROV510",
+    "old_price": 0.0,
+    "new_price": 0.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527775207772",
+    "variant_id": "gid://shopify/ProductVariant/57298417090908",
+    "sku": "CPROV600",
+    "old_price": 0.0,
+    "new_price": 0.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527775207772",
+    "variant_id": "gid://shopify/ProductVariant/57298417123676",
+    "sku": "CPROV700",
+    "old_price": 0.0,
+    "new_price": 0.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527775207772",
+    "variant_id": "gid://shopify/ProductVariant/57298417156444",
+    "sku": "CPROV810",
+    "old_price": 0.0,
+    "new_price": 0.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527775207772",
+    "variant_id": "gid://shopify/ProductVariant/57298417189212",
+    "sku": "CPROV915",
+    "old_price": 0.0,
+    "new_price": 0.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527775207772",
+    "variant_id": "gid://shopify/ProductVariant/57298417221980",
+    "sku": "CVKPBOC535",
+    "old_price": 0.0,
+    "new_price": 0.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527775207772",
+    "variant_id": "gid://shopify/ProductVariant/57298417254748",
+    "sku": "CVKPBOC632",
+    "old_price": 0.0,
+    "new_price": 0.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527775207772",
+    "variant_id": "gid://shopify/ProductVariant/57298417287516",
+    "sku": "CVKPCO52",
+    "old_price": 0.0,
+    "new_price": 0.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527775207772",
+    "variant_id": "gid://shopify/ProductVariant/57298417353052",
+    "sku": "CVPE500",
+    "old_price": 0.0,
+    "new_price": 0.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527775207772",
+    "variant_id": "gid://shopify/ProductVariant/57298417385820",
+    "sku": "CVPE700",
+    "old_price": 0.0,
+    "new_price": 0.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527775207772",
+    "variant_id": "gid://shopify/ProductVariant/57298417418588",
+    "sku": "CV800007",
+    "old_price": 0.0,
+    "new_price": 0.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527775207772",
+    "variant_id": "gid://shopify/ProductVariant/57298417451356",
+    "sku": "CVP800",
+    "old_price": 0.0,
+    "new_price": 0.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527775207772",
+    "variant_id": "gid://shopify/ProductVariant/57298417484124",
+    "sku": "773326",
+    "old_price": 0.0,
+    "new_price": 0.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527775207772",
+    "variant_id": "gid://shopify/ProductVariant/57298417516892",
+    "sku": "773324",
+    "old_price": 0.0,
+    "new_price": 0.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527775207772",
+    "variant_id": "gid://shopify/ProductVariant/57298417549660",
+    "sku": "CVP1000",
+    "old_price": 0.0,
+    "new_price": 0.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527775207772",
+    "variant_id": "gid://shopify/ProductVariant/57298417582428",
+    "sku": "CVP900",
+    "old_price": 0.0,
+    "new_price": 0.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527775207772",
+    "variant_id": "gid://shopify/ProductVariant/57298417615196",
+    "sku": "CV7900892",
+    "old_price": 0.0,
+    "new_price": 0.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527775207772",
+    "variant_id": "gid://shopify/ProductVariant/57298417647964",
+    "sku": "CVPE600",
+    "old_price": 0.0,
+    "new_price": 0.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527775207772",
+    "variant_id": "gid://shopify/ProductVariant/57298417680732",
+    "sku": "CVPE800",
+    "old_price": 0.0,
+    "new_price": 0.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527775207772",
+    "variant_id": "gid://shopify/ProductVariant/57298417713500",
+    "sku": "CPROV730",
+    "old_price": 0.0,
+    "new_price": 0.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527775207772",
+    "variant_id": "gid://shopify/ProductVariant/57298417746268",
+    "sku": "CPROV505",
+    "old_price": 0.0,
+    "new_price": 0.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527775207772",
+    "variant_id": "gid://shopify/ProductVariant/57298417779036",
+    "sku": "CPROV610",
+    "old_price": 0.0,
+    "new_price": 0.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527775207772",
+    "variant_id": "gid://shopify/ProductVariant/57298417811804",
+    "sku": "CVKPCO66",
+    "old_price": 0.0,
+    "new_price": 0.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527775207772",
+    "variant_id": "gid://shopify/ProductVariant/57298417844572",
+    "sku": "CV7900872",
+    "old_price": 0.0,
+    "new_price": 0.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527775207772",
+    "variant_id": "gid://shopify/ProductVariant/57298417877340",
+    "sku": "CV7900862",
+    "old_price": 0.0,
+    "new_price": 0.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527775207772",
+    "variant_id": "gid://shopify/ProductVariant/57298417910108",
+    "sku": "CV790209",
+    "old_price": 0.0,
+    "new_price": 0.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527775207772",
+    "variant_id": "gid://shopify/ProductVariant/57298417942876",
+    "sku": "CVWPPAPA",
+    "old_price": 0.0,
+    "new_price": 0.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527777173852",
+    "variant_id": "gid://shopify/ProductVariant/57298423906652",
+    "sku": "784801",
+    "old_price": 239.0,
+    "new_price": 239.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527777173852",
+    "variant_id": "gid://shopify/ProductVariant/57298423939420",
+    "sku": "787058",
+    "old_price": 139.0,
+    "new_price": 139.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527777173852",
+    "variant_id": "gid://shopify/ProductVariant/57298423972188",
+    "sku": "CIKPCO41",
+    "old_price": 315.0,
+    "new_price": 315.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527777173852",
+    "variant_id": "gid://shopify/ProductVariant/57298424004956",
+    "sku": "CIPR241",
+    "old_price": 57.0,
+    "new_price": 57.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527777173852",
+    "variant_id": "gid://shopify/ProductVariant/57298424037724",
+    "sku": "CIPR301",
+    "old_price": 66.0,
+    "new_price": 66.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527777173852",
+    "variant_id": "gid://shopify/ProductVariant/57298424070492",
+    "sku": "CIPR351",
+    "old_price": 81.0,
+    "new_price": 81.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527777173852",
+    "variant_id": "gid://shopify/ProductVariant/57298424103260",
+    "sku": "CIPR351P",
+    "old_price": 84.0,
+    "new_price": 84.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527777173852",
+    "variant_id": "gid://shopify/ProductVariant/57298424136028",
+    "sku": "CIPR401",
+    "old_price": 83.0,
+    "new_price": 83.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527777173852",
+    "variant_id": "gid://shopify/ProductVariant/57298424168796",
+    "sku": "CIPR451",
+    "old_price": 111.0,
+    "new_price": 111.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527777173852",
+    "variant_id": "gid://shopify/ProductVariant/57298424201564",
+    "sku": "CIPR551",
+    "old_price": 112.0,
+    "new_price": 112.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527777173852",
+    "variant_id": "gid://shopify/ProductVariant/57298424234332",
+    "sku": "CIPR651",
+    "old_price": 164.0,
+    "new_price": 164.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527777173852",
+    "variant_id": "gid://shopify/ProductVariant/57298424267100",
+    "sku": "779525",
+    "old_price": 165.0,
+    "new_price": 165.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527777173852",
+    "variant_id": "gid://shopify/ProductVariant/57298424299868",
+    "sku": "CIPR451P",
+    "old_price": 127.0,
+    "new_price": 127.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527778189660",
+    "variant_id": "gid://shopify/ProductVariant/57298426167644",
+    "sku": "787247",
+    "old_price": 379.0,
+    "new_price": 379.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527778189660",
+    "variant_id": "gid://shopify/ProductVariant/57298426200412",
+    "sku": "787248",
+    "old_price": 0.0,
+    "new_price": 0.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527778189660",
+    "variant_id": "gid://shopify/ProductVariant/57298426233180",
+    "sku": "787249",
+    "old_price": 0.0,
+    "new_price": 0.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527785988444",
+    "variant_id": "gid://shopify/ProductVariant/57298449334620",
+    "sku": "KIT500W",
+    "old_price": 2045.0,
+    "new_price": 2045.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527785988444",
+    "variant_id": "gid://shopify/ProductVariant/57298449367388",
+    "sku": "KIT610W",
+    "old_price": 2549.0,
+    "new_price": 2549.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527785988444",
+    "variant_id": "gid://shopify/ProductVariant/57298449400156",
+    "sku": "KIT730W",
+    "old_price": 2995.0,
+    "new_price": 2995.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527793590620",
+    "variant_id": "gid://shopify/ProductVariant/57298516115804",
+    "sku": "KITPROV503W",
+    "old_price": 1785.0,
+    "new_price": 1785.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527815643484",
+    "variant_id": "gid://shopify/ProductVariant/57298595217756",
+    "sku": "40001",
+    "old_price": 42.0,
+    "new_price": 42.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527815643484",
+    "variant_id": "gid://shopify/ProductVariant/57298595250524",
+    "sku": "40002",
+    "old_price": 0.0,
+    "new_price": 0.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527815643484",
+    "variant_id": "gid://shopify/ProductVariant/57298595283292",
+    "sku": "40003",
+    "old_price": 0.0,
+    "new_price": 0.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527815643484",
+    "variant_id": "gid://shopify/ProductVariant/57298595316060",
+    "sku": "40004",
+    "old_price": 0.0,
+    "new_price": 0.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527815643484",
+    "variant_id": "gid://shopify/ProductVariant/57298595348828",
+    "sku": "AR210",
+    "old_price": 0.0,
+    "new_price": 0.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527815643484",
+    "variant_id": "gid://shopify/ProductVariant/57298595381596",
+    "sku": "AR212",
+    "old_price": 0.0,
+    "new_price": 0.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527815643484",
+    "variant_id": "gid://shopify/ProductVariant/57298595414364",
+    "sku": "770323",
+    "old_price": 0.0,
+    "new_price": 0.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527815643484",
+    "variant_id": "gid://shopify/ProductVariant/57298595447132",
+    "sku": "90135",
+    "old_price": 0.0,
+    "new_price": 0.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527815643484",
+    "variant_id": "gid://shopify/ProductVariant/57298595479900",
+    "sku": "770322",
+    "old_price": 0.0,
+    "new_price": 0.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527815938396",
+    "variant_id": "gid://shopify/ProductVariant/57298596757852",
+    "sku": "40582",
+    "old_price": 4.0,
+    "new_price": 4.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527815938396",
+    "variant_id": "gid://shopify/ProductVariant/57298596790620",
+    "sku": "40583",
+    "old_price": 0.0,
+    "new_price": 0.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527815938396",
+    "variant_id": "gid://shopify/ProductVariant/57298596823388",
+    "sku": "PIC1",
+    "old_price": 0.0,
+    "new_price": 0.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527815938396",
+    "variant_id": "gid://shopify/ProductVariant/57298596856156",
+    "sku": "40580",
+    "old_price": 0.0,
+    "new_price": 0.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527815938396",
+    "variant_id": "gid://shopify/ProductVariant/57298596888924",
+    "sku": "40581",
+    "old_price": 0.0,
+    "new_price": 0.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527816102236",
+    "variant_id": "gid://shopify/ProductVariant/57298597183836",
+    "sku": "60218",
+    "old_price": 0.0,
+    "new_price": 0.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527816102236",
+    "variant_id": "gid://shopify/ProductVariant/57298597216604",
+    "sku": "60205",
+    "old_price": 0.0,
+    "new_price": 0.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527816102236",
+    "variant_id": "gid://shopify/ProductVariant/57298597249372",
+    "sku": "AR2100",
+    "old_price": 0.0,
+    "new_price": 0.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527816102236",
+    "variant_id": "gid://shopify/ProductVariant/57298597282140",
+    "sku": "60222",
+    "old_price": 0.0,
+    "new_price": 0.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527816102236",
+    "variant_id": "gid://shopify/ProductVariant/57298597314908",
+    "sku": "40180",
+    "old_price": 0.0,
+    "new_price": 0.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527816102236",
+    "variant_id": "gid://shopify/ProductVariant/57298597380444",
+    "sku": "40181",
+    "old_price": 0.0,
+    "new_price": 0.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527816298844",
+    "variant_id": "gid://shopify/ProductVariant/57298597806428",
+    "sku": "76026",
+    "old_price": 99.9,
+    "new_price": 99.9,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527816298844",
+    "variant_id": "gid://shopify/ProductVariant/57298597839196",
+    "sku": "76027",
+    "old_price": 0.0,
+    "new_price": 0.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527816298844",
+    "variant_id": "gid://shopify/ProductVariant/57298597871964",
+    "sku": "76025",
+    "old_price": 0.0,
+    "new_price": 0.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527816626524",
+    "variant_id": "gid://shopify/ProductVariant/57298601312604",
+    "sku": "76048",
+    "old_price": 32.9,
+    "new_price": 32.9,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527816626524",
+    "variant_id": "gid://shopify/ProductVariant/57298601345372",
+    "sku": "76047",
+    "old_price": 0.0,
+    "new_price": 0.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527816626524",
+    "variant_id": "gid://shopify/ProductVariant/57298601378140",
+    "sku": "76046",
+    "old_price": 0.0,
+    "new_price": 0.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527816626524",
+    "variant_id": "gid://shopify/ProductVariant/57298601410908",
+    "sku": "76049",
+    "old_price": 0.0,
+    "new_price": 0.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527816823132",
+    "variant_id": "gid://shopify/ProductVariant/57298601869660",
+    "sku": "76050",
+    "old_price": 14.0,
+    "new_price": 14.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527816823132",
+    "variant_id": "gid://shopify/ProductVariant/57298601902428",
+    "sku": "90035",
+    "old_price": 0.0,
+    "new_price": 0.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527816823132",
+    "variant_id": "gid://shopify/ProductVariant/57298601935196",
+    "sku": "76051",
+    "old_price": 0.0,
+    "new_price": 0.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527816823132",
+    "variant_id": "gid://shopify/ProductVariant/57298601967964",
+    "sku": "76080L",
+    "old_price": 0.0,
+    "new_price": 0.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527816888668",
+    "variant_id": "gid://shopify/ProductVariant/57298603180380",
+    "sku": "76081",
+    "old_price": 29.0,
+    "new_price": 29.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527816888668",
+    "variant_id": "gid://shopify/ProductVariant/57298603213148",
+    "sku": "90147N",
+    "old_price": 0.0,
+    "new_price": 0.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527816921436",
+    "variant_id": "gid://shopify/ProductVariant/57298603311452",
+    "sku": "76084",
+    "old_price": 0.0,
+    "new_price": 0.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527816921436",
+    "variant_id": "gid://shopify/ProductVariant/57298603344220",
+    "sku": "76034",
+    "old_price": 0.0,
+    "new_price": 0.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527816921436",
+    "variant_id": "gid://shopify/ProductVariant/57298603376988",
+    "sku": "76058",
+    "old_price": 0.0,
+    "new_price": 0.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527816921436",
+    "variant_id": "gid://shopify/ProductVariant/57298603409756",
+    "sku": "76085",
+    "old_price": 0.0,
+    "new_price": 0.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527816921436",
+    "variant_id": "gid://shopify/ProductVariant/57298603442524",
+    "sku": "76012NB",
+    "old_price": 0.0,
+    "new_price": 0.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527816921436",
+    "variant_id": "gid://shopify/ProductVariant/57298603475292",
+    "sku": "76006NB",
+    "old_price": 0.0,
+    "new_price": 0.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527816921436",
+    "variant_id": "gid://shopify/ProductVariant/57298603508060",
+    "sku": "76007NB",
+    "old_price": 0.0,
+    "new_price": 0.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527816921436",
+    "variant_id": "gid://shopify/ProductVariant/57298603540828",
+    "sku": "76039NB",
+    "old_price": 0.0,
+    "new_price": 0.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527816921436",
+    "variant_id": "gid://shopify/ProductVariant/57298603573596",
+    "sku": "76031NB",
+    "old_price": 0.0,
+    "new_price": 0.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527816921436",
+    "variant_id": "gid://shopify/ProductVariant/57298603606364",
+    "sku": "76032NB",
+    "old_price": 0.0,
+    "new_price": 0.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527816921436",
+    "variant_id": "gid://shopify/ProductVariant/57298603639132",
+    "sku": "76067NB",
+    "old_price": 0.0,
+    "new_price": 0.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527816921436",
+    "variant_id": "gid://shopify/ProductVariant/57298603671900",
+    "sku": "76033NB",
+    "old_price": 0.0,
+    "new_price": 0.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527817347420",
+    "variant_id": "gid://shopify/ProductVariant/57298604392796",
+    "sku": "76671",
+    "old_price": 0.0,
+    "new_price": 0.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527817347420",
+    "variant_id": "gid://shopify/ProductVariant/57298604425564",
+    "sku": "WA000082",
+    "old_price": 0.0,
+    "new_price": 0.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527817511260",
+    "variant_id": "gid://shopify/ProductVariant/57298604622172",
+    "sku": "90003",
+    "old_price": 22.99,
+    "new_price": 22.99,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527817511260",
+    "variant_id": "gid://shopify/ProductVariant/57298604654940",
+    "sku": "76002",
+    "old_price": 0.0,
+    "new_price": 0.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527817511260",
+    "variant_id": "gid://shopify/ProductVariant/57298604687708",
+    "sku": "76019",
+    "old_price": 0.0,
+    "new_price": 0.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527817511260",
+    "variant_id": "gid://shopify/ProductVariant/57298604720476",
+    "sku": "76018",
+    "old_price": 0.0,
+    "new_price": 0.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527817511260",
+    "variant_id": "gid://shopify/ProductVariant/57298604753244",
+    "sku": "76001",
+    "old_price": 0.0,
+    "new_price": 0.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527819182428",
+    "variant_id": "gid://shopify/ProductVariant/57298615435612",
+    "sku": "773486",
+    "old_price": 769.0,
+    "new_price": 769.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527819182428",
+    "variant_id": "gid://shopify/ProductVariant/57298615468380",
+    "sku": "FPROV1028",
+    "old_price": 1455.0,
+    "new_price": 1455.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527819182428",
+    "variant_id": "gid://shopify/ProductVariant/57298615501148",
+    "sku": "FPROV500",
+    "old_price": 494.0,
+    "new_price": 494.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527819182428",
+    "variant_id": "gid://shopify/ProductVariant/57298615533916",
+    "sku": "FPROV507",
+    "old_price": 689.0,
+    "new_price": 689.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527819182428",
+    "variant_id": "gid://shopify/ProductVariant/57298615566684",
+    "sku": "FPROV5071",
+    "old_price": 0.0,
+    "new_price": 0.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527819182428",
+    "variant_id": "gid://shopify/ProductVariant/57298615599452",
+    "sku": "FPROV517",
+    "old_price": 672.0,
+    "new_price": 672.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527819182428",
+    "variant_id": "gid://shopify/ProductVariant/57298615664988",
+    "sku": "FPROV610",
+    "old_price": 610.0,
+    "new_price": 610.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527819182428",
+    "variant_id": "gid://shopify/ProductVariant/57298615697756",
+    "sku": "FPROV617",
+    "old_price": 769.0,
+    "new_price": 769.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527819182428",
+    "variant_id": "gid://shopify/ProductVariant/57298615730524",
+    "sku": "FPROV618",
+    "old_price": 683.0,
+    "new_price": 683.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527819182428",
+    "variant_id": "gid://shopify/ProductVariant/57298615763292",
+    "sku": "FPROV627",
+    "old_price": 799.0,
+    "new_price": 799.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527819182428",
+    "variant_id": "gid://shopify/ProductVariant/57298615796060",
+    "sku": "FPROV707",
+    "old_price": 935.0,
+    "new_price": 935.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527819182428",
+    "variant_id": "gid://shopify/ProductVariant/57298615828828",
+    "sku": "FPROV730",
+    "old_price": 695.0,
+    "new_price": 695.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527819182428",
+    "variant_id": "gid://shopify/ProductVariant/57298615861596",
+    "sku": "FPROV737",
+    "old_price": 849.0,
+    "new_price": 849.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527819182428",
+    "variant_id": "gid://shopify/ProductVariant/57298615894364",
+    "sku": "FPROV738",
+    "old_price": 829.0,
+    "new_price": 829.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527819182428",
+    "variant_id": "gid://shopify/ProductVariant/57298615927132",
+    "sku": "FPROV810",
+    "old_price": 865.0,
+    "new_price": 865.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527819182428",
+    "variant_id": "gid://shopify/ProductVariant/57298615959900",
+    "sku": "FPROV818",
+    "old_price": 925.0,
+    "new_price": 925.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527819182428",
+    "variant_id": "gid://shopify/ProductVariant/57298615992668",
+    "sku": "FPROV827",
+    "old_price": 995.0,
+    "new_price": 995.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527819182428",
+    "variant_id": "gid://shopify/ProductVariant/57298616025436",
+    "sku": "FPROV915",
+    "old_price": 948.0,
+    "new_price": 948.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527819182428",
+    "variant_id": "gid://shopify/ProductVariant/57298616058204",
+    "sku": "FPROV917",
+    "old_price": 1094.0,
+    "new_price": 1094.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527819182428",
+    "variant_id": "gid://shopify/ProductVariant/57298616090972",
+    "sku": "FPROV918",
+    "old_price": 995.0,
+    "new_price": 995.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527819182428",
+    "variant_id": "gid://shopify/ProductVariant/57298616123740",
+    "sku": "FSPROV500",
+    "old_price": 265.0,
+    "new_price": 265.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527819182428",
+    "variant_id": "gid://shopify/ProductVariant/57298616156508",
+    "sku": "FSPROV610",
+    "old_price": 375.0,
+    "new_price": 375.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527819182428",
+    "variant_id": "gid://shopify/ProductVariant/57298616189276",
+    "sku": "FSPROV730",
+    "old_price": 435.0,
+    "new_price": 435.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527819182428",
+    "variant_id": "gid://shopify/ProductVariant/57298616222044",
+    "sku": "770399",
+    "old_price": 905.0,
+    "new_price": 905.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527819182428",
+    "variant_id": "gid://shopify/ProductVariant/57298616254812",
+    "sku": "FPROV730A60",
+    "old_price": 0.0,
+    "new_price": 0.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527819837788",
+    "variant_id": "gid://shopify/ProductVariant/57298618679644",
+    "sku": "778041",
+    "old_price": 795.0,
+    "new_price": 795.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527819837788",
+    "variant_id": "gid://shopify/ProductVariant/57298618712412",
+    "sku": "788452",
+    "old_price": 135.0,
+    "new_price": 135.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527819837788",
+    "variant_id": "gid://shopify/ProductVariant/57298618745180",
+    "sku": "CI790204",
+    "old_price": 0.0,
+    "new_price": 0.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527819837788",
+    "variant_id": "gid://shopify/ProductVariant/57298618777948",
+    "sku": "CI790206",
+    "old_price": 549.0,
+    "new_price": 549.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527819837788",
+    "variant_id": "gid://shopify/ProductVariant/57298618810716",
+    "sku": "CI790207",
+    "old_price": 587.0,
+    "new_price": 587.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527819837788",
+    "variant_id": "gid://shopify/ProductVariant/57298618843484",
+    "sku": "CIKPBRC620",
+    "old_price": 0.0,
+    "new_price": 0.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527819837788",
+    "variant_id": "gid://shopify/ProductVariant/57298618876252",
+    "sku": "CIKPCOR2814",
+    "old_price": 262.0,
+    "new_price": 262.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527819837788",
+    "variant_id": "gid://shopify/ProductVariant/57298618909020",
+    "sku": "CIKPCOR46",
+    "old_price": 316.0,
+    "new_price": 316.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527819837788",
+    "variant_id": "gid://shopify/ProductVariant/57298618941788",
+    "sku": "CIKPCOR60",
+    "old_price": 369.0,
+    "new_price": 369.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527819837788",
+    "variant_id": "gid://shopify/ProductVariant/57298618974556",
+    "sku": "CIWPPAPA",
+    "old_price": 0.0,
+    "new_price": 0.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527820099932",
+    "variant_id": "gid://shopify/ProductVariant/57298620580188",
+    "sku": "778767",
+    "old_price": 443.0,
+    "new_price": 443.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527820099932",
+    "variant_id": "gid://shopify/ProductVariant/57298620612956",
+    "sku": "778768",
+    "old_price": 494.0,
+    "new_price": 494.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527820099932",
+    "variant_id": "gid://shopify/ProductVariant/57298620645724",
+    "sku": "786216",
+    "old_price": 715.0,
+    "new_price": 715.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527820099932",
+    "variant_id": "gid://shopify/ProductVariant/57298620678492",
+    "sku": "783809",
+    "old_price": 650.0,
+    "new_price": 650.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527820099932",
+    "variant_id": "gid://shopify/ProductVariant/57298620711260",
+    "sku": "F7900872",
+    "old_price": 419.0,
+    "new_price": 419.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527820099932",
+    "variant_id": "gid://shopify/ProductVariant/57298620744028",
+    "sku": "F7900862",
+    "old_price": 333.0,
+    "new_price": 333.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527820099932",
+    "variant_id": "gid://shopify/ProductVariant/57298620776796",
+    "sku": "786334",
+    "old_price": 985.0,
+    "new_price": 985.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527820099932",
+    "variant_id": "gid://shopify/ProductVariant/57298620809564",
+    "sku": "F790208",
+    "old_price": 1199.0,
+    "new_price": 1199.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527820099932",
+    "variant_id": "gid://shopify/ProductVariant/57298620842332",
+    "sku": "F790203",
+    "old_price": 0.0,
+    "new_price": 0.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527820099932",
+    "variant_id": "gid://shopify/ProductVariant/57298620875100",
+    "sku": "F790053C",
+    "old_price": 0.0,
+    "new_price": 0.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527820099932",
+    "variant_id": "gid://shopify/ProductVariant/57298620907868",
+    "sku": "F7900892",
+    "old_price": 558.0,
+    "new_price": 558.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527820099932",
+    "variant_id": "gid://shopify/ProductVariant/57298620940636",
+    "sku": "F800007",
+    "old_price": 0.0,
+    "new_price": 0.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527820099932",
+    "variant_id": "gid://shopify/ProductVariant/57298620973404",
+    "sku": "786217",
+    "old_price": 998.0,
+    "new_price": 998.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527820099932",
+    "variant_id": "gid://shopify/ProductVariant/57298621006172",
+    "sku": "788569",
+    "old_price": 0.0,
+    "new_price": 0.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527820165468",
+    "variant_id": "gid://shopify/ProductVariant/57298621989212",
+    "sku": "783885",
+    "old_price": 519.0,
+    "new_price": 519.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527820165468",
+    "variant_id": "gid://shopify/ProductVariant/57298622021980",
+    "sku": "786213",
+    "old_price": 275.0,
+    "new_price": 275.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527820165468",
+    "variant_id": "gid://shopify/ProductVariant/57298622054748",
+    "sku": "786214",
+    "old_price": 524.0,
+    "new_price": 524.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527820165468",
+    "variant_id": "gid://shopify/ProductVariant/57298622087516",
+    "sku": "778689",
+    "old_price": 275.0,
+    "new_price": 275.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527820165468",
+    "variant_id": "gid://shopify/ProductVariant/57298622120284",
+    "sku": "F800002",
+    "old_price": 275.0,
+    "new_price": 275.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527820165468",
+    "variant_id": "gid://shopify/ProductVariant/57298622153052",
+    "sku": "F790210",
+    "old_price": 0.0,
+    "new_price": 0.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527820165468",
+    "variant_id": "gid://shopify/ProductVariant/57298622185820",
+    "sku": "F800003",
+    "old_price": 515.0,
+    "new_price": 515.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527820165468",
+    "variant_id": "gid://shopify/ProductVariant/57298622218588",
+    "sku": "F800008",
+    "old_price": 220.0,
+    "new_price": 220.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527820165468",
+    "variant_id": "gid://shopify/ProductVariant/57298622251356",
+    "sku": "F790302",
+    "old_price": 519.0,
+    "new_price": 519.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527820198236",
+    "variant_id": "gid://shopify/ProductVariant/57298622710108",
+    "sku": "785939",
+    "old_price": 744.0,
+    "new_price": 744.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527820198236",
+    "variant_id": "gid://shopify/ProductVariant/57298622742876",
+    "sku": "785945",
+    "old_price": 499.0,
+    "new_price": 499.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527820198236",
+    "variant_id": "gid://shopify/ProductVariant/57298622775644",
+    "sku": "F790207",
+    "old_price": 1025.0,
+    "new_price": 1025.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527820198236",
+    "variant_id": "gid://shopify/ProductVariant/57298622808412",
+    "sku": "F790206",
+    "old_price": 744.0,
+    "new_price": 744.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527820198236",
+    "variant_id": "gid://shopify/ProductVariant/57298622841180",
+    "sku": "F790204",
+    "old_price": 0.0,
+    "new_price": 0.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527820198236",
+    "variant_id": "gid://shopify/ProductVariant/57298622873948",
+    "sku": "785943",
+    "old_price": 1029.0,
+    "new_price": 1029.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527820198236",
+    "variant_id": "gid://shopify/ProductVariant/57298622906716",
+    "sku": "F7900962",
+    "old_price": 472.0,
+    "new_price": 472.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527820198236",
+    "variant_id": "gid://shopify/ProductVariant/57298622939484",
+    "sku": "F800009",
+    "old_price": 699.0,
+    "new_price": 699.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527820198236",
+    "variant_id": "gid://shopify/ProductVariant/57298622972252",
+    "sku": "F790962",
+    "old_price": 0.0,
+    "new_price": 0.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527820296540",
+    "variant_id": "gid://shopify/ProductVariant/57298623627612",
+    "sku": "790000",
+    "old_price": 1640.0,
+    "new_price": 1640.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527820296540",
+    "variant_id": "gid://shopify/ProductVariant/57298623660380",
+    "sku": "WPCARR3",
+    "old_price": 6225.0,
+    "new_price": 6225.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527820362076",
+    "variant_id": "gid://shopify/ProductVariant/57298624676188",
+    "sku": "790001",
+    "old_price": 99.9,
+    "new_price": 99.9,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527820362076",
+    "variant_id": "gid://shopify/ProductVariant/57298624708956",
+    "sku": "CI790205",
+    "old_price": 239.0,
+    "new_price": 239.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527820362076",
+    "variant_id": "gid://shopify/ProductVariant/57298624741724",
+    "sku": "CIKPCOR28",
+    "old_price": 273.0,
+    "new_price": 273.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527820362076",
+    "variant_id": "gid://shopify/ProductVariant/57298624774492",
+    "sku": "WCPTB200",
+    "old_price": 0.0,
+    "new_price": 0.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527820427612",
+    "variant_id": "gid://shopify/ProductVariant/57298625233244",
+    "sku": "800008",
+    "old_price": 2789.0,
+    "new_price": 2789.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527820427612",
+    "variant_id": "gid://shopify/ProductVariant/57298625266012",
+    "sku": "800002",
+    "old_price": 3395.0,
+    "new_price": 3395.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527820427612",
+    "variant_id": "gid://shopify/ProductVariant/57298625298780",
+    "sku": "790302",
+    "old_price": 0.0,
+    "new_price": 0.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527820427612",
+    "variant_id": "gid://shopify/ProductVariant/57298625331548",
+    "sku": "800003",
+    "old_price": 4890.0,
+    "new_price": 4890.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527820820828",
+    "variant_id": "gid://shopify/ProductVariant/57298626380124",
+    "sku": "7900862",
+    "old_price": 5770.0,
+    "new_price": 5770.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527820820828",
+    "variant_id": "gid://shopify/ProductVariant/57298626412892",
+    "sku": "7900872",
+    "old_price": 6479.0,
+    "new_price": 6479.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527820820828",
+    "variant_id": "gid://shopify/ProductVariant/57298626445660",
+    "sku": "WPBAMB2",
+    "old_price": 0.0,
+    "new_price": 0.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527820820828",
+    "variant_id": "gid://shopify/ProductVariant/57298626478428",
+    "sku": "KPBOC632",
+    "old_price": 0.0,
+    "new_price": 0.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527820820828",
+    "variant_id": "gid://shopify/ProductVariant/57298626511196",
+    "sku": "790203",
+    "old_price": 0.0,
+    "new_price": 0.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527820820828",
+    "variant_id": "gid://shopify/ProductVariant/57298626543964",
+    "sku": "7900892",
+    "old_price": 8410.0,
+    "new_price": 8410.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527820820828",
+    "variant_id": "gid://shopify/ProductVariant/57298626576732",
+    "sku": "800007",
+    "old_price": 0.0,
+    "new_price": 0.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527820820828",
+    "variant_id": "gid://shopify/ProductVariant/57298626609500",
+    "sku": "790098",
+    "old_price": 9275.0,
+    "new_price": 9275.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527821017436",
+    "variant_id": "gid://shopify/ProductVariant/57298628641116",
+    "sku": "7900962",
+    "old_price": 8150.0,
+    "new_price": 8150.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527821017436",
+    "variant_id": "gid://shopify/ProductVariant/57298628673884",
+    "sku": "WPPAPA",
+    "old_price": 0.0,
+    "new_price": 0.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527821017436",
+    "variant_id": "gid://shopify/ProductVariant/57298628706652",
+    "sku": "790206",
+    "old_price": 10590.0,
+    "new_price": 10590.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527821017436",
+    "variant_id": "gid://shopify/ProductVariant/57298628739420",
+    "sku": "790207",
+    "old_price": 12675.0,
+    "new_price": 12675.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527821017436",
+    "variant_id": "gid://shopify/ProductVariant/57298628772188",
+    "sku": "788032",
+    "old_price": 17495.0,
+    "new_price": 17495.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527821082972",
+    "variant_id": "gid://shopify/ProductVariant/57298629165404",
+    "sku": "KPEOV5027",
+    "old_price": 2959.0,
+    "new_price": 2959.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527821082972",
+    "variant_id": "gid://shopify/ProductVariant/57298629198172",
+    "sku": "KPEOV6027",
+    "old_price": 3120.0,
+    "new_price": 3120.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527821082972",
+    "variant_id": "gid://shopify/ProductVariant/57298629230940",
+    "sku": "KPEOV7027",
+    "old_price": 3259.0,
+    "new_price": 3259.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527821082972",
+    "variant_id": "gid://shopify/ProductVariant/57298629263708",
+    "sku": "KPEOV8027",
+    "old_price": 3870.0,
+    "new_price": 3870.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527821214044",
+    "variant_id": "gid://shopify/ProductVariant/57298629755228",
+    "sku": "KPEOV5059",
+    "old_price": 4079.0,
+    "new_price": 4079.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527821214044",
+    "variant_id": "gid://shopify/ProductVariant/57298629787996",
+    "sku": "KPEOV6059",
+    "old_price": 4279.0,
+    "new_price": 4279.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527821214044",
+    "variant_id": "gid://shopify/ProductVariant/57298629820764",
+    "sku": "KPEOV7059",
+    "old_price": 4485.0,
+    "new_price": 4485.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527821214044",
+    "variant_id": "gid://shopify/ProductVariant/57298629853532",
+    "sku": "KPEOV8059",
+    "old_price": 4890.0,
+    "new_price": 4890.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527821377884",
+    "variant_id": "gid://shopify/ProductVariant/57298630639964",
+    "sku": "KPE4259",
+    "old_price": 3265.0,
+    "new_price": 3265.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527821508956",
+    "variant_id": "gid://shopify/ProductVariant/57298632409436",
+    "sku": "KPE3527",
+    "old_price": 2495.0,
+    "new_price": 2495.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527821508956",
+    "variant_id": "gid://shopify/ProductVariant/57298632442204",
+    "sku": "KPE4227",
+    "old_price": 2650.0,
+    "new_price": 2650.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527821574492",
+    "variant_id": "gid://shopify/ProductVariant/57298632802652",
+    "sku": "KITPR303",
+    "old_price": 969.0,
+    "new_price": 969.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527821574492",
+    "variant_id": "gid://shopify/ProductVariant/57298632835420",
+    "sku": "KITPR353",
+    "old_price": 1019.0,
+    "new_price": 1019.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527821574492",
+    "variant_id": "gid://shopify/ProductVariant/57298632868188",
+    "sku": "KITPR453",
+    "old_price": 1199.0,
+    "new_price": 1199.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527821967708",
+    "variant_id": "gid://shopify/ProductVariant/57298634867036",
+    "sku": "KITPROV6188",
+    "old_price": 3765.0,
+    "new_price": 3765.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527821967708",
+    "variant_id": "gid://shopify/ProductVariant/57298634899804",
+    "sku": "KITPROV7388",
+    "old_price": 4295.0,
+    "new_price": 4295.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527821967708",
+    "variant_id": "gid://shopify/ProductVariant/57298634932572",
+    "sku": "KITPROV9188",
+    "old_price": 5555.0,
+    "new_price": 5555.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527821967708",
+    "variant_id": "gid://shopify/ProductVariant/57298634965340",
+    "sku": "KITPROV10288",
+    "old_price": 5995.0,
+    "new_price": 5995.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527822066012",
+    "variant_id": "gid://shopify/ProductVariant/57298636243292",
+    "sku": "KIT240W",
+    "old_price": 1245.0,
+    "new_price": 1245.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527822066012",
+    "variant_id": "gid://shopify/ProductVariant/57298636276060",
+    "sku": "KIT300W",
+    "old_price": 1375.0,
+    "new_price": 1375.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527822066012",
+    "variant_id": "gid://shopify/ProductVariant/57298636308828",
+    "sku": "KIT350W",
+    "old_price": 1425.0,
+    "new_price": 1425.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527822066012",
+    "variant_id": "gid://shopify/ProductVariant/57298636341596",
+    "sku": "KIT460W",
+    "old_price": 1630.0,
+    "new_price": 1630.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527822229852",
+    "variant_id": "gid://shopify/ProductVariant/57298640044380",
+    "sku": "KITPROV508WO",
+    "old_price": 2780.0,
+    "new_price": 2780.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527822229852",
+    "variant_id": "gid://shopify/ProductVariant/57298640077148",
+    "sku": "KITPROV618WO",
+    "old_price": 3075.0,
+    "new_price": 3075.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527822229852",
+    "variant_id": "gid://shopify/ProductVariant/57298640109916",
+    "sku": "KITPROV738WO",
+    "old_price": 3680.0,
+    "new_price": 3680.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527822393692",
+    "variant_id": "gid://shopify/ProductVariant/57298642436444",
+    "sku": "KITPROV508GY",
+    "old_price": 2499.0,
+    "new_price": 2499.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527822393692",
+    "variant_id": "gid://shopify/ProductVariant/57298642469212",
+    "sku": "KITPROV618GY",
+    "old_price": 0.0,
+    "new_price": 0.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527822393692",
+    "variant_id": "gid://shopify/ProductVariant/57298642501980",
+    "sku": "KITPROV738GY",
+    "old_price": 0.0,
+    "new_price": 0.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527822459228",
+    "variant_id": "gid://shopify/ProductVariant/57298643485020",
+    "sku": "KIT500ECO",
+    "old_price": 1795.0,
+    "new_price": 1795.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527822459228",
+    "variant_id": "gid://shopify/ProductVariant/57298643517788",
+    "sku": "KIT610ECO",
+    "old_price": 1945.0,
+    "new_price": 1945.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527822459228",
+    "variant_id": "gid://shopify/ProductVariant/57298643550556",
+    "sku": "KIT730ECO",
+    "old_price": 2495.0,
+    "new_price": 2495.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527822590300",
+    "variant_id": "gid://shopify/ProductVariant/57298644992348",
+    "sku": "KITPROV4870",
+    "old_price": 2750.0,
+    "new_price": 2750.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527822590300",
+    "variant_id": "gid://shopify/ProductVariant/57298645025116",
+    "sku": "KITPROV6270",
+    "old_price": 3189.0,
+    "new_price": 3189.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527822688604",
+    "variant_id": "gid://shopify/ProductVariant/57298646565212",
+    "sku": "KIT240ECO",
+    "old_price": 1099.0,
+    "new_price": 1099.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527822688604",
+    "variant_id": "gid://shopify/ProductVariant/57298646597980",
+    "sku": "KIT300ECO",
+    "old_price": 1195.0,
+    "new_price": 1195.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527822688604",
+    "variant_id": "gid://shopify/ProductVariant/57298646630748",
+    "sku": "KIT350ECO",
+    "old_price": 1245.0,
+    "new_price": 1245.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527822688604",
+    "variant_id": "gid://shopify/ProductVariant/57298646663516",
+    "sku": "KIT460ECO",
+    "old_price": 1425.0,
+    "new_price": 1425.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527822688604",
+    "variant_id": "gid://shopify/ProductVariant/57298646696284",
+    "sku": "KIT550ECO",
+    "old_price": 1630.0,
+    "new_price": 1630.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527822786908",
+    "variant_id": "gid://shopify/ProductVariant/57298648432988",
+    "sku": "KITPR303W",
+    "old_price": 1169.0,
+    "new_price": 1169.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527822786908",
+    "variant_id": "gid://shopify/ProductVariant/57298648465756",
+    "sku": "KITPR353W",
+    "old_price": 1225.0,
+    "new_price": 1225.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527822786908",
+    "variant_id": "gid://shopify/ProductVariant/57298648498524",
+    "sku": "KITPR453W",
+    "old_price": 1425.0,
+    "new_price": 1425.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527823049052",
+    "variant_id": "gid://shopify/ProductVariant/57298653118812",
+    "sku": "KITPROV503",
+    "old_price": 1659.0,
+    "new_price": 1659.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527823049052",
+    "variant_id": "gid://shopify/ProductVariant/57298653151580",
+    "sku": "KITPROV613",
+    "old_price": 1835.0,
+    "new_price": 1835.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527823409500",
+    "variant_id": "gid://shopify/ProductVariant/57298656690524",
+    "sku": "KITPROV508",
+    "old_price": 2445.0,
+    "new_price": 2445.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527823409500",
+    "variant_id": "gid://shopify/ProductVariant/57298656723292",
+    "sku": "KITPROV618",
+    "old_price": 2730.0,
+    "new_price": 2730.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527823409500",
+    "variant_id": "gid://shopify/ProductVariant/57298656756060",
+    "sku": "KITPROV738",
+    "old_price": 3245.0,
+    "new_price": 3245.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527823409500",
+    "variant_id": "gid://shopify/ProductVariant/57298656788828",
+    "sku": "KITPROV818",
+    "old_price": 3890.0,
+    "new_price": 3890.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527823409500",
+    "variant_id": "gid://shopify/ProductVariant/57298656821596",
+    "sku": "KITPROV918",
+    "old_price": 4495.0,
+    "new_price": 4495.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527823409500",
+    "variant_id": "gid://shopify/ProductVariant/57298656854364",
+    "sku": "KITPROV1028",
+    "old_price": 5875.0,
+    "new_price": 5875.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527823540572",
+    "variant_id": "gid://shopify/ProductVariant/57298658820444",
+    "sku": "KITPR358GY",
+    "old_price": 1369.0,
+    "new_price": 1369.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527823540572",
+    "variant_id": "gid://shopify/ProductVariant/57298658853212",
+    "sku": "KITPR458GY",
+    "old_price": 0.0,
+    "new_price": 0.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527823606108",
+    "variant_id": "gid://shopify/ProductVariant/57298659574108",
+    "sku": "KITPROV6188WO",
+    "old_price": 3890.0,
+    "new_price": 3890.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527823606108",
+    "variant_id": "gid://shopify/ProductVariant/57298659606876",
+    "sku": "KITPROV7388WO",
+    "old_price": 4570.0,
+    "new_price": 4570.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527823966556",
+    "variant_id": "gid://shopify/ProductVariant/57298663244124",
+    "sku": "KIT500GYQGRE",
+    "old_price": 1549.0,
+    "new_price": 1549.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527823966556",
+    "variant_id": "gid://shopify/ProductVariant/57298663276892",
+    "sku": "KIT610GYQGRE",
+    "old_price": 0.0,
+    "new_price": 0.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527824195932",
+    "variant_id": "gid://shopify/ProductVariant/57298665046364",
+    "sku": "KIT300GYQGRE",
+    "old_price": 909.0,
+    "new_price": 909.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527824195932",
+    "variant_id": "gid://shopify/ProductVariant/57298665079132",
+    "sku": "KIT350GYQGRE",
+    "old_price": 0.0,
+    "new_price": 0.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527824195932",
+    "variant_id": "gid://shopify/ProductVariant/57298665111900",
+    "sku": "KIT460GYQGRE",
+    "old_price": 0.0,
+    "new_price": 0.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527824327004",
+    "variant_id": "gid://shopify/ProductVariant/57298666848604",
+    "sku": "KIT500N",
+    "old_price": 2045.0,
+    "new_price": 2045.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527824327004",
+    "variant_id": "gid://shopify/ProductVariant/57298666881372",
+    "sku": "KIT610N",
+    "old_price": 2549.0,
+    "new_price": 2549.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527824327004",
+    "variant_id": "gid://shopify/ProductVariant/57298666914140",
+    "sku": "KIT730N",
+    "old_price": 2995.0,
+    "new_price": 2995.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527824720220",
+    "variant_id": "gid://shopify/ProductVariant/57298672648540",
+    "sku": "KIT240N",
+    "old_price": 1245.0,
+    "new_price": 1245.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527824720220",
+    "variant_id": "gid://shopify/ProductVariant/57298672681308",
+    "sku": "KIT300N",
+    "old_price": 1375.0,
+    "new_price": 1375.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527824720220",
+    "variant_id": "gid://shopify/ProductVariant/57298672714076",
+    "sku": "KIT350N",
+    "old_price": 1425.0,
+    "new_price": 1425.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527824720220",
+    "variant_id": "gid://shopify/ProductVariant/57298672746844",
+    "sku": "KIT460N",
+    "old_price": 1630.0,
+    "new_price": 1630.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527825244508",
+    "variant_id": "gid://shopify/ProductVariant/57298676056412",
+    "sku": "KITPR358WO",
+    "old_price": 2045.0,
+    "new_price": 2045.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527825244508",
+    "variant_id": "gid://shopify/ProductVariant/57298676089180",
+    "sku": "KITPR458WO",
+    "old_price": 2205.0,
+    "new_price": 2205.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527825244508",
+    "variant_id": "gid://shopify/ProductVariant/57298676121948",
+    "sku": "KITPR558WO",
+    "old_price": 2730.0,
+    "new_price": 2730.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527825375580",
+    "variant_id": "gid://shopify/ProductVariant/57298676941148",
+    "sku": "KITPR358",
+    "old_price": 1830.0,
+    "new_price": 1830.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527825375580",
+    "variant_id": "gid://shopify/ProductVariant/57298676973916",
+    "sku": "KITPR458",
+    "old_price": 2145.0,
+    "new_price": 2145.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527825375580",
+    "variant_id": "gid://shopify/ProductVariant/57298677006684",
+    "sku": "KITPR558",
+    "old_price": 2465.0,
+    "new_price": 2465.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527825572188",
+    "variant_id": "gid://shopify/ProductVariant/57298677891420",
+    "sku": "KPCO41",
+    "old_price": 5325.0,
+    "new_price": 5325.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527825703260",
+    "variant_id": "gid://shopify/ProductVariant/57298678874460",
+    "sku": "KPCOR2814T",
+    "old_price": 4225.0,
+    "new_price": 4225.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527825703260",
+    "variant_id": "gid://shopify/ProductVariant/57298678907228",
+    "sku": "KPCOR46T",
+    "old_price": 0.0,
+    "new_price": 0.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527825703260",
+    "variant_id": "gid://shopify/ProductVariant/57298678939996",
+    "sku": "KPCOR60T",
+    "old_price": 0.0,
+    "new_price": 0.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527825703260",
+    "variant_id": "gid://shopify/ProductVariant/57298678972764",
+    "sku": "KPCOR60LT",
+    "old_price": 0.0,
+    "new_price": 0.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527826293084",
+    "variant_id": "gid://shopify/ProductVariant/57298682675548",
+    "sku": "KPCOR28T",
+    "old_price": 5095.0,
+    "new_price": 5095.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527826489692",
+    "variant_id": "gid://shopify/ProductVariant/57298684674396",
+    "sku": "KPCOV52",
+    "old_price": 7085.0,
+    "new_price": 7085.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527826489692",
+    "variant_id": "gid://shopify/ProductVariant/57298684707164",
+    "sku": "KPCOV52L",
+    "old_price": 7135.0,
+    "new_price": 7135.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527826489692",
+    "variant_id": "gid://shopify/ProductVariant/57298684739932",
+    "sku": "KPCOV66",
+    "old_price": 8765.0,
+    "new_price": 8765.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527826489692",
+    "variant_id": "gid://shopify/ProductVariant/57298684772700",
+    "sku": "KPCOV66L",
+    "old_price": 8825.0,
+    "new_price": 8825.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527826489692",
+    "variant_id": "gid://shopify/ProductVariant/57298684805468",
+    "sku": "KPCOV80",
+    "old_price": 10350.0,
+    "new_price": 10350.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527826587996",
+    "variant_id": "gid://shopify/ProductVariant/57298685854044",
+    "sku": "WR000501",
+    "old_price": 649.0,
+    "new_price": 649.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527826587996",
+    "variant_id": "gid://shopify/ProductVariant/57298685886812",
+    "sku": "RBR120",
+    "old_price": 400.66,
+    "new_price": 400.66,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527826587996",
+    "variant_id": "gid://shopify/ProductVariant/57298685919580",
+    "sku": "RBR75",
+    "old_price": 339.0,
+    "new_price": 339.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527826587996",
+    "variant_id": "gid://shopify/ProductVariant/57298685952348",
+    "sku": "RBG90",
+    "old_price": 0.0,
+    "new_price": 0.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527826620764",
+    "variant_id": "gid://shopify/ProductVariant/57298686280028",
+    "sku": "VCB08",
+    "old_price": 79.9,
+    "new_price": 79.9,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527826620764",
+    "variant_id": "gid://shopify/ProductVariant/57298686312796",
+    "sku": "VCB10",
+    "old_price": 235.0,
+    "new_price": 235.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527826620764",
+    "variant_id": "gid://shopify/ProductVariant/57298686345564",
+    "sku": "VCB50",
+    "old_price": 379.0,
+    "new_price": 379.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527826620764",
+    "variant_id": "gid://shopify/ProductVariant/57298686411100",
+    "sku": "LE75",
+    "old_price": 0.0,
+    "new_price": 0.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527826620764",
+    "variant_id": "gid://shopify/ProductVariant/57298686443868",
+    "sku": "CSPAN",
+    "old_price": 0.0,
+    "new_price": 0.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527826620764",
+    "variant_id": "gid://shopify/ProductVariant/57298686476636",
+    "sku": "VCB10P",
+    "old_price": 246.0,
+    "new_price": 246.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527826620764",
+    "variant_id": "gid://shopify/ProductVariant/57298686509404",
+    "sku": "CSPA",
+    "old_price": 112.0,
+    "new_price": 112.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527826620764",
+    "variant_id": "gid://shopify/ProductVariant/57298686542172",
+    "sku": "ABS3",
+    "old_price": 59.0,
+    "new_price": 59.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527826620764",
+    "variant_id": "gid://shopify/ProductVariant/57298686574940",
+    "sku": "VCB50P",
+    "old_price": 399.0,
+    "new_price": 399.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527826620764",
+    "variant_id": "gid://shopify/ProductVariant/57298686607708",
+    "sku": "TBC60",
+    "old_price": 0.0,
+    "new_price": 0.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527826751836",
+    "variant_id": "gid://shopify/ProductVariant/57298687721820",
+    "sku": "AR2064",
+    "old_price": 69.0,
+    "new_price": 69.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527826751836",
+    "variant_id": "gid://shopify/ProductVariant/57298687754588",
+    "sku": "AR20641",
+    "old_price": 95.0,
+    "new_price": 95.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527826751836",
+    "variant_id": "gid://shopify/ProductVariant/57298687787356",
+    "sku": "KMA05",
+    "old_price": 42.0,
+    "new_price": 42.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527826751836",
+    "variant_id": "gid://shopify/ProductVariant/57298687820124",
+    "sku": "784880",
+    "old_price": 0.0,
+    "new_price": 0.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527826751836",
+    "variant_id": "gid://shopify/ProductVariant/57298687852892",
+    "sku": "KMSPA",
+    "old_price": 41.1,
+    "new_price": 41.1,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527826751836",
+    "variant_id": "gid://shopify/ProductVariant/57298687885660",
+    "sku": "08050",
+    "old_price": 0.0,
+    "new_price": 0.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527826882908",
+    "variant_id": "gid://shopify/ProductVariant/57298691195228",
+    "sku": "AR20637",
+    "old_price": 54.0,
+    "new_price": 54.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527826882908",
+    "variant_id": "gid://shopify/ProductVariant/57298691227996",
+    "sku": "08011A",
+    "old_price": 39.95,
+    "new_price": 39.95,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527826882908",
+    "variant_id": "gid://shopify/ProductVariant/57298691260764",
+    "sku": "PFAC17",
+    "old_price": 0.0,
+    "new_price": 0.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527827603804",
+    "variant_id": "gid://shopify/ProductVariant/57298694439260",
+    "sku": "MG320NP",
+    "old_price": 205.0,
+    "new_price": 205.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527827603804",
+    "variant_id": "gid://shopify/ProductVariant/57298694472028",
+    "sku": "FS320",
+    "old_price": 199.0,
+    "new_price": 199.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527827603804",
+    "variant_id": "gid://shopify/ProductVariant/57298694537564",
+    "sku": "MG400",
+    "old_price": 229.0,
+    "new_price": 229.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527827603804",
+    "variant_id": "gid://shopify/ProductVariant/57298694570332",
+    "sku": "FS500",
+    "old_price": 648.0,
+    "new_price": 648.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527827603804",
+    "variant_id": "gid://shopify/ProductVariant/57298694603100",
+    "sku": "FS550",
+    "old_price": 679.0,
+    "new_price": 679.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527827603804",
+    "variant_id": "gid://shopify/ProductVariant/57298694635868",
+    "sku": "FA6100",
+    "old_price": 845.0,
+    "new_price": 845.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527828095324",
+    "variant_id": "gid://shopify/ProductVariant/57298697257308",
+    "sku": "CFAQ35",
+    "old_price": 79.9,
+    "new_price": 79.9,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527828095324",
+    "variant_id": "gid://shopify/ProductVariant/57298697290076",
+    "sku": "FAQC40",
+    "old_price": 164.0,
+    "new_price": 164.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527828095324",
+    "variant_id": "gid://shopify/ProductVariant/57298697322844",
+    "sku": "FAQ200",
+    "old_price": 169.0,
+    "new_price": 169.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527828324700",
+    "variant_id": "gid://shopify/ProductVariant/57298698174812",
+    "sku": "FIS600",
+    "old_price": 405.0,
+    "new_price": 405.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527828324700",
+    "variant_id": "gid://shopify/ProductVariant/57298698207580",
+    "sku": "FIS500",
+    "old_price": 325.0,
+    "new_price": 325.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527828324700",
+    "variant_id": "gid://shopify/ProductVariant/57298698240348",
+    "sku": "FIS400",
+    "old_price": 219.0,
+    "new_price": 219.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527828980060",
+    "variant_id": "gid://shopify/ProductVariant/57298700108124",
+    "sku": "TRCP96",
+    "old_price": 459.0,
+    "new_price": 459.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527828980060",
+    "variant_id": "gid://shopify/ProductVariant/57298700173660",
+    "sku": "TRCP124",
+    "old_price": 0.0,
+    "new_price": 0.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527829143900",
+    "variant_id": "gid://shopify/ProductVariant/57298700632412",
+    "sku": "PP032",
+    "old_price": 144.9,
+    "new_price": 144.9,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527829143900",
+    "variant_id": "gid://shopify/ProductVariant/57298700665180",
+    "sku": "PP077",
+    "old_price": 172.0,
+    "new_price": 172.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527829143900",
+    "variant_id": "gid://shopify/ProductVariant/57298700697948",
+    "sku": "PP052",
+    "old_price": 0.0,
+    "new_price": 0.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527829438812",
+    "variant_id": "gid://shopify/ProductVariant/57298701517148",
+    "sku": "PP152",
+    "old_price": 299.0,
+    "new_price": 299.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527829438812",
+    "variant_id": "gid://shopify/ProductVariant/57298701549916",
+    "sku": "PP102",
+    "old_price": 315.0,
+    "new_price": 315.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527829438812",
+    "variant_id": "gid://shopify/ProductVariant/57298701582684",
+    "sku": "PP077H",
+    "old_price": 234.0,
+    "new_price": 234.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527829438812",
+    "variant_id": "gid://shopify/ProductVariant/57298701615452",
+    "sku": "PP202",
+    "old_price": 413.0,
+    "new_price": 413.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527829733724",
+    "variant_id": "gid://shopify/ProductVariant/57298702205276",
+    "sku": "AR82",
+    "old_price": 24.0,
+    "new_price": 24.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527829733724",
+    "variant_id": "gid://shopify/ProductVariant/57298702238044",
+    "sku": "CCFS20",
+    "old_price": 0.0,
+    "new_price": 0.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527829733724",
+    "variant_id": "gid://shopify/ProductVariant/57298702270812",
+    "sku": "CAQ70",
+    "old_price": 0.0,
+    "new_price": 0.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527829733724",
+    "variant_id": "gid://shopify/ProductVariant/57298702303580",
+    "sku": "AR79",
+    "old_price": 0.0,
+    "new_price": 0.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527829733724",
+    "variant_id": "gid://shopify/ProductVariant/57298702336348",
+    "sku": "AR86",
+    "old_price": 0.0,
+    "new_price": 0.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527829733724",
+    "variant_id": "gid://shopify/ProductVariant/57298702369116",
+    "sku": "AR89",
+    "old_price": 0.0,
+    "new_price": 0.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527830389084",
+    "variant_id": "gid://shopify/ProductVariant/57298703843676",
+    "sku": "AQ503",
+    "old_price": 16.99,
+    "new_price": 16.99,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527830389084",
+    "variant_id": "gid://shopify/ProductVariant/57298703876444",
+    "sku": "AQ700",
+    "old_price": 0.0,
+    "new_price": 0.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527830389084",
+    "variant_id": "gid://shopify/ProductVariant/57298703909212",
+    "sku": "AR200",
+    "old_price": 0.0,
+    "new_price": 0.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527830389084",
+    "variant_id": "gid://shopify/ProductVariant/57298703941980",
+    "sku": "VF025",
+    "old_price": 0.0,
+    "new_price": 0.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527830978908",
+    "variant_id": "gid://shopify/ProductVariant/57298706235740",
+    "sku": "SWGA40",
+    "old_price": 990.0,
+    "new_price": 990.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527830978908",
+    "variant_id": "gid://shopify/ProductVariant/57298706268508",
+    "sku": "SWGA60",
+    "old_price": 1100.0,
+    "new_price": 1100.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527830978908",
+    "variant_id": "gid://shopify/ProductVariant/57298706301276",
+    "sku": "SWGA100",
+    "old_price": 1215.0,
+    "new_price": 1215.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527830978908",
+    "variant_id": "gid://shopify/ProductVariant/57298706334044",
+    "sku": "GSS25",
+    "old_price": 249.0,
+    "new_price": 249.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527830978908",
+    "variant_id": "gid://shopify/ProductVariant/57298706366812",
+    "sku": "GSS50",
+    "old_price": 289.0,
+    "new_price": 289.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527830978908",
+    "variant_id": "gid://shopify/ProductVariant/57298706399580",
+    "sku": "90367",
+    "old_price": 0.0,
+    "new_price": 0.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527830978908",
+    "variant_id": "gid://shopify/ProductVariant/57298706432348",
+    "sku": "90366",
+    "old_price": 0.0,
+    "new_price": 0.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527830978908",
+    "variant_id": "gid://shopify/ProductVariant/57298706465116",
+    "sku": "90365",
+    "old_price": 0.0,
+    "new_price": 0.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527830978908",
+    "variant_id": "gid://shopify/ProductVariant/57298706497884",
+    "sku": "GOSA25",
+    "old_price": 0.0,
+    "new_price": 0.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527830978908",
+    "variant_id": "gid://shopify/ProductVariant/57298706530652",
+    "sku": "GOSA50",
+    "old_price": 0.0,
+    "new_price": 0.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527830978908",
+    "variant_id": "gid://shopify/ProductVariant/57298706563420",
+    "sku": "GOSA75",
+    "old_price": 0.0,
+    "new_price": 0.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527831470428",
+    "variant_id": "gid://shopify/ProductVariant/57298707448156",
+    "sku": "UVC25",
+    "old_price": 243.99,
+    "new_price": 243.99,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527831634268",
+    "variant_id": "gid://shopify/ProductVariant/57298707775836",
+    "sku": "UFG20",
+    "old_price": 5.5,
+    "new_price": 5.5,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527831634268",
+    "variant_id": "gid://shopify/ProductVariant/57298707808604",
+    "sku": "76011",
+    "old_price": 0.0,
+    "new_price": 0.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527831634268",
+    "variant_id": "gid://shopify/ProductVariant/57298707841372",
+    "sku": "76104",
+    "old_price": 0.0,
+    "new_price": 0.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527831634268",
+    "variant_id": "gid://shopify/ProductVariant/57298707874140",
+    "sku": "76010",
+    "old_price": 0.0,
+    "new_price": 0.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527831634268",
+    "variant_id": "gid://shopify/ProductVariant/57298707906908",
+    "sku": "90046",
+    "old_price": 0.0,
+    "new_price": 0.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527831634268",
+    "variant_id": "gid://shopify/ProductVariant/57298707939676",
+    "sku": "90054",
+    "old_price": 0.0,
+    "new_price": 0.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527831863644",
+    "variant_id": "gid://shopify/ProductVariant/57298708267356",
+    "sku": "76054L",
+    "old_price": 55.9,
+    "new_price": 55.9,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527831863644",
+    "variant_id": "gid://shopify/ProductVariant/57298708300124",
+    "sku": "76053",
+    "old_price": 0.0,
+    "new_price": 0.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527831863644",
+    "variant_id": "gid://shopify/ProductVariant/57298708332892",
+    "sku": "08099AL",
+    "old_price": 0.0,
+    "new_price": 0.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527831863644",
+    "variant_id": "gid://shopify/ProductVariant/57298708365660",
+    "sku": "08012L",
+    "old_price": 0.0,
+    "new_price": 0.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527831863644",
+    "variant_id": "gid://shopify/ProductVariant/57298708398428",
+    "sku": "08013AL",
+    "old_price": 0.0,
+    "new_price": 0.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527831863644",
+    "variant_id": "gid://shopify/ProductVariant/57298708431196",
+    "sku": "KKP525",
+    "old_price": 0.0,
+    "new_price": 0.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527831863644",
+    "variant_id": "gid://shopify/ProductVariant/57298708463964",
+    "sku": "76110NB",
+    "old_price": 0.0,
+    "new_price": 0.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527831961948",
+    "variant_id": "gid://shopify/ProductVariant/57298708595036",
+    "sku": "KTSPAIT",
+    "old_price": 0.0,
+    "new_price": 0.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527831961948",
+    "variant_id": "gid://shopify/ProductVariant/57298708627804",
+    "sku": "SCAPEPI20",
+    "old_price": 0.0,
+    "new_price": 0.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527831961948",
+    "variant_id": "gid://shopify/ProductVariant/57298708660572",
+    "sku": "SCAPEPI60",
+    "old_price": 0.0,
+    "new_price": 0.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527832060252",
+    "variant_id": "gid://shopify/ProductVariant/57298711511388",
+    "sku": "7015C001",
+    "old_price": 28.9,
+    "new_price": 28.9,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527832125788",
+    "variant_id": "gid://shopify/ProductVariant/57298711806300",
+    "sku": "7015C004",
+    "old_price": 68.0,
+    "new_price": 68.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527832224092",
+    "variant_id": "gid://shopify/ProductVariant/57298712068444",
+    "sku": "7015R002",
+    "old_price": 155.0,
+    "new_price": 155.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527832289628",
+    "variant_id": "gid://shopify/ProductVariant/57298712887644",
+    "sku": "7015C002",
+    "old_price": 34.0,
+    "new_price": 34.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527832355164",
+    "variant_id": "gid://shopify/ProductVariant/57298713248092",
+    "sku": "AR2000",
+    "old_price": 143.0,
+    "new_price": 143.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527832387932",
+    "variant_id": "gid://shopify/ProductVariant/57298713772380",
+    "sku": "HPM40",
+    "old_price": 715.0,
+    "new_price": 715.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527832387932",
+    "variant_id": "gid://shopify/ProductVariant/57298713805148",
+    "sku": "HPM30",
+    "old_price": 0.0,
+    "new_price": 0.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527832387932",
+    "variant_id": "gid://shopify/ProductVariant/57298713837916",
+    "sku": "HPM20",
+    "old_price": 0.0,
+    "new_price": 0.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527832486236",
+    "variant_id": "gid://shopify/ProductVariant/57298715672924",
+    "sku": "CVKPCO41",
+    "old_price": 148.0,
+    "new_price": 148.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527832486236",
+    "variant_id": "gid://shopify/ProductVariant/57298715705692",
+    "sku": "CPR550",
+    "old_price": 0.0,
+    "new_price": 0.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527832486236",
+    "variant_id": "gid://shopify/ProductVariant/57298715738460",
+    "sku": "CPR650",
+    "old_price": 0.0,
+    "new_price": 0.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527832486236",
+    "variant_id": "gid://shopify/ProductVariant/57298715771228",
+    "sku": "CV250",
+    "old_price": 0.0,
+    "new_price": 0.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527832486236",
+    "variant_id": "gid://shopify/ProductVariant/57298715803996",
+    "sku": "CV800002",
+    "old_price": 0.0,
+    "new_price": 0.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527832486236",
+    "variant_id": "gid://shopify/ProductVariant/57298715836764",
+    "sku": "772997",
+    "old_price": 0.0,
+    "new_price": 0.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527832486236",
+    "variant_id": "gid://shopify/ProductVariant/57298715869532",
+    "sku": "CVPE300",
+    "old_price": 0.0,
+    "new_price": 0.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527832486236",
+    "variant_id": "gid://shopify/ProductVariant/57298715902300",
+    "sku": "CVPE420",
+    "old_price": 0.0,
+    "new_price": 0.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527832486236",
+    "variant_id": "gid://shopify/ProductVariant/57298715935068",
+    "sku": "CVPE350",
+    "old_price": 0.0,
+    "new_price": 0.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527832486236",
+    "variant_id": "gid://shopify/ProductVariant/57298715967836",
+    "sku": "CVPE550",
+    "old_price": 0.0,
+    "new_price": 0.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527832486236",
+    "variant_id": "gid://shopify/ProductVariant/57298716000604",
+    "sku": "772999",
+    "old_price": 0.0,
+    "new_price": 0.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527832486236",
+    "variant_id": "gid://shopify/ProductVariant/57298716033372",
+    "sku": "773320",
+    "old_price": 0.0,
+    "new_price": 0.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527832486236",
+    "variant_id": "gid://shopify/ProductVariant/57298716066140",
+    "sku": "CV450",
+    "old_price": 0.0,
+    "new_price": 0.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527832486236",
+    "variant_id": "gid://shopify/ProductVariant/57298716098908",
+    "sku": "CV350",
+    "old_price": 0.0,
+    "new_price": 0.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527832486236",
+    "variant_id": "gid://shopify/ProductVariant/57298716131676",
+    "sku": "CPR400",
+    "old_price": 0.0,
+    "new_price": 0.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527832486236",
+    "variant_id": "gid://shopify/ProductVariant/57298716164444",
+    "sku": "CV300",
+    "old_price": 0.0,
+    "new_price": 0.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527832486236",
+    "variant_id": "gid://shopify/ProductVariant/57298716197212",
+    "sku": "CV800008",
+    "old_price": 0.0,
+    "new_price": 0.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527832486236",
+    "variant_id": "gid://shopify/ProductVariant/57298716229980",
+    "sku": "CV800003",
+    "old_price": 0.0,
+    "new_price": 0.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527832519004",
+    "variant_id": "gid://shopify/ProductVariant/57298716328284",
+    "sku": "CVKPCOR28",
+    "old_price": 0.0,
+    "new_price": 0.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527832519004",
+    "variant_id": "gid://shopify/ProductVariant/57298716361052",
+    "sku": "CV790205",
+    "old_price": 0.0,
+    "new_price": 0.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527832519004",
+    "variant_id": "gid://shopify/ProductVariant/57298716393820",
+    "sku": "CV790000",
+    "old_price": 0.0,
+    "new_price": 0.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527832584540",
+    "variant_id": "gid://shopify/ProductVariant/57298718458204",
+    "sku": "AR1020P",
+    "old_price": 178.0,
+    "new_price": 178.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527832584540",
+    "variant_id": "gid://shopify/ProductVariant/57298718490972",
+    "sku": "AR1020W",
+    "old_price": 194.0,
+    "new_price": 194.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527832584540",
+    "variant_id": "gid://shopify/ProductVariant/57298718523740",
+    "sku": "AR10250",
+    "old_price": 215.0,
+    "new_price": 215.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527832584540",
+    "variant_id": "gid://shopify/ProductVariant/57298718556508",
+    "sku": "AR1030",
+    "old_price": 230.0,
+    "new_price": 230.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527832584540",
+    "variant_id": "gid://shopify/ProductVariant/57298718589276",
+    "sku": "AR1130",
+    "old_price": 525.0,
+    "new_price": 525.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527832584540",
+    "variant_id": "gid://shopify/ProductVariant/57298718622044",
+    "sku": "DSALR32W",
+    "old_price": 545.0,
+    "new_price": 545.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527832584540",
+    "variant_id": "gid://shopify/ProductVariant/57298718654812",
+    "sku": "DSALC32W",
+    "old_price": 785.0,
+    "new_price": 785.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527832584540",
+    "variant_id": "gid://shopify/ProductVariant/57298718720348",
+    "sku": "SSR25",
+    "old_price": 297.0,
+    "new_price": 297.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527832584540",
+    "variant_id": "gid://shopify/ProductVariant/57298718753116",
+    "sku": "SSAL18",
+    "old_price": 385.0,
+    "new_price": 385.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527832584540",
+    "variant_id": "gid://shopify/ProductVariant/57298718785884",
+    "sku": "SSP40",
+    "old_price": 262.0,
+    "new_price": 262.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527832584540",
+    "variant_id": "gid://shopify/ProductVariant/57298718818652",
+    "sku": "AR1009",
+    "old_price": 125.0,
+    "new_price": 125.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527832584540",
+    "variant_id": "gid://shopify/ProductVariant/57298718851420",
+    "sku": "40664A",
+    "old_price": 154.0,
+    "new_price": 154.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527832584540",
+    "variant_id": "gid://shopify/ProductVariant/57298718884188",
+    "sku": "DSPS35",
+    "old_price": 266.0,
+    "new_price": 266.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527832584540",
+    "variant_id": "gid://shopify/ProductVariant/57298718916956",
+    "sku": "DSALP38",
+    "old_price": 745.0,
+    "new_price": 745.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527832584540",
+    "variant_id": "gid://shopify/ProductVariant/57298718949724",
+    "sku": "AR1009W",
+    "old_price": 145.0,
+    "new_price": 145.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527832584540",
+    "variant_id": "gid://shopify/ProductVariant/57298718982492",
+    "sku": "SS30S",
+    "old_price": 629.0,
+    "new_price": 629.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527832584540",
+    "variant_id": "gid://shopify/ProductVariant/57298719015260",
+    "sku": "RSS30",
+    "old_price": 0.0,
+    "new_price": 0.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527832584540",
+    "variant_id": "gid://shopify/ProductVariant/57298719048028",
+    "sku": "SLS17",
+    "old_price": 0.0,
+    "new_price": 0.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527832715612",
+    "variant_id": "gid://shopify/ProductVariant/57298720227676",
+    "sku": "PLREB",
+    "old_price": 219.0,
+    "new_price": 219.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527832715612",
+    "variant_id": "gid://shopify/ProductVariant/57298720260444",
+    "sku": "PLREC",
+    "old_price": 397.0,
+    "new_price": 397.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527832715612",
+    "variant_id": "gid://shopify/ProductVariant/57298720293212",
+    "sku": "LEDP56CE",
+    "old_price": 125.0,
+    "new_price": 125.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527832715612",
+    "variant_id": "gid://shopify/ProductVariant/57298720325980",
+    "sku": "LEDP56WP",
+    "old_price": 79.9,
+    "new_price": 79.9,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527832977756",
+    "variant_id": "gid://shopify/ProductVariant/57298721472860",
+    "sku": "PLED2",
+    "old_price": 51.0,
+    "new_price": 51.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527832977756",
+    "variant_id": "gid://shopify/ProductVariant/57298721505628",
+    "sku": "PLED1C",
+    "old_price": 41.5,
+    "new_price": 41.5,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527832977756",
+    "variant_id": "gid://shopify/ProductVariant/57298721538396",
+    "sku": "LEDRC",
+    "old_price": 39.0,
+    "new_price": 39.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527832977756",
+    "variant_id": "gid://shopify/ProductVariant/57298721571164",
+    "sku": "LEDRW",
+    "old_price": 32.0,
+    "new_price": 32.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527832977756",
+    "variant_id": "gid://shopify/ProductVariant/57298721603932",
+    "sku": "PLWPB",
+    "old_price": 235.0,
+    "new_price": 235.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527833010524",
+    "variant_id": "gid://shopify/ProductVariant/57298721833308",
+    "sku": "F790205",
+    "old_price": 369.0,
+    "new_price": 369.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527833010524",
+    "variant_id": "gid://shopify/ProductVariant/57298721866076",
+    "sku": "788045",
+    "old_price": 207.0,
+    "new_price": 207.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527833076060",
+    "variant_id": "gid://shopify/ProductVariant/57298722095452",
+    "sku": "SPCO41G",
+    "old_price": 820.0,
+    "new_price": 820.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527833174364",
+    "variant_id": "gid://shopify/ProductVariant/57298722554204",
+    "sku": "SPCO52G",
+    "old_price": 1045.0,
+    "new_price": 1045.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527833174364",
+    "variant_id": "gid://shopify/ProductVariant/57298722586972",
+    "sku": "SPCO66G",
+    "old_price": 1290.0,
+    "new_price": 1290.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527833174364",
+    "variant_id": "gid://shopify/ProductVariant/57298722619740",
+    "sku": "SPCO80G",
+    "old_price": 1520.0,
+    "new_price": 1520.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527833174364",
+    "variant_id": "gid://shopify/ProductVariant/57298722652508",
+    "sku": "SPCO6650G",
+    "old_price": 0.0,
+    "new_price": 0.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527833239900",
+    "variant_id": "gid://shopify/ProductVariant/57298723012956",
+    "sku": "SPCOR60G",
+    "old_price": 990.0,
+    "new_price": 990.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527833239900",
+    "variant_id": "gid://shopify/ProductVariant/57298723045724",
+    "sku": "SPCOR46G",
+    "old_price": 949.0,
+    "new_price": 949.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527833239900",
+    "variant_id": "gid://shopify/ProductVariant/57298723078492",
+    "sku": "SPCOR2814G",
+    "old_price": 490.0,
+    "new_price": 490.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527833338204",
+    "variant_id": "gid://shopify/ProductVariant/57298724651356",
+    "sku": "PR5213FE",
+    "old_price": 990.0,
+    "new_price": 990.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527833338204",
+    "variant_id": "gid://shopify/ProductVariant/57298724684124",
+    "sku": "PR4213FE",
+    "old_price": 419.0,
+    "new_price": 419.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527833338204",
+    "variant_id": "gid://shopify/ProductVariant/57298724749660",
+    "sku": "PR3513FE",
+    "old_price": 490.0,
+    "new_price": 490.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527833338204",
+    "variant_id": "gid://shopify/ProductVariant/57298724782428",
+    "sku": "PR3013FE",
+    "old_price": 390.0,
+    "new_price": 390.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527833370972",
+    "variant_id": "gid://shopify/ProductVariant/57298725142876",
+    "sku": "PROV8012FE",
+    "old_price": 1390.0,
+    "new_price": 1390.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527833370972",
+    "variant_id": "gid://shopify/ProductVariant/57298725175644",
+    "sku": "PROV7012FE",
+    "old_price": 1090.0,
+    "new_price": 1090.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527833370972",
+    "variant_id": "gid://shopify/ProductVariant/57298725208412",
+    "sku": "PROV6012FE",
+    "old_price": 999.0,
+    "new_price": 999.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527833370972",
+    "variant_id": "gid://shopify/ProductVariant/57298725241180",
+    "sku": "PROV5012FE",
+    "old_price": 890.0,
+    "new_price": 890.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527833403740",
+    "variant_id": "gid://shopify/ProductVariant/57298725896540",
+    "sku": "SPCOR28G",
+    "old_price": 636.0,
+    "new_price": 636.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527833534812",
+    "variant_id": "gid://shopify/ProductVariant/57298726617436",
+    "sku": "SPAL2",
+    "old_price": 83.0,
+    "new_price": 83.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527833600348",
+    "variant_id": "gid://shopify/ProductVariant/57298727960924",
+    "sku": "EPE30",
+    "old_price": 399.0,
+    "new_price": 399.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527833665884",
+    "variant_id": "gid://shopify/ProductVariant/57298729075036",
+    "sku": "AR109",
+    "old_price": 80.0,
+    "new_price": 80.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527833764188",
+    "variant_id": "gid://shopify/ProductVariant/57298729992540",
+    "sku": "PGL4",
+    "old_price": 7.8,
+    "new_price": 7.8,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527833960796",
+    "variant_id": "gid://shopify/ProductVariant/57298732187996",
+    "sku": "AR100",
+    "old_price": 54.9,
+    "new_price": 54.9,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527833960796",
+    "variant_id": "gid://shopify/ProductVariant/57560022352220",
+    "sku": "AR100W",
+    "old_price": 54.9,
+    "new_price": 54.9,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527833960796",
+    "variant_id": "gid://shopify/ProductVariant/57560022384988",
+    "sku": "AR100G",
+    "old_price": 54.9,
+    "new_price": 54.9,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527834091868",
+    "variant_id": "gid://shopify/ProductVariant/57298732712284",
+    "sku": "AR505",
+    "old_price": 14.9,
+    "new_price": 9.78,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527834124636",
+    "variant_id": "gid://shopify/ProductVariant/57298733793628",
+    "sku": "MPROV1100",
+    "old_price": 240.0,
+    "new_price": 240.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527834124636",
+    "variant_id": "gid://shopify/ProductVariant/57298733826396",
+    "sku": "MPROV915",
+    "old_price": 177.0,
+    "new_price": 177.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527834124636",
+    "variant_id": "gid://shopify/ProductVariant/57298733859164",
+    "sku": "MPROV810",
+    "old_price": 147.0,
+    "new_price": 147.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527834124636",
+    "variant_id": "gid://shopify/ProductVariant/57298733891932",
+    "sku": "MPROV730",
+    "old_price": 119.0,
+    "new_price": 119.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527834124636",
+    "variant_id": "gid://shopify/ProductVariant/57298733924700",
+    "sku": "MPROV610",
+    "old_price": 99.0,
+    "new_price": 99.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527834124636",
+    "variant_id": "gid://shopify/ProductVariant/57298733957468",
+    "sku": "MPROV500",
+    "old_price": 89.0,
+    "new_price": 89.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527834616156",
+    "variant_id": "gid://shopify/ProductVariant/57298735726940",
+    "sku": "MPF819",
+    "old_price": 37.9,
+    "new_price": 37.9,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527834616156",
+    "variant_id": "gid://shopify/ProductVariant/57298735759708",
+    "sku": "MPF509P",
+    "old_price": 28.99,
+    "new_price": 28.99,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527834616156",
+    "variant_id": "gid://shopify/ProductVariant/57298735792476",
+    "sku": "MPF509GR",
+    "old_price": 28.0,
+    "new_price": 28.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527834616156",
+    "variant_id": "gid://shopify/ProductVariant/57298735825244",
+    "sku": "MPF509GY",
+    "old_price": 29.0,
+    "new_price": 29.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527834616156",
+    "variant_id": "gid://shopify/ProductVariant/57298735858012",
+    "sku": "MPF509",
+    "old_price": 17.95,
+    "new_price": 17.95,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527835042140",
+    "variant_id": "gid://shopify/ProductVariant/57298737496412",
+    "sku": "MPR650",
+    "old_price": 139.0,
+    "new_price": 139.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527835042140",
+    "variant_id": "gid://shopify/ProductVariant/57298737529180",
+    "sku": "MPR550",
+    "old_price": 110.0,
+    "new_price": 110.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527835042140",
+    "variant_id": "gid://shopify/ProductVariant/57298737594716",
+    "sku": "MPR450",
+    "old_price": 78.0,
+    "new_price": 78.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527835042140",
+    "variant_id": "gid://shopify/ProductVariant/57298737627484",
+    "sku": "MPR400",
+    "old_price": 64.0,
+    "new_price": 64.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527835042140",
+    "variant_id": "gid://shopify/ProductVariant/57298737660252",
+    "sku": "MPR350",
+    "old_price": 54.0,
+    "new_price": 54.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527835042140",
+    "variant_id": "gid://shopify/ProductVariant/57298737693020",
+    "sku": "MPR250",
+    "old_price": 35.0,
+    "new_price": 35.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527835205980",
+    "variant_id": "gid://shopify/ProductVariant/57298738086236",
+    "sku": "SF133",
+    "old_price": 199.0,
+    "new_price": 199.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15527835631964",
+    "variant_id": "gid://shopify/ProductVariant/57298739102044",
+    "sku": "AQB2",
+    "old_price": 837.0,
+    "new_price": 837.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15591515554140",
+    "variant_id": "gid://shopify/ProductVariant/57677539344732",
+    "sku": "26798NP",
+    "old_price": 1206.57,
+    "new_price": 1206.57,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15591515554140",
+    "variant_id": "gid://shopify/ProductVariant/57677539377500",
+    "sku": "26796NP",
+    "old_price": 1074.04,
+    "new_price": 1074.04,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15591515849052",
+    "variant_id": "gid://shopify/ProductVariant/57677540295004",
+    "sku": "26168NP",
+    "old_price": 485.56,
+    "new_price": 485.56,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15591515881820",
+    "variant_id": "gid://shopify/ProductVariant/57677540360540",
+    "sku": "28274NP",
+    "old_price": 331.55,
+    "new_price": 331.55,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15591515881820",
+    "variant_id": "gid://shopify/ProductVariant/57677540393308",
+    "sku": "28273NP",
+    "old_price": 276.71,
+    "new_price": 276.71,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15591515914588",
+    "variant_id": "gid://shopify/ProductVariant/57677540688220",
+    "sku": "28206NP",
+    "old_price": 164.43,
+    "new_price": 164.43,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15591516045660",
+    "variant_id": "gid://shopify/ProductVariant/57677541245276",
+    "sku": "28200NP",
+    "old_price": 151.67,
+    "new_price": 151.67,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15591516176732",
+    "variant_id": "gid://shopify/ProductVariant/57677541802332",
+    "sku": "28266NP",
+    "old_price": 128.63,
+    "new_price": 128.63,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15591516307804",
+    "variant_id": "gid://shopify/ProductVariant/57677542555996",
+    "sku": "28270NP",
+    "old_price": 127.68,
+    "new_price": 127.68,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15591516438876",
+    "variant_id": "gid://shopify/ProductVariant/57677543244124",
+    "sku": "28624",
+    "old_price": 476.81,
+    "new_price": 476.81,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15591516832092",
+    "variant_id": "gid://shopify/ProductVariant/57677544554844",
+    "sku": "28007EX",
+    "old_price": 111.68,
+    "new_price": 111.68,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15591516963164",
+    "variant_id": "gid://shopify/ProductVariant/57677545013596",
+    "sku": "28086",
+    "old_price": 106.69,
+    "new_price": 106.69,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15591517094236",
+    "variant_id": "gid://shopify/ProductVariant/57677545210204",
+    "sku": "28698",
+    "old_price": 105.82,
+    "new_price": 105.82,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15591517290844",
+    "variant_id": "gid://shopify/ProductVariant/57677545472348",
+    "sku": "28040",
+    "old_price": 103.39,
+    "new_price": 103.39,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15591517487452",
+    "variant_id": "gid://shopify/ProductVariant/57677545898332",
+    "sku": "28625",
+    "old_price": 46.75,
+    "new_price": 46.75,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15591517684060",
+    "variant_id": "gid://shopify/ProductVariant/57677546422620",
+    "sku": "28039",
+    "old_price": 33.72,
+    "new_price": 33.72,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15591517782364",
+    "variant_id": "gid://shopify/ProductVariant/57677546619228",
+    "sku": "29056",
+    "old_price": 27.94,
+    "new_price": 27.94,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15591517782364",
+    "variant_id": "gid://shopify/ProductVariant/57677546651996",
+    "sku": "28003",
+    "old_price": 86.47,
+    "new_price": 86.47,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15591517946204",
+    "variant_id": "gid://shopify/ProductVariant/57677547274588",
+    "sku": "28620NP",
+    "old_price": 101.54,
+    "new_price": 101.54,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15591517946204",
+    "variant_id": "gid://shopify/ProductVariant/57677547307356",
+    "sku": "28626",
+    "old_price": 108.01,
+    "new_price": 108.01,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15591518110044",
+    "variant_id": "gid://shopify/ProductVariant/57677547798876",
+    "sku": "28503",
+    "old_price": 29.62,
+    "new_price": 29.62,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15591518241116",
+    "variant_id": "gid://shopify/ProductVariant/57677548192092",
+    "sku": "29001",
+    "old_price": 15.93,
+    "new_price": 15.93,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15591518372188",
+    "variant_id": "gid://shopify/ProductVariant/57677548388700",
+    "sku": "29012",
+    "old_price": 12.36,
+    "new_price": 12.36,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15591518568796",
+    "variant_id": "gid://shopify/ProductVariant/57677548618076",
+    "sku": "48404NP",
+    "old_price": 393.89,
+    "new_price": 393.89,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15591518732636",
+    "variant_id": "gid://shopify/ProductVariant/57677548814684",
+    "sku": "48402NP",
+    "old_price": 227.52,
+    "new_price": 227.52,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15591518732636",
+    "variant_id": "gid://shopify/ProductVariant/57677548847452",
+    "sku": "48400NP",
+    "old_price": 63.22,
+    "new_price": 63.22,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15591518732636",
+    "variant_id": "gid://shopify/ProductVariant/57677548880220",
+    "sku": "67768ND",
+    "old_price": 89.02,
+    "new_price": 89.02,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15591518863708",
+    "variant_id": "gid://shopify/ProductVariant/57677549044060",
+    "sku": "57422NP",
+    "old_price": 26.61,
+    "new_price": 26.61,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15591518994780",
+    "variant_id": "gid://shopify/ProductVariant/57677549207900",
+    "sku": "57186NP",
+    "old_price": 112.93,
+    "new_price": 112.93,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15591519289692",
+    "variant_id": "gid://shopify/ProductVariant/57677549601116",
+    "sku": "56490NP",
+    "old_price": 56.85,
+    "new_price": 56.85,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15591519420764",
+    "variant_id": "gid://shopify/ProductVariant/57677549863260",
+    "sku": "68609",
+    "old_price": 74.66,
+    "new_price": 74.66,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15591519420764",
+    "variant_id": "gid://shopify/ProductVariant/57677549896028",
+    "sku": "66642",
+    "old_price": 55.98,
+    "new_price": 55.98,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15591519551836",
+    "variant_id": "gid://shopify/ProductVariant/57677550059868",
+    "sku": "66637",
+    "old_price": 50.56,
+    "new_price": 50.56,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15591519551836",
+    "variant_id": "gid://shopify/ProductVariant/57677550092636",
+    "sku": "66644",
+    "old_price": 36.42,
+    "new_price": 36.42,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15591519551836",
+    "variant_id": "gid://shopify/ProductVariant/57677550125404",
+    "sku": "66634",
+    "old_price": 33.62,
+    "new_price": 33.62,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15591519551836",
+    "variant_id": "gid://shopify/ProductVariant/57677550158172",
+    "sku": "66646",
+    "old_price": 32.08,
+    "new_price": 32.08,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15591519551836",
+    "variant_id": "gid://shopify/ProductVariant/57677550190940",
+    "sku": "58640",
+    "old_price": 26.84,
+    "new_price": 26.84,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15591519551836",
+    "variant_id": "gid://shopify/ProductVariant/57677550223708",
+    "sku": "66636",
+    "old_price": 25.78,
+    "new_price": 25.78,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15591519682908",
+    "variant_id": "gid://shopify/ProductVariant/57677550420316",
+    "sku": "26770NP",
+    "old_price": 1136.63,
+    "new_price": 1136.63,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15591519813980",
+    "variant_id": "gid://shopify/ProductVariant/57677550584156",
+    "sku": "26648",
+    "old_price": 384.85,
+    "new_price": 384.85,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15591519813980",
+    "variant_id": "gid://shopify/ProductVariant/57677550616924",
+    "sku": "26652",
+    "old_price": 409.49,
+    "new_price": 409.49,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15591519945052",
+    "variant_id": "gid://shopify/ProductVariant/57677550780764",
+    "sku": "19954",
+    "old_price": 34.95,
+    "new_price": 34.95,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15591519945052",
+    "variant_id": "gid://shopify/ProductVariant/57677550813532",
+    "sku": "58942",
+    "old_price": 249.0,
+    "new_price": 249.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15591519945052",
+    "variant_id": "gid://shopify/ProductVariant/57677550846300",
+    "sku": "P10016",
+    "old_price": 249.0,
+    "new_price": 249.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15591519945052",
+    "variant_id": "gid://shopify/ProductVariant/57677550879068",
+    "sku": "58946",
+    "old_price": 109.0,
+    "new_price": 109.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15591519945052",
+    "variant_id": "gid://shopify/ProductVariant/57677550911836",
+    "sku": "58831",
+    "old_price": 79.9,
+    "new_price": 79.9,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15591519945052",
+    "variant_id": "gid://shopify/ProductVariant/57677550944604",
+    "sku": "58234-6",
+    "old_price": 48.9,
+    "new_price": 48.9,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15591519945052",
+    "variant_id": "gid://shopify/ProductVariant/57677550977372",
+    "sku": "P09984",
+    "old_price": 139.0,
+    "new_price": 139.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15591519945052",
+    "variant_id": "gid://shopify/ProductVariant/57677551010140",
+    "sku": "62260",
+    "old_price": 25.9,
+    "new_price": 25.9,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15591519945052",
+    "variant_id": "gid://shopify/ProductVariant/57677551042908",
+    "sku": "58748",
+    "old_price": 499.0,
+    "new_price": 499.0,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15591519945052",
+    "variant_id": "gid://shopify/ProductVariant/57677551075676",
+    "sku": "58515-7",
+    "old_price": 114.9,
+    "new_price": 114.9,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15591519945052",
+    "variant_id": "gid://shopify/ProductVariant/57677551108444",
+    "sku": "58662-6",
+    "old_price": 24.9,
+    "new_price": 24.9,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15591519945052",
+    "variant_id": "gid://shopify/ProductVariant/57677551141212",
+    "sku": "58665-6",
+    "old_price": 89.9,
+    "new_price": 89.9,
+    "inventoryPolicy": "CONTINUE"
+  },
+  {
+    "product_id": "gid://shopify/Product/15591520272732",
+    "variant_id": "gid://shopify/ProductVariant/57677551468892",
+    "sku": "56936-5",
+    "old_price": 999.0,
+    "new_price": 999.0,
+    "inventoryPolicy": "CONTINUE"
+  }
+]
